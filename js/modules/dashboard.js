@@ -67,6 +67,7 @@ export const Dashboard = {
       btn.title = 'Remove from watchlist';
     }
     this.preferences.watchlist = wl;
+    Storage.set('mahikshu_prefs', this.preferences);
   },
 
   async fetchData() {
