@@ -11,6 +11,7 @@ export const Auth = {
 
   logout() {
     localStorage.removeItem('mahikshu_prefs');
+    localStorage.removeItem('mahikshu_theme');
     window.location.reload();
   }
 };
