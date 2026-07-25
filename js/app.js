@@ -18,11 +18,12 @@ class App {
   async init() {
     console.log(`🚀 Mahikshu v${this.version} initializing...`);
     this.loadTheme();
-    this.user = await Auth.checkSession();
-    if (this.user) {
-      this.preferences = await this.loadUserPreferences();
-      this.updateUIForUser();
-    }
+    
+    // Guest mode — no OAuth required
+    this.user = null;
+    this.preferences = this.loadLocalPreferences();
+    this.updateUIForGuest();
+    
     Dashboard.init(this.preferences);
     Filters.init(this.preferences);
     Reports.init();
@@ -38,20 +39,9 @@ class App {
     document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
   }
 
-  async loadUserPreferences() {
-    if (!this.user) return null;
-    try {
-      const resp = await fetch(`data/users/${this.user.id}.json?t=${Date.now()}`);
-      if (resp.ok) return await resp.json();
-    } catch (e) {
-      console.log('No saved preferences, using defaults');
-    }
-    return this.getDefaultPreferences();
-  }
-
-  getDefaultPreferences() {
-    return {
-      user_id: this.user?.id,
+  // NEW METHOD — Add this here
+  loadLocalPreferences() {
+    return Storage.get('mahikshu_prefs', {
       preferences: {
         default_platforms: ['all'],
         default_time_range: 'today',
@@ -64,18 +54,19 @@ class App {
       filters_saved: [],
       notes: {},
       llm_config: { provider: 'openai', model: 'gpt-4o-mini' }
-    };
+    });
   }
 
-  updateUIForUser() {
+  // NEW METHOD — Add this here
+  updateUIForGuest() {
     const authBtn = document.getElementById('auth-btn');
     const userMenu = document.getElementById('user-menu');
-    if (this.user && authBtn && userMenu) {
-      authBtn.style.display = 'none';
-      userMenu.style.display = 'flex';
-      const avatar = userMenu.querySelector('.user-avatar');
-      if (avatar) avatar.textContent = this.user.login?.[0]?.toUpperCase() || 'U';
+    if (authBtn) {
+      authBtn.textContent = 'Guest Mode';
+      authBtn.disabled = true;
+      authBtn.style.opacity = '0.6';
     }
+    if (userMenu) userMenu.style.display = 'none';
   }
 
   setupGlobalEvents() {
