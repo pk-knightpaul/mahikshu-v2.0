@@ -72,8 +72,7 @@ export const Dashboard = {
   async fetchData() {
     const sources = [
       'binance.json', 'coingecko.json', 'dexscreener.json', 'news.json',
-      'cryptopanic.json', 'whale_alert.json', 'defillama.json',
-      'fear_greed.json', 'snapshot.json'
+      'defillama.json', 'fear_greed.json', 'snapshot.json'
     ];
     try {
       const responses = await Promise.all(
