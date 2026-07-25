@@ -23,6 +23,7 @@ export const Dashboard = {
       const isList = grid.classList.toggle('list');
       if (this.preferences) {
         this.preferences.preferences.layout = isList ? 'list' : 'grid';
+        Storage.set('mahikshu_prefs', this.preferences);
       }
     });
 
@@ -49,11 +50,7 @@ export const Dashboard = {
   },
 
   toggleStar(id, btn) {
-    if (!this.preferences) {
-      alert('Please sign in to use watchlist');
-      return;
-    }
-    const wl = this.preferences.watchlist || [];
+    const wl = this.preferences?.watchlist || [];
     const idx = wl.indexOf(id);
     if (idx > -1) {
       wl.splice(idx, 1);
@@ -66,8 +63,10 @@ export const Dashboard = {
       btn.textContent = '★';
       btn.title = 'Remove from watchlist';
     }
-    this.preferences.watchlist = wl;
-    Storage.set('mahikshu_prefs', this.preferences);
+    if (this.preferences) {
+      this.preferences.watchlist = wl;
+      Storage.set('mahikshu_prefs', this.preferences);
+    }
   },
 
   async fetchData() {
@@ -84,6 +83,7 @@ export const Dashboard = {
       this.applyFilters();
     } catch (e) {
       console.error('Failed to fetch data:', e);
+      this.showError('Failed to load data. Please try again later.');
     }
   },
 
@@ -154,8 +154,7 @@ export const Dashboard = {
   renderCard(item) {
     const platformLabels = {
       binance: 'Binance', coingecko: 'CoinGecko', dexscreener: 'DexScreener',
-      news: 'News', cryptopanic: 'CryptoPanic', whale_alert: 'Whale Alert',
-      defillama: 'DeFiLlama', alternative_me: 'Fear & Greed', snapshot: 'Snapshot'
+      news: 'News', defillama: 'DeFiLlama', alternative_me: 'Fear & Greed', snapshot: 'Snapshot'
     };
     const typeLabels = {
       listing: 'Listing', delisting: 'Delisting', launchpool: 'Launchpool',
@@ -209,6 +208,17 @@ export const Dashboard = {
           updatedEl.textContent = `Last updated: ${this.formatTimeAgo(meta.last_updated)}`;
         }
       });
+    }
+  },
+
+  showError(msg) {
+    const loading = document.getElementById('loading');
+    const empty = document.getElementById('empty-state');
+    if (loading) loading.style.display = 'none';
+    if (empty) {
+      empty.style.display = 'flex';
+      empty.querySelector('.empty-title').textContent = 'Error';
+      empty.querySelector('.empty-desc').textContent = msg;
     }
   },
 
