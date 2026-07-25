@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "snapshot_0x21bd8220bfa591e7eb26f5bd5b12a14ef12bcce32234961032d320bccb2c9a60",
+    "title": "🏛️ [Telcoin Treasury Council] TELIP16: The TEL Token Upgrade",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/telcointreasurycouncil.eth/proposal/0x21bd8220bfa591e7eb26f5bd5b12a14ef12bcce32234961032d320bccb2c9a60",
+    "published_at": "2026-07-25T15:49:18Z",
+    "engagement": 3,
+    "summary": "Activating TEL as the Native Token of Telcoin Network  \nAbstract  \nThis TELIP proposes the development, third-party security assessment, and deploymen...",
+    "tags": [
+      "governance",
+      "telcointreasurycouncil.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0xba8ba180702ba2732bcdaf7f947d46d42c9cce585478c063b4a84b1c43bb1cb6",
+    "title": "🏛️ [ssv.network] Proposal for Engagement as the DAO’s Master of Coin extension #4",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/mainnet.ssvnetwork.eth/proposal/0xba8ba180702ba2732bcdaf7f947d46d42c9cce585478c063b4a84b1c43bb1cb6",
+    "published_at": "2026-07-25T17:00:00Z",
+    "engagement": 3,
+    "summary": "**TLDR**\n\nThis proposal suggests extending my engagement as the DAO’s “Master of Coin” for another 6 months, following the DAO’s compensated contribut...",
+    "tags": [
+      "governance",
+      "mainnet.ssvnetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0xb581c5eaf63492b7546e11945110336c097f3ed36bdd6878b87e76e1ef083942",
+    "title": "🏛️ [Concentrator] [sdCRV] [OWNERSHIP] Update TricryptoUSDT (USDT/WBTC/WETH, 0xf5f5...e2b4) parameters. Ramp A 1,512,000 -> 344,520 (0.228x) and gamma 507,150,000,000,000 -> 126,562,100,000,000 (0.250x) over 14 days. Commit new fees: mid_fee 22,000,000 ",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xb581c5eaf63492b7546e11945110336c097f3ed36bdd6878b87e76e1ef083942",
+    "published_at": "2026-07-25T08:54:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1460-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x929494a07f078fe657d899e46cea6f438da6270cf0a075ca851af3ac62163a98",
+    "title": "🏛️ [sdCRV-Governance] [OWNERSHIP] Update TricryptoUSDT (USDT/WBTC/WETH, 0xf5f5...e2b4) parameters. Ramp A 1,512,000 -> 344,520 (0.228x) and gamma 507,150,000,000,000 -> 126,562,100,000,000 (0.250x) over 14 days. Commit new fees: mid_fee 22,000,000 -> 207,000 (0.0094x), out_f...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x929494a07f078fe657d899e46cea6f438da6270cf0a075ca851af3ac62163a98",
+    "published_at": "2026-07-25T08:54:35Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1460-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0xba0021cdd2b7a6fc9a2c9537bbf66c68a4e09fefe93646498cee6ac5682894cf",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1460",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xba0021cdd2b7a6fc9a2c9537bbf66c68a4e09fefe93646498cee6ac5682894cf",
+    "published_at": "2026-07-25T08:54:40Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\n[OWNERSHIP] Update TricryptoUSDT (USDT/WBTC/WETH, 0xf5f5...e2b4) parameters. Ramp A 1,512,000 -> 344,520 (0.228x) and gamma 507...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0xf7aa87d188fbaf3a88709071c2d190799198dff81479630734b3eaf327470a4e",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1460",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xf7aa87d188fbaf3a88709071c2d190799198dff81479630734b3eaf327470a4e",
+    "published_at": "2026-07-25T08:54:40Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\n[OWNERSHIP] Update TricryptoUSDT (USDT/WBTC/WETH, 0xf5f5...e2b4) parameters. Ramp A 1,512,000 -> 344,520 (0.228x) and gamma 507...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x81bd725023ce40b51e74601ea5871b9cb214adf24fd6835f0d1bf28ec406625c",
+    "title": "🏛️ [Convex Finance] [Curve] Ownership DAO Vote ID: 1460",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cvx.eth/proposal/0x81bd725023ce40b51e74601ea5871b9cb214adf24fd6835f0d1bf28ec406625c",
+    "published_at": "2026-07-25T08:54:40Z",
+    "engagement": 2,
+    "summary": "Quorum: 6.44m CVX \n\n\n\n[OWNERSHIP] Update TricryptoUSDT (USDT/WBTC/WETH, 0xf5f5...e2b4) parameters. Ramp A 1,512,000 -> 344,520 (0.228x) and gamma 507,...",
+    "tags": [
+      "governance",
+      "cvx.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0xf4db2c3f9a7fdeadc114173e8146605761fe8a1b2ea3f16a072f756cce202621",
+    "title": "🏛️ [Global web3 academy] FIRST COMMUNITY FIELD PROJECT-INTERNET & TRAINING CENTRE",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/students.web3academy.eth/proposal/0xf4db2c3f9a7fdeadc114173e8146605761fe8a1b2ea3f16a072f756cce202621",
+    "published_at": "2026-07-25T08:48:32Z",
+    "engagement": 3,
+    "summary": "Proposal for first community fields project\n\nStrategic Partnership with VOOS Technology and Launch of the Blockchain Internet Block Initiative\n![Y_Int...",
+    "tags": [
+      "governance",
+      "students.web3academy.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x406495d30a62e23ec4f2ad513827b9c97bcb7cbf75512e4e682cbc3547d09184",
+    "title": "🏛️ [1inch DAO Signaling] [Fast Track] [1IP-103] Aqua Launch Framework: Aqua Interface Authorization, Protocol Fee Activation",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/signaling.1inch.eth/proposal/0x406495d30a62e23ec4f2ad513827b9c97bcb7cbf75512e4e682cbc3547d09184",
+    "published_at": "2026-07-24T19:40:28Z",
+    "engagement": 3,
+    "summary": "## Simple Summary\n\nDegensoft requests authorization from 1inch DAO to deploy and launch Aqua and SwapVM and to operate the official Aqua interface for...",
+    "tags": [
+      "governance",
+      "signaling.1inch.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x4abffab180a412b54e96b52cc679720b2d13ec1f173eb1720b4972c5e92ce3d8",
+    "title": "🏛️ [Arrow Air] Arrow Air 2026 Board Election",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/arrowair.eth/proposal/0x4abffab180a412b54e96b52cc679720b2d13ec1f173eb1720b4972c5e92ce3d8",
+    "published_at": "2026-07-25T16:05:21Z",
+    "engagement": 5,
+    "summary": "### Arrow Air 2026 Board Election\n\nThis proposal executes the director election announced in the [Election Notice posted 2026-07-15](https://dao.arrow...",
+    "tags": [
+      "governance",
+      "arrowair.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x54067e91b507d426f61c2231f0afee4257a520f80b1b422a05a07e8d1474cb26",
+    "title": "🏛️ [Puffer Gauge] Gauge Proposal [23 Gauges] 2026-07-25 02:00 GMT+2 to 2026-08-07 16:56 GMT+2",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/puffer-gauge.eth/proposal/0x54067e91b507d426f61c2231f0afee4257a520f80b1b422a05a07e8d1474cb26",
+    "published_at": "2026-07-25T00:00:00Z",
+    "engagement": 23,
+    "summary": "",
+    "tags": [
+      "governance",
+      "puffer-gauge.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x80e97094ab81bf2bad8fc4976bce8971c9781b876f2926c55709b9c509f9cdb7",
+    "title": "🏛️ [Aave DAO] [ARFC] Deploy a Dedicated Aave V4 Whitelabel Instance fully managed by EtherFi on OP Mainnet to Power Ether.fi Cash",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aavedao.eth/proposal/0x80e97094ab81bf2bad8fc4976bce8971c9781b876f2926c55709b9c509f9cdb7",
+    "published_at": "2026-07-25T09:48:59Z",
+    "engagement": 3,
+    "summary": "**Author:** [Ether.Fi](https://ether.fi/)\n\n**Date:** 2026-07-14\n\n**ARFC discussion:** [governance.aave.com thread](https://governance.aave.com/t/arfc-...",
+    "tags": [
+      "governance",
+      "aavedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0xcae25f241f72114ae8168eafb389d4ebadddba37e1df55ce3b7b6253d33fe2ce",
+    "title": "🏛️ [Orderly] [Proposal #14] Community Vote to Delist",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/orderlygov.eth/proposal/0xcae25f241f72114ae8168eafb389d4ebadddba37e1df55ce3b7b6253d33fe2ce",
+    "published_at": "2026-07-24T06:35:27Z",
+    "engagement": 7,
+    "summary": "**Introduction**\n\nOrderly’s mission is to provide a high-quality trading environment with deep liquidity, sustainable trading activity, and transparen...",
+    "tags": [
+      "governance",
+      "orderlygov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0xb1dc67a9e961043d8df6d0912269a5400b34d155747231d0d30294563d64a972",
+    "title": "🏛️ [K.I.N.G. DAO] DAO ENS PROPOSAL",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/kongsdao.eth/proposal/0xb1dc67a9e961043d8df6d0912269a5400b34d155747231d0d30294563d64a972",
+    "published_at": "2026-07-24T04:17:27Z",
+    "engagement": 4,
+    "summary": "The proposal is to purchase the kingdao.eth name and extend the the renewal period to either - \n10 years at $5 per year + transaction fee\n20 years at ...",
+    "tags": [
+      "governance",
+      "kongsdao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x108af0c380fdcc85e5dd11563f568be49b730831f14a2668fd32787e40a7ff2a",
+    "title": "🏛️ [League of Lils] 986: ⌐◨-◨ Noggles Make History: the Biggest Planting Day Ever Attempted",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/leagueoflils.eth/proposal/0x108af0c380fdcc85e5dd11563f568be49b730831f14a2668fd32787e40a7ff2a",
+    "published_at": "2026-07-23T23:36:01Z",
+    "engagement": 3,
+    "summary": "**View proposal:** https://lilnouns.wtf/vote/nouns/986",
+    "tags": [
+      "governance",
+      "leagueoflils.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0xdc6c08156d19080be174ba0e0fb5a3c803ade2cc1bbd251e16200740bb03cf03",
+    "title": "🏛️ [Concentrator] [sdCRV] Kill emissions for trUSD/frxUSD pool(0xfAE49305b3336fdfb5ada4812123cc8577853408), a frxUSD/trUSD pool re-deployed at address 0xd1D954BC94c843815EC7b8119f2de00AF27Fa6Ff.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xdc6c08156d19080be174ba0e0fb5a3c803ade2cc1bbd251e16200740bb03cf03",
+    "published_at": "2026-07-23T23:10:23Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1459-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x3d927a44ff0507b0aa3426018a242f75eda8f4615734c4e88c3b7c2368c48067",
+    "title": "🏛️ [sdCRV-Governance] Kill emissions for trUSD/frxUSD pool(0xfAE49305b3336fdfb5ada4812123cc8577853408), a frxUSD/trUSD pool re-deployed at address 0xd1D954BC94c843815EC7b8119f2de00AF27Fa6Ff.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x3d927a44ff0507b0aa3426018a242f75eda8f4615734c4e88c3b7c2368c48067",
+    "published_at": "2026-07-23T23:10:23Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1459-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x67bd73580bbdc30a191ba40936625f783c1bf8ca7bf1a2b26c650d4c09feea27",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1459",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x67bd73580bbdc30a191ba40936625f783c1bf8ca7bf1a2b26c650d4c09feea27",
+    "published_at": "2026-07-23T23:10:28Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\nKill emissions for trUSD/frxUSD pool(0xfAE49305b3336fdfb5ada4812123cc8577853408), a frxUSD/trUSD pool re-deployed at address 0x...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x770b0e2aaa4c85bce1391326ae0e10e6444d22979ec9f3180a948dd5d178918d",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1459",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x770b0e2aaa4c85bce1391326ae0e10e6444d22979ec9f3180a948dd5d178918d",
+    "published_at": "2026-07-23T23:10:28Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\nKill emissions for trUSD/frxUSD pool(0xfAE49305b3336fdfb5ada4812123cc8577853408), a frxUSD/trUSD pool re-deployed at address 0x...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  },
+  {
+    "id": "snapshot_0x67b7854c5455e34792dfc8bde00bf4dd157508602fc51d84ca185062ed702d46",
+    "title": "🏛️ [Convex Finance] [Curve] Ownership DAO Vote ID: 1459",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cvx.eth/proposal/0x67b7854c5455e34792dfc8bde00bf4dd157508602fc51d84ca185062ed702d46",
+    "published_at": "2026-07-23T23:10:28Z",
+    "engagement": 2,
+    "summary": "Quorum: 6.21m CVX \n\n\n\nKill emissions for trUSD/frxUSD pool(0xfAE49305b3336fdfb5ada4812123cc8577853408), a frxUSD/trUSD pool re-deployed at address 0xd...",
+    "tags": [
+      "governance",
+      "cvx.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-25T21:18:58.580564Z"
+  }
+]
