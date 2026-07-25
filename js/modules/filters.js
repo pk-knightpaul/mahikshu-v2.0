@@ -1,3 +1,5 @@
+import { Storage } from '../services/storage.js';
+
 export const Filters = {
   preferences: null,
   currentFilters: {
@@ -58,7 +60,7 @@ export const Filters = {
       this.preferences.filters_saved = saved;
       Storage.set('mahikshu_prefs', this.preferences);
     }
-this.loadSavedFilters();
+    this.loadSavedFilters();
   },
 
   loadSavedFilters() {
