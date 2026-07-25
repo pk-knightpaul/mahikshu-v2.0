@@ -1,6 +1,6 @@
 import { Storage } from '../services/storage.js';
 
-const GITHUB_CLIENT_ID = 'YOUR_GITHUB_CLIENT_ID';
+const GITHUB_CLIENT_ID = 'Ov23li0fuiyN4kp952dt';
 
 export const Auth = {
   async checkSession() {
