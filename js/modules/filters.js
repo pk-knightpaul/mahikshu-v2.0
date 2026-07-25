@@ -54,8 +54,11 @@ export const Filters = {
     if (!name) return;
     const saved = this.preferences?.filters_saved || [];
     saved.push({ name, ...this.currentFilters, created_at: new Date().toISOString() });
-    if (this.preferences) this.preferences.filters_saved = saved;
-    this.loadSavedFilters();
+    if (this.preferences) {
+      this.preferences.filters_saved = saved;
+      Storage.set('mahikshu_prefs', this.preferences);
+    }
+this.loadSavedFilters();
   },
 
   loadSavedFilters() {
