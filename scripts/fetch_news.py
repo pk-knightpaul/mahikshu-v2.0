@@ -11,6 +11,8 @@ FEEDS = [
     ("cointelegraph", "https://cointelegraph.com/rss"),
     ("coindesk", "https://coindesk.com/arc/outboundfeeds/rss/"),
     ("decrypt", "https://decrypt.co/feed"),
+    ("bitcoinmagazine", "https://bitcoinmagazine.com/feed"),
+    ("theblock", "https://www.theblock.co/rss.xml"),
 ]
 
 OUTPUT_FILE = "data/news.json"
