@@ -1,5 +1,192 @@
 [
   {
+    "id": "snapshot_0xe5b6adf51feb97c962a1773b8dc80439572c9f61ee7fcac961750da6b646e86d",
+    "title": "🏛️ [Concentrator] [sdCRV] [Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USDC -> 0x59D8E462AD83117C1d3E493ad75B97e3aD2147d2",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xe5b6adf51feb97c962a1773b8dc80439572c9f61ee7fcac961750da6b646e86d",
+    "published_at": "2026-07-27T14:27:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1463-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0xfb040247dd906efac9488d70d3a69429467b618d20c325eb73e3edab9ca8e667",
+    "title": "🏛️ [sdCRV-Governance] [Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USDC -> 0x59D8E462AD83117C1d3E493ad75B97e3aD2147d2",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xfb040247dd906efac9488d70d3a69429467b618d20c325eb73e3edab9ca8e667",
+    "published_at": "2026-07-27T14:27:35Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1463-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0xd1e64a49bdd0b5b6172d503fa23f793ae017aa81e82eced2eee0f40cca3b9728",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1463",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xd1e64a49bdd0b5b6172d503fa23f793ae017aa81e82eced2eee0f40cca3b9728",
+    "published_at": "2026-07-27T14:27:43Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\n[Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USD...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0x8a3f5c7bc3cb1670328da6fc7691c75997b7180f4dad6909d962487e8ec2d995",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1463",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x8a3f5c7bc3cb1670328da6fc7691c75997b7180f4dad6909d962487e8ec2d995",
+    "published_at": "2026-07-27T14:27:43Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\n[Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USD...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0xd73e74ffe3e55c601af91ef753fe3a98fd433cd0b52535dad25fd87f186fe782",
+    "title": "🏛️ [Convex Finance] [Curve] Ownership DAO Vote ID: 1463",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cvx.eth/proposal/0xd73e74ffe3e55c601af91ef753fe3a98fd433cd0b52535dad25fd87f186fe782",
+    "published_at": "2026-07-27T14:27:43Z",
+    "engagement": 2,
+    "summary": "Quorum: 6.55m CVX \n\n\n\n[Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USDC...",
+    "tags": [
+      "governance",
+      "cvx.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0xdd5106502cd6da48213eadba4ab2ebb93c928942d3d881cd944fb22db6f192ca",
+    "title": "🏛️ [(test) DAO for ANYONE] new strategy",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/anyonegovernance.eth/proposal/0xdd5106502cd6da48213eadba4ab2ebb93c928942d3d881cd944fb22db6f192ca",
+    "published_at": "2026-07-27T13:09:05Z",
+    "engagement": 3,
+    "summary": "",
+    "tags": [
+      "governance",
+      "anyonegovernance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0x97bcf9664ed5ea38e894f2b0d0592fa097065e1c9be55895f942a3db2526e31f",
+    "title": "🏛️ [(test) DAO for ANYONE] Vote for this 2",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/anyonegovernance.eth/proposal/0x97bcf9664ed5ea38e894f2b0d0592fa097065e1c9be55895f942a3db2526e31f",
+    "published_at": "2026-07-27T12:58:34Z",
+    "engagement": 3,
+    "summary": "",
+    "tags": [
+      "governance",
+      "anyonegovernance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0xf80bc0df8cf94056954e4f2d8a630932a041565e46c0b723181195af8c461134",
+    "title": "🏛️ [Stake DAO] SDGP-75: Extend the SDGP-70 voluntary, ex gratia distribution to borrowers of the Arbitrum asdCRV LlamaLend market",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/stakedao.eth/proposal/0xf80bc0df8cf94056954e4f2d8a630932a041565e46c0b723181195af8c461134",
+    "published_at": "2026-07-27T12:56:35Z",
+    "engagement": 3,
+    "summary": "**Author:** Stake DAO Association\n\n## Summary\n\nSDGP-70 authorized a voluntary, ex gratia distribution of 1,535,421.76 sdCRV to liquidity providers aff...",
+    "tags": [
+      "governance",
+      "stakedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0xa4fd2d013f7b770d7a28f69815d9d1c175c7e4dd36e311f721cf2d81e4d1ba68",
+    "title": "🏛️ [Concentrator] [sdCRV] Set Hyperbolic Monetary Policy With Dynamic Rate to sDOLA/crvUSD and sfrxUSD/crvUSD Llamalend V2 markets.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xa4fd2d013f7b770d7a28f69815d9d1c175c7e4dd36e311f721cf2d81e4d1ba68",
+    "published_at": "2026-07-27T12:07:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1462-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0xeb3ced5dfa32e0e1d40f57affeeb0862ef287e73b05283ae0386253bc7cc0f70",
+    "title": "🏛️ [sdCRV-Governance] Set Hyperbolic Monetary Policy With Dynamic Rate to sDOLA/crvUSD and sfrxUSD/crvUSD Llamalend V2 markets.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xeb3ced5dfa32e0e1d40f57affeeb0862ef287e73b05283ae0386253bc7cc0f70",
+    "published_at": "2026-07-27T12:07:35Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1462-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0xff3507480f855f6512a909b67be0764f2116a2c7da4af022712bc2c8b74ace2c",
+    "title": "🏛️ [Shutter DAO 0x36] TEMP CHECK: Should Shutter DAO 0x36 Swap USDC into ETH?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/shutterdao0x36.eth/proposal/0xff3507480f855f6512a909b67be0764f2116a2c7da4af022712bc2c8b74ace2c",
+    "published_at": "2026-07-27T13:00:00Z",
+    "engagement": 2,
+    "summary": "## Background\n\nShutter DAO 0x36 is considering swapping USDC for ETH and (later) swapping it back to USDC. \n\nIf the price of ETH rises, it would incre...",
+    "tags": [
+      "governance",
+      "shutterdao0x36.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
     "id": "snapshot_0x509323b137523e0bd37136c477e8cd4ef05b8903bf38cba3695bdad932bee065",
     "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1462",
     "platform": "snapshot",
@@ -14,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
   },
   {
     "id": "snapshot_0x4b63e5211a641342861ed9eb32cb2c881ac19670f8d7aa0030c09ae838ac559d",
@@ -31,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
   },
   {
     "id": "snapshot_0x9046e8193b6fe7af926cb6fa3e72be28e2f676033cf01e4245f74072feaf61a2",
@@ -48,7 +235,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
+  },
+  {
+    "id": "snapshot_0x260649b97edf4ed22668d0081e79554140d6bfd34c39c4989ebd13c3ded0d839",
+    "title": "🏛️ [Shutter DAO 0x36] TEMP CHECK: Migration to a New Onchain Governance Platform",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/shutterdao0x36.eth/proposal/0x260649b97edf4ed22668d0081e79554140d6bfd34c39c4989ebd13c3ded0d839",
+    "published_at": "2026-07-27T13:00:00Z",
+    "engagement": 3,
+    "summary": "## Background\n\nDecent recently informed us that they will be stopping operations in the near future. They also recommended that Shutter DAO 0x36 migra...",
+    "tags": [
+      "governance",
+      "shutterdao0x36.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
   },
   {
     "id": "snapshot_0x3ae28a71bc4fc78c6d14856ce94a873f652d1c4964887234b2b9e809f87fcb8a",
@@ -65,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
   },
   {
     "id": "snapshot_0xd96d3c300beb98c39d5f7544c1db38f2bb9c5fff46d30bb6e4321dffb04b8a52",
@@ -82,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
   },
   {
     "id": "snapshot_0x0dc3c7f91690ff9fb7cad5899ba41aa8c94716a1bd62aee4b1747a4f0ebc627a",
@@ -99,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
   },
   {
     "id": "snapshot_0xc312712d909adef7f2ab3b8d34c591fed36a102055f64509827ad5170bfe3c64",
@@ -116,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
   },
   {
     "id": "snapshot_0x8bd786c372f928a5b2c75764d2af12a4bb8c2bddb51fbe669f093857551a0285",
@@ -133,210 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0x9f68659d66e053b83d396030ff2d793a62260a640e3554238b5f473c0d2dc966",
-    "title": "🏛️ [Raptor] [Treasury Management] - Cash Management for August 2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/raptorchain.eth/proposal/0x9f68659d66e053b83d396030ff2d793a62260a640e3554238b5f473c0d2dc966",
-    "published_at": "2026-07-26T21:42:10Z",
-    "engagement": 9,
-    "summary": "## Intro\nThis proposal relates to the management of our treasury's stablecoin income over August 2026.\n\n## Description\nSince our treasury regularly re...",
-    "tags": [
-      "governance",
-      "raptorchain.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0x917c60045895a17b4aa9a2aa8e920c57624f3984534e7b446ac6bf5a33f88932",
-    "title": "🏛️ [pNounsDAO] [Prop 986]⌐◨-◨ Noggles Make History: the Biggest Planting Day Ever Attempted",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/pnounsdao.eth/proposal/0x917c60045895a17b4aa9a2aa8e920c57624f3984534e7b446ac6bf5a33f88932",
-    "published_at": "2026-07-26T21:13:18Z",
-    "engagement": 3,
-    "summary": "本提案は Nouns DAO 本体 Prop 986 に対する pNouns の意思決定投票です。\n- 提案名: ⌐◨-◨ Noggles Make History: the Biggest Planting Day Ever Attempted\n- 申請額: 14,900 USDC\n- 提案者: ...",
-    "tags": [
-      "governance",
-      "pnounsdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0x3eff01674ae437f36968dcc558037a5b4a5f8fb93ddef7438a3c9caa10d1c038",
-    "title": "🏛️ [Decentraland] Add the location 126,104 to the Points of Interest",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0x3eff01674ae437f36968dcc558037a5b4a5f8fb93ddef7438a3c9caa10d1c038",
-    "published_at": "2026-07-26T14:49:00Z",
-    "engagement": 3,
-    "summary": "> by 0x8218a2445679e38f358e42f88fe2125c98440d59 (BaronOfTheNorth)\n\n## L’Impératrice Atelier\n\n![L’Impératrice Atelier](https://api.decentraland.org/v1/...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0xa632237e3ba225ada71b7293bdd68a3a7ad2c641fc254a7032f20e413f131445",
-    "title": "🏛️ [Decentraland] Add the location -118,149 to the Points of Interest",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0xa632237e3ba225ada71b7293bdd68a3a7ad2c641fc254a7032f20e413f131445",
-    "published_at": "2026-07-26T14:46:00Z",
-    "engagement": 3,
-    "summary": "> by 0x8218a2445679e38f358e42f88fe2125c98440d59 (BaronOfTheNorth)\n\n## PINK OASIS\n\n![PINK OASIS](https://api.decentraland.org/v1/parcels/-118/149/map.p...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0x63b33006fab226b30f70a7e76eb976eee1e5037bf1508d5a9d5d89f36bd86dd9",
-    "title": "🏛️ [Decentraland] Add the location -16,121 to the Points of Interest",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0x63b33006fab226b30f70a7e76eb976eee1e5037bf1508d5a9d5d89f36bd86dd9",
-    "published_at": "2026-07-26T14:41:00Z",
-    "engagement": 3,
-    "summary": "> by 0x8218a2445679e38f358e42f88fe2125c98440d59 (BaronOfTheNorth)\n\n## [2/4] (Connects to [1/4] + [2/4] + [3/4])\n\n![[2/4] (Connects to [1/4] + [2/4] + ...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0x7d3778a21afb061677a3313f1ef4f18cf88c41a0d8d12b3c8360b5a462942aa4",
-    "title": "🏛️ [Decentraland] Add the location -65,-37 to the Points of Interest",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0x7d3778a21afb061677a3313f1ef4f18cf88c41a0d8d12b3c8360b5a462942aa4",
-    "published_at": "2026-07-26T14:38:00Z",
-    "engagement": 3,
-    "summary": "> by 0x8218a2445679e38f358e42f88fe2125c98440d59 (BaronOfTheNorth)\n\n## Parcel -65,-37\n\n![Parcel -65,-37](https://api.decentraland.org/v1/parcels/-65/-3...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0xdb93f501efceeb68c9b55a29404fcce9c8aefac4a99e7e4181fcd6c8e2ebafb5",
-    "title": "🏛️ [Decentraland] Add the location -34,-30 to the Points of Interest",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0xdb93f501efceeb68c9b55a29404fcce9c8aefac4a99e7e4181fcd6c8e2ebafb5",
-    "published_at": "2026-07-26T14:32:00Z",
-    "engagement": 3,
-    "summary": "> by 0x8218a2445679e38f358e42f88fe2125c98440d59 (BaronOfTheNorth)\n\n## /////////\n\n![/////////](https://api.decentraland.org/v1/parcels/-34/-30/map.png)...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0xd7306cd5dc6cac50891d0af340d2b4ddf42ed849756d46d235d6d76788d26b0b",
-    "title": "🏛️ [Concentrator] [sdCRV] Activate syrupUSDC-crvUSD Llamalend V2 market on ETH mainnet by setting borrow cap 51.8M crvUSD, admin fee percentage 10% and add gauge in gauge controller.",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xd7306cd5dc6cac50891d0af340d2b4ddf42ed849756d46d235d6d76788d26b0b",
-    "published_at": "2026-07-26T12:33:59Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1461-OWNERSHIP",
-    "tags": [
-      "governance",
-      "concentratordao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0xd4bf394f96a7fdabd9391a67fb6ddd61c5eed24cffb368d9e1e61bedc0b60964",
-    "title": "🏛️ [sdCRV-Governance] Activate syrupUSDC-crvUSD Llamalend V2 market on ETH mainnet by setting borrow cap 51.8M crvUSD, admin fee percentage 10% and add gauge in gauge controller.",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xd4bf394f96a7fdabd9391a67fb6ddd61c5eed24cffb368d9e1e61bedc0b60964",
-    "published_at": "2026-07-26T12:33:59Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1461-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0xc9cdeac685f46b61b260827713f4cbee5705731f9bda0190c653062ea73dac88",
-    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1461",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xc9cdeac685f46b61b260827713f4cbee5705731f9bda0190c653062ea73dac88",
-    "published_at": "2026-07-26T12:34:05Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV \n\n\n\nActivate syrupUSDC-crvUSD Llamalend V2 market on ETH mainnet by setting borrow cap 51.8M crvUSD, admin fee percentage 10% and a...",
-    "tags": [
-      "governance",
-      "aladdindao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0x87faead5356ef22335e6a44a3c6e7cfd2316e6d6b19b3a3b33c60785ffde4590",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1461",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0x87faead5356ef22335e6a44a3c6e7cfd2316e6d6b19b3a3b33c60785ffde4590",
-    "published_at": "2026-07-26T12:34:05Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV \n\n\n\nActivate syrupUSDC-crvUSD Llamalend V2 market on ETH mainnet by setting borrow cap 51.8M crvUSD, admin fee percentage 10% and a...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
-  },
-  {
-    "id": "snapshot_0xeeb18af276b4682db65b6f649180dd6c763ee4be75e3a6a7d6732d2a0267e2e0",
-    "title": "🏛️ [Convex Finance] [Curve] Ownership DAO Vote ID: 1461",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cvx.eth/proposal/0xeeb18af276b4682db65b6f649180dd6c763ee4be75e3a6a7d6732d2a0267e2e0",
-    "published_at": "2026-07-26T12:34:05Z",
-    "engagement": 2,
-    "summary": "Quorum: 6.45m CVX \n\n\n\nActivate syrupUSDC-crvUSD Llamalend V2 market on ETH mainnet by setting borrow cap 51.8M crvUSD, admin fee percentage 10% and ad...",
-    "tags": [
-      "governance",
-      "cvx.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T12:31:00.392748Z"
+    "fetched_at": "2026-07-27T15:47:21.472740Z"
   }
 ]
