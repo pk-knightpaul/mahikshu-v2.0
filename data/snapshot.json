@@ -1,5 +1,73 @@
 [
   {
+    "id": "snapshot_0x1182c625db8c51986f9c9b53953260b4aca94737b1dfe2ae6af393ec8eda05f1",
+    "title": "🏛️ [Pawthereum] Pawthereum Migration Framework",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/pawthereum.eth/proposal/0x1182c625db8c51986f9c9b53953260b4aca94737b1dfe2ae6af393ec8eda05f1",
+    "published_at": "2026-07-27T20:43:13Z",
+    "engagement": 3,
+    "summary": "This proposal defines the practical framework for the Pawthereum migration and relaunch.\n\n## Holder Data\n\nBased on the holder data from 27.07.2026 at ...",
+    "tags": [
+      "governance",
+      "pawthereum.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
+  },
+  {
+    "id": "snapshot_0x1214e54a70a98b21ec46bb0dff432b5968b5acf85638fed0502d72034853d19a",
+    "title": "🏛️ [AladdinDAO] [Resupply] DAO Vote ID: 25",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x1214e54a70a98b21ec46bb0dff432b5968b5acf85638fed0502d72034853d19a",
+    "published_at": "2026-07-27T20:12:11Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\nConclude retention program and route its weekly emissions (6.25%) to borrowers\n\n\n\n",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
+  },
+  {
+    "id": "snapshot_0x34e5b4574bd9753ec33e2b0bdf0df74ed862dfb34cda5c3a5b204ebb0a2b92f2",
+    "title": "🏛️ [CLever] [Resupply] DAO Vote ID: 25",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x34e5b4574bd9753ec33e2b0bdf0df74ed862dfb34cda5c3a5b204ebb0a2b92f2",
+    "published_at": "2026-07-27T20:12:11Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\nConclude retention program and route its weekly emissions (6.25%) to borrowers\n\n\n\n",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
+  },
+  {
+    "id": "snapshot_0xd10b2558a1b094823a3e272d856cf5bcb5f75fad52ee24d4630be45c2f7a5b61",
+    "title": "🏛️ [Convex Finance] [Resupply] DAO Vote ID: 25",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cvx.eth/proposal/0xd10b2558a1b094823a3e272d856cf5bcb5f75fad52ee24d4630be45c2f7a5b61",
+    "published_at": "2026-07-27T20:12:11Z",
+    "engagement": 2,
+    "summary": "Quorum: 6.56m CVX \n\n\n\nConclude retention program and route its weekly emissions (6.25%) to borrowers\n\n\n\n",
+    "tags": [
+      "governance",
+      "cvx.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
+  },
+  {
     "id": "snapshot_0xe5b6adf51feb97c962a1773b8dc80439572c9f61ee7fcac961750da6b646e86d",
     "title": "🏛️ [Concentrator] [sdCRV] [Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USDC -> 0x59D8E462AD83117C1d3E493ad75B97e3aD2147d2",
     "platform": "snapshot",
@@ -14,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0xfb040247dd906efac9488d70d3a69429467b618d20c325eb73e3edab9ca8e667",
@@ -31,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0xd1e64a49bdd0b5b6172d503fa23f793ae017aa81e82eced2eee0f40cca3b9728",
@@ -48,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0x8a3f5c7bc3cb1670328da6fc7691c75997b7180f4dad6909d962487e8ec2d995",
@@ -65,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0xd73e74ffe3e55c601af91ef753fe3a98fd433cd0b52535dad25fd87f186fe782",
@@ -82,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0xdd5106502cd6da48213eadba4ab2ebb93c928942d3d881cd944fb22db6f192ca",
@@ -99,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0x97bcf9664ed5ea38e894f2b0d0592fa097065e1c9be55895f942a3db2526e31f",
@@ -116,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0xf80bc0df8cf94056954e4f2d8a630932a041565e46c0b723181195af8c461134",
@@ -133,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0xa4fd2d013f7b770d7a28f69815d9d1c175c7e4dd36e311f721cf2d81e4d1ba68",
@@ -150,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0xeb3ced5dfa32e0e1d40f57affeeb0862ef287e73b05283ae0386253bc7cc0f70",
@@ -167,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0xff3507480f855f6512a909b67be0764f2116a2c7da4af022712bc2c8b74ace2c",
@@ -184,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0x509323b137523e0bd37136c477e8cd4ef05b8903bf38cba3695bdad932bee065",
@@ -201,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0x4b63e5211a641342861ed9eb32cb2c881ac19670f8d7aa0030c09ae838ac559d",
@@ -218,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0x9046e8193b6fe7af926cb6fa3e72be28e2f676033cf01e4245f74072feaf61a2",
@@ -235,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0x260649b97edf4ed22668d0081e79554140d6bfd34c39c4989ebd13c3ded0d839",
@@ -252,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   },
   {
     "id": "snapshot_0x3ae28a71bc4fc78c6d14856ce94a873f652d1c4964887234b2b9e809f87fcb8a",
@@ -269,74 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
-  },
-  {
-    "id": "snapshot_0xd96d3c300beb98c39d5f7544c1db38f2bb9c5fff46d30bb6e4321dffb04b8a52",
-    "title": "🏛️ [PotsMoneyDao] Adjustment of Meet-up Subsidy Policy / 布道会补贴政策调整",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ibs.eth/proposal/0xd96d3c300beb98c39d5f7544c1db38f2bb9c5fff46d30bb6e4321dffb04b8a52",
-    "published_at": "2026-07-27T12:10:00Z",
-    "engagement": 3,
-    "summary": "🗳 POTS DAO Proposal｜Adjustment of Meet-up Subsidy Policy\n\n📖 Proposal Background\n\nAs the POTS global market continues to expand, meet-ups have become a...",
-    "tags": [
-      "governance",
-      "ibs.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
-  },
-  {
-    "id": "snapshot_0x0dc3c7f91690ff9fb7cad5899ba41aa8c94716a1bd62aee4b1747a4f0ebc627a",
-    "title": "🏛️ [PotsMoneyDao] Strategic Asset Empowerment and Ecosystem Value Protection / 战略资产赋能与生态价值护航",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ibs.eth/proposal/0x0dc3c7f91690ff9fb7cad5899ba41aa8c94716a1bd62aee4b1747a4f0ebc627a",
-    "published_at": "2026-07-27T12:00:00Z",
-    "engagement": 3,
-    "summary": "Strategic Asset Empowerment and Ecosystem Value Protection 🚀\n\nWe are excited to announce the commencement of a new strategic journey regarding the \"RB...",
-    "tags": [
-      "governance",
-      "ibs.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
-  },
-  {
-    "id": "snapshot_0xc312712d909adef7f2ab3b8d34c591fed36a102055f64509827ad5170bfe3c64",
-    "title": "🏛️ [1inch DAO Signaling] [Fast Track] [1IP-103] [Revote] Aqua Launch Framework: Aqua Interface Authorization, Protocol Fee Activation",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/signaling.1inch.eth/proposal/0xc312712d909adef7f2ab3b8d34c591fed36a102055f64509827ad5170bfe3c64",
-    "published_at": "2026-07-27T11:25:56Z",
-    "engagement": 3,
-    "summary": "## Simple Summary\n\nDegensoft requests authorization from 1inch DAO to deploy and launch Aqua and SwapVM and to operate the official Aqua interface for...",
-    "tags": [
-      "governance",
-      "signaling.1inch.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
-  },
-  {
-    "id": "snapshot_0x8bd786c372f928a5b2c75764d2af12a4bb8c2bddb51fbe669f093857551a0285",
-    "title": "🏛️ [Superfluid] SIP #17: Ecosystem Campaigns – Season 7",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/superfluid.eth/proposal/0x8bd786c372f928a5b2c75764d2af12a4bb8c2bddb51fbe669f093857551a0285",
-    "published_at": "2026-07-27T08:37:44Z",
-    "engagement": 3,
-    "summary": "Continue distribution of SUP to users of ecosystem applications and implement a rolling budget for Community Activations and New Projects.",
-    "tags": [
-      "governance",
-      "superfluid.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-27T19:43:55.211334Z"
+    "fetched_at": "2026-07-27T21:17:18.585535Z"
   }
 ]
