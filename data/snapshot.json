@@ -1,5 +1,56 @@
 [
   {
+    "id": "snapshot_0x164ea3e39e6136524dd54c086aab76a6cab511a97b17ced13d4c6847d14f35b0",
+    "title": "🏛️ [Hoge Voting] HOGE Liquidity Lock",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/hogeinc.eth/proposal/0x164ea3e39e6136524dd54c086aab76a6cab511a97b17ced13d4c6847d14f35b0",
+    "published_at": "2026-07-28T14:33:17Z",
+    "engagement": 3,
+    "summary": "Split & Lock the Warchest: Half 5 years, Half FOREVER\nStop waste, no misuse or theft.\nPermanent half = solid trust; 5‑year half = safe planned future ...",
+    "tags": [
+      "governance",
+      "hogeinc.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
+  },
+  {
+    "id": "snapshot_0xd39a47645b4c8304ef06ccd99b7f6fa762b508f13bda58a6a45260b207b434d7",
+    "title": "🏛️ [PikuDAO] Proposal 45 – Reallocate Morini StockMarketTRBasisTrade Exposure to Royco Markets",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/pikudao.eth/proposal/0xd39a47645b4c8304ef06ccd99b7f6fa762b508f13bda58a6a45260b207b434d7",
+    "published_at": "2026-07-28T14:14:56Z",
+    "engagement": 3,
+    "summary": "### **Summary**\n\nThis proposal seeks to optimize the USP reserve allocation to the Morini StockMarketTRBasisTrade strategy by introducing exposure thr...",
+    "tags": [
+      "governance",
+      "pikudao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
+  },
+  {
+    "id": "snapshot_0xb9ec5ea92d6d92a9a55e21879ca5b7f3c87e1c6ef51150f7f7b244369d381795",
+    "title": "🏛️ [Anoma] Activate Withdrawal Fee for AnomaPay",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/anoma.eth/proposal/0xb9ec5ea92d6d92a9a55e21879ca5b7f3c87e1c6ef51150f7f7b244369d381795",
+    "published_at": "2026-07-28T12:09:24Z",
+    "engagement": 3,
+    "summary": "## **Summary**\n\nThis proposal introduces a **25 basis point (0.25%) fee on withdrawals** from AnomaPay's shielded pool back to transparent EVM wallets...",
+    "tags": [
+      "governance",
+      "anoma.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
+  },
+  {
     "id": "snapshot_0xc0bef7457d4662108245ca9210d8598e209639d90c3cbd2997f6d21647b1a52d",
     "title": "🏛️ [Concentrator] [sdCRV] [Optimism] Disable the Odos router (0x0D05a7D3448512B78fa8A9e46c4872C88C4a0D05) as an approved exchange on Curve leverage zaps on Optimism.",
     "platform": "snapshot",
@@ -14,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x58ad590d1b58856f645c1c5fd0764d2659904a647383b23f6f5812f6f40a919b",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x304709e6828a6f451a2fbe6670fe1585f6eadbcc259b896dd233fe370ba838f4",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x22134e2c29ee2e95ef616eac9db1ac432f259619ead936328ef7cd8aee4d9a6f",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x2d1922ee226f5bc7e5edf9643d378ece44e7fc3aed825ed888f3ce0d35196253",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0xda87dcf59547af155102d5d707d8f5d169dbe91b631cb530cf06ace222882174",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0xad42f8b60d1108d3797be29e20346240ec14336d5829c5d4149be7a0539f8ec3",
@@ -116,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x9b3a25fa91298330f8a32820d5556fbbd3f30670044cd9ef7c6e4574bcff38e3",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x2227484e6512e32e6e1ff64599c72b9d72eda2ad6771c45daf7495cc0fcafd46",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0xc3a56a0a755b1bf8a73ff42aebd7daeaf8571d18ff05729588a24d2b5dd09e2a",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0xa6a91db1bf6f4ec77e378f1e1ec1079ff3f4d43346b6f447939bcd68be2aec80",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x1182c625db8c51986f9c9b53953260b4aca94737b1dfe2ae6af393ec8eda05f1",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x1214e54a70a98b21ec46bb0dff432b5968b5acf85638fed0502d72034853d19a",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0x34e5b4574bd9753ec33e2b0bdf0df74ed862dfb34cda5c3a5b204ebb0a2b92f2",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0xd10b2558a1b094823a3e272d856cf5bcb5f75fad52ee24d4630be45c2f7a5b61",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0xe5b6adf51feb97c962a1773b8dc80439572c9f61ee7fcac961750da6b646e86d",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   },
   {
     "id": "snapshot_0xfb040247dd906efac9488d70d3a69429467b618d20c325eb73e3edab9ca8e667",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
-  },
-  {
-    "id": "snapshot_0xd1e64a49bdd0b5b6172d503fa23f793ae017aa81e82eced2eee0f40cca3b9728",
-    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1463",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xd1e64a49bdd0b5b6172d503fa23f793ae017aa81e82eced2eee0f40cca3b9728",
-    "published_at": "2026-07-27T14:27:43Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV \n\n\n\n[Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USD...",
-    "tags": [
-      "governance",
-      "aladdindao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
-  },
-  {
-    "id": "snapshot_0x8a3f5c7bc3cb1670328da6fc7691c75997b7180f4dad6909d962487e8ec2d995",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1463",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0x8a3f5c7bc3cb1670328da6fc7691c75997b7180f4dad6909d962487e8ec2d995",
-    "published_at": "2026-07-27T14:27:43Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV \n\n\n\n[Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USD...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
-  },
-  {
-    "id": "snapshot_0xd73e74ffe3e55c601af91ef753fe3a98fd433cd0b52535dad25fd87f186fe782",
-    "title": "🏛️ [Convex Finance] [Curve] Ownership DAO Vote ID: 1463",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cvx.eth/proposal/0xd73e74ffe3e55c601af91ef753fe3a98fd433cd0b52535dad25fd87f186fe782",
-    "published_at": "2026-07-27T14:27:43Z",
-    "engagement": 2,
-    "summary": "Quorum: 6.55m CVX \n\n\n\n[Optimism] Set Hyperbolic monetary policy for LLv2 markets: WBTC-USDC -> 0x79982D49B4eB097b9172c31Cc1Da5a4ef1Cb665b, wstETH-USDC...",
-    "tags": [
-      "governance",
-      "cvx.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T12:01:29.507105Z"
+    "fetched_at": "2026-07-28T15:25:20.388948Z"
   }
 ]
