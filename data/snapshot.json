@@ -1,5 +1,175 @@
 [
   {
+    "id": "snapshot_0xc0bef7457d4662108245ca9210d8598e209639d90c3cbd2997f6d21647b1a52d",
+    "title": "🏛️ [Concentrator] [sdCRV] [Optimism] Disable the Odos router (0x0D05a7D3448512B78fa8A9e46c4872C88C4a0D05) as an approved exchange on Curve leverage zaps on Optimism.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xc0bef7457d4662108245ca9210d8598e209639d90c3cbd2997f6d21647b1a52d",
+    "published_at": "2026-07-28T10:56:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1465-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0x58ad590d1b58856f645c1c5fd0764d2659904a647383b23f6f5812f6f40a919b",
+    "title": "🏛️ [sdCRV-Governance] [Optimism] Disable the Odos router (0x0D05a7D3448512B78fa8A9e46c4872C88C4a0D05) as an approved exchange on Curve leverage zaps on Optimism.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x58ad590d1b58856f645c1c5fd0764d2659904a647383b23f6f5812f6f40a919b",
+    "published_at": "2026-07-28T10:56:47Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1465-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0x304709e6828a6f451a2fbe6670fe1585f6eadbcc259b896dd233fe370ba838f4",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1465",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x304709e6828a6f451a2fbe6670fe1585f6eadbcc259b896dd233fe370ba838f4",
+    "published_at": "2026-07-28T10:56:49Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\n[Optimism] Disable the Odos router (0x0D05a7D3448512B78fa8A9e46c4872C88C4a0D05) as an approved exchange on Curve leverage zaps ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0x22134e2c29ee2e95ef616eac9db1ac432f259619ead936328ef7cd8aee4d9a6f",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1465",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x22134e2c29ee2e95ef616eac9db1ac432f259619ead936328ef7cd8aee4d9a6f",
+    "published_at": "2026-07-28T10:56:49Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\n[Optimism] Disable the Odos router (0x0D05a7D3448512B78fa8A9e46c4872C88C4a0D05) as an approved exchange on Curve leverage zaps ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0x2d1922ee226f5bc7e5edf9643d378ece44e7fc3aed825ed888f3ce0d35196253",
+    "title": "🏛️ [Convex Finance] [Curve] Ownership DAO Vote ID: 1465",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cvx.eth/proposal/0x2d1922ee226f5bc7e5edf9643d378ece44e7fc3aed825ed888f3ce0d35196253",
+    "published_at": "2026-07-28T10:56:49Z",
+    "engagement": 2,
+    "summary": "Quorum: 6.56m CVX \n\n\n\n[Optimism] Disable the Odos router (0x0D05a7D3448512B78fa8A9e46c4872C88C4a0D05) as an approved exchange on Curve leverage zaps o...",
+    "tags": [
+      "governance",
+      "cvx.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0xda87dcf59547af155102d5d707d8f5d169dbe91b631cb530cf06ace222882174",
+    "title": "🏛️ [Concentrator] [sdCRV] Remove Odos router from Leverage-Zap-V2 contracts on ETH mainnet.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xda87dcf59547af155102d5d707d8f5d169dbe91b631cb530cf06ace222882174",
+    "published_at": "2026-07-28T09:52:11Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1464-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0xad42f8b60d1108d3797be29e20346240ec14336d5829c5d4149be7a0539f8ec3",
+    "title": "🏛️ [sdCRV-Governance] Remove Odos router from Leverage-Zap-V2 contracts on ETH mainnet.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xad42f8b60d1108d3797be29e20346240ec14336d5829c5d4149be7a0539f8ec3",
+    "published_at": "2026-07-28T09:52:11Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1464-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0x9b3a25fa91298330f8a32820d5556fbbd3f30670044cd9ef7c6e4574bcff38e3",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1464",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x9b3a25fa91298330f8a32820d5556fbbd3f30670044cd9ef7c6e4574bcff38e3",
+    "published_at": "2026-07-28T09:52:17Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\nRemove Odos router from Leverage-Zap-V2 contracts on ETH mainnet.\n\n\n\n\n\nAction 1\n----------\nTo: Unknown 0x5D847c892891B503c3483D...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0x2227484e6512e32e6e1ff64599c72b9d72eda2ad6771c45daf7495cc0fcafd46",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1464",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x2227484e6512e32e6e1ff64599c72b9d72eda2ad6771c45daf7495cc0fcafd46",
+    "published_at": "2026-07-28T09:52:17Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV \n\n\n\nRemove Odos router from Leverage-Zap-V2 contracts on ETH mainnet.\n\n\n\n\n\nAction 1\n----------\nTo: Unknown 0x5D847c892891B503c3483D...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
+    "id": "snapshot_0xc3a56a0a755b1bf8a73ff42aebd7daeaf8571d18ff05729588a24d2b5dd09e2a",
+    "title": "🏛️ [Convex Finance] [Curve] Ownership DAO Vote ID: 1464",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cvx.eth/proposal/0xc3a56a0a755b1bf8a73ff42aebd7daeaf8571d18ff05729588a24d2b5dd09e2a",
+    "published_at": "2026-07-28T09:52:17Z",
+    "engagement": 2,
+    "summary": "Quorum: 6.56m CVX \n\n\n\nRemove Odos router from Leverage-Zap-V2 contracts on ETH mainnet.\n\n\n\n\n\nAction 1\n----------\nTo: Unknown 0x5D847c892891B503c3483D3...",
+    "tags": [
+      "governance",
+      "cvx.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
+  },
+  {
     "id": "snapshot_0xa6a91db1bf6f4ec77e378f1e1ec1079ff3f4d43346b6f447939bcd68be2aec80",
     "title": "🏛️ [Symbiosis DAO] [SIP-57] Symbiosis: Enabling Cross-Chain Swaps for Stable",
     "platform": "snapshot",
@@ -14,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0x1182c625db8c51986f9c9b53953260b4aca94737b1dfe2ae6af393ec8eda05f1",
@@ -31,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0x1214e54a70a98b21ec46bb0dff432b5968b5acf85638fed0502d72034853d19a",
@@ -48,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0x34e5b4574bd9753ec33e2b0bdf0df74ed862dfb34cda5c3a5b204ebb0a2b92f2",
@@ -65,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0xd10b2558a1b094823a3e272d856cf5bcb5f75fad52ee24d4630be45c2f7a5b61",
@@ -82,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0xe5b6adf51feb97c962a1773b8dc80439572c9f61ee7fcac961750da6b646e86d",
@@ -99,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0xfb040247dd906efac9488d70d3a69429467b618d20c325eb73e3edab9ca8e667",
@@ -116,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0xd1e64a49bdd0b5b6172d503fa23f793ae017aa81e82eced2eee0f40cca3b9728",
@@ -133,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0x8a3f5c7bc3cb1670328da6fc7691c75997b7180f4dad6909d962487e8ec2d995",
@@ -150,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   },
   {
     "id": "snapshot_0xd73e74ffe3e55c601af91ef753fe3a98fd433cd0b52535dad25fd87f186fe782",
@@ -167,176 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0xdd5106502cd6da48213eadba4ab2ebb93c928942d3d881cd944fb22db6f192ca",
-    "title": "🏛️ [(test) DAO for ANYONE] new strategy",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/anyonegovernance.eth/proposal/0xdd5106502cd6da48213eadba4ab2ebb93c928942d3d881cd944fb22db6f192ca",
-    "published_at": "2026-07-27T13:09:05Z",
-    "engagement": 3,
-    "summary": "",
-    "tags": [
-      "governance",
-      "anyonegovernance.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0x97bcf9664ed5ea38e894f2b0d0592fa097065e1c9be55895f942a3db2526e31f",
-    "title": "🏛️ [(test) DAO for ANYONE] Vote for this 2",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/anyonegovernance.eth/proposal/0x97bcf9664ed5ea38e894f2b0d0592fa097065e1c9be55895f942a3db2526e31f",
-    "published_at": "2026-07-27T12:58:34Z",
-    "engagement": 3,
-    "summary": "",
-    "tags": [
-      "governance",
-      "anyonegovernance.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0xf80bc0df8cf94056954e4f2d8a630932a041565e46c0b723181195af8c461134",
-    "title": "🏛️ [Stake DAO] SDGP-75: Extend the SDGP-70 voluntary, ex gratia distribution to borrowers of the Arbitrum asdCRV LlamaLend market",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/stakedao.eth/proposal/0xf80bc0df8cf94056954e4f2d8a630932a041565e46c0b723181195af8c461134",
-    "published_at": "2026-07-27T12:56:35Z",
-    "engagement": 3,
-    "summary": "**Author:** Stake DAO Association\n\n## Summary\n\nSDGP-70 authorized a voluntary, ex gratia distribution of 1,535,421.76 sdCRV to liquidity providers aff...",
-    "tags": [
-      "governance",
-      "stakedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0xa4fd2d013f7b770d7a28f69815d9d1c175c7e4dd36e311f721cf2d81e4d1ba68",
-    "title": "🏛️ [Concentrator] [sdCRV] Set Hyperbolic Monetary Policy With Dynamic Rate to sDOLA/crvUSD and sfrxUSD/crvUSD Llamalend V2 markets.",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xa4fd2d013f7b770d7a28f69815d9d1c175c7e4dd36e311f721cf2d81e4d1ba68",
-    "published_at": "2026-07-27T12:07:35Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1462-OWNERSHIP",
-    "tags": [
-      "governance",
-      "concentratordao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0xeb3ced5dfa32e0e1d40f57affeeb0862ef287e73b05283ae0386253bc7cc0f70",
-    "title": "🏛️ [sdCRV-Governance] Set Hyperbolic Monetary Policy With Dynamic Rate to sDOLA/crvUSD and sfrxUSD/crvUSD Llamalend V2 markets.",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xeb3ced5dfa32e0e1d40f57affeeb0862ef287e73b05283ae0386253bc7cc0f70",
-    "published_at": "2026-07-27T12:07:35Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1462-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0xff3507480f855f6512a909b67be0764f2116a2c7da4af022712bc2c8b74ace2c",
-    "title": "🏛️ [Shutter DAO 0x36] TEMP CHECK: Should Shutter DAO 0x36 Swap USDC into ETH?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/shutterdao0x36.eth/proposal/0xff3507480f855f6512a909b67be0764f2116a2c7da4af022712bc2c8b74ace2c",
-    "published_at": "2026-07-27T13:00:00Z",
-    "engagement": 2,
-    "summary": "## Background\n\nShutter DAO 0x36 is considering swapping USDC for ETH and (later) swapping it back to USDC. \n\nIf the price of ETH rises, it would incre...",
-    "tags": [
-      "governance",
-      "shutterdao0x36.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0x509323b137523e0bd37136c477e8cd4ef05b8903bf38cba3695bdad932bee065",
-    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1462",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x509323b137523e0bd37136c477e8cd4ef05b8903bf38cba3695bdad932bee065",
-    "published_at": "2026-07-27T12:07:40Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV \n\n\n\nSet Hyperbolic Monetary Policy With Dynamic Rate to sDOLA/crvUSD and sfrxUSD/crvUSD Llamalend V2 markets.\n\n\n\n\n\nAction 1\n-------...",
-    "tags": [
-      "governance",
-      "aladdindao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0x4b63e5211a641342861ed9eb32cb2c881ac19670f8d7aa0030c09ae838ac559d",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1462",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0x4b63e5211a641342861ed9eb32cb2c881ac19670f8d7aa0030c09ae838ac559d",
-    "published_at": "2026-07-27T12:07:40Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV \n\n\n\nSet Hyperbolic Monetary Policy With Dynamic Rate to sDOLA/crvUSD and sfrxUSD/crvUSD Llamalend V2 markets.\n\n\n\n\n\nAction 1\n-------...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0x9046e8193b6fe7af926cb6fa3e72be28e2f676033cf01e4245f74072feaf61a2",
-    "title": "🏛️ [Convex Finance] [Curve] Ownership DAO Vote ID: 1462",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cvx.eth/proposal/0x9046e8193b6fe7af926cb6fa3e72be28e2f676033cf01e4245f74072feaf61a2",
-    "published_at": "2026-07-27T12:07:40Z",
-    "engagement": 2,
-    "summary": "Quorum: 6.55m CVX \n\n\n\nSet Hyperbolic Monetary Policy With Dynamic Rate to sDOLA/crvUSD and sfrxUSD/crvUSD Llamalend V2 markets.\n\n\n\n\n\nAction 1\n--------...",
-    "tags": [
-      "governance",
-      "cvx.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
-  },
-  {
-    "id": "snapshot_0x260649b97edf4ed22668d0081e79554140d6bfd34c39c4989ebd13c3ded0d839",
-    "title": "🏛️ [Shutter DAO 0x36] TEMP CHECK: Migration to a New Onchain Governance Platform",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/shutterdao0x36.eth/proposal/0x260649b97edf4ed22668d0081e79554140d6bfd34c39c4989ebd13c3ded0d839",
-    "published_at": "2026-07-27T13:00:00Z",
-    "engagement": 3,
-    "summary": "## Background\n\nDecent recently informed us that they will be stopping operations in the near future. They also recommended that Shutter DAO 0x36 migra...",
-    "tags": [
-      "governance",
-      "shutterdao0x36.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-28T09:39:50.927378Z"
+    "fetched_at": "2026-07-28T12:01:29.507105Z"
   }
 ]
