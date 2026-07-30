@@ -1,5 +1,73 @@
 [
   {
+    "id": "snapshot_0xfd83d22429d2e8f75ec01a9a3a0678ffa8471287354ff98b01ef9437b7a7db1e",
+    "title": "🏛️ [sdFXN] Gauge vote FXN - 6/8/2026 - 19/8/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxn.eth/proposal/0xfd83d22429d2e8f75ec01a9a3a0678ffa8471287354ff98b01ef9437b7a7db1e",
+    "published_at": "2026-07-30T02:00:00Z",
+    "engagement": 36,
+    "summary": "Gauge vote for FXN inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxn.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
+  },
+  {
+    "id": "snapshot_0x35fdc95e8e791303e096bbe3e99e1bb4dc2ed6c657efd387803dbd796f2f7008",
+    "title": "🏛️ [sdYB] Gauge vote YB - 6/8/2026 - 19/8/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x35fdc95e8e791303e096bbe3e99e1bb4dc2ed6c657efd387803dbd796f2f7008",
+    "published_at": "2026-07-30T02:00:00Z",
+    "engagement": 4,
+    "summary": "Gauge vote for YB inflation allocation.",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
+  },
+  {
+    "id": "snapshot_0xa981312af181c2902fe6e90b0f275141357d501f8a145c482bdd5f0c15e8bf31",
+    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 6/8/2026 - 19/8/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0xa981312af181c2902fe6e90b0f275141357d501f8a145c482bdd5f0c15e8bf31",
+    "published_at": "2026-07-30T02:00:00Z",
+    "engagement": 121,
+    "summary": "Gauge vote for FXS inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxs.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
+  },
+  {
+    "id": "snapshot_0x78bcbff5c36d3ac05db7dd71613e87ceb3c5b4511c458a7890284507748f8a8c",
+    "title": "🏛️ [Stake DAO CRV] Gauge vote CRV - 6/8/2026 - 19/8/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv.eth/proposal/0x78bcbff5c36d3ac05db7dd71613e87ceb3c5b4511c458a7890284507748f8a8c",
+    "published_at": "2026-07-30T02:00:00Z",
+    "engagement": 700,
+    "summary": "Gauge vote for CRV inflation allocation.",
+    "tags": [
+      "governance",
+      "sdcrv.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
+  },
+  {
     "id": "snapshot_0xc6aba71508fc65f701f0afcf984a3ba7c562934b923b54e0c7ac0ca6367aecbe",
     "title": "🏛️ [Concentrator] [sdCRV] Add a gauge for the following stableswapNG pool: evaUSDC/USDC on mainnet",
     "platform": "snapshot",
@@ -14,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x1c6e6040d145da69db05da0aa6a05968ca62f29395e18b75050752f98b1b0c04",
@@ -31,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x9a5f8061e64de575b837c0376284659e5f6ee4fdf7196d0e902297f3c643de67",
@@ -48,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0xfb8ffeae70bdc9e579c0b50f0102bbd9fa2b4306e394c4b82b44f60548ec6352",
@@ -65,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x7bac56b8db2a9e31b804974715a43144c1cfd60bbac5b633b21a3ac2d1a86ea2",
@@ -82,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x7c16d5c31b9e27a08c4bd4140fdf55a445520604685183db72d4911ffd56f47e",
@@ -99,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x207e18fd14b17d14d9fa032a06372272a1ebe13ca2495304a279f15001be58b0",
@@ -116,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x682bbd768083b98700c2fb23ab996eae1f153f7daae6de769eaff1f416a229ec",
@@ -133,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x6720a0c44a5abcaca7080fd13f9f72ca76efa40226e5c312d55cd15e5f7c02ad",
@@ -150,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0xe2d454482376653bef786763cc864bb72ebb301076f90d8c1dbbe211c5317e59",
@@ -167,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x75b4c0a666f8ef367809ad016f8d98660d49ab289ec59dfda8a2545ff9067c2d",
@@ -184,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x0f7f34909377eaf551c1c106bee355864c16dfe221006578ae5ef1668e7f3801",
@@ -201,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0xcaece64a646ef2c593e25ea06df0ce44eba440085b44e2f67a34bca420a5cc94",
@@ -218,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0xa67c5b57447b56889178d09a21df08a931d4380186f6d87737f085cca4dfb9cd",
@@ -235,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0xc45bdc5de07d9fcb124152e6ee327a44b224c2ac81fdf2199a5bae827a159b42",
@@ -252,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   },
   {
     "id": "snapshot_0x02baa25deceb24e56915cdfa02979c83b8af0ceeb41c20d89fa5cc670c132946",
@@ -269,74 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
-  },
-  {
-    "id": "snapshot_0xecac5074d51756e733dde22dcf0ca5c219c7c4196dd76f12a30f8be95036c670",
-    "title": "🏛️ [Hoge Voting] HOGE Liquidity Using Community Wallet Funds",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/hogeinc.eth/proposal/0xecac5074d51756e733dde22dcf0ca5c219c7c4196dd76f12a30f8be95036c670",
-    "published_at": "2026-07-29T16:57:58Z",
-    "engagement": 3,
-    "summary": "Option A – Forever Commitment\n\n- Use the community wallet funds to sell 50% of the HOGE into ETH.\n- Lock 100% of the resulting HOGE and ETH liquidity ...",
-    "tags": [
-      "governance",
-      "hogeinc.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
-  },
-  {
-    "id": "snapshot_0x8668b71c4ecdf811bce85079b71ae9a85929f5863e9eec290569b15e3b3d2f22",
-    "title": "🏛️ [Global web3 academy] RENAMING MENTOR PANEL TO MENTOR SPACE AND COURSES TO LEARNING SPACE",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/students.web3academy.eth/proposal/0x8668b71c4ecdf811bce85079b71ae9a85929f5863e9eec290569b15e3b3d2f22",
-    "published_at": "2026-07-29T15:28:32Z",
-    "engagement": 3,
-    "summary": "# Proposal: Renaming **Mentor Panel** to **Mentor Space** and **Courses** to **Learning Spaces**\nFROM HERE\n![WhatsApp Image 2026-07-29 at 08.26.13.jpe...",
-    "tags": [
-      "governance",
-      "students.web3academy.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
-  },
-  {
-    "id": "snapshot_0x1da14a6fa4fde81b657d35ba9b672076abc3fb8cfbe37da63f1ea2d3a1162c0f",
-    "title": "🏛️ [1inch Network] [1IP-104] Adopt The SEAL Safe Harbor Agreement",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/1inch.eth/proposal/0x1da14a6fa4fde81b657d35ba9b672076abc3fb8cfbe37da63f1ea2d3a1162c0f",
-    "published_at": "2026-07-29T15:18:42Z",
-    "engagement": 3,
-    "summary": "# **Adopt The SEAL Safe Harbor Agreement**\n\n**Authors**: Orest (1inch), Ilya (1inch), Dickson (SEAL)\n\n---\n\n## **Introduction**\n\nThis proposal outlines...",
-    "tags": [
-      "governance",
-      "1inch.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
-  },
-  {
-    "id": "snapshot_0x26b5a26b12fa1df732fcd997e254ea54f0c8a2c83101f5402012c14874bba03e",
-    "title": "🏛️ [Concentrator] [sdCRV] Ramp A up for FIDD/USDC and FIDD/USDT stableswap-NG pools from 1000 to 3000 over 1 week.",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x26b5a26b12fa1df732fcd997e254ea54f0c8a2c83101f5402012c14874bba03e",
-    "published_at": "2026-07-29T10:51:23Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1469-OWNERSHIP",
-    "tags": [
-      "governance",
-      "concentratordao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-07-30T02:49:47.140587Z"
+    "fetched_at": "2026-07-30T05:48:20.103473Z"
   }
 ]
