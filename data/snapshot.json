@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0x7ca10621b1989957f8adb8e95b5e16b4303a62581f725ca0b0ed6da88e081d56",
+    "title": "🏛️ [Know] CG dry-run B",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/youdontknow.eth/proposal/0x7ca10621b1989957f8adb8e95b5e16b4303a62581f725ca0b0ed6da88e081d56",
+    "published_at": "2026-08-05T02:56:05Z",
+    "engagement": 2,
+    "summary": "vetoed",
+    "tags": [
+      "governance",
+      "youdontknow.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
+  },
+  {
+    "id": "snapshot_0xe856fea4f85ea5fb7488402b1073ff8cec9b9f6cec58e9173921cc5c42bbd3c3",
+    "title": "🏛️ [Rocket Pool] pDAO Signaling Governance",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/rocketpool-dao.eth/proposal/0xe856fea4f85ea5fb7488402b1073ff8cec9b9f6cec58e9173921cc5c42bbd3c3",
+    "published_at": "2026-08-05T01:45:29Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nAdopt RocketDash as the official platform for off-chain pDAO signaling votes, establish transparent vote administration, and create an on-...",
+    "tags": [
+      "governance",
+      "rocketpool-dao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
+  },
+  {
     "id": "snapshot_0x4bb259d5949aa24bffcd8bcf883817095f27f89cce8a2d9d396e9f930c4a5eef",
     "title": "🏛️ [League of Lils] 988: NOUNS Scooter",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0xc076488bf1ebb19997d132c94fafeeaa2812397f15e91d3e9610bf6ea10d3262",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x8543cb83958f133cbd36b27902d50b08c33e26df6bed431cfb3f59686a825f22",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0xfe509cc5cc17a531d491ade402f50991dc5131f9d26cad7172e39ee22cabbe8c",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0xdc296d818ede985fe0f80e33b05c17d1a1597cbc0827b1b99bb86d1ecdcc39d5",
@@ -82,24 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
-  },
-  {
-    "id": "snapshot_0xaa0702a8c29c76dad68fe3719cd7a27c6d1f71904da71f94c484be1153a13c42",
-    "title": "🏛️ [Machima] Vote for Exiting XMA",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/machima-vote.eth/proposal/0xaa0702a8c29c76dad68fe3719cd7a27c6d1f71904da71f94c484be1153a13c42",
-    "published_at": "2026-08-04T14:51:55Z",
-    "engagement": 3,
-    "summary": "The question to vote on is...\n\n\"Would you like to continue holding XMA until we launch the new product being built now?\"\n\nIf you would like to STAY, v...",
-    "tags": [
-      "governance",
-      "machima-vote.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x181c80fbf2b490ff1c6bcb11080aa5fb4c29ea11041339bce6d244d8486160b3",
@@ -116,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0xdb6015d0413cb7143af9bdd9471d3880c9a87c434fced1b85442e83965d33ee9",
@@ -133,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0xf7721d0b4b41c7c102758ef3db516be30c0e5d1a598f28cd4d7b0808266e9e85",
@@ -150,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0xd696aa2d588f8140a55805e9bce6813a201d16df28b0b925992562951be1a536",
@@ -167,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x53bdee08065d94864969d1299e3216e870fbabececd05b55e2f77ecf8601e7d7",
@@ -184,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x00e4c5a7aebe3d5c6a6e9fd98b73a4036acab23155df4cd4f49115c7bf14486d",
@@ -201,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x3bce0bdda59ea54dd6056e772aa7f77880209b0206d11a7345286136d28fba70",
@@ -218,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x65fa0cfa74a7831c956d87e53dee5f1f6f5950690b9590a040180bff4a0388b9",
@@ -235,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x180c2e7ea0dea1649d9d73dcc7bb53e0be9896e0a750ac10cbba1dc352487d8d",
@@ -252,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x3240fc78276a2f4898188809464b3357124b2c42065f55a46a7a7254eabd0f82",
@@ -269,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0xf99d50e34900ea8f54c90053584f758d2a6d1ddbbe77a8c8d751e2c5a8fd0493",
@@ -286,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x101ed4ff7ef77f8e4a6db6af4bbf053b703001c0245a1e166babb8ba6ad633fb",
@@ -303,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   },
   {
     "id": "snapshot_0x68cd8af75c25eb6872d85c8e2ebb24681f256b368c53051ba393e12b7b4e71e8",
@@ -320,23 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
-  },
-  {
-    "id": "snapshot_0x3cfe8e581c090f1172c3dedeb5abf00a43c27e363ffc888438593102b854dc0f",
-    "title": "🏛️ [Treehouse DAO] Snapshot 12: Supporting Ecosystem Growth Through Community Rewards",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/treehousefi.eth/proposal/0x3cfe8e581c090f1172c3dedeb5abf00a43c27e363ffc888438593102b854dc0f",
-    "published_at": "2026-08-03T09:59:26Z",
-    "engagement": 3,
-    "summary": "# Summary\n\nThis proposal seeks DAO approval to allocate **15,000,000 TREE** from the Community Rewards allocation to fund ecosystem growth initiatives...",
-    "tags": [
-      "governance",
-      "treehousefi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-04T23:08:25.310970Z"
+    "fetched_at": "2026-08-05T02:57:42.108248Z"
   }
 ]
