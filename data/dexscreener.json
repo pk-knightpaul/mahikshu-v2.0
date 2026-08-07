@@ -1,43 +1,43 @@
 [
   {
-    "id": "dexscreener_robinhood_0xFD291eeb923D90f85169aE8D425fb76aF9B27777",
-    "title": "🆕 New Pair: 0xFD291eeb923D90f851... on robinhood",
+    "id": "dexscreener_solana_EMt4iJEm3p8EtHmrj2vv48do3SNbx4HXasDpLLx4pump",
+    "title": "🆕 New Pair: EMt4iJEm3p8EtHmrj2vv... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0xFD291eeb923D90f85169aE8D425fb76aF9B27777",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/solana/EMt4iJEm3p8EtHmrj2vv48do3SNbx4HXasDpLLx4pump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
-    "summary": "Tygr/GME pair on Robinhood (with GME rewards).  Hodl the kitty and earn GME.",
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0xEEaCfDE28F65277cC98D507b891bbd908f7f3199",
+    "title": "🆕 New Pair: 0xEEaCfDE28F65277cC9... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0xEEaCfDE28F65277cC98D507b891bbd908f7f3199",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "the mogging frog",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   },
   {
-    "id": "dexscreener_solana_FQk7zELwzt5QMwDkqsoUjWgCUQs9WSGB6MsAorFypump",
-    "title": "🆕 New Pair: FQk7zELwzt5QMwDkqsoU... on solana",
+    "id": "dexscreener_solana_6bMG7xeXKwBbjWDYnTD84AybV3BZ4jaBwNRhVY68pump",
+    "title": "🆕 New Pair: 6bMG7xeXKwBbjWDYnTD8... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/FQk7zELwzt5QMwDkqsoUjWgCUQs9WSGB6MsAorFypump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "Rocket was found barely moving in the middle of the road. Now he’s fighting his way back. All fees go directly to Gulf Coast Wildlife Rescue.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_Nx6RoWhnwjN8iVLAZk2ca3w4UEwHG6oZdn8SVC7pump",
-    "title": "🆕 New Pair: Nx6RoWhnwjN8iVLAZk2c... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/Nx6RoWhnwjN8iVLAZk2ca3w4UEwHG6oZdn8SVC7pump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/solana/6bMG7xeXKwBbjWDYnTD84AybV3BZ4jaBwNRhVY68pump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
     "summary": "New token pair discovered on solana via DexScreener.",
     "tags": [
@@ -45,15 +45,31 @@
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   },
   {
-    "id": "dexscreener_solana_3T2kejg1vbwQJBSLEEcSDkHpbhqNkQC7Bb5JstMLpump",
-    "title": "🆕 New Pair: 3T2kejg1vbwQJBSLEEcS... on solana",
+    "id": "dexscreener_ethereum_0x318f96bBFD417E795Ee530eC9677A4CEa320c8Cd",
+    "title": "🆕 New Pair: 0x318f96bBFD417E795E... on ethereum",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/3T2kejg1vbwQJBSLEEcSDkHpbhqNkQC7Bb5JstMLpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/ethereum/0x318f96bBFD417E795Ee530eC9677A4CEa320c8Cd",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "The Wolf is back Onchain.",
+    "tags": [
+      "new_pair",
+      "ethereum",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_GCz8dQXCG3bKEmYH4jjveyqpYQZPXbEM3DAZfaSXpump",
+    "title": "🆕 New Pair: GCz8dQXCG3bKEmYH4jjv... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/GCz8dQXCG3bKEmYH4jjveyqpYQZPXbEM3DAZfaSXpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
     "summary": "New token pair discovered on solana via DexScreener.",
     "tags": [
@@ -61,15 +77,31 @@
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   },
   {
-    "id": "dexscreener_solana_2DCoibJCHiPYyyppnC3r3GAUFPKduWEmpybNzZH3pump",
-    "title": "🆕 New Pair: 2DCoibJCHiPYyyppnC3r... on solana",
+    "id": "dexscreener_solana_CWPmLefNV12EQYhjgkgCdMg8BrwrabKYHzkCLdiUYrJE",
+    "title": "🆕 New Pair: CWPmLefNV12EQYhjgkgC... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/2DCoibJCHiPYyyppnC3r3GAUFPKduWEmpybNzZH3pump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/solana/CWPmLefNV12EQYhjgkgCdMg8BrwrabKYHzkCLdiUYrJE",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "Sovereign: Loot and Reign — an idle RPG on Solana. Heroes fight on their own while you're away; you open chests, craft gear, upgrade, and build your reign. $SOVER powers the marketplace and in-game economy.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_7YX9nZJ6DRAkUf3cH7ApuhmRT73MRigZFKqHwxjzpump",
+    "title": "🆕 New Pair: 7YX9nZJ6DRAkUf3cH7Ap... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/7YX9nZJ6DRAkUf3cH7ApuhmRT73MRigZFKqHwxjzpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
     "summary": "New token pair discovered on solana via DexScreener.",
     "tags": [
@@ -77,406 +109,374 @@
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   },
   {
-    "id": "dexscreener_robinhood_0xbbf2C91FDcc488BA736E0c38adC82C9A92597deB",
-    "title": "🆕 New Pair: 0xbbf2C91FDcc488BA73... on robinhood",
+    "id": "dexscreener_solana_7hmVkPXmVagxoptAEpx4jBzZVHwGLdFj6c1y42qxpump",
+    "title": "🆕 New Pair: 7hmVkPXmVagxoptAEpx4... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0xbbf2C91FDcc488BA736E0c38adC82C9A92597deB",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/solana/7hmVkPXmVagxoptAEpx4jBzZVHwGLdFj6c1y42qxpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
-    "summary": "NFLX & CHILL\n\n100% of creator fees go back to holders as $NFLX stock",
+    "summary": "Bayla is the muse of Jungle Bay Island. Her pull reaches every kind of maker. The work is yours. The light is hers. Built by the JUNGLE BAY ARTISTS COLLECTIVE. Dank Memes + Time [DM+T] = Memetic Finance.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_HJyvW55W19EuV2LdrfHFirw8z4MUQ6vM1gwgYcdapump",
+    "title": "🆕 New Pair: HJyvW55W19EuV2LdrfHF... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/HJyvW55W19EuV2LdrfHFirw8z4MUQ6vM1gwgYcdapump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_8uJ3FNHUmwdTwtLqojBTzcLwjALzZkL2L8Xxv9ampump",
+    "title": "🆕 New Pair: 8uJ3FNHUmwdTwtLqojBT... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/8uJ3FNHUmwdTwtLqojBTzcLwjALzZkL2L8Xxv9ampump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_GsyjVZkKeSowzvpks9gJrznnyHTF21A4cu9TiGBCpump",
+    "title": "🆕 New Pair: GsyjVZkKeSowzvpks9gJ... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/GsyjVZkKeSowzvpks9gJrznnyHTF21A4cu9TiGBCpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "Idle RO's official utility token. 50% of the total supply has been permanently burned at launch. Character recruitment and marketplace fees continuously burn $ZENY, creating a deflationary economy powered by real gameplay.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_8VLPKnvQGtcFT9PMM9zUesFfTFfoa4nJxcdF6KLxpump",
+    "title": "🆕 New Pair: 8VLPKnvQGtcFT9PMM9zU... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/8VLPKnvQGtcFT9PMM9zUesFfTFfoa4nJxcdF6KLxpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "ball",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_H86WvjgxYVNjYg8ckso6nfDdyJcvc32dwDtwBaFPpump",
+    "title": "🆕 New Pair: H86WvjgxYVNjYg8ckso6... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/H86WvjgxYVNjYg8ckso6nfDdyJcvc32dwDtwBaFPpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "in a world of gooners",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0x40c880bcd48a790CDfeF8DC92b2632E3c2c1Eefb",
+    "title": "🆕 New Pair: 0x40c880bcd48a790CDf... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x40c880bcd48a790CDfeF8DC92b2632E3c2c1Eefb",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "Wake up, Degen.",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   },
   {
-    "id": "dexscreener_solana_D5jArFXKp49srvwKUnVQJXaTyES2RuxL1ZZVZmYGpump",
-    "title": "🆕 New Pair: D5jArFXKp49srvwKUnVQ... on solana",
+    "id": "dexscreener_solana_92ztrVbnwkEekfjLTpMkNSBLsfAw9nQjCJDMU3QWpump",
+    "title": "🆕 New Pair: 92ztrVbnwkEekfjLTpMk... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/D5jArFXKp49srvwKUnVQJXaTyES2RuxL1ZZVZmYGpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/solana/92ztrVbnwkEekfjLTpMkNSBLsfAw9nQjCJDMU3QWpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
-    "summary": "Welcome to Catflix 🎬🐱\n\nThe home of cat entertainment.",
+    "summary": "i am here to bring da power back to da peepel. dis is our contry. dis is colombia",
     "tags": [
       "new_pair",
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   },
   {
-    "id": "dexscreener_solana_CpnyNiVywjYnP4v6zSiipVPJpNwvNEEXnghVMWLwpump",
-    "title": "🆕 New Pair: CpnyNiVywjYnP4v6zSii... on solana",
+    "id": "dexscreener_robinhood_0xE158bEbA78829b06a4F108FB23564e2FE332fF61",
+    "title": "🆕 New Pair: 0xE158bEbA78829b06a4... on robinhood",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/CpnyNiVywjYnP4v6zSiipVPJpNwvNEEXnghVMWLwpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/robinhood/0xE158bEbA78829b06a4F108FB23564e2FE332fF61",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
-    "summary": "MOFO>LEGEND",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_AuD4BEQaNUcLzqKSVANe4UGZVUTZcpamuNBAfBFdpump",
-    "title": "🆕 New Pair: AuD4BEQaNUcLzqKSVANe... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/AuD4BEQaNUcLzqKSVANe4UGZVUTZcpamuNBAfBFdpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "Wall Street had Hertz. Solana has Purrquency.\n\nA completely unhinged orange cat discovered that a purr is just a frequency measured in hertz. So naturally, he stole the keys, floored the tiny rental car, and started purring directly into the chart.\n\nThe harder he purrs, the higher the frequency.\nThe higher the frequency, the faster the car.\nThe faster the car, the greener the chart.\n\nNo fundamentals. No brakes. Just PURR + HZ = $PURHZ.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_7LoBVag2aFjbAyqXYsphnPkUy6spJT34SNKwcxNGfomo",
-    "title": "🆕 New Pair: 7LoBVag2aFjbAyqXYsph... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/7LoBVag2aFjbAyqXYsphnPkUy6spJT34SNKwcxNGfomo",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_57HuDiET8jTgkqFfsHeppSfUuRWNepw2Cch1CU5hwVWK",
-    "title": "🆕 New Pair: 57HuDiET8jTgkqFfsHep... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/57HuDiET8jTgkqFfsHeppSfUuRWNepw2Cch1CU5hwVWK",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "The first memecoin on Solana",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_6P7KtPx99hgKpPJJ47SgwQL1GJUTavDtMmHFnkhQpump",
-    "title": "🆕 New Pair: 6P7KtPx99hgKpPJJ47Sg... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/6P7KtPx99hgKpPJJ47SgwQL1GJUTavDtMmHFnkhQpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_robinhood_0x831758E8C9C043bE7DEB4D74a4Cf581599aeffe5",
-    "title": "🆕 New Pair: 0x831758E8C9C043bE7D... on robinhood",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x831758E8C9C043bE7DEB4D74a4Cf581599aeffe5",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "Staking enabled stocks and tokens on Robinhood Chain",
+    "summary": "New token pair discovered on robinhood via DexScreener.",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   },
   {
-    "id": "dexscreener_solana_DUxbHHy34XSoo6cjeeiiTMUu12UyoNWbvvMUWcvjpump",
-    "title": "🆕 New Pair: DUxbHHy34XSoo6cjeeii... on solana",
+    "id": "dexscreener_bsc_0xC73E1b136C576D1429cB84522A8C35c81d9d7777",
+    "title": "🆕 New Pair: 0xC73E1b136C576D1429... on bsc",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/DUxbHHy34XSoo6cjeeiiTMUu12UyoNWbvvMUWcvjpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/bsc/0xC73E1b136C576D1429cB84522A8C35c81d9d7777",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
-    "summary": "A tiny vampire frog showed up to Solana wearing a cape too big for his body, tried to bite someone, and got told he was adorable instead, so he pivoted to collecting crypto wallets at midnight.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_robinhood_0x78D553Ef46F7fb3cc850944f89F247fE3691C87c",
-    "title": "🆕 New Pair: 0x78D553Ef46F7fb3cc8... on robinhood",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x78D553Ef46F7fb3cc850944f89F247fE3691C87c",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "Scoping every launch on @TradePools: real-time new pairs and live liquidity-depth ranking, on Robinhood Chain. Every pool in scope.",
-    "tags": [
-      "new_pair",
-      "robinhood",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_robinhood_0xFb83b59Cb15b9d8Bb6D96380702580a313AF9455",
-    "title": "🆕 New Pair: 0xFb83b59Cb15b9d8Bb6... on robinhood",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0xFb83b59Cb15b9d8Bb6D96380702580a313AF9455",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "1 $HOOKERS = 1 HOOKER\n\nPowered by HOOKR.FUN \n\nAuto Burn: 1% of actual token output sent directly to the dead address",
-    "tags": [
-      "new_pair",
-      "robinhood",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_robinhood_0x190743b06C3D3D8d04ea5e34AfBD0f6Eb638E06F",
-    "title": "🆕 New Pair: 0x190743b06C3D3D8d04... on robinhood",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x190743b06C3D3D8d04ea5e34AfBD0f6Eb638E06F",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "SMS-first smart wallet on Robinhood Chain. Send, approve and track bounded mainnet payments by text. Built for payments beyond connectivity.",
-    "tags": [
-      "new_pair",
-      "robinhood",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_4Z6WSfqVYcff5qtBJDDXnCo7tV4rvLvDzRUXZ3U2pump",
-    "title": "🆕 New Pair: 4Z6WSfqVYcff5qtBJDDX... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/4Z6WSfqVYcff5qtBJDDXnCo7tV4rvLvDzRUXZ3U2pump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "Launch and configure tokens with stock-backed rewards.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_BRdJ82GSiJKTzjjRh4ABK9VGoy7BjzzjVLYGLdedpump",
-    "title": "🆕 New Pair: BRdJ82GSiJKTzjjRh4AB... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/BRdJ82GSiJKTzjjRh4ABK9VGoy7BjzzjVLYGLdedpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "THIS KITTEN’S STORY IS ALL OVER THE NEWS RN\n\nLuna is a 2-month-old kitten from Florida who survived after her owner’s allegedly tried to drown her, hit her and put her inside a clothes dryer\n\nShe somehow survived everything \n\nNow Luna’s story is getting picked up everywhere by major news pages",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_mNzssXQ9hU1ASJ1CVuu4JjrFBrfeVdR2JzirKS3pump",
-    "title": "🆕 New Pair: mNzssXQ9hU1ASJ1CVuu4... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/mNzssXQ9hU1ASJ1CVuu4JjrFBrfeVdR2JzirKS3pump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_BzMNYpPqRsdzRAnZ3r7FrPHJzeQfFMSar9agV41Tpump",
-    "title": "🆕 New Pair: BzMNYpPqRsdzRAnZ3r7F... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/BzMNYpPqRsdzRAnZ3r7FrPHJzeQfFMSar9agV41Tpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_robinhood_0xc6F03C93BC91a891Ae0Af7f3a43Bb45E09dC4e17",
-    "title": "🆕 New Pair: 0xc6F03C93BC91a891Ae... on robinhood",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0xc6F03C93BC91a891Ae0Af7f3a43Bb45E09dC4e17",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "This guy from the hood has documented his journey with a groundhog for 4 months, and now its going insanely viral.\n\nSherman is the name the guy has given the Groundhog.\n\nHe feeds him every day and the videos are getting millions of views and likes.",
-    "tags": [
-      "new_pair",
-      "robinhood",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_8pW1HwVGWjiVrAkT4TR9SXzvysqAzoWwJakCY3Lwpump",
-    "title": "🆕 New Pair: 8pW1HwVGWjiVrAkT4TR9... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/8pW1HwVGWjiVrAkT4TR9SXzvysqAzoWwJakCY3Lwpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "KIMCHI GLAZERS — $KIMCHI \n\nThe internet has been GLAZING Kimchi nonstop ever since his legendary $40M $TRUMP coin run in just ONE HOUR. 😭🍩🔥\n\nNow the Glazers have their own coin. 💰\n\nHe ran it up once… now it’s our turn to create some lore. 🚀\n\n🍩 MAXIMUM GLAZE\n🔥 MAXIMUM MEMES\n🤝 POWERED BY THE COMMUNITY\n\nLET’S GOOOO BOYS!!! 🗣️🔥\nTIME TO CHASE THE $TRUMP MC 👀🚀\n\n$KIMCHI — NEVER STOP GLAZING. 🍩💎",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_8Xx17WCLWN9AM4DkbwrYU2egDFsfkLLgPBfyh4wVpump",
-    "title": "🆕 New Pair: 8Xx17WCLWN9AM4DkbwrY... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/8Xx17WCLWN9AM4DkbwrYU2egDFsfkLLgPBfyh4wVpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_A3NadoK1kpaRT9KfeUnuk14D6NDVP5rzuzN9SnxPpump",
-    "title": "🆕 New Pair: A3NadoK1kpaRT9KfeUnu... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/A3NadoK1kpaRT9KfeUnuk14D6NDVP5rzuzN9SnxPpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_UwU8j7R35xL3z2GebdfQsxbaT5XfCEpTikygzrvpump",
-    "title": "🆕 New Pair: UwU8j7R35xL3z2GebdfQ... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/UwU8j7R35xL3z2GebdfQsxbaT5XfCEpTikygzrvpump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_solana_DJtoyXQBGJUyo4E9i1TJrMbhyUWZoN3d4BPrXgR9pump",
-    "title": "🆕 New Pair: DJtoyXQBGJUyo4E9i1TJ... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/DJtoyXQBGJUyo4E9i1TJrMbhyUWZoN3d4BPrXgR9pump",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "PAINT, hide, and DON'T GET CAUGHT! WETPAINT.FUN is an online multiplayer hide & seek game in which you use brushes to paint your character to blend in with the environment. A player gets chosen at random to hunt others. If you get hunted, you become a hunter and must find the others to win!",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_robinhood_0x790A68876dB582ECcBF7E7B2e7d504Efb7c4076e",
-    "title": "🆕 New Pair: 0x790A68876dB582ECcB... on robinhood",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x790A68876dB582ECcBF7E7B2e7d504Efb7c4076e",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "The gateway to launch AI apps and agents on RobinHood. Build with Rob 🔨",
-    "tags": [
-      "new_pair",
-      "robinhood",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
-  },
-  {
-    "id": "dexscreener_bsc_0x66F685C75B70626e4694fDa4Ba1a891cb5Ae7777",
-    "title": "🆕 New Pair: 0x66F685C75B70626e46... on bsc",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/bsc/0x66F685C75B70626e4694fDa4Ba1a891cb5Ae7777",
-    "published_at": "2026-08-07T16:03:53.126271Z",
-    "engagement": 0,
-    "summary": "The Most Valuable Asset",
+    "summary": "New token pair discovered on bsc via DexScreener.",
     "tags": [
       "new_pair",
       "bsc",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   },
   {
-    "id": "dexscreener_robinhood_0x10C42881B1174037758aA038Ec7c6cef34A7F032",
-    "title": "🆕 New Pair: 0x10C42881B117403775... on robinhood",
+    "id": "dexscreener_solana_2jrPeHZ9wt2pBTxPEuyNzDtJRTQDEbWhSoXYWsLHpump",
+    "title": "🆕 New Pair: 2jrPeHZ9wt2pBTxPEuyN... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x10C42881B1174037758aA038Ec7c6cef34A7F032",
-    "published_at": "2026-08-07T16:03:53.126271Z",
+    "url": "https://dexscreener.com/solana/2jrPeHZ9wt2pBTxPEuyNzDtJRTQDEbWhSoXYWsLHpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
     "engagement": 0,
-    "summary": "Launchpad & SocialFi Market Robinhood Chain\n\nTickup Fun is native token $TICK",
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_5htBfj98XydXx4i6APtHPtg1xPExcAfgQUvo1VE7pump",
+    "title": "🆕 New Pair: 5htBfj98XydXx4i6APtH... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/5htBfj98XydXx4i6APtHPtg1xPExcAfgQUvo1VE7pump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_C8P7PgKFxWWrGqEwRzEo5LiqEFxQRMHNUYwdFdydpump",
+    "title": "🆕 New Pair: C8P7PgKFxWWrGqEwRzEo... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/C8P7PgKFxWWrGqEwRzEo5LiqEFxQRMHNUYwdFdydpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0xE1dA75fF473553B97fA5cDD8aF16EB9781867aAf",
+    "title": "🆕 New Pair: 0xE1dA75fF473553B97f... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0xE1dA75fF473553B97fA5cDD8aF16EB9781867aAf",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "The first AND favourite Telegram's memecoin on Robinhood Chain",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-08-07T16:03:53.126271Z"
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0x06014fF2c6194B3Ea200c10f1F4A7Df56BBD9671",
+    "title": "🆕 New Pair: 0x06014fF2c6194B3Ea2... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x06014fF2c6194B3Ea200c10f1F4A7Df56BBD9671",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "Tokenized stocks deserve a real market, not a bonding curve. Orderbook execution, T+0.",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_E2K1qLeePjPbHB5MtGAVmVGnNy1TSBXA8C4FaJF2pump",
+    "title": "🆕 New Pair: E2K1qLeePjPbHB5MtGAV... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/E2K1qLeePjPbHB5MtGAVmVGnNy1TSBXA8C4FaJF2pump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "THIS DOLL IS ACTUALLY GOING INSANELY VIRAL FOR THE WEIRDEST REASON,\n\nThis account has only started posting 5 days ago, and it's been posting a weird little doll doing human things, basically the person is living with a family of dollls\n\nWhat's crazy, is that people are in shock due to how weird and freaky the posts are, however - the posts have gone INSANELY viral with over 10M+ views in just a single day \n\nThey've also been posting the doll on Tiktok which gained over 7M views in one day aswell\n\nThe last post, is all of the dolls that the person is living with, most importantly Ao-san (あおさん) Which means Mr/Ms Blue \n\nThis person also has a tiktok posting these freaky videos aswell as just starting a Youtube channel\n\nThis has never been ran before\n\n$Ao-san - あおさん",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_9HKc7bBrM3VAenwdqpfNMpNqLruKZzzkXCmZ4M4Fpump",
+    "title": "🆕 New Pair: 9HKc7bBrM3VAenwdqpfN... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/9HKc7bBrM3VAenwdqpfNMpNqLruKZzzkXCmZ4M4Fpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "The Serious Cat from 2003, Inspiration for cashcat.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_E23FKxupeaK9DKWmu57uRBDfiEsCw7ugH1qQ3we2pump",
+    "title": "🆕 New Pair: E23FKxupeaK9DKWmu57u... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/E23FKxupeaK9DKWmu57uRBDfiEsCw7ugH1qQ3we2pump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_7TEpR2uriiBnhumJmKPjxrNyNCbAG6EVgkxTLwBTFtCt",
+    "title": "🆕 New Pair: 7TEpR2uriiBnhumJmKPj... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/7TEpR2uriiBnhumJmKPjxrNyNCbAG6EVgkxTLwBTFtCt",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "Coldest Niggas Breathing",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0x802dFFFbac82b15676e2325DC726742D3db5Fa00",
+    "title": "🆕 New Pair: 0x802dFFFbac82b15676... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x802dFFFbac82b15676e2325DC726742D3db5Fa00",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "Mog in Hood brings laughs, memes, and good vibes to the Hood.\nBuilt for the meme lovers, the believers, and everyone who knows how to have fun in the community, Mog in Hood is here to bring people together through humor and meme culture.",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_4raXcCNXK2fraKAKK2Arjq4CFqAHFMhhV7xxStVwpump",
+    "title": "🆕 New Pair: 4raXcCNXK2fraKAKK2Ar... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/4raXcCNXK2fraKAKK2Arjq4CFqAHFMhhV7xxStVwpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_bsc_0x66b8a53eB288c834D4DdB5c1B172E6f7680F7777",
+    "title": "🆕 New Pair: 0x66b8a53eB288c834D4... on bsc",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/bsc/0x66b8a53eB288c834D4DdB5c1B172E6f7680F7777",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "We're in a Bstocks Super Cycle",
+    "tags": [
+      "new_pair",
+      "bsc",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
+  },
+  {
+    "id": "dexscreener_solana_D6j8LoE5QQuFjQT8d9td2qktYZxNW4S5KvQx2iBRpump",
+    "title": "🆕 New Pair: D6j8LoE5QQuFjQT8d9td... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/D6j8LoE5QQuFjQT8d9td2qktYZxNW4S5KvQx2iBRpump",
+    "published_at": "2026-08-07T17:52:27.741036Z",
+    "engagement": 0,
+    "summary": "Fortnite added a named CRYPTO coin in game called \"Cluster's Ducky Coin\"",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-08-07T17:52:27.741036Z"
   }
 ]
