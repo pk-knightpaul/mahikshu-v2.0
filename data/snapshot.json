@@ -1,5 +1,158 @@
 [
   {
+    "id": "snapshot_0x552df4fc99de0912773dacbb40e737f06628cd5388c3fe30e29846374ecea9f0",
+    "title": "🏛️ [Concentrator] [sdCRV] # [TEMP CHECK] CrossWorlds collateral-review add-on\n\nThis is a non-binding preference vote on CrossWorlds' revised risk-provider proposal. All provider votes run in parallel. You may vote in favor of multiple proposals, and su",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x552df4fc99de0912773dacbb40e737f06628cd5388c3fe30e29846374ecea9f0",
+    "published_at": "2026-08-10T16:21:23Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1477-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
+    "id": "snapshot_0x80606631c02b1c840482a5a9afb942658e17195822a916c7e93ca510a394b548",
+    "title": "🏛️ [Concentrator] [sdCRV] # [TEMP CHECK] yRisk risk-provider proposal (Scopes 1 & 2)\n\nThis is a non-binding preference vote on yRisk's risk-provider proposal. All provider votes run in parallel. You may vote in favor of multiple proposals, and support ",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x80606631c02b1c840482a5a9afb942658e17195822a916c7e93ca510a394b548",
+    "published_at": "2026-08-10T16:24:59Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1478-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
+    "id": "snapshot_0x52ce6d63fc81675352899a6134677415cb26e40fd96b879c8cd8421c2db2e029",
+    "title": "🏛️ [Concentrator] [sdCRV] # [TEMP CHECK] Xerberus risk-provider proposal (Scope 2 only)\n\nThis is a non-binding preference vote on Xerberus' risk-provider proposal. All provider votes run in parallel. You may vote in favor of multiple proposals, and sup",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x52ce6d63fc81675352899a6134677415cb26e40fd96b879c8cd8421c2db2e029",
+    "published_at": "2026-08-10T16:28:23Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1480-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
+    "id": "snapshot_0xf2c58deef323e6fd6645a767c056bbe24cfc3f01f3497699ec0dd23b31600086",
+    "title": "🏛️ [Concentrator] [sdCRV] # [TEMP CHECK] Blockworks Advisory risk-provider proposal (Scopes 1 & 2)\n\nThis is a non-binding preference vote on Blockworks Advisory's risk-provider proposal. All provider votes run in parallel. You may vote in favor of mult",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xf2c58deef323e6fd6645a767c056bbe24cfc3f01f3497699ec0dd23b31600086",
+    "published_at": "2026-08-10T16:27:59Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1479-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
+    "id": "snapshot_0xaef006d47c39df5c055267d702ff8185986b1164a2831fc153ddc9364d24b772",
+    "title": "🏛️ [sdCRV-Governance] # [TEMP CHECK] yRisk risk-provider proposal (Scopes 1 & 2)\n\nThis is a non-binding preference vote on yRisk's risk-provider proposal. All provider votes run in parallel. You may vote in favor of multiple proposals, and support for one does not cancel out...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xaef006d47c39df5c055267d702ff8185986b1164a2831fc153ddc9364d24b772",
+    "published_at": "2026-08-10T16:24:59Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1478-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
+    "id": "snapshot_0xeee729f064a65aa5b5e0f8b8eaffada937e4e4afd1b341ad4b9ea36811183d29",
+    "title": "🏛️ [sdCRV-Governance] # [TEMP CHECK] CrossWorlds collateral-review add-on\n\nThis is a non-binding preference vote on CrossWorlds' revised risk-provider proposal. All provider votes run in parallel. You may vote in favor of multiple proposals, and support for one does not canc...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xeee729f064a65aa5b5e0f8b8eaffada937e4e4afd1b341ad4b9ea36811183d29",
+    "published_at": "2026-08-10T16:21:23Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1477-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
+    "id": "snapshot_0xb5defb866b7aca18c84708dcb5e008444946bb608c0901e0feb3bf9e3d3530d5",
+    "title": "🏛️ [sdCRV-Governance] # [TEMP CHECK] Blockworks Advisory risk-provider proposal (Scopes 1 & 2)\n\nThis is a non-binding preference vote on Blockworks Advisory's risk-provider proposal. All provider votes run in parallel. You may vote in favor of multiple proposals, and support...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xb5defb866b7aca18c84708dcb5e008444946bb608c0901e0feb3bf9e3d3530d5",
+    "published_at": "2026-08-10T16:27:59Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1479-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
+    "id": "snapshot_0x94e88634870d067f24b59d2c7a35bc5ff667c695c0f7a265b8237fd282438939",
+    "title": "🏛️ [sdCRV-Governance] # [TEMP CHECK] Xerberus risk-provider proposal (Scope 2 only)\n\nThis is a non-binding preference vote on Xerberus' risk-provider proposal. All provider votes run in parallel. You may vote in favor of multiple proposals, and support for one does not cance...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x94e88634870d067f24b59d2c7a35bc5ff667c695c0f7a265b8237fd282438939",
+    "published_at": "2026-08-10T16:28:23Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1480-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
+    "id": "snapshot_0xdf4fcaeef440cde233034953f03ff14e68f167c9fd2b348155498fc253bae353",
+    "title": "🏛️ [Grove] Update Offchain Parameters for the Tokenized Treasury JTRSY Instance",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0xdf4fcaeef440cde233034953f03ff14e68f167c9fd2b348155498fc253bae353",
+    "published_at": "2026-08-10T15:52:53Z",
+    "engagement": 3,
+    "summary": "# Update Offchain Parameters for the Tokenized Treasury JTRSY Instance - August 10, 2026\n\nGrove's Operational Facilitator has placed a proposal into t...",
+    "tags": [
+      "governance",
+      "grovefinance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
+  },
+  {
     "id": "snapshot_0x8e3100c980d854b432075901030e0e105768a6317de9575db2d1dfccc4cb8e15",
     "title": "🏛️ [Concentrator] [sdCRV] YieldBasis WBTC/crvUSD: set new pool fees and reserved profit fraction, attach the proposed price_scale driver policy through the factory-admin proxy.",
     "platform": "snapshot",
@@ -14,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0x29bd18327ac3a5817290011cc2df28d57aef1e27803698e9440f703b2c53a2e1",
@@ -31,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0x5e1a4fff545931860ef98f2fc83393e584350dfc11438ddc168636a43082b6b1",
@@ -48,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0x8e6bae6077a102c56a77ef31b1ce816b9b487c5d149a569a40fb33f82b54d06b",
@@ -65,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0x7a9294f849b67fa22e5581d6dcc5a15f1a1f8936eef654aceaa590223d20d4af",
@@ -82,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0x564c94e3becbf4411a1574738d7e0ebd6914d9104084a86a19ea7ab4b264fec1",
@@ -99,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0xb4d49c06a4ca73f511dc280a6dc559a129733f95a59c3f49bddee585b99912f1",
@@ -116,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0xe3a2a6e4fc6942e9d38ab6fd428c2106fcd5bb736af198b47034f71591a929fe",
@@ -133,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0xf8c15d34133246e32ff64a33beb85a6da4f239d17e90005850062b82adb4ed76",
@@ -150,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0xb97f844e1d1de722f3d0a5bb05cfd05fec7a147d4de110200725e6b69204830f",
@@ -167,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   },
   {
     "id": "snapshot_0x7b22964fc5627b8a71a45e304a5b15e8d68e739f5bc400de7910ca9c7f972a7f",
@@ -184,159 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0x66d77027cddc5975527ed9a3b1c377e863d67fb85f9d3a8f72b5fec42e6904d3",
-    "title": "🏛️ [Gearbox] # [GIP-288] Update global infrastructure for RWA markets and protocol tooling",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/gearbox.eth/proposal/0x66d77027cddc5975527ed9a3b1c377e863d67fb85f9d3a8f72b5fec42e6904d3",
-    "published_at": "2026-08-08T10:43:45Z",
-    "engagement": 3,
-    "summary": "# Summary\n\nThis proposal introduces four updates to Gearbox’s global infrastructure:\n\n- Allows Account Factory v3.11, which creates a new Credit Accou...",
-    "tags": [
-      "governance",
-      "gearbox.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0x5fa1a742ba86606f1142728820a355993a1029d66b63b22ccc611bb5dd03da31",
-    "title": "🏛️ [Dream DAO] DREAM DAO PROPOSAL #88: Amanda’s Blockchain.RIO 2026 Community Initiative",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/thedreamdao.eth/proposal/0x5fa1a742ba86606f1142728820a355993a1029d66b63b22ccc611bb5dd03da31",
-    "published_at": "2026-08-08T10:42:46Z",
-    "engagement": 3,
-    "summary": "Over the past few years, DreamDAO has always been about experimentation, education, and creating opportunities for young people to grow. At the same t...",
-    "tags": [
-      "governance",
-      "thedreamdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0x2a306c4ea5aabb03624fdf9ea226c71a236b8f00691dd6bac93e3f4f1d859705",
-    "title": "🏛️ [Verified Operators] Proposal to restore Meta Pool's VO status",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vo.ssvnetwork.eth/proposal/0x2a306c4ea5aabb03624fdf9ea226c71a236b8f00691dd6bac93e3f4f1d859705",
-    "published_at": "2026-08-07T22:01:46Z",
-    "engagement": 3,
-    "summary": "A proposal to restore Meta Pool's Verified Operator status, after having met the criteria and restoring the required performance.\n\nMeta Pool — [ID 36]...",
-    "tags": [
-      "governance",
-      "vo.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0x8f9389349b0e560d30db53ba576b892c27c6fd58f1e31133565b8115d56e5de4",
-    "title": "🏛️ [Squid DAO] August SQUID Drop (Covering July)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/leviathannews.eth/proposal/0x8f9389349b0e560d30db53ba576b892c27c6fd58f1e31133565b8115d56e5de4",
-    "published_at": "2026-08-07T16:37:59Z",
-    "engagement": 8,
-    "summary": "![August-Squid-Drop.jpg](ipfs://bafybeieyoxgjl7xbwdodqgpbao3bqdtu3cxxikm2iuzf66adljcu27ycnu)\n\nThe August SQUID Drop covers contributions made in July....",
-    "tags": [
-      "governance",
-      "leviathannews.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0xa2b1b3a7ce0122e1440488713b139cba5989a1e543b68b1d4037fd660bdcac2e",
-    "title": "🏛️ [Pieverse Governance] PIP-5: Establishing the Pieverse Staking Program and Reward Model",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/pieverse-snapshot.eth/proposal/0xa2b1b3a7ce0122e1440488713b139cba5989a1e543b68b1d4037fd660bdcac2e",
-    "published_at": "2026-08-08T00:00:00Z",
-    "engagement": 5,
-    "summary": "## Summary\n\nThis proposal formally establishes the Pieverse staking program as a mechanism for long-term participation and alignment across the ecosys...",
-    "tags": [
-      "governance",
-      "pieverse-snapshot.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0x00729ac86e4f0135107ee1994aaccb7d37485bea03b0596c1f862603b0b24926",
-    "title": "🏛️ [ShapeShift Ideation] SCP‑220: Renewal of the International UX Workstream, September 2026 to December 2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ideation.shapeshiftdao.eth/proposal/0x00729ac86e4f0135107ee1994aaccb7d37485bea03b0596c1f862603b0b24926",
-    "published_at": "2026-08-06T23:52:58Z",
-    "engagement": 3,
-    "summary": "**Workstream Name:** International UX Workstream\n\n**Workstream Leader:** **Giantkin**\n\n* Empowered per SCP‑92 and SCP‑151 (granted budget allocation, ...",
-    "tags": [
-      "governance",
-      "ideation.shapeshiftdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0x0928fe253637c728f55f1b1ae4d7335359041741d31f70addf5d737147283957",
-    "title": "🏛️ [Decentraland]  Assign Voting Power to Decentraland Content Creators [GOV]",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0x0928fe253637c728f55f1b1ae4d7335359041741d31f70addf5d737147283957",
-    "published_at": "2026-08-06T22:33:00Z",
-    "engagement": 3,
-    "summary": "> by 0x247e0896706bb09245549e476257a0a1129db418 (coalition)\n\n## Linked Draft Proposal\n[Assign VP to Content Creators [DRAFT]](https://decentraland.org...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0x46a99e68af982d27fbfccf84776e1a2ed062be9fc6b3791ba4a6d78ee6771ba9",
-    "title": "🏛️ [Telcoin Staker] TGIP2: Recording the Upgraded TEL Contract in the Telcoin Association Constitution",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/telcoinstakervote.eth/proposal/0x46a99e68af982d27fbfccf84776e1a2ed062be9fc6b3791ba4a6d78ee6771ba9",
-    "published_at": "2026-08-06T22:32:14Z",
-    "engagement": 2,
-    "summary": "## Abstract\n\nThis TGIP proposes a single amendment to the Preamble of the Telcoin Association Constitution, replacing the legacy TEL contract address ...",
-    "tags": [
-      "governance",
-      "telcoinstakervote.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
-  },
-  {
-    "id": "snapshot_0x1274c8d5f4084fb7fdd4f9f53650522f7339ad14c35447d984c4acfee3024061",
-    "title": "🏛️ [Telcoin Validator] TGIP2: Recording the Upgraded TEL Contract in the Telcoin Association Constitution",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/telcoinvalidatorvote.eth/proposal/0x1274c8d5f4084fb7fdd4f9f53650522f7339ad14c35447d984c4acfee3024061",
-    "published_at": "2026-08-06T22:31:36Z",
-    "engagement": 2,
-    "summary": "## Abstract\n\nThis TGIP proposes a single amendment to the Preamble of the Telcoin Association Constitution, replacing the legacy TEL contract address ...",
-    "tags": [
-      "governance",
-      "telcoinvalidatorvote.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-10T15:05:02.576142Z"
+    "fetched_at": "2026-08-10T16:58:56.986866Z"
   }
 ]
