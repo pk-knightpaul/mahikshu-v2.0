@@ -1,6 +1,54 @@
 [
   {
-    "id": "news_cointelegraph_2857691114",
+    "id": "news_cointelegraph_2805930224",
+    "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
+    "platform": "news",
+    "content_type": "regulation",
+    "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T16:39:17Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase-backed Flowdesk secures full broker-dealer license in Dubai\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.i...",
+    "tags": [
+      "cointelegraph",
+      "news",
+      "regulation"
+    ],
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
+  },
+  {
+    "id": "news_cointelegraph_1197806235",
+    "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T16:34:40Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
+    "tags": [
+      "cointelegraph",
+      "news",
+      "news"
+    ],
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
+  },
+  {
+    "id": "news_cointelegraph_4161684091",
+    "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "2026-08-11T16:24:48Z",
+    "engagement": 0,
+    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin drops to one-week low as retail buys gold at highest prices since June\" class=\"type:primaryImage\" src=\"https://s3-images...",
+    "tags": [
+      "cointelegraph",
+      "news",
+      "news"
+    ],
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
+  },
+  {
+    "id": "news_cointelegraph_1840622470",
     "title": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
     "platform": "news",
     "content_type": "news",
@@ -13,10 +61,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_2612345564",
+    "id": "news_cointelegraph_1053656511",
     "title": "SharpLink reports $394M in Q2 net loss fueled by ETH decline",
     "platform": "news",
     "content_type": "news",
@@ -29,10 +77,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_1744093028",
+    "id": "news_cointelegraph_3014719965",
     "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
     "platform": "news",
     "content_type": "news",
@@ -45,10 +93,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_764428956",
+    "id": "news_cointelegraph_50091882",
     "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
     "platform": "news",
     "content_type": "news",
@@ -61,10 +109,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_3033189215",
+    "id": "news_cointelegraph_1535607444",
     "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
     "platform": "news",
     "content_type": "news",
@@ -77,10 +125,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_3948896609",
+    "id": "news_cointelegraph_2187735976",
     "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
     "platform": "news",
     "content_type": "security",
@@ -93,10 +141,10 @@
       "news",
       "security"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_527283545",
+    "id": "news_cointelegraph_1956106917",
     "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
     "platform": "news",
     "content_type": "news",
@@ -109,10 +157,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_192755230",
+    "id": "news_cointelegraph_2763541876",
     "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
     "platform": "news",
     "content_type": "news",
@@ -125,10 +173,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_3468690159",
+    "id": "news_cointelegraph_159307455",
     "title": "Here’s what happened in crypto today",
     "platform": "news",
     "content_type": "news",
@@ -141,10 +189,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_1182971793",
+    "id": "news_cointelegraph_2878317740",
     "title": "South Korea drops Travel Rule threshold for crypto transfers",
     "platform": "news",
     "content_type": "news",
@@ -157,10 +205,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_4007647975",
+    "id": "news_cointelegraph_233533531",
     "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
     "platform": "news",
     "content_type": "news",
@@ -173,10 +221,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_1710057025",
+    "id": "news_cointelegraph_1124769376",
     "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
     "platform": "news",
     "content_type": "news",
@@ -189,58 +237,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_cointelegraph_3898711595",
-    "title": "White House vows to get CLARITY across ‘finish line’ in September",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T04:12:58Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"White House vows to get CLARITY across ‘finish line’ in September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/m...",
-    "tags": [
-      "cointelegraph",
-      "news",
-      "news"
-    ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
-  },
-  {
-    "id": "news_cointelegraph_3155155523",
-    "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T03:21:27Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media to revamp crypto treasury strategy after $238M Q2 loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/...",
-    "tags": [
-      "cointelegraph",
-      "news",
-      "news"
-    ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
-  },
-  {
-    "id": "news_cointelegraph_1945713505",
-    "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "2026-08-11T02:08:36Z",
-    "engagement": 0,
-    "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-ima...",
-    "tags": [
-      "cointelegraph",
-      "news",
-      "news"
-    ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
-  },
-  {
-    "id": "news_coindesk_142600",
+    "id": "news_coindesk_2769709544",
     "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
     "platform": "news",
     "content_type": "news",
@@ -253,10 +253,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_22621906",
+    "id": "news_coindesk_1852295222",
     "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
     "platform": "news",
     "content_type": "regulation",
@@ -269,10 +269,10 @@
       "news",
       "regulation"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_1162423838",
+    "id": "news_coindesk_1102493137",
     "title": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
     "platform": "news",
     "content_type": "regulation",
@@ -285,10 +285,10 @@
       "news",
       "regulation"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_1212616636",
+    "id": "news_coindesk_1521330862",
     "title": "MoneyGram expands on Solana with global crypto-to-cash service",
     "platform": "news",
     "content_type": "news",
@@ -301,10 +301,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_4221186141",
+    "id": "news_coindesk_615248626",
     "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
     "platform": "news",
     "content_type": "news",
@@ -317,10 +317,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_107411098",
+    "id": "news_coindesk_575660420",
     "title": "Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions",
     "platform": "news",
     "content_type": "news",
@@ -333,10 +333,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_956137969",
+    "id": "news_coindesk_4112259586",
     "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
     "platform": "news",
     "content_type": "news",
@@ -349,10 +349,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_979398546",
+    "id": "news_coindesk_1096284953",
     "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
     "platform": "news",
     "content_type": "news",
@@ -365,10 +365,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_2145862831",
+    "id": "news_coindesk_104062514",
     "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
     "platform": "news",
     "content_type": "news",
@@ -381,10 +381,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_2581385100",
+    "id": "news_coindesk_1253069977",
     "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
     "platform": "news",
     "content_type": "news",
@@ -397,11 +397,11 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_1949420814",
-    "title": "Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations",
+    "id": "news_coindesk_3427471056",
+    "title": "Live updates: Bitcoin falls to $63,500; Anthropic to watermark Claude's AI content after EU regulations",
     "platform": "news",
     "content_type": "regulation",
     "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
@@ -413,10 +413,10 @@
       "news",
       "regulation"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_2279241687",
+    "id": "news_coindesk_2022244252",
     "title": "FlightAware sues Kalshi over bets on flight cancellations",
     "platform": "news",
     "content_type": "news",
@@ -429,10 +429,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_1535409202",
+    "id": "news_coindesk_1682532121",
     "title": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
     "platform": "news",
     "content_type": "news",
@@ -445,10 +445,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_378007649",
+    "id": "news_coindesk_1359739977",
     "title": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
     "platform": "news",
     "content_type": "news",
@@ -461,10 +461,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_coindesk_2996468800",
+    "id": "news_coindesk_3218480051",
     "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
     "platform": "news",
     "content_type": "regulation",
@@ -477,10 +477,42 @@
       "news",
       "regulation"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_936228101",
+    "id": "news_decrypt_4122266891",
+    "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
+    "published_at": "2026-08-11T16:45:30Z",
+    "engagement": 0,
+    "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
+    "tags": [
+      "decrypt",
+      "news",
+      "news"
+    ],
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
+  },
+  {
+    "id": "news_decrypt_922321193",
+    "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
+    "platform": "news",
+    "content_type": "news",
+    "url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
+    "published_at": "2026-08-11T15:05:35Z",
+    "engagement": 0,
+    "summary": "Chloé Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
+    "tags": [
+      "decrypt",
+      "news",
+      "news"
+    ],
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
+  },
+  {
+    "id": "news_decrypt_1457584729",
     "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
     "platform": "news",
     "content_type": "news",
@@ -493,10 +525,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_729217444",
+    "id": "news_decrypt_430372838",
     "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
     "platform": "news",
     "content_type": "news",
@@ -509,10 +541,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_2103043661",
+    "id": "news_decrypt_2485255911",
     "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
     "platform": "news",
     "content_type": "regulation",
@@ -525,10 +557,10 @@
       "news",
       "regulation"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_1942648939",
+    "id": "news_decrypt_1452834175",
     "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
     "platform": "news",
     "content_type": "security",
@@ -541,10 +573,10 @@
       "news",
       "security"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_1411203972",
+    "id": "news_decrypt_367492787",
     "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
     "platform": "news",
     "content_type": "news",
@@ -557,10 +589,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_1322772073",
+    "id": "news_decrypt_39154432",
     "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
     "platform": "news",
     "content_type": "regulation",
@@ -573,10 +605,10 @@
       "news",
       "regulation"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_601299409",
+    "id": "news_decrypt_3275171223",
     "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
     "platform": "news",
     "content_type": "regulation",
@@ -589,10 +621,10 @@
       "news",
       "regulation"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_2699979824",
+    "id": "news_decrypt_775552706",
     "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
     "platform": "news",
     "content_type": "news",
@@ -605,10 +637,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_3093978520",
+    "id": "news_decrypt_3351091749",
     "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
     "platform": "news",
     "content_type": "news",
@@ -621,10 +653,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_2875376338",
+    "id": "news_decrypt_2394282016",
     "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
     "platform": "news",
     "content_type": "news",
@@ -637,10 +669,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_2556101390",
+    "id": "news_decrypt_4228470379",
     "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
     "platform": "news",
     "content_type": "news",
@@ -653,10 +685,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_2800383217",
+    "id": "news_decrypt_3006352510",
     "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
     "platform": "news",
     "content_type": "news",
@@ -669,10 +701,10 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   },
   {
-    "id": "news_decrypt_3655518577",
+    "id": "news_decrypt_4169495277",
     "title": "Bitcoin Rally Fades—Where Does Price Go Next?",
     "platform": "news",
     "content_type": "news",
@@ -685,38 +717,6 @@
       "news",
       "news"
     ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
-  },
-  {
-    "id": "news_decrypt_2024566786",
-    "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
-    "published_at": "2026-08-10T16:25:28Z",
-    "engagement": 0,
-    "summary": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
-    "tags": [
-      "decrypt",
-      "news",
-      "news"
-    ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
-  },
-  {
-    "id": "news_decrypt_687641857",
-    "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
-    "platform": "news",
-    "content_type": "news",
-    "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
-    "published_at": "2026-08-10T16:11:20Z",
-    "engagement": 0,
-    "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
-    "tags": [
-      "decrypt",
-      "news",
-      "news"
-    ],
-    "fetched_at": "2026-08-11T15:03:34.088278Z"
+    "fetched_at": "2026-08-11T17:02:52.399305Z"
   }
 ]
