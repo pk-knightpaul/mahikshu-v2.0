@@ -1,11 +1,27 @@
 [
   {
+    "id": "coingecko_trending_pudgy-penguins",
+    "title": "🔥 Trending: Pudgy Penguins (PENGU)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 108,
+    "summary": "Pudgy Penguins is currently trending on CoinGecko. Market cap rank: #108",
+    "tags": [
+      "trending",
+      "pengu",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
+  },
+  {
     "id": "coingecko_trending_cow-protocol",
     "title": "🔥 Trending: CoW Protocol (COW)",
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/cow-protocol",
-    "published_at": "2026-08-15T16:31:14.764577Z",
+    "published_at": "2026-08-15T17:25:34.306814Z",
     "engagement": 284,
     "summary": "CoW Protocol is currently trending on CoinGecko. Market cap rank: #284",
     "tags": [
@@ -13,87 +29,7 @@
       "cow",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
-  },
-  {
-    "id": "coingecko_trending_walrus-2",
-    "title": "🔥 Trending: Walrus (WAL)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/walrus-2",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 349,
-    "summary": "Walrus is currently trending on CoinGecko. Market cap rank: #349",
-    "tags": [
-      "trending",
-      "wal",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
-  },
-  {
-    "id": "coingecko_trending_chainlink",
-    "title": "🔥 Trending: Chainlink (LINK)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/chainlink",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 17,
-    "summary": "Chainlink is currently trending on CoinGecko. Market cap rank: #17",
-    "tags": [
-      "trending",
-      "link",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
-  },
-  {
-    "id": "coingecko_trending_pump-fun",
-    "title": "🔥 Trending: Pump.fun (PUMP)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 64,
-    "summary": "Pump.fun is currently trending on CoinGecko. Market cap rank: #64",
-    "tags": [
-      "trending",
-      "pump",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
-  },
-  {
-    "id": "coingecko_trending_kiichain",
-    "title": "🔥 Trending: KiiChain (KII)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/kiichain",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 728,
-    "summary": "KiiChain is currently trending on CoinGecko. Market cap rank: #728",
-    "tags": [
-      "trending",
-      "kii",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
-  },
-  {
-    "id": "coingecko_trending_pudgy-penguins",
-    "title": "🔥 Trending: Pudgy Penguins (PENGU)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 109,
-    "summary": "Pudgy Penguins is currently trending on CoinGecko. Market cap rank: #109",
-    "tags": [
-      "trending",
-      "pengu",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
     "id": "coingecko_trending_the-black-bull",
@@ -101,31 +37,47 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/the-black-bull",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 254,
-    "summary": "The Black Bull is currently trending on CoinGecko. Market cap rank: #254",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 253,
+    "summary": "The Black Bull is currently trending on CoinGecko. Market cap rank: #253",
     "tags": [
       "trending",
       "ansem",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
-    "id": "coingecko_trending_plume",
-    "title": "🔥 Trending: Plume (PLUME)",
+    "id": "coingecko_trending_chainlink",
+    "title": "🔥 Trending: Chainlink (LINK)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/plume",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 283,
-    "summary": "Plume is currently trending on CoinGecko. Market cap rank: #283",
+    "url": "https://www.coingecko.com/en/coins/chainlink",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 17,
+    "summary": "Chainlink is currently trending on CoinGecko. Market cap rank: #17",
     "tags": [
       "trending",
-      "plume",
+      "link",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
+  },
+  {
+    "id": "coingecko_trending_walrus-2",
+    "title": "🔥 Trending: Walrus (WAL)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/walrus-2",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 358,
+    "summary": "Walrus is currently trending on CoinGecko. Market cap rank: #358",
+    "tags": [
+      "trending",
+      "wal",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
     "id": "coingecko_trending_pi-network",
@@ -133,7 +85,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pi-network",
-    "published_at": "2026-08-15T16:31:14.764577Z",
+    "published_at": "2026-08-15T17:25:34.306814Z",
     "engagement": 66,
     "summary": "Pi Network is currently trending on CoinGecko. Market cap rank: #66",
     "tags": [
@@ -141,7 +93,55 @@
       "pi",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
+  },
+  {
+    "id": "coingecko_trending_aave",
+    "title": "🔥 Trending: Aave (AAVE)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/aave",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 51,
+    "summary": "Aave is currently trending on CoinGecko. Market cap rank: #51",
+    "tags": [
+      "trending",
+      "aave",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
+  },
+  {
+    "id": "coingecko_trending_bitcoin",
+    "title": "🔥 Trending: Bitcoin (BTC)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 1,
+    "summary": "Bitcoin is currently trending on CoinGecko. Market cap rank: #1",
+    "tags": [
+      "trending",
+      "btc",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
+  },
+  {
+    "id": "coingecko_trending_ethereum",
+    "title": "🔥 Trending: Ethereum (ETH)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 2,
+    "summary": "Ethereum is currently trending on CoinGecko. Market cap rank: #2",
+    "tags": [
+      "trending",
+      "eth",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
     "id": "coingecko_trending_akedo",
@@ -149,94 +149,94 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/akedo",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 144,
-    "summary": "Akedo is currently trending on CoinGecko. Market cap rank: #144",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 145,
+    "summary": "Akedo is currently trending on CoinGecko. Market cap rank: #145",
     "tags": [
       "trending",
       "ake",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
-    "id": "coingecko_trending_lab",
-    "title": "🔥 Trending: LAB (LAB)",
+    "id": "coingecko_trending_ripple",
+    "title": "🔥 Trending: XRP (XRP)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/lab",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 331,
-    "summary": "LAB is currently trending on CoinGecko. Market cap rank: #331",
+    "url": "https://www.coingecko.com/en/coins/ripple",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 6,
+    "summary": "XRP is currently trending on CoinGecko. Market cap rank: #6",
     "tags": [
       "trending",
-      "lab",
+      "xrp",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
-    "id": "coingecko_trending_cosmos",
-    "title": "🔥 Trending: Cosmos Hub (ATOM)",
+    "id": "coingecko_trending_cash-cat",
+    "title": "🔥 Trending: Cash Cat (CASHCAT)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/cosmos",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 77,
-    "summary": "Cosmos Hub is currently trending on CoinGecko. Market cap rank: #77",
+    "url": "https://www.coingecko.com/en/coins/cash-cat",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 221,
+    "summary": "Cash Cat is currently trending on CoinGecko. Market cap rank: #221",
     "tags": [
       "trending",
-      "atom",
+      "cashcat",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
-    "id": "coingecko_trending_avalanche-2",
-    "title": "🔥 Trending: Avalanche (AVAX)",
+    "id": "coingecko_trending_kiichain",
+    "title": "🔥 Trending: KiiChain (KII)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/avalanche-2",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 30,
-    "summary": "Avalanche is currently trending on CoinGecko. Market cap rank: #30",
+    "url": "https://www.coingecko.com/en/coins/kiichain",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 726,
+    "summary": "KiiChain is currently trending on CoinGecko. Market cap rank: #726",
     "tags": [
       "trending",
-      "avax",
+      "kii",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
-    "id": "coingecko_trending_velvet",
-    "title": "🔥 Trending: Velvet (VELVET)",
+    "id": "coingecko_trending_hyperliquid",
+    "title": "🔥 Trending: Hyperliquid (HYPE)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/velvet",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 108,
-    "summary": "Velvet is currently trending on CoinGecko. Market cap rank: #108",
+    "url": "https://www.coingecko.com/en/coins/hyperliquid",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 10,
+    "summary": "Hyperliquid is currently trending on CoinGecko. Market cap rank: #10",
     "tags": [
       "trending",
-      "velvet",
+      "hype",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   },
   {
-    "id": "coingecko_trending_litecoin",
-    "title": "🔥 Trending: Litecoin (LTC)",
+    "id": "coingecko_trending_ondo-finance",
+    "title": "🔥 Trending: Ondo (ONDO)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/litecoin",
-    "published_at": "2026-08-15T16:31:14.764577Z",
-    "engagement": 28,
-    "summary": "Litecoin is currently trending on CoinGecko. Market cap rank: #28",
+    "url": "https://www.coingecko.com/en/coins/ondo-finance",
+    "published_at": "2026-08-15T17:25:34.306814Z",
+    "engagement": 47,
+    "summary": "Ondo is currently trending on CoinGecko. Market cap rank: #47",
     "tags": [
       "trending",
-      "ltc",
+      "ondo",
       "coingecko"
     ],
-    "fetched_at": "2026-08-15T16:31:14.764577Z"
+    "fetched_at": "2026-08-15T17:25:34.306814Z"
   }
 ]
