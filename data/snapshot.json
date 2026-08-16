@@ -1,5 +1,73 @@
 [
   {
+    "id": "snapshot_0xc064c7520b727cf3d8fa1838b11b3f72574b05262173b2110c252dc7913785a4",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1487",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xc064c7520b727cf3d8fa1838b11b3f72574b05262173b2110c252dc7913785a4",
+    "published_at": "2026-08-16T16:57:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1487.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1487-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
+  },
+  {
+    "id": "snapshot_0x88276a3ab182485c861fbf87a4f1f90bd70064c44a154aafb11342db03e5cd0b",
+    "title": "🏛️ [Concentrator] [sdCRV] Kill emissions for the following pools on ETH mainnet: ebUSD/USDC, LQTYFORKS, OUSD/ebUSD, frxUSD/ebUSD and ZUSDFRAXBP.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x88276a3ab182485c861fbf87a4f1f90bd70064c44a154aafb11342db03e5cd0b",
+    "published_at": "2026-08-16T16:57:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1487-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
+  },
+  {
+    "id": "snapshot_0xd8a6e6f3dea8cfebd0278a8ec0a1b37eba9b5aed38045e0102a560385ef3d8ae",
+    "title": "🏛️ [sdCRV-Governance] Kill emissions for the following pools on ETH mainnet: ebUSD/USDC, LQTYFORKS, OUSD/ebUSD, frxUSD/ebUSD and ZUSDFRAXBP.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xd8a6e6f3dea8cfebd0278a8ec0a1b37eba9b5aed38045e0102a560385ef3d8ae",
+    "published_at": "2026-08-16T16:57:47Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1487-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
+  },
+  {
+    "id": "snapshot_0xb690f75f68adcf40d49d7ef398fcf544ec1bde78a0d3501b0738ed470a438125",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1487",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xb690f75f68adcf40d49d7ef398fcf544ec1bde78a0d3501b0738ed470a438125",
+    "published_at": "2026-08-16T16:57:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1487.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1487-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
+  },
+  {
     "id": "snapshot_0xe9bc6cde8ccf7364b5971d819cfd6653d4681ffd595f02dd84ccb48f3ea849e8",
     "title": "🏛️ [Triumphlied für achtstimmigen II] test",
     "platform": "snapshot",
@@ -14,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xce5007b26ae2ef6800acbeb7d21d5e8756f467b34f20274a06db5d5f4fe53644",
@@ -31,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0x881ad66d38bf128b3c30372479347b5807fa42f4e141559894d00c6b4322da3d",
@@ -48,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0x56b10a5ce299dff9195c7f2f99f9e75ed8bae207ebf48228b9e6aecb72f6da9e",
@@ -65,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xe23a98978a38927f3966869f8d1a105db4e1508c6705085d6ada47ad366f996d",
@@ -82,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xce9f0f04a4de2fcadc2bca0858b5384492dfe5e8efbd40633bbec40e24ecc5ea",
@@ -99,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xed5edc3f33a3b5d845452df717c18a3eb105a2eae8ab8be34cbf0832dfe8a20a",
@@ -116,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0x69581bc0397009fa83c807e9534add356bd1b54876b56deacc0b21bbb51f4089",
@@ -133,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xf9b91d380e1724fffe543a7752b476b71424e9607662c1d45f301b3471fae9ea",
@@ -150,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xbe9bdc4961008be536922ee135a61b0ca1d1490b308a0b4fb78b7cced7a3cedf",
@@ -167,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xb0686eb03ff2186c7c7158ddc26812c34e83fa405eae7741f50cb37a0a171746",
@@ -184,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xdf05044a9033debacb168a275040337c5b32457b1dc92629babc6f39e5da87b3",
@@ -201,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0xcf2a35f4ce5133b213d8b8e275cc93fec2894d9a0426b162712a00e59afdf6cf",
@@ -218,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0x0f5685b31a3f0b5d44efdd4fa2859bb898be1ed6d8e2d867cd4d9a720bc25d30",
@@ -235,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0x5aaddd2c68802fd4d0f94c9fe215a6782fc3a0c80b01e91da94fcdadae084d38",
@@ -252,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   },
   {
     "id": "snapshot_0x817bceef44104e964b95b4bf2f3b46590cce2d4183cc2e2a9e61dd9aaa37573f",
@@ -269,74 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
-  },
-  {
-    "id": "snapshot_0x307e566290c5ba413761563e1e4a93fd1513809d0d758f109a4edcffb9c193de",
-    "title": "🏛️ [Decentraland] Should Decentraland Create Clear Rules for Platform-Wide Bans?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0x307e566290c5ba413761563e1e4a93fd1513809d0d758f109a4edcffb9c193de",
-    "published_at": "2026-08-13T22:03:00Z",
-    "engagement": 3,
-    "summary": "> by 0x6723dcb07f3ca735223cd1c0acfa62dd994a1bb4 (ToxicWaifu)\n\n### Summary\n\nDecentraland currently lacks a clear and transparent framework for platform...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
-  },
-  {
-    "id": "snapshot_0x8853dd5ed1e8cfca52c9042cfa9fe77a2409d0a4a46bbfd848d6ce7419ed1773",
-    "title": "🏛️ [ShapeShift Ideation] [SCP-222] Operations Workstream Renewal",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ideation.shapeshiftdao.eth/proposal/0x8853dd5ed1e8cfca52c9042cfa9fe77a2409d0a4a46bbfd848d6ce7419ed1773",
-    "published_at": "2026-08-13T19:46:30Z",
-    "engagement": 3,
-    "summary": "[SCP-222] Operations Workstream Renewal\n\nSummary\n\nThis proposal seeks to establish @MBMaria as the Workstream Leader for Operations for a 4-month term...",
-    "tags": [
-      "governance",
-      "ideation.shapeshiftdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
-  },
-  {
-    "id": "snapshot_0xb0db811362255c37c8a2432e9ccf2d0b57b6fe904cc55b07c32fe4aebd516ae7",
-    "title": "🏛️ [League of Lils] 989: Nouns Treasury Management - USDC",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/leagueoflils.eth/proposal/0xb0db811362255c37c8a2432e9ccf2d0b57b6fe904cc55b07c32fe4aebd516ae7",
-    "published_at": "2026-08-13T18:32:01Z",
-    "engagement": 3,
-    "summary": "**View proposal:** https://lilnouns.wtf/vote/nouns/989",
-    "tags": [
-      "governance",
-      "leagueoflils.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
-  },
-  {
-    "id": "snapshot_0xc09f7c744568f6bb558fa67a9a74048a5babd7b3b286798dd37026613b6cfe62",
-    "title": "🏛️ [Yellow Collective] 989: Nouns Treasury Management - USDC",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/yellowcollective.eth/proposal/0xc09f7c744568f6bb558fa67a9a74048a5babd7b3b286798dd37026613b6cfe62",
-    "published_at": "2026-08-13T18:31:52Z",
-    "engagement": 3,
-    "summary": "**Nouns proposal:** https://nouns.game/proposals/989\n**Yellow Collective voting page:** https://yellowcollective.art/proposals/nouns/989\n\nVote here to...",
-    "tags": [
-      "governance",
-      "yellowcollective.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-16T16:32:03.818307Z"
+    "fetched_at": "2026-08-16T17:24:26.568370Z"
   }
 ]
