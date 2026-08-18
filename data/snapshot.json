@@ -1,5 +1,56 @@
 [
   {
+    "id": "snapshot_0xa9fcf1d33d68f3b978e8e572e98825842bf9acebf055f680fa38507bcfb8ddfc",
+    "title": "🏛️ [Morpho] MIP 133 - Add Spearbit as DAO Multisig Signer and Update Threshold to 6",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/morpho.eth/proposal/0xa9fcf1d33d68f3b978e8e572e98825842bf9acebf055f680fa38507bcfb8ddfc",
+    "published_at": "2026-08-18T21:59:32Z",
+    "engagement": 3,
+    "summary": "This proposal asks the Morpho DAO to approve the addition of Spearbit as a trusted signer on the DAO multisig and to increase the multisig signing thr...",
+    "tags": [
+      "governance",
+      "morpho.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
+  },
+  {
+    "id": "snapshot_0x7c4d04d7c83d39909e9098dc720256c806c35f0a237bdbac0e8f3b6e2bcbdbc7",
+    "title": "🏛️ [Concentrator] [sdCRV] Apply new Fee Gamma from 0.0005 to 0.063 for ZARP FRXUSD FXSWAP DFB V1 pool on ETH mainnet (All other parameters remain same).",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x7c4d04d7c83d39909e9098dc720256c806c35f0a237bdbac0e8f3b6e2bcbdbc7",
+    "published_at": "2026-08-18T21:26:59Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1490-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
+  },
+  {
+    "id": "snapshot_0xf90afb58c9e100305201e7dd975d437d0ced76cbcb7e84783a69280cd153caa2",
+    "title": "🏛️ [sdCRV-Governance] Apply new Fee Gamma from 0.0005 to 0.063 for ZARP FRXUSD FXSWAP DFB V1 pool on ETH mainnet (All other parameters remain same).",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xf90afb58c9e100305201e7dd975d437d0ced76cbcb7e84783a69280cd153caa2",
+    "published_at": "2026-08-18T21:26:59Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1490-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
+  },
+  {
     "id": "snapshot_0xc6199e1868681bdd32b508fb059c1520101080b4a6d1b2b3234b2619e3647849",
     "title": "🏛️ [Compound] Treasury Management Program USDC Allocation",
     "platform": "snapshot",
@@ -14,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x30bdc1ca61c7974b63c8c5633bc064d962c618e0d9250d58a44e4a7171c10e08",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x05b44a50ca70c751e2e4c664763d9ea437469926d5d37e32c7159bc9a758e070",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x14dabb98b3bbed131846c9a262558235aa8d86b584e74643a363bd71ef6c7983",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x272c6c4f19550a0cda42d2d7a385cee849464f5a0ce4e6a9de1df2903712455e",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0xf41c3c6def5d9088c9fa8aa7aab6b3d1b148df2875ed0785270de65b0428c0e0",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x0502452cbad7c84ce4136b1b2f31071d9601042cc044936a4c5a37e923844f72",
@@ -116,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x4ac2e7d84b62d3b5f9abeb4d074de09c6112a8294736a97ecd56232fb0ec8bc9",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x3a83aac7627ad56b52b72c61b62c14ad0e7df98e442cb691342039df4f26fac3",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x6b34b2df2871e69a37637cfc4b224aa70ff18f385ff58c310db02f77b8635e5b",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x1d9fabee13cfe22586473e36d8d402e571bc759cd67087384b45fdb92d4ad5c8",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0xe4df5dc19e5a5097066b2c7e8d0bb54d7985006abbca8456bd59bb41f2a5500f",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x27651e5f8b9935b29414bff10dd635a678ef07553b49fa99a29cb18115378088",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0xd73b23dee6ddf125a2a33afdc620f7067b8f55e4e2b8cb1c762292db933d4df0",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0x0166056127fca4b0be67f12265e688247ef770bb608d9dcffed64feba121c380",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0xb35a524da0da215ee62c17129e6a7002a60b4cec132ee950d80fccb3122e4fce",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   },
   {
     "id": "snapshot_0xe6c789fc5c06e48e0e5716b1fc40ba160071ea1f00006a1dfc96e149c1e0cc3e",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
-  },
-  {
-    "id": "snapshot_0x01a287ddec297d1ffe1e5c8391431fe1ee1c415e3f7e8b93d437ee9a66f29820",
-    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Onboard SparkLend RLUSD",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x01a287ddec297d1ffe1e5c8391431fe1ee1c415e3f7e8b93d437ee9a66f29820",
-    "published_at": "2026-08-17T16:36:00Z",
-    "engagement": 3,
-    "summary": "# [Ethereum] Spark Liquidity Layer - Onboard SparkLend RLUSD - August 17, 2026\n\nSpark's Operational Facilitator has placed a proposal into the voting ...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
-  },
-  {
-    "id": "snapshot_0xf8a0b03d3638192899495e8d85a272d78f7c61324e3f1c1f320add23ab91bda3",
-    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Onboard SparkLend USDG",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xf8a0b03d3638192899495e8d85a272d78f7c61324e3f1c1f320add23ab91bda3",
-    "published_at": "2026-08-17T16:29:43Z",
-    "engagement": 3,
-    "summary": "# [Ethereum] Spark Liquidity Layer - Onboard SparkLend USDG - August 17, 2026\n\nSpark's Operational Facilitator has placed a proposal into the voting s...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
-  },
-  {
-    "id": "snapshot_0xb52f5af4a34d72909de8f17083d0af68af38eceae1277d8b65925a3d1417cc1f",
-    "title": "🏛️ [Spark] SAEP-19: Remove the Spark Risk Council",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xb52f5af4a34d72909de8f17083d0af68af38eceae1277d8b65925a3d1417cc1f",
-    "published_at": "2026-08-17T16:22:41Z",
-    "engagement": 3,
-    "summary": "# SAEP-19: Remove the Spark Risk Council - August 17, 2026\n\nSpark's Operational Facilitator has placed a proposal into the voting system on behalf of ...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-18T21:29:37.178861Z"
+    "fetched_at": "2026-08-18T22:29:36.355484Z"
   }
 ]
