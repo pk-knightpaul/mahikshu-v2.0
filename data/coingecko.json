@@ -5,7 +5,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "published_at": "2026-08-19T17:31:09.213310Z",
+    "published_at": "2026-08-19T18:42:41.443866Z",
     "engagement": 1,
     "summary": "Bitcoin is currently trending on CoinGecko. Market cap rank: #1",
     "tags": [
@@ -13,87 +13,7 @@
       "btc",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
-  },
-  {
-    "id": "coingecko_trending_ethereum",
-    "title": "🔥 Trending: Ethereum (ETH)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 2,
-    "summary": "Ethereum is currently trending on CoinGecko. Market cap rank: #2",
-    "tags": [
-      "trending",
-      "eth",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
-  },
-  {
-    "id": "coingecko_trending_solana",
-    "title": "🔥 Trending: Solana (SOL)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 7,
-    "summary": "Solana is currently trending on CoinGecko. Market cap rank: #7",
-    "tags": [
-      "trending",
-      "sol",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
-  },
-  {
-    "id": "coingecko_trending_hyperliquid",
-    "title": "🔥 Trending: Hyperliquid (HYPE)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/hyperliquid",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 10,
-    "summary": "Hyperliquid is currently trending on CoinGecko. Market cap rank: #10",
-    "tags": [
-      "trending",
-      "hype",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
-  },
-  {
-    "id": "coingecko_trending_bitway",
-    "title": "🔥 Trending: Bitway (BTW)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/bitway",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 66,
-    "summary": "Bitway is currently trending on CoinGecko. Market cap rank: #66",
-    "tags": [
-      "trending",
-      "btw",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
-  },
-  {
-    "id": "coingecko_trending_lighter",
-    "title": "🔥 Trending: Lighter (LIT)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/lighter",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 90,
-    "summary": "Lighter is currently trending on CoinGecko. Market cap rank: #90",
-    "tags": [
-      "trending",
-      "lit",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   },
   {
     "id": "coingecko_trending_pump-fun",
@@ -101,31 +21,63 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 59,
-    "summary": "Pump.fun is currently trending on CoinGecko. Market cap rank: #59",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 61,
+    "summary": "Pump.fun is currently trending on CoinGecko. Market cap rank: #61",
     "tags": [
       "trending",
       "pump",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   },
   {
-    "id": "coingecko_trending_zcash",
-    "title": "🔥 Trending: Zcash (ZEC)",
+    "id": "coingecko_trending_ethereum",
+    "title": "🔥 Trending: Ethereum (ETH)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zcash",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 14,
-    "summary": "Zcash is currently trending on CoinGecko. Market cap rank: #14",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 2,
+    "summary": "Ethereum is currently trending on CoinGecko. Market cap rank: #2",
     "tags": [
       "trending",
-      "zec",
+      "eth",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
+  },
+  {
+    "id": "coingecko_trending_solana",
+    "title": "🔥 Trending: Solana (SOL)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 7,
+    "summary": "Solana is currently trending on CoinGecko. Market cap rank: #7",
+    "tags": [
+      "trending",
+      "sol",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
+  },
+  {
+    "id": "coingecko_trending_hyperliquid",
+    "title": "🔥 Trending: Hyperliquid (HYPE)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/hyperliquid",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 10,
+    "summary": "Hyperliquid is currently trending on CoinGecko. Market cap rank: #10",
+    "tags": [
+      "trending",
+      "hype",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   },
   {
     "id": "coingecko_trending_ripple",
@@ -133,7 +85,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/ripple",
-    "published_at": "2026-08-19T17:31:09.213310Z",
+    "published_at": "2026-08-19T18:42:41.443866Z",
     "engagement": 6,
     "summary": "XRP is currently trending on CoinGecko. Market cap rank: #6",
     "tags": [
@@ -141,7 +93,23 @@
       "xrp",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
+  },
+  {
+    "id": "coingecko_trending_lighter",
+    "title": "🔥 Trending: Lighter (LIT)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 90,
+    "summary": "Lighter is currently trending on CoinGecko. Market cap rank: #90",
+    "tags": [
+      "trending",
+      "lit",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   },
   {
     "id": "coingecko_trending_chainlink",
@@ -149,7 +117,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/chainlink",
-    "published_at": "2026-08-19T17:31:09.213310Z",
+    "published_at": "2026-08-19T18:42:41.443866Z",
     "engagement": 17,
     "summary": "Chainlink is currently trending on CoinGecko. Market cap rank: #17",
     "tags": [
@@ -157,7 +125,7 @@
       "link",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   },
   {
     "id": "coingecko_trending_sui",
@@ -165,31 +133,15 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/sui",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 33,
-    "summary": "Sui is currently trending on CoinGecko. Market cap rank: #33",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 32,
+    "summary": "Sui is currently trending on CoinGecko. Market cap rank: #32",
     "tags": [
       "trending",
       "sui",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
-  },
-  {
-    "id": "coingecko_trending_venice-token",
-    "title": "🔥 Trending: Venice Token (VVV)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/venice-token",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 88,
-    "summary": "Venice Token is currently trending on CoinGecko. Market cap rank: #88",
-    "tags": [
-      "trending",
-      "vvv",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   },
   {
     "id": "coingecko_trending_injective-protocol",
@@ -197,7 +149,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/injective-protocol",
-    "published_at": "2026-08-19T17:31:09.213310Z",
+    "published_at": "2026-08-19T18:42:41.443866Z",
     "engagement": 105,
     "summary": "Injective is currently trending on CoinGecko. Market cap rank: #105",
     "tags": [
@@ -205,38 +157,86 @@
       "inj",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   },
   {
-    "id": "coingecko_trending_uniswap",
-    "title": "🔥 Trending: Uniswap (UNI)",
+    "id": "coingecko_trending_interfold",
+    "title": "🔥 Trending: The Interfold (FOLD)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 40,
-    "summary": "Uniswap is currently trending on CoinGecko. Market cap rank: #40",
+    "url": "https://www.coingecko.com/en/coins/interfold",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 387,
+    "summary": "The Interfold is currently trending on CoinGecko. Market cap rank: #387",
     "tags": [
       "trending",
-      "uni",
+      "fold",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   },
   {
-    "id": "coingecko_trending_canton-network",
-    "title": "🔥 Trending: Canton (CC)",
+    "id": "coingecko_trending_geodnet",
+    "title": "🔥 Trending: Geodnet (GEOD)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/canton-network",
-    "published_at": "2026-08-19T17:31:09.213310Z",
-    "engagement": 25,
-    "summary": "Canton is currently trending on CoinGecko. Market cap rank: #25",
+    "url": "https://www.coingecko.com/en/coins/geodnet",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 249,
+    "summary": "Geodnet is currently trending on CoinGecko. Market cap rank: #249",
     "tags": [
       "trending",
-      "cc",
+      "geod",
       "coingecko"
     ],
-    "fetched_at": "2026-08-19T17:31:09.213310Z"
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
+  },
+  {
+    "id": "coingecko_trending_bitway",
+    "title": "🔥 Trending: Bitway (BTW)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/bitway",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 71,
+    "summary": "Bitway is currently trending on CoinGecko. Market cap rank: #71",
+    "tags": [
+      "trending",
+      "btw",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
+  },
+  {
+    "id": "coingecko_trending_the-black-bull",
+    "title": "🔥 Trending: The Black Bull (ANSEM)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/the-black-bull",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 248,
+    "summary": "The Black Bull is currently trending on CoinGecko. Market cap rank: #248",
+    "tags": [
+      "trending",
+      "ansem",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
+  },
+  {
+    "id": "coingecko_trending_pepe",
+    "title": "🔥 Trending: Pepe (PEPE)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pepe",
+    "published_at": "2026-08-19T18:42:41.443866Z",
+    "engagement": 65,
+    "summary": "Pepe is currently trending on CoinGecko. Market cap rank: #65",
+    "tags": [
+      "trending",
+      "pepe",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-19T18:42:41.443866Z"
   }
 ]
