@@ -1,5 +1,90 @@
 [
   {
+    "id": "snapshot_0x0b59f16c6fa4531c6f93fda96ebc1c41b8431d7ad1b0863c7722d5f2f53a5074",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1490",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x0b59f16c6fa4531c6f93fda96ebc1c41b8431d7ad1b0863c7722d5f2f53a5074",
+    "published_at": "2026-08-18T21:26:59Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1490.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1490-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
+  },
+  {
+    "id": "snapshot_0xf85e69756c14e4378d29be6574034425b61c1c7c0444a05fa8c6d919c98a1c59",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1489",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xf85e69756c14e4378d29be6574034425b61c1c7c0444a05fa8c6d919c98a1c59",
+    "published_at": "2026-08-18T18:17:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1489.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1489-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
+  },
+  {
+    "id": "snapshot_0xf93d877393bf93edc29873b9e571877c768fee234393e7a3abb74f8660c72151",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1488",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xf93d877393bf93edc29873b9e571877c768fee234393e7a3abb74f8660c72151",
+    "published_at": "2026-08-18T18:11:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1488.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1488-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
+  },
+  {
+    "id": "snapshot_0x8b1353a7b5b2abcd44f6a163f77e55ecb945861d0b5acc0b4a18e58f6c1e2a7d",
+    "title": "🏛️ [Grants] SSV Labs Grants Committee Representative Change",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0x8b1353a7b5b2abcd44f6a163f77e55ecb945861d0b5acc0b4a18e58f6c1e2a7d",
+    "published_at": "2026-08-20T06:30:00Z",
+    "engagement": 3,
+    "summary": "This proposal seeks to replace `@massimo.ssv.network` (`0xaA184b86B4cdb747F4A3BF6e6FCd5e27c1d92c5c`) with `@ivancorovic` (`0x9d7B96546B391Da060624e822...",
+    "tags": [
+      "governance",
+      "grants.ssvnetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
+  },
+  {
+    "id": "snapshot_0x9db9a050917eb76c2617dccaa64e6b4432b17b7db43acdbdbe0faed7d827b9e9",
+    "title": "🏛️ [Verified Operators] SSV Labs Operator Committee Representative Change",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/vo.ssvnetwork.eth/proposal/0x9db9a050917eb76c2617dccaa64e6b4432b17b7db43acdbdbe0faed7d827b9e9",
+    "published_at": "2026-08-20T06:30:00Z",
+    "engagement": 3,
+    "summary": "This proposal seeks to replace `@ivancorovic` (`0x9d7B96546B391Da060624e822d19673ffD6AFff6`) with `@massimo.ssv.network`  (`0xaA184b86B4cdb747F4A3BF6e...",
+    "tags": [
+      "governance",
+      "vo.ssvnetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
+  },
+  {
     "id": "snapshot_0xc5772a9b3d2365f89fa5cb7e61041b0eb8cfa97f0102200f6fef621dc836722a",
     "title": "🏛️ [Phoenix Liber] Do you want Phoenix Liber Mission 2: Unification to launch?",
     "platform": "snapshot",
@@ -14,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0xa79c3a97cd3f2b0cc5b9571982556ffee62e69e8aef7ebaa153703f095e1bce2",
@@ -31,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0x5b5c6d12a847fbff2bd0d943b167cec48ad79250715640862179678721d688a2",
@@ -48,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0xa9fcf1d33d68f3b978e8e572e98825842bf9acebf055f680fa38507bcfb8ddfc",
@@ -65,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0x7c4d04d7c83d39909e9098dc720256c806c35f0a237bdbac0e8f3b6e2bcbdbc7",
@@ -82,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0xf90afb58c9e100305201e7dd975d437d0ced76cbcb7e84783a69280cd153caa2",
@@ -99,7 +184,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
+  },
+  {
+    "id": "snapshot_0x52c2533b7f9902405bbf12cedd55180bf1c0fa130b535cdca235d4b2b9bad928",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1490",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x52c2533b7f9902405bbf12cedd55180bf1c0fa130b535cdca235d4b2b9bad928",
+    "published_at": "2026-08-18T21:26:59Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1490.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1490-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0xc6199e1868681bdd32b508fb059c1520101080b4a6d1b2b3234b2619e3647849",
@@ -116,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0x30bdc1ca61c7974b63c8c5633bc064d962c618e0d9250d58a44e4a7171c10e08",
@@ -133,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0x05b44a50ca70c751e2e4c664763d9ea437469926d5d37e32c7159bc9a758e070",
@@ -150,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0x14dabb98b3bbed131846c9a262558235aa8d86b584e74643a363bd71ef6c7983",
@@ -167,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0x272c6c4f19550a0cda42d2d7a385cee849464f5a0ce4e6a9de1df2903712455e",
@@ -184,7 +286,41 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
+  },
+  {
+    "id": "snapshot_0x4b8af46ba0171ca8d759d2da34cc1585fc91d81f63127735ad36589c8627ef52",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1489",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x4b8af46ba0171ca8d759d2da34cc1585fc91d81f63127735ad36589c8627ef52",
+    "published_at": "2026-08-18T18:17:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1489.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1489-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
+  },
+  {
+    "id": "snapshot_0x0dae58e00cd290790699a9f7f53d7d572291a0af4185e113fd38eeb528c998f8",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1488",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x0dae58e00cd290790699a9f7f53d7d572291a0af4185e113fd38eeb528c998f8",
+    "published_at": "2026-08-18T18:11:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1488.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1488-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   },
   {
     "id": "snapshot_0xf41c3c6def5d9088c9fa8aa7aab6b3d1b148df2875ed0785270de65b0428c0e0",
@@ -201,142 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
-  },
-  {
-    "id": "snapshot_0x0502452cbad7c84ce4136b1b2f31071d9601042cc044936a4c5a37e923844f72",
-    "title": "🏛️ [CoW DAO] CIP-87: Penalty Cap Redesign",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cow.eth/proposal/0x0502452cbad7c84ce4136b1b2f31071d9601042cc044936a4c5a37e923844f72",
-    "published_at": "2026-08-18T16:22:49Z",
-    "engagement": 3,
-    "summary": "```\nCIP-Number: 87\ntitle: Penalty Cap Redesign\nauthor: Felix Henneke, Felix Leupold, Roland Gemayel, Archit\nstatus: active\ncreated: 2026-08-18\n```\n\n# ...",
-    "tags": [
-      "governance",
-      "cow.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
-  },
-  {
-    "id": "snapshot_0x4ac2e7d84b62d3b5f9abeb4d074de09c6112a8294736a97ecd56232fb0ec8bc9",
-    "title": "🏛️ [Yellow Collective] 990: Nouns scooter : irl public goods at noyo gimbal view, indonesia",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/yellowcollective.eth/proposal/0x4ac2e7d84b62d3b5f9abeb4d074de09c6112a8294736a97ecd56232fb0ec8bc9",
-    "published_at": "2026-08-18T11:25:10Z",
-    "engagement": 3,
-    "summary": "**Nouns proposal:** https://nouns.game/proposals/990\n**Yellow Collective voting page:** https://yellowcollective.art/proposals/nouns/990\n\nVote here to...",
-    "tags": [
-      "governance",
-      "yellowcollective.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
-  },
-  {
-    "id": "snapshot_0x3a83aac7627ad56b52b72c61b62c14ad0e7df98e442cb691342039df4f26fac3",
-    "title": "🏛️ [League of Lils] 990: Nouns scooter : irl public goods at noyo gimbal view, indonesia",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/leagueoflils.eth/proposal/0x3a83aac7627ad56b52b72c61b62c14ad0e7df98e442cb691342039df4f26fac3",
-    "published_at": "2026-08-18T11:25:01Z",
-    "engagement": 3,
-    "summary": "**View proposal:** https://lilnouns.wtf/vote/nouns/990",
-    "tags": [
-      "governance",
-      "leagueoflils.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
-  },
-  {
-    "id": "snapshot_0x6b34b2df2871e69a37637cfc4b224aa70ff18f385ff58c310db02f77b8635e5b",
-    "title": "🏛️ [Symbiosis DAO] [SIP-58] Symbiosis X Arc: Connecting Stablecoin Finance Across Chains",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/symbiosisdao.eth/proposal/0x6b34b2df2871e69a37637cfc4b224aa70ff18f385ff58c310db02f77b8635e5b",
-    "published_at": "2026-08-18T09:40:00Z",
-    "engagement": 3,
-    "summary": "# Context\nArc is an EVM-compatible Layer 1 built by Circle for stablecoin-native financial applications. \n\nThe network separates consensus and executi...",
-    "tags": [
-      "governance",
-      "symbiosisdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
-  },
-  {
-    "id": "snapshot_0x1d9fabee13cfe22586473e36d8d402e571bc759cd67087384b45fdb92d4ad5c8",
-    "title": "🏛️ [Superfluid] Season 7 - Campaign Selection Vote - Established Projects",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/superfluid.eth/proposal/0x1d9fabee13cfe22586473e36d8d402e571bc759cd67087384b45fdb92d4ad5c8",
-    "published_at": "2026-08-18T07:22:29Z",
-    "engagement": 6,
-    "summary": "Spread your vote across 6 choices to determine which Established Project Campaigns will be included and what SUP allocation they will receive.  \nSpeci...",
-    "tags": [
-      "governance",
-      "superfluid.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
-  },
-  {
-    "id": "snapshot_0xe4df5dc19e5a5097066b2c7e8d0bb54d7985006abbca8456bd59bb41f2a5500f",
-    "title": "🏛️ [K.I.N.G. DAO] Clarification for WP team election process",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/kongsdao.eth/proposal/0xe4df5dc19e5a5097066b2c7e8d0bb54d7985006abbca8456bd59bb41f2a5500f",
-    "published_at": "2026-08-18T07:15:00Z",
-    "engagement": 3,
-    "summary": "With Team elections coming up again soon, it has been noted that the WP does not clarify the process of team selection if more than 10 candidates have...",
-    "tags": [
-      "governance",
-      "kongsdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
-  },
-  {
-    "id": "snapshot_0x27651e5f8b9935b29414bff10dd635a678ef07553b49fa99a29cb18115378088",
-    "title": "🏛️ [Shutter PEN] This is a test proposal",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/shutterpen.eth/proposal/0x27651e5f8b9935b29414bff10dd635a678ef07553b49fa99a29cb18115378088",
-    "published_at": "2026-08-17T21:46:58Z",
-    "engagement": 2,
-    "summary": "Test",
-    "tags": [
-      "governance",
-      "shutterpen.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
-  },
-  {
-    "id": "snapshot_0xd73b23dee6ddf125a2a33afdc620f7067b8f55e4e2b8cb1c762292db933d4df0",
-    "title": "🏛️ [Gearbox] [GIP-289] Convert Treasury ETH into sfrxETH",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/gearbox.eth/proposal/0xd73b23dee6ddf125a2a33afdc620f7067b8f55e4e2b8cb1c762292db933d4df0",
-    "published_at": "2026-08-17T20:14:44Z",
-    "engagement": 3,
-    "summary": "# Summary\n\nConvert 300 WETH held by the Gearbox DAO treasury into sfrxETH to generate staking yield and strengthen alignment between Gearbox and Frax....",
-    "tags": [
-      "governance",
-      "gearbox.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T05:36:24.020318Z"
+    "fetched_at": "2026-08-20T06:55:13.806773Z"
   }
 ]
