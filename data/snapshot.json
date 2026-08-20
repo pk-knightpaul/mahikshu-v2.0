@@ -14,7 +14,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x4ddefbf7a56e1100413927f9d8d508d49b2ff5570463157a8d9bb0c33761eb67",
@@ -31,7 +31,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0xe3a96ce254b3887ba6a6b5520fb4fb256065238152668d80a3dbc5b855731704",
@@ -48,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x572501c5f41051fa59c71e14dc9097382e0bbcbaa8844ec3b9e07c24ee3af2ea",
@@ -65,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x0b59f16c6fa4531c6f93fda96ebc1c41b8431d7ad1b0863c7722d5f2f53a5074",
@@ -82,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0xf85e69756c14e4378d29be6574034425b61c1c7c0444a05fa8c6d919c98a1c59",
@@ -99,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0xf93d877393bf93edc29873b9e571877c768fee234393e7a3abb74f8660c72151",
@@ -116,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x8b1353a7b5b2abcd44f6a163f77e55ecb945861d0b5acc0b4a18e58f6c1e2a7d",
@@ -133,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x9db9a050917eb76c2617dccaa64e6b4432b17b7db43acdbdbe0faed7d827b9e9",
@@ -150,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0xc5772a9b3d2365f89fa5cb7e61041b0eb8cfa97f0102200f6fef621dc836722a",
@@ -167,7 +167,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
+  },
+  {
+    "id": "snapshot_0xc349249843a2818a7d68aabf35ce57d70f2a9ca67344f47a1dda71f2509f430e",
+    "title": "🏛️ [Synthetix SCCP/SIP] SIP-424: Unstaked SNX voting for governance elections",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/snxgov.eth/proposal/0xc349249843a2818a7d68aabf35ce57d70f2a9ca67344f47a1dda71f2509f430e",
+    "published_at": "2026-08-20T14:05:00Z",
+    "engagement": 3,
+    "summary": "[SIP-424](https://sips.synthetix.io/sips/sip-424/) updates Spartan Council election voting so that all SNX holders can vote, not only SNX stakers. SIP...",
+    "tags": [
+      "governance",
+      "snxgov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0xa79c3a97cd3f2b0cc5b9571982556ffee62e69e8aef7ebaa153703f095e1bce2",
@@ -184,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x5b5c6d12a847fbff2bd0d943b167cec48ad79250715640862179678721d688a2",
@@ -201,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0xa9fcf1d33d68f3b978e8e572e98825842bf9acebf055f680fa38507bcfb8ddfc",
@@ -218,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x7c4d04d7c83d39909e9098dc720256c806c35f0a237bdbac0e8f3b6e2bcbdbc7",
@@ -235,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0xf90afb58c9e100305201e7dd975d437d0ced76cbcb7e84783a69280cd153caa2",
@@ -252,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x52c2533b7f9902405bbf12cedd55180bf1c0fa130b535cdca235d4b2b9bad928",
@@ -269,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0xc6199e1868681bdd32b508fb059c1520101080b4a6d1b2b3234b2619e3647849",
@@ -286,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x30bdc1ca61c7974b63c8c5633bc064d962c618e0d9250d58a44e4a7171c10e08",
@@ -303,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   },
   {
     "id": "snapshot_0x05b44a50ca70c751e2e4c664763d9ea437469926d5d37e32c7159bc9a758e070",
@@ -320,23 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
-  },
-  {
-    "id": "snapshot_0x14dabb98b3bbed131846c9a262558235aa8d86b584e74643a363bd71ef6c7983",
-    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following pool: frxUSD/sUSDai",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x14dabb98b3bbed131846c9a262558235aa8d86b584e74643a363bd71ef6c7983",
-    "published_at": "2026-08-18T18:11:35Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1488-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-20T13:54:14.405701Z"
+    "fetched_at": "2026-08-20T14:41:33.352495Z"
   }
 ]
