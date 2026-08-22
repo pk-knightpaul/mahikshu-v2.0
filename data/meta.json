@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T14:27:02.427170Z",
+  "last_updated": "2026-08-22T15:27:02.205904Z",
   "version": "2.0.0",
   "platforms_status": {
     "binance": "ok",
@@ -7,8 +7,8 @@
     "dexscreener": "ok",
     "news": "ok",
     "defillama": "ok",
-    "fear_greed": "ok",
+    "fear_greed": "empty",
     "snapshot": "ok"
   },
-  "total_opportunities": 7
+  "total_opportunities": 6
 }
