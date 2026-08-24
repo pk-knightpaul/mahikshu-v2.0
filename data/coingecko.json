@@ -1,51 +1,35 @@
 [
   {
-    "id": "coingecko_trending_pons",
-    "title": "🔥 Trending: Pons (PONS)",
+    "id": "coingecko_trending_zano",
+    "title": "🔥 Trending: Zano (ZANO)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pons",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 462,
-    "summary": "Pons is currently trending on CoinGecko. Market cap rank: #462",
+    "url": "https://www.coingecko.com/en/coins/zano",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 221,
+    "summary": "Zano is currently trending on CoinGecko. Market cap rank: #221",
     "tags": [
       "trending",
-      "pons",
+      "zano",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   },
   {
-    "id": "coingecko_trending_lighter",
-    "title": "🔥 Trending: Lighter (LIT)",
+    "id": "coingecko_trending_kinetiq",
+    "title": "🔥 Trending: Kinetiq (KNTQ)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/lighter",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 75,
-    "summary": "Lighter is currently trending on CoinGecko. Market cap rank: #75",
+    "url": "https://www.coingecko.com/en/coins/kinetiq",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 354,
+    "summary": "Kinetiq is currently trending on CoinGecko. Market cap rank: #354",
     "tags": [
       "trending",
-      "lit",
+      "kntq",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
-  },
-  {
-    "id": "coingecko_trending_pump-fun",
-    "title": "🔥 Trending: Pump.fun (PUMP)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 47,
-    "summary": "Pump.fun is currently trending on CoinGecko. Market cap rank: #47",
-    "tags": [
-      "trending",
-      "pump",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   },
   {
     "id": "coingecko_trending_bitcoin",
@@ -53,7 +37,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "published_at": "2026-08-24T13:01:34.258122Z",
+    "published_at": "2026-08-24T14:48:40.681042Z",
     "engagement": 1,
     "summary": "Bitcoin is currently trending on CoinGecko. Market cap rank: #1",
     "tags": [
@@ -61,87 +45,7 @@
       "btc",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
-  },
-  {
-    "id": "coingecko_trending_zcash",
-    "title": "🔥 Trending: Zcash (ZEC)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zcash",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 12,
-    "summary": "Zcash is currently trending on CoinGecko. Market cap rank: #12",
-    "tags": [
-      "trending",
-      "zec",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
-  },
-  {
-    "id": "coingecko_trending_zano",
-    "title": "🔥 Trending: Zano (ZANO)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/zano",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 220,
-    "summary": "Zano is currently trending on CoinGecko. Market cap rank: #220",
-    "tags": [
-      "trending",
-      "zano",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
-  },
-  {
-    "id": "coingecko_trending_cyberleek",
-    "title": "🔥 Trending: CyberLeek (CYBERLEEK)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/cyberleek",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 862,
-    "summary": "CyberLeek is currently trending on CoinGecko. Market cap rank: #862",
-    "tags": [
-      "trending",
-      "cyberleek",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
-  },
-  {
-    "id": "coingecko_trending_hyperliquid",
-    "title": "🔥 Trending: Hyperliquid (HYPE)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/hyperliquid",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 10,
-    "summary": "Hyperliquid is currently trending on CoinGecko. Market cap rank: #10",
-    "tags": [
-      "trending",
-      "hype",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
-  },
-  {
-    "id": "coingecko_trending_velvet",
-    "title": "🔥 Trending: Velvet (VELVET)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/velvet",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 182,
-    "summary": "Velvet is currently trending on CoinGecko. Market cap rank: #182",
-    "tags": [
-      "trending",
-      "velvet",
-      "coingecko"
-    ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   },
   {
     "id": "coingecko_trending_solana",
@@ -149,7 +53,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-08-24T13:01:34.258122Z",
+    "published_at": "2026-08-24T14:48:40.681042Z",
     "engagement": 7,
     "summary": "Solana is currently trending on CoinGecko. Market cap rank: #7",
     "tags": [
@@ -157,39 +61,39 @@
       "sol",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   },
   {
-    "id": "coingecko_trending_cash-cat",
-    "title": "🔥 Trending: Cash Cat (CASHCAT)",
+    "id": "coingecko_trending_lighter",
+    "title": "🔥 Trending: Lighter (LIT)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/cash-cat",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 192,
-    "summary": "Cash Cat is currently trending on CoinGecko. Market cap rank: #192",
+    "url": "https://www.coingecko.com/en/coins/lighter",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 77,
+    "summary": "Lighter is currently trending on CoinGecko. Market cap rank: #77",
     "tags": [
       "trending",
-      "cashcat",
+      "lit",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   },
   {
-    "id": "coingecko_trending_pepe",
-    "title": "🔥 Trending: Pepe (PEPE)",
+    "id": "coingecko_trending_velvet",
+    "title": "🔥 Trending: Velvet (VELVET)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pepe",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 53,
-    "summary": "Pepe is currently trending on CoinGecko. Market cap rank: #53",
+    "url": "https://www.coingecko.com/en/coins/velvet",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 297,
+    "summary": "Velvet is currently trending on CoinGecko. Market cap rank: #297",
     "tags": [
       "trending",
-      "pepe",
+      "velvet",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   },
   {
     "id": "coingecko_trending_ethereum",
@@ -197,7 +101,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/ethereum",
-    "published_at": "2026-08-24T13:01:34.258122Z",
+    "published_at": "2026-08-24T14:48:40.681042Z",
     "engagement": 2,
     "summary": "Ethereum is currently trending on CoinGecko. Market cap rank: #2",
     "tags": [
@@ -205,38 +109,134 @@
       "eth",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   },
   {
-    "id": "coingecko_trending_ripple",
-    "title": "🔥 Trending: XRP (XRP)",
+    "id": "coingecko_trending_cyberleek",
+    "title": "🔥 Trending: CyberLeek (CYBERLEEK)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ripple",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 4,
-    "summary": "XRP is currently trending on CoinGecko. Market cap rank: #4",
+    "url": "https://www.coingecko.com/en/coins/cyberleek",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 871,
+    "summary": "CyberLeek is currently trending on CoinGecko. Market cap rank: #871",
     "tags": [
       "trending",
-      "xrp",
+      "cyberleek",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   },
   {
-    "id": "coingecko_trending_derive",
-    "title": "🔥 Trending: Derive (DRV)",
+    "id": "coingecko_trending_dog-go-to-the-moon-rune",
+    "title": "🔥 Trending: Dog (Bitcoin) (DOG)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/derive",
-    "published_at": "2026-08-24T13:01:34.258122Z",
-    "engagement": 197,
-    "summary": "Derive is currently trending on CoinGecko. Market cap rank: #197",
+    "url": "https://www.coingecko.com/en/coins/dog-go-to-the-moon-rune",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 232,
+    "summary": "Dog (Bitcoin) is currently trending on CoinGecko. Market cap rank: #232",
     "tags": [
       "trending",
-      "drv",
+      "dog",
       "coingecko"
     ],
-    "fetched_at": "2026-08-24T13:01:34.258122Z"
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
+  },
+  {
+    "id": "coingecko_trending_pump-fun",
+    "title": "🔥 Trending: Pump.fun (PUMP)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pump-fun",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 47,
+    "summary": "Pump.fun is currently trending on CoinGecko. Market cap rank: #47",
+    "tags": [
+      "trending",
+      "pump",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
+  },
+  {
+    "id": "coingecko_trending_zcash",
+    "title": "🔥 Trending: Zcash (ZEC)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/zcash",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 11,
+    "summary": "Zcash is currently trending on CoinGecko. Market cap rank: #11",
+    "tags": [
+      "trending",
+      "zec",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
+  },
+  {
+    "id": "coingecko_trending_aerodrome-finance",
+    "title": "🔥 Trending: Aerodrome Finance (AERO)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 104,
+    "summary": "Aerodrome Finance is currently trending on CoinGecko. Market cap rank: #104",
+    "tags": [
+      "trending",
+      "aero",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
+  },
+  {
+    "id": "coingecko_trending_pepe",
+    "title": "🔥 Trending: Pepe (PEPE)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pepe",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 53,
+    "summary": "Pepe is currently trending on CoinGecko. Market cap rank: #53",
+    "tags": [
+      "trending",
+      "pepe",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
+  },
+  {
+    "id": "coingecko_trending_pons",
+    "title": "🔥 Trending: Pons (PONS)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pons",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 438,
+    "summary": "Pons is currently trending on CoinGecko. Market cap rank: #438",
+    "tags": [
+      "trending",
+      "pons",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
+  },
+  {
+    "id": "coingecko_trending_ethena",
+    "title": "🔥 Trending: Ethena (ENA)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/ethena",
+    "published_at": "2026-08-24T14:48:40.681042Z",
+    "engagement": 55,
+    "summary": "Ethena is currently trending on CoinGecko. Market cap rank: #55",
+    "tags": [
+      "trending",
+      "ena",
+      "coingecko"
+    ],
+    "fetched_at": "2026-08-24T14:48:40.681042Z"
   }
 ]
