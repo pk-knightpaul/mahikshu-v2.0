@@ -1,20 +1,71 @@
 [
   {
-    "id": "snapshot_0xfa282f41300aa3a197aa32c25b2edc5e90a2cb211024b7267315d23a4ee38bfd",
-    "title": "🏛️ [Robots everywhere] Do you agree to pay $800 for Snapshot Pro for June?",
+    "id": "snapshot_0xd58cab5a97aa99e3315475fdeffa54dacb5c37609f4e094175fc9ec899e4363c",
+    "title": "🏛️ [Stake DAO BAL] [BIP-927] Revoke Unused V2 Vault Permissions from Deprecated Relayers",
     "platform": "snapshot",
     "content_type": "governance",
-    "url": "https://snapshot.org/#/robots.0cf5e.eth/proposal/0xfa282f41300aa3a197aa32c25b2edc5e90a2cb211024b7267315d23a4ee38bfd",
-    "published_at": "2026-08-28T15:51:52Z",
+    "url": "https://snapshot.org/#/sdbal.eth/proposal/0xd58cab5a97aa99e3315475fdeffa54dacb5c37609f4e094175fc9ec899e4363c",
+    "published_at": "2026-08-28T18:00:00Z",
     "engagement": 3,
-    "summary": "",
+    "summary": "# TL;DR\n\nOn all chains, revoke leftover permissions on the V2 vault for relayers that are deprecated or no longer used. Only the latest `20231031-batc...",
     "tags": [
       "governance",
-      "robots.0cf5e.eth",
+      "sdbal.eth",
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
+  },
+  {
+    "id": "snapshot_0x9bb74763dcdaaaf17b4eaa90d1995df2898a546b5ecbbc7e08033502066edacf",
+    "title": "🏛️ [Stake DAO BAL] [BIP-926] Treasury Council Resignation: Xeonus, Successor Nomination of zekraken",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdbal.eth/proposal/0x9bb74763dcdaaaf17b4eaa90d1995df2898a546b5ecbbc7e08033502066edacf",
+    "published_at": "2026-08-28T18:00:00Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nI, @Xeonus (`0xaa5af0dd9c52c773d36cdbc509a0b2a1ded4c196`), am proposing my resignation from the Balancer Treasury Council (TC), effective ...",
+    "tags": [
+      "governance",
+      "sdbal.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
+  },
+  {
+    "id": "snapshot_0x9ae7a0f0d8bce7b1956f6cecba12d34c71e6cf38dfb48396aa543127fb7ec4b7",
+    "title": "🏛️ [Balancer] [BIP-927] Revoke Unused V2 Vault Permissions from Deprecated Relayers",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/balancer.eth/proposal/0x9ae7a0f0d8bce7b1956f6cecba12d34c71e6cf38dfb48396aa543127fb7ec4b7",
+    "published_at": "2026-08-28T18:00:00Z",
+    "engagement": 3,
+    "summary": "# TL;DR\n\nOn all chains, revoke leftover permissions on the V2 vault for relayers that are deprecated or no longer used. Only the latest `20231031-batc...",
+    "tags": [
+      "governance",
+      "balancer.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
+  },
+  {
+    "id": "snapshot_0x88c2110df8b023ed83f997d1961e63ffda0d1718d3ba28cf2b779a8086e21d57",
+    "title": "🏛️ [Balancer] [BIP-926] Treasury Council Resignation: Xeonus, Successor Nomination of zekraken",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/balancer.eth/proposal/0x88c2110df8b023ed83f997d1961e63ffda0d1718d3ba28cf2b779a8086e21d57",
+    "published_at": "2026-08-28T18:00:00Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nI, @Xeonus (`0xaa5af0dd9c52c773d36cdbc509a0b2a1ded4c196`), am proposing my resignation from the Balancer Treasury Council (TC), effective ...",
+    "tags": [
+      "governance",
+      "balancer.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0xd694d4088e5c77be1656f29a2622421a48c7843e02ad6636be0ebe51c05e596e",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0x79598415badd9cd9b9285d313399421f7a04a99be7183dd8a6b1b308ab3e2c5b",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0xe67f35bb955749400559b2e5d54e29be5a215bb83a0bc5c51e563695854881bb",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0x001aea25b282135c9566e36aea4e3f3a0e837a2d3907cc75bd8a2035c48d89c0",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0xd64271deb19a0f20daf4acedc613cad31a9ab45d42f5226fafae8ad48e8afd91",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0x9351577d0789cd4ef33714f7b7548b8553c428afc31a148719d4097720814c36",
@@ -116,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0xa979b4ba7cf2cbb9677a1b64f0290d5a5204aba419fa5334d1dd40e45c208cd8",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0xcb6b9ed95bf0c64b6101ff7d3a770af86e07701d8419b541cf91a6894022f2a3",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0xd7b983a7d68f6b95313a458c0aacd0466177eccb4a68de04bfec7f61b362a1bd",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0x41f82cf50c031ac7690eb7db8d4d17b992abbd62ef0f3ffbaeb28ba071430a30",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0x78323ac29a0421186feb07cfe9ee5c633b8862941ee23e1712b98b15a3e13c1e",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0x05ab402964c98bdd80f01d9bd6577641dd4802d2c25df28c37876763840c2207",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0x2c419a19e18ea1fdd676fd1e58d7a8c865f86d3e9e877aba4bc6ff9f64545a79",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0xed67bdfb30bb0b03b1bd9d920f27f2fce40075c6336e48059a094693be9a8f7f",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0x2e6df9d02d40e05e9dede6ad50bac47a3e8e7cd3604f4caa63b3995eea7384b0",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   },
   {
     "id": "snapshot_0xc07a5148821ae3b749ab244f40d437207d3bd7cf68223aa5211e95fc073d7eff",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
-  },
-  {
-    "id": "snapshot_0x364883a53a660b9ce7539e15f4421a1125fc61d1125963ac9fcec5984d81a3f5",
-    "title": "🏛️ [rootAI] Test Proposal",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/voterootai.eth/proposal/0x364883a53a660b9ce7539e15f4421a1125fc61d1125963ac9fcec5984d81a3f5",
-    "published_at": "2026-08-26T19:36:44Z",
-    "engagement": 3,
-    "summary": "Feel free to vote in any way you want. This is rootAI DAOs first test proposal. \n\n14 days. \n\nJoin our Discord for information/questions on voting/gove...",
-    "tags": [
-      "governance",
-      "voterootai.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
-  },
-  {
-    "id": "snapshot_0x38c0383b90f611d420f5a13c0e1de0020f5fd22510b4fc6a1f9a1d3abc1f4490",
-    "title": "🏛️ [Zypto Foundation] Deflationary Tokenomics",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/zyptofoundation.eth/proposal/0x38c0383b90f611d420f5a13c0e1de0020f5fd22510b4fc6a1f9a1d3abc1f4490",
-    "published_at": "2026-08-26T18:19:57Z",
-    "engagement": 2,
-    "summary": "The tokenomics tax is currently set to the maximum of 4% (0% on buys, 4% on sells). Of that, 3% goes to the Token Fund for Foundation expenses and 1% ...",
-    "tags": [
-      "governance",
-      "zyptofoundation.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
-  },
-  {
-    "id": "snapshot_0xd18a237ac23f7593b886f0db4005298e0b794cd91a5225d928488c9444d955c7",
-    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1493",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xd18a237ac23f7593b886f0db4005298e0b794cd91a5225d928488c9444d955c7",
-    "published_at": "2026-08-26T15:37:35Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1493.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1493-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "aladdindao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-28T17:15:22.014395Z"
+    "fetched_at": "2026-08-29T01:37:48.209285Z"
   }
 ]
