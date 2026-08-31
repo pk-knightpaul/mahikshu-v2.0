@@ -1,5 +1,141 @@
 [
   {
+    "id": "snapshot_0x83e74a798211da8b61ae5f51bfcebb5e059c69bbce2b76ee35606772c1ec566f",
+    "title": "🏛️ [sdSPECTRA] SGP-21: Return Unclaimed Rewards to the DAO After One Year",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdspectra.eth/proposal/0x83e74a798211da8b61ae5f51bfcebb5e059c69bbce2b76ee35606772c1ec566f",
+    "published_at": "2026-08-31T16:01:41Z",
+    "engagement": 3,
+    "summary": "## SGP-21: Return Unclaimed Rewards to the DAO After One Year\n\nAuthor: Gaspard · Category: Governance Proposal (SGP) · Status: Draft · Date: 28 August...",
+    "tags": [
+      "governance",
+      "sdspectra.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
+  },
+  {
+    "id": "snapshot_0x95329a02677772384f4d2bad196de1f2b0fe6b83a06ab61fe634fb07643dcb86",
+    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Onboard the Sentora-Curated RLUSD Morpho Vault",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x95329a02677772384f4d2bad196de1f2b0fe6b83a06ab61fe634fb07643dcb86",
+    "published_at": "2026-08-31T16:17:13Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Spark Liquidity Layer - Onboard the Sentora-Curated RLUSD Morpho Vault - August 31, 2026\n\nSpark's Operational Facilitator has placed a pr...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
+  },
+  {
+    "id": "snapshot_0xce102fe51d0f9dffa64c47df88974e52899ce5347375854adfe3547225489421",
+    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Offboard Unused Integrations",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xce102fe51d0f9dffa64c47df88974e52899ce5347375854adfe3547225489421",
+    "published_at": "2026-08-31T16:14:57Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Spark Liquidity Layer - Offboard Unused Integrations - August 31, 2026\n\nSpark's Operational Facilitator has placed a proposal into the vo...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
+  },
+  {
+    "id": "snapshot_0x2c919a3305deb1b80ffe8d68618a68926995d633d66918cce019221ebe7ad3f6",
+    "title": "🏛️ [Spectra DAO] SGP-21: Return Unclaimed Rewards to the DAO After One Year",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/spectradao.eth/proposal/0x2c919a3305deb1b80ffe8d68618a68926995d633d66918cce019221ebe7ad3f6",
+    "published_at": "2026-08-31T16:01:41Z",
+    "engagement": 3,
+    "summary": "## SGP-21: Return Unclaimed Rewards to the DAO After One Year\n\nAuthor: Gaspard · Category: Governance Proposal (SGP) · Status: Draft · Date: 28 August...",
+    "tags": [
+      "governance",
+      "spectradao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
+  },
+  {
+    "id": "snapshot_0x1c152d7efd78b8cc72bec0af156d60ead97578bf11285a2c51e84d8adf2dbaba",
+    "title": "🏛️ [Grove] [Ethereum] Grove × Steakhouse USDG Vault - Onboard the Vault to the Grove Liquidity Layer",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0x1c152d7efd78b8cc72bec0af156d60ead97578bf11285a2c51e84d8adf2dbaba",
+    "published_at": "2026-08-31T15:58:33Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Grove × Steakhouse USDG Vault - Onboard the Vault to the Grove Liquidity Layer - August 31, 2026\n\nGrove's Operational Facilitator has pla...",
+    "tags": [
+      "governance",
+      "grovefinance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
+  },
+  {
+    "id": "snapshot_0xd190d49781c1ada8beedf3c7d2488ae06fb6dd0734568180209ba5057c4e229e",
+    "title": "🏛️ [Grove] [Grove Artifact] Diamond PAU Rate Limits - Update the Recorded Values, Applied via the cBEAM",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0xd190d49781c1ada8beedf3c7d2488ae06fb6dd0734568180209ba5057c4e229e",
+    "published_at": "2026-08-31T15:56:07Z",
+    "engagement": 3,
+    "summary": "# [Grove Artifact] Diamond PAU Rate Limits - Update the Recorded Values, Applied via the cBEAM - August 31, 2026\n\nGrove's Operational Facilitator has ...",
+    "tags": [
+      "governance",
+      "grovefinance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
+  },
+  {
+    "id": "snapshot_0x105b2a2f4b29b359f721e84a6e997e02f04474a71e2aede2b8010076343eba10",
+    "title": "🏛️ [Grid Phantoms] August 2026 Grid Cycle Vote",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/gridphantoms.eth/proposal/0x105b2a2f4b29b359f721e84a6e997e02f04474a71e2aede2b8010076343eba10",
+    "published_at": "2026-08-31T15:49:13Z",
+    "engagement": 5,
+    "summary": "Phantoms:\n\nSakura’s Vault remained conservatively positioned through uncertain market conditions.\n\nAs new opportunities emerge across crypto, we want ...",
+    "tags": [
+      "governance",
+      "gridphantoms.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
+  },
+  {
+    "id": "snapshot_0xed6de36e41d4b3f8376b0905f1773f0b610c213344d93b73b50c9fa45e42e8ac",
+    "title": "🏛️ [Equilibria Finance] New Proposal on Equilibria Wind Down",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/equilibriafi.eth/proposal/0xed6de36e41d4b3f8376b0905f1773f0b610c213344d93b73b50c9fa45e42e8ac",
+    "published_at": "2026-08-31T13:00:00Z",
+    "engagement": 2,
+    "summary": "Over the past few months, Equilibria has gone through a long and complex process to finalize the wind-down of the protocol. This proposal is intended ...",
+    "tags": [
+      "governance",
+      "equilibriafi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
+  },
+  {
     "id": "snapshot_0x4e5de3991b74d3af1e7f2a5a90a371c5a4eebb410c9b089bdbe10c33f2b9686b",
     "title": "🏛️ [qchains] Ens.app",
     "platform": "snapshot",
@@ -14,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x35924b1072a85a290be872d6c4831cddaec0be450c0ac4218f2d6d75deee75b7",
@@ -31,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0xa106fb905becaaa9929bea3332480f71729c926f59bf02215140f9f6aa686dba",
@@ -48,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x4a705c2783ba49726bc5d21fa17b646ad5153954d93a8cd6f358be29b00ba833",
@@ -65,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x9d781069a81433089a3b3ba6aa92936e33467bef9b795d433a0897b0e3fb43a8",
@@ -82,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x991ca01ed74127455c001b8b2b1dc081b3bdd8204ac8480c7ba60fdedbb61ee3",
@@ -99,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0xe38fb49f30be60e217ec16d8727248c7d759578453586eaeaedda8fe5dbea186",
@@ -116,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x4eccd1a9e6abf0d328fcf037c45b1981ccaf93b3ad1a27b2ebf3db5e0253ca65",
@@ -133,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x1614688cb8a02ae024798e2e51772a1e879f1ff630249cbd0c3521d7cf8fc2a5",
@@ -150,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x74f92447407318bac7b27a2dedf3b7868d091c6fe40f0c4e7594a647dabd739c",
@@ -167,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x904fb0397ec6eefa6770db0570a4771b89cddd2ed081eb69e8970f35747a9b35",
@@ -184,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   },
   {
     "id": "snapshot_0x67d02059511b582d86a1bb32755cf9e455d222abfccfa93a7cf2bb457f66daee",
@@ -201,142 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
-  },
-  {
-    "id": "snapshot_0x8f17f8f0966f4c8c165d60accc84718bc1d3b3b851a9022eb6c5a61d7b27c708",
-    "title": "🏛️ [Human Rights 4 All] testing2",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/helloworld123.eth/proposal/0x8f17f8f0966f4c8c165d60accc84718bc1d3b3b851a9022eb6c5a61d7b27c708",
-    "published_at": "2026-08-30T10:54:09Z",
-    "engagement": 3,
-    "summary": "testing2",
-    "tags": [
-      "governance",
-      "helloworld123.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
-  },
-  {
-    "id": "snapshot_0xed61adff5103b4e50be49b28fca8ecbbea9d685141d2d5a34d1d24232ac91891",
-    "title": "🏛️ [ether.fi] ether.fi DAO Proposal: Programmatic ETHFI Buybacks & Ecosystem Growth",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/etherfi-dao.eth/proposal/0xed61adff5103b4e50be49b28fca8ecbbea9d685141d2d5a34d1d24232ac91891",
-    "published_at": "2026-08-30T01:31:07Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nThis proposal aims to achieve two main objectives\n\n1.  Confirm the revenue contributed to the Foundation from Labs will be used to purchas...",
-    "tags": [
-      "governance",
-      "etherfi-dao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
-  },
-  {
-    "id": "snapshot_0xd58cab5a97aa99e3315475fdeffa54dacb5c37609f4e094175fc9ec899e4363c",
-    "title": "🏛️ [Stake DAO BAL] [BIP-927] Revoke Unused V2 Vault Permissions from Deprecated Relayers",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdbal.eth/proposal/0xd58cab5a97aa99e3315475fdeffa54dacb5c37609f4e094175fc9ec899e4363c",
-    "published_at": "2026-08-28T18:00:00Z",
-    "engagement": 3,
-    "summary": "# TL;DR\n\nOn all chains, revoke leftover permissions on the V2 vault for relayers that are deprecated or no longer used. Only the latest `20231031-batc...",
-    "tags": [
-      "governance",
-      "sdbal.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
-  },
-  {
-    "id": "snapshot_0x9bb74763dcdaaaf17b4eaa90d1995df2898a546b5ecbbc7e08033502066edacf",
-    "title": "🏛️ [Stake DAO BAL] [BIP-926] Treasury Council Resignation: Xeonus, Successor Nomination of zekraken",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdbal.eth/proposal/0x9bb74763dcdaaaf17b4eaa90d1995df2898a546b5ecbbc7e08033502066edacf",
-    "published_at": "2026-08-28T18:00:00Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nI, @Xeonus (`0xaa5af0dd9c52c773d36cdbc509a0b2a1ded4c196`), am proposing my resignation from the Balancer Treasury Council (TC), effective ...",
-    "tags": [
-      "governance",
-      "sdbal.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
-  },
-  {
-    "id": "snapshot_0x9ae7a0f0d8bce7b1956f6cecba12d34c71e6cf38dfb48396aa543127fb7ec4b7",
-    "title": "🏛️ [Balancer] [BIP-927] Revoke Unused V2 Vault Permissions from Deprecated Relayers",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/balancer.eth/proposal/0x9ae7a0f0d8bce7b1956f6cecba12d34c71e6cf38dfb48396aa543127fb7ec4b7",
-    "published_at": "2026-08-28T18:00:00Z",
-    "engagement": 3,
-    "summary": "# TL;DR\n\nOn all chains, revoke leftover permissions on the V2 vault for relayers that are deprecated or no longer used. Only the latest `20231031-batc...",
-    "tags": [
-      "governance",
-      "balancer.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
-  },
-  {
-    "id": "snapshot_0x88c2110df8b023ed83f997d1961e63ffda0d1718d3ba28cf2b779a8086e21d57",
-    "title": "🏛️ [Balancer] [BIP-926] Treasury Council Resignation: Xeonus, Successor Nomination of zekraken",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/balancer.eth/proposal/0x88c2110df8b023ed83f997d1961e63ffda0d1718d3ba28cf2b779a8086e21d57",
-    "published_at": "2026-08-28T18:00:00Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nI, @Xeonus (`0xaa5af0dd9c52c773d36cdbc509a0b2a1ded4c196`), am proposing my resignation from the Balancer Treasury Council (TC), effective ...",
-    "tags": [
-      "governance",
-      "balancer.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
-  },
-  {
-    "id": "snapshot_0xd694d4088e5c77be1656f29a2622421a48c7843e02ad6636be0ebe51c05e596e",
-    "title": "🏛️ [Centrifuge] Test proposal",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/centrifuge.eth/proposal/0xd694d4088e5c77be1656f29a2622421a48c7843e02ad6636be0ebe51c05e596e",
-    "published_at": "2026-08-28T14:45:50Z",
-    "engagement": 3,
-    "summary": "Testing only",
-    "tags": [
-      "governance",
-      "centrifuge.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
-  },
-  {
-    "id": "snapshot_0x856a07456f860ad9ff1261c765062848b739013cf335f15a733952f9f55b4906",
-    "title": "🏛️ [Parallel] PGP-45 | OTC Buyback & Burn of 100M PRL from Mimo Labs",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/parallel-protocol.eth/proposal/0x856a07456f860ad9ff1261c765062848b739013cf335f15a733952f9f55b4906",
-    "published_at": "2026-08-29T14:00:00Z",
-    "engagement": 3,
-    "summary": "Summary:  \nThis proposal authorizes the DAO, with the support of Cooper Labs, to acquire 100,000,000 PRL (in the form of sPRL1) from Mimo Labs through...",
-    "tags": [
-      "governance",
-      "parallel-protocol.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-08-31T08:29:47.159593Z"
+    "fetched_at": "2026-08-31T16:58:09.541285Z"
   }
 ]
