@@ -1,5 +1,56 @@
 [
   {
+    "id": "snapshot_0x1e0e648777b10a8efede0db516d96d9ca39284086248b0b012bb79c227ed3f88",
+    "title": "🏛️ [It's a me!] Test proposal again",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/me.0cf5e.eth/proposal/0x1e0e648777b10a8efede0db516d96d9ca39284086248b0b012bb79c227ed3f88",
+    "published_at": "2026-09-01T13:17:56Z",
+    "engagement": 3,
+    "summary": "",
+    "tags": [
+      "governance",
+      "me.0cf5e.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
+  },
+  {
+    "id": "snapshot_0xb9d73f0489b520b79bf73c5c3b2b0c5ed2b058d557df4d86159ddd8ab865c01d",
+    "title": "🏛️ [It's a me!] Test proposal EDIT",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/me.0cf5e.eth/proposal/0xb9d73f0489b520b79bf73c5c3b2b0c5ed2b058d557df4d86159ddd8ab865c01d",
+    "published_at": "2026-09-01T13:11:43Z",
+    "engagement": 3,
+    "summary": "",
+    "tags": [
+      "governance",
+      "me.0cf5e.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
+  },
+  {
+    "id": "snapshot_0x9ff11898d81bf7c37273583d1a89c4b8b32871fbecb93518113dbc3759f2ad74",
+    "title": "🏛️ [sdYB] 57# BTC markets: donation APY to 1.80% and releverage fee to 120 bps (after Curve vote 1494)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x9ff11898d81bf7c37273583d1a89c4b8b32871fbecb93518113dbc3759f2ad74",
+    "published_at": "2026-09-01T08:59:11Z",
+    "engagement": 3,
+    "summary": "Set the yb-WBTC (market 7), yb-cbBTC (market 8) and yb-tBTC (market 9) donation APY to 1.80% per year on crvUSD - which at 2x leverage corresponds to ...",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
+  },
+  {
     "id": "snapshot_0x7b5976e0ea88110f6b8fd78df04bd1f122910e56e33918567de77d0aae8fe322",
     "title": "🏛️ [Space Token] Coin Of The Month 2026 Round 9 -> Which Coin do you want to claim on Coin Roll Game during October 2026 ?",
     "platform": "snapshot",
@@ -14,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0xf739f2f841f381506fd3294def5b188cf6fe77a8580ad5bcc86f67d8b3141fe8",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x2532d8087cce2d631c5a505b2e0c738e1d8329021a542640a6c72e9fd8f35371",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x2ea75baedb8de6f55658b50e949331e43ce012a6b081e02f844d3d5796c86c85",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0xa6cb3abea3636899f4a7afd8d4a28cf48e5607260b033254395de6fcc820cf17",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0xbaa586445f7cebded45fd9ba7ec7d1d2404e2a92939a8dc08f27795ef9c4273b",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x83e74a798211da8b61ae5f51bfcebb5e059c69bbce2b76ee35606772c1ec566f",
@@ -116,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x95329a02677772384f4d2bad196de1f2b0fe6b83a06ab61fe634fb07643dcb86",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0xce102fe51d0f9dffa64c47df88974e52899ce5347375854adfe3547225489421",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x2c919a3305deb1b80ffe8d68618a68926995d633d66918cce019221ebe7ad3f6",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x1c152d7efd78b8cc72bec0af156d60ead97578bf11285a2c51e84d8adf2dbaba",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0xd190d49781c1ada8beedf3c7d2488ae06fb6dd0734568180209ba5057c4e229e",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x105b2a2f4b29b359f721e84a6e997e02f04474a71e2aede2b8010076343eba10",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0xed6de36e41d4b3f8376b0905f1773f0b610c213344d93b73b50c9fa45e42e8ac",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x4e5de3991b74d3af1e7f2a5a90a371c5a4eebb410c9b089bdbe10c33f2b9686b",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0xa106fb905becaaa9929bea3332480f71729c926f59bf02215140f9f6aa686dba",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   },
   {
     "id": "snapshot_0x4a705c2783ba49726bc5d21fa17b646ad5153954d93a8cd6f358be29b00ba833",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
-  },
-  {
-    "id": "snapshot_0x9d781069a81433089a3b3ba6aa92936e33467bef9b795d433a0897b0e3fb43a8",
-    "title": "🏛️ [EarlGrey AI] [Prop 994] Nouns Treasury: Keep USDC Liquid, Earn Yield While It Waits",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/earlgreyai.eth/proposal/0x9d781069a81433089a3b3ba6aa92936e33467bef9b795d433a0897b0e3fb43a8",
-    "published_at": "2026-08-30T18:48:02Z",
-    "engagement": 3,
-    "summary": "# Nouns Treasury: Keep USDC Liquid, Earn Yield While It Waits\n\n## \n\n![](https://i.ibb.co/Mx8FQDy0/exec-9aa6515b-d9da-451c-855e-7c7721a9d180.png \"Nouns...",
-    "tags": [
-      "governance",
-      "earlgreyai.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
-  },
-  {
-    "id": "snapshot_0x991ca01ed74127455c001b8b2b1dc081b3bdd8204ac8480c7ba60fdedbb61ee3",
-    "title": "🏛️ [Helios] Participation in MSTR (Moon Strategy) Mint",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/helios-hlx.eth/proposal/0x991ca01ed74127455c001b8b2b1dc081b3bdd8204ac8480c7ba60fdedbb61ee3",
-    "published_at": "2026-08-30T18:04:51Z",
-    "engagement": 3,
-    "summary": "Summary  \nThis proposal asks the DAO whether to use treasury ETH to mint Moon Strategy ($MSTR) during its live BuilDeFi fair launch on Base, and at wh...",
-    "tags": [
-      "governance",
-      "helios-hlx.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
-  },
-  {
-    "id": "snapshot_0xe38fb49f30be60e217ec16d8727248c7d759578453586eaeaedda8fe5dbea186",
-    "title": "🏛️ [Helios] Participate in OLY",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/helios-hlx.eth/proposal/0xe38fb49f30be60e217ec16d8727248c7d759578453586eaeaedda8fe5dbea186",
-    "published_at": "2026-08-30T17:54:10Z",
-    "engagement": 3,
-    "summary": "Summary  \nThis proposal asks the DAO whether to use treasury ETH to participate in the live OLY mint (opened 28 August 2026) and, if so, at what size....",
-    "tags": [
-      "governance",
-      "helios-hlx.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-01T07:37:01.788701Z"
+    "fetched_at": "2026-09-01T13:22:45.586570Z"
   }
 ]
