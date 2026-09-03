@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0x81c74b59e27b415d38dbc53b6b539f6452300c69308b2409663b8d293f57aded",
+    "title": "🏛️ [Hydrex (Temp Checks)] Test Poll",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/hydrexgov.eth/proposal/0x81c74b59e27b415d38dbc53b6b539f6452300c69308b2409663b8d293f57aded",
+    "published_at": "2026-09-03T20:40:39Z",
+    "engagement": 3,
+    "summary": "This is a poll for my snapshot.",
+    "tags": [
+      "governance",
+      "hydrexgov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
+  },
+  {
+    "id": "snapshot_0x3b169668e639d719430e1827eaf88fb7ec096f42eb245e4b0a6a01a38b5e4c28",
+    "title": "🏛️ [Bored Gorilla Yacht Club] Complementary Proposal: Replace Pronk with Cammmy in Multisig Signers Update",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/bgycsnapshot.eth/proposal/0x3b169668e639d719430e1827eaf88fb7ec096f42eb245e4b0a6a01a38b5e4c28",
+    "published_at": "2026-09-03T19:53:55Z",
+    "engagement": 3,
+    "summary": "**Summary:**\nThis is a complementary proposal to the previous Multisig Signers Update. Since Pronk is no longer reachable, we propose to replace him w...",
+    "tags": [
+      "governance",
+      "bgycsnapshot.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
+  },
+  {
     "id": "snapshot_0xe332c0531e6815bc16b4defdcd7541098346d0d299af8ff12e7a0eaba0894711",
     "title": "🏛️ [Centrifuge] CP172: Exploring Token-to-Equity to Maximize Long-Term CFG Value",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xbc301dbb49449bd5b488e8916ed0bfccc037975d48af107bf3067dd5dd9ddfe6",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xa1f57f84792abf71b6147e31620a618ea9870fedd1fcf114f1054a7fd8f29e2c",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0x2d1c8b8c5c8669d814afe3379adefb11bb6e031573a2d5790b6566354421bf5d",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xddf727cdc41c8f8a96eef2ce6a120f52d7e8a1937196e0fe2c1787a297e991e4",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xaf064e1ae34148cfc229e4038a1e011b70307eea8d455e0dba7cddeb7fec66ca",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0x478d62df647dbdbb3fe09499e92a32c072adcb1b7fd382be54a7d736d6565b51",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xf736fa5f6dd1532d0e2825fe528262479949a923427989384e313490ca9d9f18",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0x67fe3606d6b8521056b9de09675cdddf347e295c77fcf41753fbbcf7f3324f3f",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0x12d0143db33efe0754cab4d89ba9ba7ae23e7e1b77817ba7fc79a35c382280ec",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xac0b394b018192e01b17927fafafba2ad4bfc0411da8382ef8452cc774c9838f",
@@ -184,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0x42092bbb7f7a65706b1694d0e796e8d19d8ea0b8be6d333b57b9bb38708a935e",
@@ -201,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0x7db91d9c2e3ed1f3c1b8c1fd3f80a4a6394906d0fb492156d18ba437d48b7bb0",
@@ -218,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xf242b8b23edbc41e979e83ee44441c19a29772ecc9733b1d26c3f5c272348d84",
@@ -235,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xd3a7d8bae2d095f61d4c0b6d0aa4cca7ec2f0bb8bde12e05161ee12d5766af3d",
@@ -252,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0x715781278e96e84afa2aa688727e5f0158f1d8fa00f5cdae763f995b51bd7441",
@@ -269,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xed5a24b87a9f172956528a6a89f014f8b5aa2c6f075f512db5ed4934ac77db77",
@@ -286,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   },
   {
     "id": "snapshot_0xd2dfa614378c39fdd3bda9992bff8be4ac9b7ee58063369729f42f4cbdfd6a71",
@@ -303,40 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
-  },
-  {
-    "id": "snapshot_0x1e0e648777b10a8efede0db516d96d9ca39284086248b0b012bb79c227ed3f88",
-    "title": "🏛️ [It's a me!] Test proposal again",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/me.0cf5e.eth/proposal/0x1e0e648777b10a8efede0db516d96d9ca39284086248b0b012bb79c227ed3f88",
-    "published_at": "2026-09-01T13:17:56Z",
-    "engagement": 3,
-    "summary": "",
-    "tags": [
-      "governance",
-      "me.0cf5e.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
-  },
-  {
-    "id": "snapshot_0xb9d73f0489b520b79bf73c5c3b2b0c5ed2b058d557df4d86159ddd8ab865c01d",
-    "title": "🏛️ [It's a me!] Test proposal EDIT",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/me.0cf5e.eth/proposal/0xb9d73f0489b520b79bf73c5c3b2b0c5ed2b058d557df4d86159ddd8ab865c01d",
-    "published_at": "2026-09-01T13:11:43Z",
-    "engagement": 3,
-    "summary": "",
-    "tags": [
-      "governance",
-      "me.0cf5e.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-03T17:44:30.780794Z"
+    "fetched_at": "2026-09-03T20:50:25.943761Z"
   }
 ]
