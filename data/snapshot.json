@@ -1,5 +1,90 @@
 [
   {
+    "id": "snapshot_0xde20ea60435a78b03710a67f9c9dce2eb41e9fd03f0cf4ffaa89300eb1772285",
+    "title": "🏛️ [南塘DAO] S7-3 济南农场共建项目",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ntdao.eth/proposal/0xde20ea60435a78b03710a67f9c9dce2eb41e9fd03f0cf4ffaa89300eb1772285",
+    "published_at": "2026-09-05T12:30:38Z",
+    "engagement": 2,
+    "summary": "# 项目背景\n\n在当前，组织在链上开发和社区营造方面取得了一些成绩，然而，缺乏现实商业场景的结合导致组织难以自持。经过多次接触，部分组织成员与“浆果乐园（济南）农业科技发展有限公司”（简称浆果乐园农场）达成了一项共建合作。本次合作旨在探索乡村自组织“如何实现为自身造血”的盈利模式，稳步推进该模式的可...",
+    "tags": [
+      "governance",
+      "ntdao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
+  },
+  {
+    "id": "snapshot_0x8e483b517456944828414137b5c3d77c84c79b1f55e4656e6cfb443df8b7716a",
+    "title": "🏛️ [南塘DAO] S7-2 南塘DAO公共岗位改革",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ntdao.eth/proposal/0x8e483b517456944828414137b5c3d77c84c79b1f55e4656e6cfb443df8b7716a",
+    "published_at": "2026-09-05T12:29:36Z",
+    "engagement": 2,
+    "summary": "# 背景\n\n南塘DAO经历了多届公共岗位选举，历来自定任务内容及岗位薪资，对于工作内容和回报极不明确，也造成了组织成员的疑虑。因此，趁此公共岗位的重新换届之机，拟对岗位工作内容及激励进行确认，以便后续发展。\n\n# 目标\n\n1. 确立岗位基本工作内容，不限制在职者进行更好的拓展，并允许有激励的弹性空间...",
+    "tags": [
+      "governance",
+      "ntdao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
+  },
+  {
+    "id": "snapshot_0xba2d05597aac323b00b2e5b254b3940093298c8849dce233b86f4f4f3a795ec1",
+    "title": "🏛️ [おはよう] test 3",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/おはよう.wa0x6e.eth/proposal/0xba2d05597aac323b00b2e5b254b3940093298c8849dce233b86f4f4f3a795ec1",
+    "published_at": "2026-09-05T11:38:49Z",
+    "engagement": 3,
+    "summary": "",
+    "tags": [
+      "governance",
+      "おはよう.wa0x6e.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
+  },
+  {
+    "id": "snapshot_0x9ea4e94e91dd80983a6d05c650d45c579e2fe191b8896052cfcabb5c5cc545af",
+    "title": "🏛️ [おはよう] Test 2",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/おはよう.wa0x6e.eth/proposal/0x9ea4e94e91dd80983a6d05c650d45c579e2fe191b8896052cfcabb5c5cc545af",
+    "published_at": "2026-09-05T11:36:56Z",
+    "engagement": 3,
+    "summary": "",
+    "tags": [
+      "governance",
+      "おはよう.wa0x6e.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
+  },
+  {
+    "id": "snapshot_0x68ecbe264a58a1ad2dab5b52654302c42b7b68c65a7cabdbf28c97f37de0c638",
+    "title": "🏛️ [おはよう] test import execution",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/おはよう.wa0x6e.eth/proposal/0x68ecbe264a58a1ad2dab5b52654302c42b7b68c65a7cabdbf28c97f37de0c638",
+    "published_at": "2026-09-05T10:58:26Z",
+    "engagement": 3,
+    "summary": "",
+    "tags": [
+      "governance",
+      "おはよう.wa0x6e.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
+  },
+  {
     "id": "snapshot_0x7b4fbc228c7dcbe5b5bfaa58fe37f808b56003674212fec0e89dd6877a892fbd",
     "title": "🏛️ [Genesis Conductor] GC-1: Seat HOT operator and unpaper with real WETH",
     "platform": "snapshot",
@@ -14,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0xb849036bc2413f146dcf6954af722a10c2390b1313847492cf2460956b071464",
@@ -31,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0xf7611dd8d3483996402a39c73d640314dbad8c91a663409fc8709dcc9cca1ba8",
@@ -48,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0x5e036f2a5848ac5c3e1a966f526c3070c1d7b2963d2bc66b610c22dfe2df11d1",
@@ -65,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0xabf91910b0047d4e9b67ad3ece32bcaa7c3c13b58cf37b09d50df264362b019e",
@@ -82,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0x8241e592cb9a30f1f763337e3346a9bb0ab778a6739de62b3f79b5d607f0bf4d",
@@ -99,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0xd6d9a07e3ae8e4b7d70744d3587969b936e62a16a500bd36e7f1cb3702a1e66b",
@@ -116,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0xb57e5dc5e9ef3e2d2b5515ca18ac65eece30dbaeeb22a22030077a6bd0aff4c7",
@@ -133,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0x3b169668e639d719430e1827eaf88fb7ec096f42eb245e4b0a6a01a38b5e4c28",
@@ -150,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0xe332c0531e6815bc16b4defdcd7541098346d0d299af8ff12e7a0eaba0894711",
@@ -167,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0xaf064e1ae34148cfc229e4038a1e011b70307eea8d455e0dba7cddeb7fec66ca",
@@ -184,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0x478d62df647dbdbb3fe09499e92a32c072adcb1b7fd382be54a7d736d6565b51",
@@ -201,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0xf736fa5f6dd1532d0e2825fe528262479949a923427989384e313490ca9d9f18",
@@ -218,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0x12d0143db33efe0754cab4d89ba9ba7ae23e7e1b77817ba7fc79a35c382280ec",
@@ -235,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   },
   {
     "id": "snapshot_0x42092bbb7f7a65706b1694d0e796e8d19d8ea0b8be6d333b57b9bb38708a935e",
@@ -252,91 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
-  },
-  {
-    "id": "snapshot_0xd2dfa614378c39fdd3bda9992bff8be4ac9b7ee58063369729f42f4cbdfd6a71",
-    "title": "🏛️ [Usual] UIP-19: 100% USUAL Burn & UT Management Mandate",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/usualmoney.eth/proposal/0xd2dfa614378c39fdd3bda9992bff8be4ac9b7ee58063369729f42f4cbdfd6a71",
-    "published_at": "2026-09-01T17:00:00Z",
-    "engagement": 3,
-    "summary": "**Author:** Usual Labs\n**Forum discussion:** https://forum.usual.money/t/uip-19-100-usual-burn-ut-management-mandate/23\n\n## Abstract\n\nThis proposal as...",
-    "tags": [
-      "governance",
-      "usualmoney.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
-  },
-  {
-    "id": "snapshot_0xea6e1778157c0112fabff835d4713c226908be80c0efff0fa7117d28620491cd",
-    "title": "🏛️ [AirSwap] Monthly Update: 1 Sep 2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vote.airswap.eth/proposal/0xea6e1778157c0112fabff835d4713c226908be80c0efff0fa7117d28620491cd",
-    "published_at": "2026-09-01T16:00:00Z",
-    "engagement": 2,
-    "summary": "Respond with “yes” or “no” to indicate whether you think AirSwap is heading in the right direction. If your answer is “no,” join our Discord community...",
-    "tags": [
-      "governance",
-      "vote.airswap.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
-  },
-  {
-    "id": "snapshot_0x7b71bc795b5b57ae5071156fb432e29a7fec7783e0e86f77525ec03ad603262f",
-    "title": "🏛️ [fanC DAO] FGP-2: Growth SBT Issuance. Mint with FANC or Not?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/fancdao.eth/proposal/0x7b71bc795b5b57ae5071156fb432e29a7fec7783e0e86f77525ec03ad603262f",
-    "published_at": "2026-09-02T10:00:00Z",
-    "engagement": 3,
-    "summary": "![Designer-grade_Web3_governance_banner_169_widesc-1787731341396 (1).png](ipfs://bafybeihnkjorzqpxnna5fhsqyppwn74vaqeuendd3mradzdhc5dzxosrum)\n\n**Propo...",
-    "tags": [
-      "governance",
-      "fancdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
-  },
-  {
-    "id": "snapshot_0x7b5976e0ea88110f6b8fd78df04bd1f122910e56e33918567de77d0aae8fe322",
-    "title": "🏛️ [Space Token] Coin Of The Month 2026 Round 9 -> Which Coin do you want to claim on Coin Roll Game during October 2026 ?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/spacetokendao.eth/proposal/0x7b5976e0ea88110f6b8fd78df04bd1f122910e56e33918567de77d0aae8fe322",
-    "published_at": "2026-09-01T00:00:15Z",
-    "engagement": 10,
-    "summary": "🥇 The leading ranked coin will be available for claiming in the Final Autoclaim 'Coin Roll' Game! \n\n📈 Additionally, a monthly staking pool with 10% AP...",
-    "tags": [
-      "governance",
-      "spacetokendao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
-  },
-  {
-    "id": "snapshot_0xed6de36e41d4b3f8376b0905f1773f0b610c213344d93b73b50c9fa45e42e8ac",
-    "title": "🏛️ [Equilibria Finance] New Proposal on Equilibria Wind Down",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/equilibriafi.eth/proposal/0xed6de36e41d4b3f8376b0905f1773f0b610c213344d93b73b50c9fa45e42e8ac",
-    "published_at": "2026-08-31T13:00:00Z",
-    "engagement": 2,
-    "summary": "Over the past few months, Equilibria has gone through a long and complex process to finalize the wind-down of the protocol. This proposal is intended ...",
-    "tags": [
-      "governance",
-      "equilibriafi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-05T10:21:56.129106Z"
+    "fetched_at": "2026-09-05T13:48:20.649924Z"
   }
 ]
