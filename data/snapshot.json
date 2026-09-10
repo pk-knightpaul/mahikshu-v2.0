@@ -1,5 +1,90 @@
 [
   {
+    "id": "snapshot_0xa22ea217f01073f2062b82bcd3e3bbfee8fc8f641e0d65919b0ab0ddaef3522b",
+    "title": "🏛️ [Concentrator] [sdCRV] [OWNERSHIP] Update TricryptoUSDC (USDC/WBTC/WETH, 0x7f86...829b) parameters. Ramp A 1,707,629 -> 821,254 (0.481x) and gamma 11,809,167,828,997 -> 33,227,107,850,500 (2.814x) over 14 days. Commit new fees: mid_fee 3,000,000 -> ",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xa22ea217f01073f2062b82bcd3e3bbfee8fc8f641e0d65919b0ab0ddaef3522b",
+    "published_at": "2026-09-10T08:04:23Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1496-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
+  },
+  {
+    "id": "snapshot_0xb68a5b205a5836b763c615d0f20f5fb925123c1a2a1b29616bc8434fd2697130",
+    "title": "🏛️ [sdCRV-Governance] [OWNERSHIP] Update TricryptoUSDC (USDC/WBTC/WETH, 0x7f86...829b) parameters. Ramp A 1,707,629 -> 821,254 (0.481x) and gamma 11,809,167,828,997 -> 33,227,107,850,500 (2.814x) over 14 days. Commit new fees: mid_fee 3,000,000 -> 26,505,000 (8.835x), out_fe...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xb68a5b205a5836b763c615d0f20f5fb925123c1a2a1b29616bc8434fd2697130",
+    "published_at": "2026-09-10T08:04:23Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1496-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
+  },
+  {
+    "id": "snapshot_0x10eac51cf32aa5c88d822747e9c86bf31027d7b9a9ebde2f6dcd59541a2437a9",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1496",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x10eac51cf32aa5c88d822747e9c86bf31027d7b9a9ebde2f6dcd59541a2437a9",
+    "published_at": "2026-09-10T08:04:23Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1496.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1496-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
+  },
+  {
+    "id": "snapshot_0xcc536908a451fc2e1149ddc587c64dc9a36cb398c60ff941fea334ab400848bc",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1496",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xcc536908a451fc2e1149ddc587c64dc9a36cb398c60ff941fea334ab400848bc",
+    "published_at": "2026-09-10T08:04:23Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1496.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1496-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
+  },
+  {
+    "id": "snapshot_0x66ae8de55e6fb92cf260f3df96c4408918733915755b6d196a06cab550f9ebf6",
+    "title": "🏛️ [PARTAI PEMBAHARU INDONESIA] Pemerintah harus bagaimana soal keracunan MBG?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/voteidn.eth/proposal/0x66ae8de55e6fb92cf260f3df96c4408918733915755b6d196a06cab550f9ebf6",
+    "published_at": "2026-09-10T07:25:07Z",
+    "engagement": 4,
+    "summary": "Kasus keracunan MBG terjadi di beberapa tempat. sebagian orang tua melarang anaknya makan MBG. Ada sekolah juga yang kemudian yang menolak MBG. bagaim...",
+    "tags": [
+      "governance",
+      "voteidn.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
+  },
+  {
     "id": "snapshot_0x33699f51a8979c0759f0bb264e55045a9fdc3da2daa4786fb7d0a95895cf94ce",
     "title": "🏛️ [Orderly] [Proposal #16] Community Vote to Delist",
     "platform": "snapshot",
@@ -14,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0xabf8ef5ff39a52089cc2f80a1218fedbeef809f103eb3be55227ead75fd0e6d0",
@@ -31,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0xa16380d7355d8b7067088f9d22c28dac822227db6878f0de92a86c5f91a3707f",
@@ -48,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0x013a3e6280d071c8cf12240bfd27f38e1f57deba71028e3a30f87c2d24aa277d",
@@ -65,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0x85106233d5eeb70e5fefc688b75d7c8accc0cd1d553b0cf284155820ca41cc52",
@@ -82,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0xd726426f17e97209632065a9fc498537392b438478218bc44bfd55cfdff5fca3",
@@ -99,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0x99aa794ce1f08600e763db9d782ce9b6253dfa95885ffbe14723c6a192b66092",
@@ -116,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0x2dd25955a78373f46505aa2df05fd41ac4770cd3e0fcb68215284910b4c22dc7",
@@ -133,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0xb8dc1a2df1c70464264d9f6412e965222251662eceddc95b718d2b8dd4f93faa",
@@ -150,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0x6046bc4daea9de377bb472c21451703e48e25c37eb8c0d647853bd4726d203d5",
@@ -167,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0xbf76f088e7a5c087524cb1a05b145318d38383aceb7095615be7049eda5eeeaf",
@@ -184,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0x3aad750ec3ac56e11de60f2b2fe492845afcb072d95196b118f30596c3be7a54",
@@ -201,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0xaa73cd585435cf4f8e172e9a0d1f8a49ddb35fb8afffbb14fb8031713b25b03a",
@@ -218,7 +303,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
+  },
+  {
+    "id": "snapshot_0xae32b9b2e0b6aabec68a4752bfce2e9ba8d62e4cf35bfceaf7c8686860395a6d",
+    "title": "🏛️ [Beets Gauge Votes] Beets Sonic gauge vote (Round 44)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/beets-gauges.eth/proposal/0xae32b9b2e0b6aabec68a4752bfce2e9ba8d62e4cf35bfceaf7c8686860395a6d",
+    "published_at": "2026-09-10T08:00:00Z",
+    "engagement": 6,
+    "summary": "This vote decides the distribution of 300000 BEETS to gauge emissions for the period of September 16th 2026 to September 29th 2026.\n\nTo vote, distribu...",
+    "tags": [
+      "governance",
+      "beets-gauges.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   },
   {
     "id": "snapshot_0xc627b14476452cae77da2bc0a8044688ae118a0576357df4c94ab93e60ef74b8",
@@ -235,108 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
-  },
-  {
-    "id": "snapshot_0x78aa14807076533b4a64ec7aa6e6664db2590a772956c98b79a50b5694c04a25",
-    "title": "🏛️ [Hydrex (Temp Checks)] Strategic Protocol Reserve Temp Check",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/hydrexgov.eth/proposal/0x78aa14807076533b4a64ec7aa6e6664db2590a772956c98b79a50b5694c04a25",
-    "published_at": "2026-09-08T18:00:00Z",
-    "engagement": 4,
-    "summary": "## Intent & Overview\n\nAs shared in the original [Hydrex Voting Expansion](https://paragraph.com/@hydrex/hydrex-voting-expansion) article, the purpose ...",
-    "tags": [
-      "governance",
-      "hydrexgov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
-  },
-  {
-    "id": "snapshot_0x7e58a8ec32bfce7ebc6ce57e3c12a10a6c643a97db28eb3c06899905dfd97edd",
-    "title": "🏛️ [K.I.N.G. DAO] Update: Dormant Asset Wallet (DAW) & Payout Process",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/kongsdao.eth/proposal/0x7e58a8ec32bfce7ebc6ce57e3c12a10a6c643a97db28eb3c06899905dfd97edd",
-    "published_at": "2026-09-08T17:00:00Z",
-    "engagement": 3,
-    "summary": "",
-    "tags": [
-      "governance",
-      "kongsdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
-  },
-  {
-    "id": "snapshot_0xbd46c6b9c8de65d6a9bdf12d9f3d03e3d1ed749ac84beb0c516991cbb6b60a2f",
-    "title": "🏛️ [PotsMoneyDao] #16 Proposal to Introduce a New POTS MONEY Direct Referral Reward Mechanism / 关于新增 POTS MONEY 直接引荐奖励机制的提案",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ibs.eth/proposal/0xbd46c6b9c8de65d6a9bdf12d9f3d03e3d1ed749ac84beb0c516991cbb6b60a2f",
-    "published_at": "2026-09-08T14:00:00Z",
-    "engagement": 2,
-    "summary": "![pots-proposal-16-mobile-01.png](ipfs://bafkreiephz6sn55bid6ipza4cbuzahk52hxzrycudjmo2rcouxcpcibeue)![pots-proposal-16-mobile-02.png](ipfs://bafkreie...",
-    "tags": [
-      "governance",
-      "ibs.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
-  },
-  {
-    "id": "snapshot_0xa9943c59fedc8c59345701078673a7bdd6c409efa4b801d1e1f3a25b3fa1c288",
-    "title": "🏛️ [Yellow Collective] 996: Camp operational costs 2026/2027",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/yellowcollective.eth/proposal/0xa9943c59fedc8c59345701078673a7bdd6c409efa4b801d1e1f3a25b3fa1c288",
-    "published_at": "2026-09-08T07:47:05Z",
-    "engagement": 3,
-    "summary": "**Nouns proposal:** https://nouns.game/proposals/996\n**Yellow Collective voting page:** https://yellowcollective.art/proposals/nouns/996\n\nVote here to...",
-    "tags": [
-      "governance",
-      "yellowcollective.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
-  },
-  {
-    "id": "snapshot_0x65f47fcc3cfc01316fb825778aa50471395395e38bf060603c0b59f67d26c4f0",
-    "title": "🏛️ [League of Lils] 996: Camp operational costs 2026/2027",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/leagueoflils.eth/proposal/0x65f47fcc3cfc01316fb825778aa50471395395e38bf060603c0b59f67d26c4f0",
-    "published_at": "2026-09-08T07:47:00Z",
-    "engagement": 3,
-    "summary": "**View proposal:** https://lilnouns.wtf/vote/nouns/996",
-    "tags": [
-      "governance",
-      "leagueoflils.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
-  },
-  {
-    "id": "snapshot_0xd1d2df5e122706bfb0a29cb8020f41b21b3c6da5eb964d372aa09354c755eff5",
-    "title": "🏛️ [Bawsaq Exchange] [BIP-1] Proximity voice chat: push-to-talk, relay-only, spectators listen",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/bawsaqexchange.eth/proposal/0xd1d2df5e122706bfb0a29cb8020f41b21b3c6da5eb964d372aa09354c755eff5",
-    "published_at": "2026-09-07T18:15:29Z",
-    "engagement": 3,
-    "summary": "**Author:** blingdawg\n**Date:** 2026-09-07\n**Discussion:** https://governance.bawsaq.org/t/bip-1-proximity-voice-chat-push-to-talk-relay-only-spectato...",
-    "tags": [
-      "governance",
-      "bawsaqexchange.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-10T04:27:48.162083Z"
+    "fetched_at": "2026-09-10T09:29:58.737161Z"
   }
 ]
