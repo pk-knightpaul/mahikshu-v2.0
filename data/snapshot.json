@@ -1,5 +1,158 @@
 [
   {
+    "id": "snapshot_0x33699f51a8979c0759f0bb264e55045a9fdc3da2daa4786fb7d0a95895cf94ce",
+    "title": "🏛️ [Orderly] [Proposal #16] Community Vote to Delist",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/orderlygov.eth/proposal/0x33699f51a8979c0759f0bb264e55045a9fdc3da2daa4786fb7d0a95895cf94ce",
+    "published_at": "2026-09-10T04:03:31Z",
+    "engagement": 7,
+    "summary": "Introduction\n\nOrderly’s mission is to provide a high-quality trading environment with deep liquidity, sustainable trading activity, and transparent go...",
+    "tags": [
+      "governance",
+      "orderlygov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
+    "id": "snapshot_0xabf8ef5ff39a52089cc2f80a1218fedbeef809f103eb3be55227ead75fd0e6d0",
+    "title": "🏛️ [sdFXN] Gauge vote FXN - 17/9/2026 - 30/9/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxn.eth/proposal/0xabf8ef5ff39a52089cc2f80a1218fedbeef809f103eb3be55227ead75fd0e6d0",
+    "published_at": "2026-09-10T02:00:00Z",
+    "engagement": 36,
+    "summary": "Gauge vote for FXN inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxn.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
+    "id": "snapshot_0xa16380d7355d8b7067088f9d22c28dac822227db6878f0de92a86c5f91a3707f",
+    "title": "🏛️ [sdYB] Gauge vote YB - 17/9/2026 - 30/9/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0xa16380d7355d8b7067088f9d22c28dac822227db6878f0de92a86c5f91a3707f",
+    "published_at": "2026-09-10T02:00:00Z",
+    "engagement": 4,
+    "summary": "Gauge vote for YB inflation allocation.",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
+    "id": "snapshot_0x013a3e6280d071c8cf12240bfd27f38e1f57deba71028e3a30f87c2d24aa277d",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1495",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x013a3e6280d071c8cf12240bfd27f38e1f57deba71028e3a30f87c2d24aa277d",
+    "published_at": "2026-09-10T01:43:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1495.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1495-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
+    "id": "snapshot_0x85106233d5eeb70e5fefc688b75d7c8accc0cd1d553b0cf284155820ca41cc52",
+    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 17/9/2026 - 30/9/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0x85106233d5eeb70e5fefc688b75d7c8accc0cd1d553b0cf284155820ca41cc52",
+    "published_at": "2026-09-10T02:00:00Z",
+    "engagement": 121,
+    "summary": "Gauge vote for FXS inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxs.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
+    "id": "snapshot_0xd726426f17e97209632065a9fc498537392b438478218bc44bfd55cfdff5fca3",
+    "title": "🏛️ [Stake DAO CRV] Gauge vote CRV - 17/9/2026 - 30/9/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv.eth/proposal/0xd726426f17e97209632065a9fc498537392b438478218bc44bfd55cfdff5fca3",
+    "published_at": "2026-09-10T02:00:00Z",
+    "engagement": 701,
+    "summary": "Gauge vote for CRV inflation allocation.",
+    "tags": [
+      "governance",
+      "sdcrv.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
+    "id": "snapshot_0x99aa794ce1f08600e763db9d782ce9b6253dfa95885ffbe14723c6a192b66092",
+    "title": "🏛️ [Concentrator] [sdCRV] Add a gauge for the following stableswapNG pool: sVUSD/VUSD on mainnet",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x99aa794ce1f08600e763db9d782ce9b6253dfa95885ffbe14723c6a192b66092",
+    "published_at": "2026-09-10T01:43:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1495-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
+    "id": "snapshot_0x2dd25955a78373f46505aa2df05fd41ac4770cd3e0fcb68215284910b4c22dc7",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following stableswapNG pool: sVUSD/VUSD on mainnet",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x2dd25955a78373f46505aa2df05fd41ac4770cd3e0fcb68215284910b4c22dc7",
+    "published_at": "2026-09-10T01:43:47Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1495-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
+    "id": "snapshot_0xb8dc1a2df1c70464264d9f6412e965222251662eceddc95b718d2b8dd4f93faa",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1495",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xb8dc1a2df1c70464264d9f6412e965222251662eceddc95b718d2b8dd4f93faa",
+    "published_at": "2026-09-10T01:43:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1495.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1495-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
+  },
+  {
     "id": "snapshot_0x6046bc4daea9de377bb472c21451703e48e25c37eb8c0d647853bd4726d203d5",
     "title": "🏛️ [Pro Governance] New temp check",
     "platform": "snapshot",
@@ -14,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0xbf76f088e7a5c087524cb1a05b145318d38383aceb7095615be7049eda5eeeaf",
@@ -31,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0x3aad750ec3ac56e11de60f2b2fe492845afcb072d95196b118f30596c3be7a54",
@@ -48,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0xaa73cd585435cf4f8e172e9a0d1f8a49ddb35fb8afffbb14fb8031713b25b03a",
@@ -65,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0xc627b14476452cae77da2bc0a8044688ae118a0576357df4c94ab93e60ef74b8",
@@ -82,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0x78aa14807076533b4a64ec7aa6e6664db2590a772956c98b79a50b5694c04a25",
@@ -99,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0x7e58a8ec32bfce7ebc6ce57e3c12a10a6c643a97db28eb3c06899905dfd97edd",
@@ -116,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0xbd46c6b9c8de65d6a9bdf12d9f3d03e3d1ed749ac84beb0c516991cbb6b60a2f",
@@ -133,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0xa9943c59fedc8c59345701078673a7bdd6c409efa4b801d1e1f3a25b3fa1c288",
@@ -150,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0x65f47fcc3cfc01316fb825778aa50471395395e38bf060603c0b59f67d26c4f0",
@@ -167,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   },
   {
     "id": "snapshot_0xd1d2df5e122706bfb0a29cb8020f41b21b3c6da5eb964d372aa09354c755eff5",
@@ -184,159 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0xfc4b550f3ba5152c6c44618e52969470bc5835e4ed6a532d79073ebf9be2cf3b",
-    "title": "🏛️ [Spark] SAEP-20: Update Risk Curation Framework Artifact Section",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xfc4b550f3ba5152c6c44618e52969470bc5835e4ed6a532d79073ebf9be2cf3b",
-    "published_at": "2026-09-07T16:08:54Z",
-    "engagement": 3,
-    "summary": "# SAEP-20: Update Risk Curation Framework Artifact Section - September 7, 2026\n\nSpark's Operational Facilitator has placed a proposal into the voting ...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0x2810a096c5e4e1aec50d7694d2c129ef90339bf49f46cafb942706244d1e0392",
-    "title": "🏛️ [Grove] [Grove Artifact] UniswapV3 Facet - Offchain Parameter Update",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0x2810a096c5e4e1aec50d7694d2c129ef90339bf49f46cafb942706244d1e0392",
-    "published_at": "2026-09-07T16:04:40Z",
-    "engagement": 3,
-    "summary": "# [Grove Artifact] UniswapV3 Facet - Offchain Parameter Update - September 7, 2026\n\nGrove's Operational Facilitator has placed a proposal into the vot...",
-    "tags": [
-      "governance",
-      "grovefinance.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0xcf6b2556093cca153cba5c986da1c43265d0267ae6fa501c20b6f2862a138927",
-    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Set Ethena sUSDe Rate Limits to 0",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xcf6b2556093cca153cba5c986da1c43265d0267ae6fa501c20b6f2862a138927",
-    "published_at": "2026-09-07T16:02:52Z",
-    "engagement": 3,
-    "summary": "# [Ethereum] Spark Liquidity Layer - Set Ethena sUSDe Rate Limits to 0 - September 7, 2026\n\nSpark's Operational Facilitator has placed a proposal into...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0x99b962436071575cce485a9eb69188e8df33c53aa6279045e58f0afe6b22a29e",
-    "title": "🏛️ [Grove] [Grove Artifact] Tokenized Treasury JTRSY Instance - Offchain Parameter Update",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0x99b962436071575cce485a9eb69188e8df33c53aa6279045e58f0afe6b22a29e",
-    "published_at": "2026-09-07T16:02:34Z",
-    "engagement": 3,
-    "summary": "# [Grove Artifact] Tokenized Treasury JTRSY Instance - Offchain Parameter Update - September 7, 2026\n\nGrove's Operational Facilitator has placed a pro...",
-    "tags": [
-      "governance",
-      "grovefinance.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0x7be0de387ecb3ec937939641b1dce98a1002297ad7a287f1c7ba3fd97421210d",
-    "title": "🏛️ [Botto] BIP-104: Aargauer Kunsthaus — Artificial Creativity Exhibition",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/botto.eth/proposal/0x7be0de387ecb3ec937939641b1dce98a1002297ad7a287f1c7ba3fd97421210d",
-    "published_at": "2026-09-07T15:30:00Z",
-    "engagement": 3,
-    "summary": "> *`Note: Snapshot is only a summary and may leave ambiguities that are covered in the full BIP in the forum which takes precedent.`*\n\n## Summary\n\nBot...",
-    "tags": [
-      "governance",
-      "botto.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0x28ec2925d16b023dd2f4ed76b649e39b10ba0a6a7c8cc41ba8440455f71e2681",
-    "title": "🏛️ [CORPUS by Takens Theorem] CORPUS: Verify Interest",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/corpus.takens.eth/proposal/0x28ec2925d16b023dd2f4ed76b649e39b10ba0a6a7c8cc41ba8440455f71e2681",
-    "published_at": "2026-09-07T15:11:24Z",
-    "engagement": 1,
-    "summary": "CORPUS: Verify Interest\n\n[CORPUS](https://takenstheorem.github.io/corpus) is a creative project, an ERC-20 \"Liquid Edition\" experiment on [SuperRare](...",
-    "tags": [
-      "governance",
-      "corpus.takens.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0x253c9dbfce11ce0b9824fee527f7aeb75ed6cf48f6e63399d66be08bd32d2693",
-    "title": "🏛️ [Shutter DAO 0x36] Keyper Compensation Program — Renewal (6 months) - Sept 2026 - Feb 2027",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/shutterdao0x36.eth/proposal/0x253c9dbfce11ce0b9824fee527f7aeb75ed6cf48f6e63399d66be08bd32d2693",
-    "published_at": "2026-09-07T10:31:03Z",
-    "engagement": 3,
-    "summary": "The program continues to provide a simple, standards-based incentive for reliable Keyper participation. This proposal renews it for another six months...",
-    "tags": [
-      "governance",
-      "shutterdao0x36.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0x7e3ffed41240a1938ec4e156b17d6ddd1cac56e292aa9955ffec9c242de80c8e",
-    "title": "🏛️ [test token space moon] aksd",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/testing-new-d-ignore-xyz-a.eth/proposal/0x7e3ffed41240a1938ec4e156b17d6ddd1cac56e292aa9955ffec9c242de80c8e",
-    "published_at": "2026-09-06T10:46:31Z",
-    "engagement": 3,
-    "summary": "preco",
-    "tags": [
-      "governance",
-      "testing-new-d-ignore-xyz-a.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
-  },
-  {
-    "id": "snapshot_0x5caa45cb1c3ff232c8e3c7a9d7aaf05e5f97c351e7943056ba0d626e700f3f78",
-    "title": "🏛️ [test token space moon] fisrt",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/testing-new-d-ignore-xyz-a.eth/proposal/0x5caa45cb1c3ff232c8e3c7a9d7aaf05e5f97c351e7943056ba0d626e700f3f78",
-    "published_at": "2026-09-06T10:40:26Z",
-    "engagement": 3,
-    "summary": "try out",
-    "tags": [
-      "governance",
-      "testing-new-d-ignore-xyz-a.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-09T23:58:31.608156Z"
+    "fetched_at": "2026-09-10T04:27:48.162083Z"
   }
 ]
