@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-12T05:32:13.639967Z",
+  "last_updated": "2026-09-12T10:27:49.861276Z",
   "version": "2.0.0",
   "platforms_status": {
     "binance": "ok",
     "coingecko": "ok",
     "dexscreener": "ok",
     "news": "ok",
-    "defillama": "empty",
+    "defillama": "ok",
     "fear_greed": "ok",
     "snapshot": "ok"
   },
-  "total_opportunities": 6
+  "total_opportunities": 7
 }
