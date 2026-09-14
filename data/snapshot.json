@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0xd8ff7693e211ac602ed11cd93d7678bd151a14e48dc23339a66355ac9cbcadde",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1497",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0xd8ff7693e211ac602ed11cd93d7678bd151a14e48dc23339a66355ac9cbcadde",
+    "published_at": "2026-09-13T20:25:23Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1497.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1497-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
+  },
+  {
+    "id": "snapshot_0xef48bc957d6cc1c60ef6509140515e37ac7dcd4cd882546fb27cb6ce2920eb2b",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1497",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xef48bc957d6cc1c60ef6509140515e37ac7dcd4cd882546fb27cb6ce2920eb2b",
+    "published_at": "2026-09-13T20:25:23Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1497.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1497-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
+  },
+  {
     "id": "snapshot_0xd1f34c0ee9290dd631ebb65fdf4c17388cc7133aa8e783d4fad43fa089e368ef",
     "title": "🏛️ [Concentrator] [sdCRV] Add a gauge for the following stableswapNG pool: Suno cuWatt/USDC L1 on mainnet (Suno)",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x0988163dd7edfc789380f015a0943d442aeb7bc9102d00c11982b825ee912110",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x78f3938f5bf1f71d5859efcdeb20767ad6645d759d0bf9411b87da31712f752a",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0xdb9a481f682c843c189cfb1e41176428b1f677d2d92b546620c9c06c2e56504a",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0xc756b0706fd1c4dc1284bc90b7b6b62d10099f8b0ac341431246af5487b9bd6e",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0xaaebedbba8199c09812d178e14e76e9ff9c234eead70623eb55f3c2402ae785a",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x472fb3b40d3df9b1a65de03b85e4867a76f7b1ec014e2d69f347256b0d08184c",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x57e83d4df2139ff67626852cf2693146318492cc973ba5084a2a2625e78578a9",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0xddcea6a783aaabce1d616508999078e45ca95932b2b536c0620a9f5e57fa1899",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0xd3617cebb7cfc6d574617b954787180fefd236cfe39db656b5db3bfdf245c7aa",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x61e51f2e2f590f5578d1568f38248a93f945683843773058085495bf11e34625",
@@ -184,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x79023c94d6bc3c63dac48db16efe683a2c9143f8d5e5dbef8179894bf64685c0",
@@ -201,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x66ae8de55e6fb92cf260f3df96c4408918733915755b6d196a06cab550f9ebf6",
@@ -218,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x33699f51a8979c0759f0bb264e55045a9fdc3da2daa4786fb7d0a95895cf94ce",
@@ -235,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0xabf8ef5ff39a52089cc2f80a1218fedbeef809f103eb3be55227ead75fd0e6d0",
@@ -252,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0xa16380d7355d8b7067088f9d22c28dac822227db6878f0de92a86c5f91a3707f",
@@ -269,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0x85106233d5eeb70e5fefc688b75d7c8accc0cd1d553b0cf284155820ca41cc52",
@@ -286,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   },
   {
     "id": "snapshot_0xd726426f17e97209632065a9fc498537392b438478218bc44bfd55cfdff5fca3",
@@ -303,40 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
-  },
-  {
-    "id": "snapshot_0xaa73cd585435cf4f8e172e9a0d1f8a49ddb35fb8afffbb14fb8031713b25b03a",
-    "title": "🏛️ [Gitcoin] [Proposal]: Upgrade the Gitcoin Governor",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/gitcoindao.eth/proposal/0xaa73cd585435cf4f8e172e9a0d1f8a49ddb35fb8afffbb14fb8031713b25b03a",
-    "published_at": "2026-09-09T13:24:06Z",
-    "engagement": 3,
-    "summary": "[Proposal]: Upgrade the Gitcoin Governor\nIn March, Tally announced their shutdown. ScopeLift announced that they would be taking over the platform and...",
-    "tags": [
-      "governance",
-      "gitcoindao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
-  },
-  {
-    "id": "snapshot_0xae32b9b2e0b6aabec68a4752bfce2e9ba8d62e4cf35bfceaf7c8686860395a6d",
-    "title": "🏛️ [Beets Gauge Votes] Beets Sonic gauge vote (Round 44)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/beets-gauges.eth/proposal/0xae32b9b2e0b6aabec68a4752bfce2e9ba8d62e4cf35bfceaf7c8686860395a6d",
-    "published_at": "2026-09-10T08:00:00Z",
-    "engagement": 6,
-    "summary": "This vote decides the distribution of 300000 BEETS to gauge emissions for the period of September 16th 2026 to September 29th 2026.\n\nTo vote, distribu...",
-    "tags": [
-      "governance",
-      "beets-gauges.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-13T21:20:12.667421Z"
+    "fetched_at": "2026-09-14T00:00:23.169058Z"
   }
 ]
