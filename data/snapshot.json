@@ -1,5 +1,73 @@
 [
   {
+    "id": "snapshot_0xa11332c5c326f34fd4d252853378f0041c4baf6a92094a2dbe91ac5c6ad855d9",
+    "title": "🏛️ [Uniswap] Rotate Sentinel Addresses on the DUNI-Owned Uniswap Earn Vaults",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/uniswapgovernance.eth/proposal/0xa11332c5c326f34fd4d252853378f0041c4baf6a92094a2dbe91ac5c6ad855d9",
+    "published_at": "2026-09-18T14:45:51Z",
+    "engagement": 3,
+    "summary": "## **TL;DR**\n\n* DUNI owns the three Gauntlet-curated Morpho Vaults V2 behind Uniswap Earn: uniUSDC, uniUSDT and uniETH, all on Ethereum mainnet.   \n* ...",
+    "tags": [
+      "governance",
+      "uniswapgovernance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
+  },
+  {
+    "id": "snapshot_0xe1ac3254ff43d5d780fc6ae1f13a0c027c2ef138fadb316198d3ed814a154b7e",
+    "title": "🏛️ [Uniswap] Protocol Fee Expansion: Arc",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/uniswapgovernance.eth/proposal/0xe1ac3254ff43d5d780fc6ae1f13a0c027c2ef138fadb316198d3ed814a154b7e",
+    "published_at": "2026-09-18T14:41:53Z",
+    "engagement": 3,
+    "summary": "*This proposal is part of the protocol fee rollout, following proposals [#93](https://vote.uniswapfoundation.org/proposals/93), [#94](https://vote.uni...",
+    "tags": [
+      "governance",
+      "uniswapgovernance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
+  },
+  {
+    "id": "snapshot_0xc1907023ccd058337465fe9d758a683a23c337abc0295cc7d5cc7a0ba2750a60",
+    "title": "🏛️ [Reidar] BUY $2K USD lf $INU / UNI on Stonk.Fun",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/reidar.eth/proposal/0xc1907023ccd058337465fe9d758a683a23c337abc0295cc7d5cc7a0ba2750a60",
+    "published_at": "2026-09-18T14:32:45Z",
+    "engagement": 2,
+    "summary": "BUY $2k USD using treasury funds for $INU / UNI on stonk fun at or below $4M market cap. If this passes but $INU is above $4M for 72 hours after passi...",
+    "tags": [
+      "governance",
+      "reidar.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
+  },
+  {
+    "id": "snapshot_0x7de9ee3b7b1163de64a843ade2fd79bb90110fd8c7e43e830b416dfd3a622b13",
+    "title": "🏛️ [Reserve] RSR Burn Gauge Setting — September 2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/reserveprotocol.eth/proposal/0x7de9ee3b7b1163de64a843ade2fd79bb90110fd8c7e43e830b416dfd3a622b13",
+    "published_at": "2026-09-18T16:00:00Z",
+    "engagement": 5,
+    "summary": "### Summary\n\nRSR holders adopted the Burn Gauge on September 17. **This vote sets its opening position**.\n\nThe gauge decides what happens to treasury ...",
+    "tags": [
+      "governance",
+      "reserveprotocol.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
+  },
+  {
     "id": "snapshot_0x2ee992fa62c1319d545847494f22e38e26db90244a4608ae5e84d82839dcff19",
     "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1498",
     "platform": "snapshot",
@@ -14,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0x3fc7dc270f3e315e9bc2449bf9f5d0288046125f82b9b140b5866c2886fe71ac",
@@ -31,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0xb06c6d81b67f8bd9e5ffd9bdaaf299b83825a2f25caa4d794f0109e2d03d28ad",
@@ -48,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0xe3aaf6f3a75a9ba03b2b23d8d68deba26e037afbc4ecb36ec96c31c464a1bae2",
@@ -65,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0x29b6b33ee2cfac8521f0d24bcf54377cd08e5f4b1bc0529b60ad9da7070fbd87",
@@ -82,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0x33c11939bb61e2b4873a1d96473cd0b487bf5f62638ab91efdf07bcfcaa188de",
@@ -99,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0x2bbf27cc128234c341b609a0acc88c8e56642803a4b5b3c6daa0951708c6756a",
@@ -116,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0xc5b14bcb9650109c45b83f0c38feaa7e5b59578dd30d19c7d2d3ae99a78695ef",
@@ -133,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0x4e0b4533f0096cdffb7b4dda6c549a5a1eed3081b23e2f2c8cf9fc93f07b3a4d",
@@ -150,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0x761e9535f1891c416bddbe7bd734457922d5176ed3d093ce9de2b1d2b42f8ca0",
@@ -167,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0xb3c0a2fb27c069e8f3dc71ee0d173fee21fee182bbb12b652604547c528f6349",
@@ -184,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0x34464cbd61c8bc51664429ddb9ce8a299483959ac3c0a025e6ac88cb05c32bdd",
@@ -201,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0x5e2eb91385aab46fd417f4c54da6e6d01760f40eba38c5dbe0806765f68fc017",
@@ -218,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0xb1752ee3450cdb0507a3485b229364b2c7bff2aca6ec30fd1ae50442b7bee13f",
@@ -235,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0xe3f2d1d8e9f13ffce7da6c983cfc4a257f8859e7507b92c370c3dfbd4f318c23",
@@ -252,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   },
   {
     "id": "snapshot_0xe52c97b415b08b14b88ee3ee8ffb2a423bf9986005dbaf9770a33f6414c69d84",
@@ -269,74 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
-  },
-  {
-    "id": "snapshot_0xf23fa57351b541fde72444ac7a6214f14de7eeeaa5762416b2294ae0eac8a7d1",
-    "title": "🏛️ [ShareX] Proposal: SHARE Token Contract Swap",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/share-x.eth/proposal/0xf23fa57351b541fde72444ac7a6214f14de7eeeaa5762416b2294ae0eac8a7d1",
-    "published_at": "2026-09-16T06:42:18Z",
-    "engagement": 3,
-    "summary": "Background\n\nShareX has continued to make progress in bringing the sharing economy on-chain and connecting real-world consumer activity with Web3 infra...",
-    "tags": [
-      "governance",
-      "share-x.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
-  },
-  {
-    "id": "snapshot_0x6e3119d7eda921645b8a0e010225539e136bdd691e6a8dd90c0821e6eaa30649",
-    "title": "🏛️ [dOrg] Orvium - Technical Support Retainer",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/dorg.eth/proposal/0x6e3119d7eda921645b8a0e010225539e136bdd691e6a8dd90c0821e6eaa30649",
-    "published_at": "2026-09-14T19:18:19Z",
-    "engagement": 3,
-    "summary": "",
-    "tags": [
-      "governance",
-      "dorg.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
-  },
-  {
-    "id": "snapshot_0xb4c8c69b55a442948a7d66b42ac418ae22cad057fee7fbcb0c27a8768bfd3541",
-    "title": "🏛️ [1inch Network] [1IP-106] Establish the 1inch DAO Security Council and Ratify a Rotation of the DAO Treasury Multisig Signers",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/1inch.eth/proposal/0xb4c8c69b55a442948a7d66b42ac418ae22cad057fee7fbcb0c27a8768bfd3541",
-    "published_at": "2026-09-14T16:02:33Z",
-    "engagement": 3,
-    "summary": "## Simple Summary\n\nThis proposal establishes the 1inch DAO Security Council as the formally ratified signer set of the DAO Treasury multisig and ratif...",
-    "tags": [
-      "governance",
-      "1inch.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
-  },
-  {
-    "id": "snapshot_0x71b50a792e4606e593ff4502b1753aa3fb894a0bf994d6a5f1d42cee9c94a594",
-    "title": "🏛️ [Lido] Authorize a Contingent LDO CEX Liquidity Market-Making Mandate",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/lido-snapshot.eth/proposal/0x71b50a792e4606e593ff4502b1753aa3fb894a0bf994d6a5f1d42cee9c94a594",
-    "published_at": "2026-09-14T16:00:00Z",
-    "engagement": 2,
-    "summary": "### Summary\n\nThis proposal requests Lido DAO to authorize a contingent, capped market-making mandate for LDO on centralized exchanges (CEXs), to reduc...",
-    "tags": [
-      "governance",
-      "lido-snapshot.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-18T14:17:12.416870Z"
+    "fetched_at": "2026-09-18T18:14:46.248551Z"
   }
 ]
