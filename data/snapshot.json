@@ -14,7 +14,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0xd68e14057f29d58dcb537f5711f552cacb9b79805fac8dd12bb929853b78f605",
@@ -31,7 +31,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0xa11332c5c326f34fd4d252853378f0041c4baf6a92094a2dbe91ac5c6ad855d9",
@@ -48,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0xe1ac3254ff43d5d780fc6ae1f13a0c027c2ef138fadb316198d3ed814a154b7e",
@@ -65,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0xac029d280643ef1e0828a2305d43e1d5b2b85c648fc0eed38ad4f3b7aa8f6366",
@@ -82,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0x7de9ee3b7b1163de64a843ade2fd79bb90110fd8c7e43e830b416dfd3a622b13",
@@ -99,24 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
-  },
-  {
-    "id": "snapshot_0x2ee992fa62c1319d545847494f22e38e26db90244a4608ae5e84d82839dcff19",
-    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1498",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x2ee992fa62c1319d545847494f22e38e26db90244a4608ae5e84d82839dcff19",
-    "published_at": "2026-09-17T11:48:35Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1498.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1498-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "aladdindao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0x3fc7dc270f3e315e9bc2449bf9f5d0288046125f82b9b140b5866c2886fe71ac",
@@ -133,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0xb06c6d81b67f8bd9e5ffd9bdaaf299b83825a2f25caa4d794f0109e2d03d28ad",
@@ -150,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0xe3aaf6f3a75a9ba03b2b23d8d68deba26e037afbc4ecb36ec96c31c464a1bae2",
@@ -167,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0x29b6b33ee2cfac8521f0d24bcf54377cd08e5f4b1bc0529b60ad9da7070fbd87",
@@ -184,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0x33c11939bb61e2b4873a1d96473cd0b487bf5f62638ab91efdf07bcfcaa188de",
@@ -201,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0x2bbf27cc128234c341b609a0acc88c8e56642803a4b5b3c6daa0951708c6756a",
@@ -218,24 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
-  },
-  {
-    "id": "snapshot_0xc5b14bcb9650109c45b83f0c38feaa7e5b59578dd30d19c7d2d3ae99a78695ef",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1498",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0xc5b14bcb9650109c45b83f0c38feaa7e5b59578dd30d19c7d2d3ae99a78695ef",
-    "published_at": "2026-09-17T11:48:35Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1498.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1498-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0x4e0b4533f0096cdffb7b4dda6c549a5a1eed3081b23e2f2c8cf9fc93f07b3a4d",
@@ -252,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0x761e9535f1891c416bddbe7bd734457922d5176ed3d093ce9de2b1d2b42f8ca0",
@@ -269,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0xb3c0a2fb27c069e8f3dc71ee0d173fee21fee182bbb12b652604547c528f6349",
@@ -286,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
     "id": "snapshot_0x34464cbd61c8bc51664429ddb9ce8a299483959ac3c0a025e6ac88cb05c32bdd",
@@ -303,40 +269,74 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
-    "id": "snapshot_0x5e2eb91385aab46fd417f4c54da6e6d01760f40eba38c5dbe0806765f68fc017",
-    "title": "🏛️ [CORPUS by Takens Theorem] CORPUS Final Vote: Proposal 1 // Induction",
+    "id": "snapshot_0xe3f2d1d8e9f13ffce7da6c983cfc4a257f8859e7507b92c370c3dfbd4f318c23",
+    "title": "🏛️ [Decentraland] Add Show/Hide Toggle for Archived Bids/Offers in DCL Marketplace",
     "platform": "snapshot",
     "content_type": "governance",
-    "url": "https://snapshot.org/#/corpus.takens.eth/proposal/0x5e2eb91385aab46fd417f4c54da6e6d01760f40eba38c5dbe0806765f68fc017",
-    "published_at": "2026-09-16T13:41:33Z",
-    "engagement": 2,
-    "summary": "See [takenstheorem.github.io/corpus/vote.html](https://takenstheorem.github.io/corpus/vote.html) for details. On that page, scroll for some sample ima...",
+    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0xe3f2d1d8e9f13ffce7da6c983cfc4a257f8859e7507b92c370c3dfbd4f318c23",
+    "published_at": "2026-09-16T00:53:00Z",
+    "engagement": 3,
+    "summary": "> by 0xbc02db030361121dd43bbb2fcbcb4f9f98c1dc7d (Bestie)\n\nIssue: Under My Assets → Bids tab in the Decentraland Marketplace, users only have two optio...",
     "tags": [
       "governance",
-      "corpus.takens.eth",
+      "snapshot.dcl.eth",
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   },
   {
-    "id": "snapshot_0xb1752ee3450cdb0507a3485b229364b2c7bff2aca6ec30fd1ae50442b7bee13f",
-    "title": "🏛️ [CORPUS by Takens Theorem] CORPUS Final Vote: Proposal 2 // Adaptation",
+    "id": "snapshot_0xf23fa57351b541fde72444ac7a6214f14de7eeeaa5762416b2294ae0eac8a7d1",
+    "title": "🏛️ [ShareX] Proposal: SHARE Token Contract Swap",
     "platform": "snapshot",
     "content_type": "governance",
-    "url": "https://snapshot.org/#/corpus.takens.eth/proposal/0xb1752ee3450cdb0507a3485b229364b2c7bff2aca6ec30fd1ae50442b7bee13f",
-    "published_at": "2026-09-16T13:39:37Z",
-    "engagement": 2,
-    "summary": "See [takenstheorem.github.io/corpus/vote.html](https://takenstheorem.github.io/corpus/vote.html) for details. On that page, scroll for some sample ima...",
+    "url": "https://snapshot.org/#/share-x.eth/proposal/0xf23fa57351b541fde72444ac7a6214f14de7eeeaa5762416b2294ae0eac8a7d1",
+    "published_at": "2026-09-16T06:42:18Z",
+    "engagement": 3,
+    "summary": "Background\n\nShareX has continued to make progress in bringing the sharing economy on-chain and connecting real-world consumer activity with Web3 infra...",
     "tags": [
       "governance",
-      "corpus.takens.eth",
+      "share-x.eth",
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-20T00:53:20.559976Z"
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
+  },
+  {
+    "id": "snapshot_0x71b50a792e4606e593ff4502b1753aa3fb894a0bf994d6a5f1d42cee9c94a594",
+    "title": "🏛️ [Lido] Authorize a Contingent LDO CEX Liquidity Market-Making Mandate",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/lido-snapshot.eth/proposal/0x71b50a792e4606e593ff4502b1753aa3fb894a0bf994d6a5f1d42cee9c94a594",
+    "published_at": "2026-09-14T16:00:00Z",
+    "engagement": 2,
+    "summary": "### Summary\n\nThis proposal requests Lido DAO to authorize a contingent, capped market-making mandate for LDO on centralized exchanges (CEXs), to reduc...",
+    "tags": [
+      "governance",
+      "lido-snapshot.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
+  },
+  {
+    "id": "snapshot_0x3ae12eeab9dbbac794286e69eb59419a9f85fc5868a086e19782e2b63da75924",
+    "title": "🏛️ [ssv.network] [DIP-51] DAO Delegation Revision #1 | Introducing Auto-Delegation, Community Score, and Delegation Portal",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/mainnet.ssvnetwork.eth/proposal/0x3ae12eeab9dbbac794286e69eb59419a9f85fc5868a086e19782e2b63da75924",
+    "published_at": "2026-09-14T13:45:00Z",
+    "engagement": 3,
+    "summary": "## Abstract\n\nThis proposal updates the DAO's delegation framework to enhance decentralization, simplify operations, and combat voting fatigue.\n\nBy imp...",
+    "tags": [
+      "governance",
+      "mainnet.ssvnetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-20T05:56:40.671442Z"
   }
 ]
