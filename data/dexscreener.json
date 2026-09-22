@@ -1,11 +1,27 @@
 [
   {
-    "id": "dexscreener_solana_96UqdDSnvtrFVdJQJr6NS9fqUbhAmwoAojgUKg4YpuGX",
-    "title": "🆕 New Pair: 96UqdDSnvtrFVdJQJr6N... on solana",
+    "id": "dexscreener_robinhood_0x60De5C70c5360DEd63D940a1Bde63CB0Ca5B6987",
+    "title": "🆕 New Pair: 0x60De5C70c5360DEd63... on robinhood",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/96UqdDSnvtrFVdJQJr6NS9fqUbhAmwoAojgUKg4YpuGX",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/robinhood/0x60De5C70c5360DEd63D940a1Bde63CB0Ca5B6987",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "AI stock intelligence, for less. Buy, trade and use Jev credits onchain.",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_solana_2iSB473Z7L2ndpWs3n22tb7H3KSGpswDTH3jP7qCCAZT",
+    "title": "🆕 New Pair: 2iSB473Z7L2ndpWs3n22... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/2iSB473Z7L2ndpWs3n22tb7H3KSGpswDTH3jP7qCCAZT",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
     "summary": "New token pair discovered on solana via DexScreener.",
     "tags": [
@@ -13,223 +29,255 @@
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_bsc_0x63b714927dD65D9c5ebaaC1d934CCBE4d8CC7777",
-    "title": "🆕 New Pair: 0x63b714927dD65D9c5e... on bsc",
+    "id": "dexscreener_ethereum_0x503DF9169883d258E5C0e6e776F3B017Cd2B3180",
+    "title": "🆕 New Pair: 0x503DF9169883d258E5... on ethereum",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/bsc/0x63b714927dD65D9c5ebaaC1d934CCBE4d8CC7777",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/ethereum/0x503DF9169883d258E5C0e6e776F3B017Cd2B3180",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "Wallah habibi, I came for one falafel and now I own the whole BSC",
+    "summary": "Pepe's Pet",
+    "tags": [
+      "new_pair",
+      "ethereum",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0xAF7EA9fFdc00d232A3f6d4F042eBffDa50b01110",
+    "title": "🆕 New Pair: 0xAF7EA9fFdc00d232A3... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0xAF7EA9fFdc00d232A3f6d4F042eBffDa50b01110",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "The race is slow. The stakes aren't. 🐌🏁",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_bsc_0xba43cD509BF5d6c5aC5E272CB93acEd39A457777",
+    "title": "🆕 New Pair: 0xba43cD509BF5d6c5aC... on bsc",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/bsc/0xba43cD509BF5d6c5aC5E272CB93acEd39A457777",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "mrdx",
     "tags": [
       "new_pair",
       "bsc",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_bsc_0x2d424480be58DF8eB249893A98B87Da189E10F53",
-    "title": "🆕 New Pair: 0x2d424480be58DF8eB2... on bsc",
+    "id": "dexscreener_bsc_0xcf9aB713A2472b79f10a23f2f41B3311A0257777",
+    "title": "🆕 New Pair: 0xcf9aB713A2472b79f1... on bsc",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/bsc/0x2d424480be58DF8eB249893A98B87Da189E10F53",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/bsc/0xcf9aB713A2472b79f10a23f2f41B3311A0257777",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "CryptoReceipt turns crypto payments into clear, shareable and verifiable receipts on BNB Chain.\n\nCreate a receipt from an existing transaction or send a payment request directly to your customer. Add the payment purpose, invoice reference and relevant details, then let both parties sign the receipt with their wallets.\n\nOnchain verification checks the transfer, while EIP-712 signatures bind each signer to the receipt’s exact contents. Any change to the signed document invalidates its signatures.\n\nExport receipts as PDFs, share verification links and keep JSON proofs for independent signature checks. Payments go directly between wallets, without passing through a CryptoReceipt payment contract.\n\nCRP is the CryptoReceipt project token on BNB Chain. Holding CRP is not required to create or sign receipts.\n\nMoney moves. Proof stays.",
+    "summary": "QED——为孙宇晨奖而生\n@SunPrizeCN\n\n\n挑战题目：JSP-000047",
     "tags": [
       "new_pair",
       "bsc",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_robinhood_0xf7BBbb3791Cf88F685935CedE9c31Ad87655fb9c",
-    "title": "🆕 New Pair: 0xf7BBbb3791Cf88F685... on robinhood",
+    "id": "dexscreener_solana_3tjnNeLxNqDCMKxgj4RS26nNUxPqJ3XN7YXF1uFPo6sK",
+    "title": "🆕 New Pair: 3tjnNeLxNqDCMKxgj4RS... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0xf7BBbb3791Cf88F685935CedE9c31Ad87655fb9c",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/solana/3tjnNeLxNqDCMKxgj4RS26nNUxPqJ3XN7YXF1uFPo6sK",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "A post goes up. One person claims it and it becomes a coin that can never be claimed again. The account that wrote the post is paid out of every trade from the first block, whether or not they ever find out. $CLAIM",
+    "summary": "New token pair discovered on solana via DexScreener.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_solana_H6ibmg2HroqMWMFbTkzsuGsnRumuULFBL6hoMLmZmLe",
+    "title": "🆕 New Pair: H6ibmg2HroqMWMFbTkzs... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/H6ibmg2HroqMWMFbTkzsuGsnRumuULFBL6hoMLmZmLe",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "They never finished it, we will.",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0x64114ca27530607c93e353b17583afb02a04aa1d",
+    "title": "🆕 New Pair: 0x64114ca27530607c93... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x64114ca27530607c93e353b17583afb02a04aa1d",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "Turn eligible dividend value into USDG, put it toward your borrowing balance, or reinvest in Stock Tokens.",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_avalanche_0x077000E3CCDe786E280C1fD1761a54289d06b421",
-    "title": "🆕 New Pair: 0x077000E3CCDe786E28... on avalanche",
+    "id": "dexscreener_solana_LtWgiTGByaEakniBTvmwKt7EBnPHqWgphyafb6fzfpo",
+    "title": "🆕 New Pair: LtWgiTGByaEakniBTvmw... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/avalanche/0x077000E3CCDe786E280C1fD1761a54289d06b421",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/solana/LtWgiTGByaEakniBTvmwKt7EBnPHqWgphyafb6fzfpo",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "Create. Launch. Trade. All in one place. Built on avalanche🔺",
-    "tags": [
-      "new_pair",
-      "avalanche",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_HXQ66zSRqynwJQ6vYEYa85qGY9C2Ycz8rnYQHgApn391",
-    "title": "🆕 New Pair: HXQ66zSRqynwJQ6vYEYa... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/HXQ66zSRqynwJQ6vYEYa85qGY9C2Ycz8rnYQHgApn391",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "Stokn is a walking game with real stock. Pieces of Apple, Nvidia and Tesla (tokenized xStocks on Solana) drop on streets near players. Walk there, tap, and the stock lands in your own wallet. Free to play, no SOL needed. $GO is the engine: every trade pays a fee, split by code the same way every time. 50% buys real stock for the map, 40% buys back and burns $GO, 10% runs the team. Every move is on-chain at stokn website → Proof.",
+    "summary": "Grokification, all fees to the creator.",
     "tags": [
       "new_pair",
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_solana_MboMMGXjGDi45hfjCVzYru32kEM5nw7VzCqCofZpump",
-    "title": "🆕 New Pair: MboMMGXjGDi45hfjCVzY... on solana",
+    "id": "dexscreener_solana_AcFsTd87FS2UTzJNeB7WZFEULwKRTe5uRw5AmeZh9HPP",
+    "title": "🆕 New Pair: AcFsTd87FS2UTzJNeB7W... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/MboMMGXjGDi45hfjCVzYru32kEM5nw7VzCqCofZpump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/solana/AcFsTd87FS2UTzJNeB7WZFEULwKRTe5uRw5AmeZh9HPP",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "The Karate Cat! Over 75m+ views on X alone in the last week, the karate cat is taking the internet by storm!",
+    "summary": "Glorious Morning. The Pythian Portico our collective community content oasis. Share your information, news, memes, art & bull posts. Pythians follow Pythians.",
     "tags": [
       "new_pair",
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_solana_HaKGGAiKCZRXrwmoC84oPeGVi9v8wEW9uQtXgpMapump",
-    "title": "🆕 New Pair: HaKGGAiKCZRXrwmoC84o... on solana",
+    "id": "dexscreener_solana_EoCvLdAnZKbuqEq8zgTi2X2PmYmuhKLLngeJp5w8hK8P",
+    "title": "🆕 New Pair: EoCvLdAnZKbuqEq8zgTi... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/HaKGGAiKCZRXrwmoC84oPeGVi9v8wEW9uQtXgpMapump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/solana/EoCvLdAnZKbuqEq8zgTi2X2PmYmuhKLLngeJp5w8hK8P",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "Altinu",
+    "summary": "Bitcoin gave crypto the revolution.\nShiba Inu gave memes a movement.",
     "tags": [
       "new_pair",
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_robinhood_0x8D2912844970209839449662499ff00284B11953",
-    "title": "🆕 New Pair: 0x8D2912844970209839... on robinhood",
+    "id": "dexscreener_robinhood_0xb3ad5b728d6a7705c50eb5b25488b60bb06900c2",
+    "title": "🆕 New Pair: 0xb3ad5b728d6a7705c5... on robinhood",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x8D2912844970209839449662499ff00284B11953",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/robinhood/0xb3ad5b728d6a7705c50eb5b25488b60bb06900c2",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "A lost 1997 Wall Street PC game, rebooted. SEASON 01: 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗪𝗔𝗥. AAPL vs MSFT. RWA unlocks the market. $TK97 fuels the game. XP proves it.",
+    "summary": "Built for capital that refuses to stand still. A sharper way to stake ETH, explore farming, and pursue onchain yield.",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_robinhood_0xb57ED3C7ffEAA75cEB6C772cB7a3be422782e250",
-    "title": "🆕 New Pair: 0xb57ED3C7ffEAA75cEB... on robinhood",
+    "id": "dexscreener_robinhood_0x55683371036401F8CaE676c260EFCDe9bE36a7f4",
+    "title": "🆕 New Pair: 0x55683371036401F8Ca... on robinhood",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0xb57ED3C7ffEAA75cEB6C772cB7a3be422782e250",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/robinhood/0x55683371036401F8CaE676c260EFCDe9bE36a7f4",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "PocketGremlin just escaped into the onchain world. 💚\n\nSmall enough for your pocket. Gremlin enough to steal every shiny coin he sees.\n\nNo complicated story — just a tiny green troublemaker, big meme energy, and a community ready to unleash some pocket-sized chaos.\n\nSee a coin. Grab it. Pocket it. Repeat.",
+    "summary": "Korean dev Serio's Grok-style PFP trend is spreading across X—betting this SPCX-paired Stonk coin goes viral!",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_solana_78vjAS8UdAXphQZuEPH8WNyhiByk9J31N4f7WArUpump",
-    "title": "🆕 New Pair: 78vjAS8UdAXphQZuEPH8... on solana",
+    "id": "dexscreener_robinhood_0xbb77B9086cAeC884E4AD89F7F7B47b45E7233cDC",
+    "title": "🆕 New Pair: 0xbb77B9086cAeC884E4... on robinhood",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/78vjAS8UdAXphQZuEPH8WNyhiByk9J31N4f7WArUpump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/robinhood/0xbb77B9086cAeC884E4AD89F7F7B47b45E7233cDC",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "SamuraiX ($SAMX) is a community-driven memecoin on Solana, built around transparency and long-term community growth.\n\n10,000,000 $SAMX permanently burned on-chain.\n100,000,000 $SAMX founder allocation planned for a 12-month lock.\n0% buy/sell tax.\nMint authority disabled.\nFreeze authority disabled.\n\nOfficial Contract: 78vjAS8UdAXphQZuEPH8WNyhiByk9J31N4f7WArUpump\n\nVerify everything. DYOR.\n\n⚔️ SAMURAI4LIFE ⚔️",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_3NR2AnHC5REw23HK5fXBjwcvLUA2UyEfCJYcpboRkRyw",
-    "title": "🆕 New Pair: 3NR2AnHC5REw23HK5fXB... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/3NR2AnHC5REw23HK5fXBjwcvLUA2UyEfCJYcpboRkRyw",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "Burn on Solana → stamp on Zcash mainnet. No bridge, no escrow, no multisig. Permissionless — supply always equals burns. Live now.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_robinhood_0x36a4266b3596c6103cb595d9eb11ac12d35719a8",
-    "title": "🆕 New Pair: 0x36a4266b3596c6103c... on robinhood",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x36a4266b3596c6103cb595d9eb11ac12d35719a8",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "Global Real Estate Perps Market\nTrade residential housing & property stocks worldwide.\nNo KYC. Built on Robinhood Chain.\nMore real estate markets, always expand",
+    "summary": "Become an insider",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_solana_BbAgaENCJ1jg5RmH3WMbZUf6enu1bLSd33QNXXExpump",
-    "title": "🆕 New Pair: BbAgaENCJ1jg5RmH3WMb... on solana",
+    "id": "dexscreener_solana_D8wpNjbBWoPbcHCfGBDERinKfTPBrVhRDt4R9jeavv1h",
+    "title": "🆕 New Pair: D8wpNjbBWoPbcHCfGBDE... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/BbAgaENCJ1jg5RmH3WMbZUf6enu1bLSd33QNXXExpump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/solana/D8wpNjbBWoPbcHCfGBDERinKfTPBrVhRDt4R9jeavv1h",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "Cat with Existential Crisis",
+    "summary": "GROKIFICATION",
     "tags": [
       "new_pair",
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_solana_GpxMPNDotLrHKMFdYu2itaDYgzKKjeUy5F7F96qT5TbQ",
-    "title": "🆕 New Pair: GpxMPNDotLrHKMFdYu2i... on solana",
+    "id": "dexscreener_cronos_0x5b326376D34253Fab935d3113698C335c7E61e85",
+    "title": "🆕 New Pair: 0x5b326376D34253Fab9... on cronos",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/GpxMPNDotLrHKMFdYu2itaDYgzKKjeUy5F7F96qT5TbQ",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/cronos/0x5b326376D34253Fab935d3113698C335c7E61e85",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "Crime Cat season on Cronos 🐈‍⬛ \nGet your laptop ready as crime trades are about to happen.",
+    "tags": [
+      "new_pair",
+      "cronos",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_solana_GrGCEeQU7FGA9Xky9ogpinxoMfexUbMTL27zhJ82pump",
+    "title": "🆕 New Pair: GrGCEeQU7FGA9Xky9ogp... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/GrGCEeQU7FGA9Xky9ogpinxoMfexUbMTL27zhJ82pump",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
     "summary": "New token pair discovered on solana via DexScreener.",
     "tags": [
@@ -237,31 +285,79 @@
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_robinhood_0x63c067c909E669Db8529B826C3667B26b9Cac5cd",
-    "title": "🆕 New Pair: 0x63c067c909E669Db85... on robinhood",
+    "id": "dexscreener_base_0xf5cc0540C3Cf7f9a14843AD75Ae55230760F6B93",
+    "title": "🆕 New Pair: 0xf5cc0540C3Cf7f9a14... on base",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/robinhood/0x63c067c909E669Db8529B826C3667B26b9Cac5cd",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/base/0xf5cc0540C3Cf7f9a14843AD75Ae55230760F6B93",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "This is the next Labubu \nA new Plushie called 'Chiiba' is going insanely viral with people even walking around in COSTUMES\nTens of millions of views already on it",
+    "summary": "One Hub. Endless Games. Infinite Possibilities. Play. Own. Trade. Earn. | Games • NFTs • Gaming Hub built on Base.",
+    "tags": [
+      "new_pair",
+      "base",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0xfc46430FB7aaBB32E4d76A1a75649889028AE222",
+    "title": "🆕 New Pair: 0xfc46430FB7aaBB32E4... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0xfc46430FB7aaBB32E4d76A1a75649889028AE222",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "Meet Ducky!\n\nPepe's brother who was created by Jason Furie. Matt Furie created Pepe, and his brother Jason created Ducky!",
     "tags": [
       "new_pair",
       "robinhood",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_solana_4jSXgFBDVYwP7JyVz4yFjtQzAdNgP6kX2Hm6pVFUYsH4",
-    "title": "🆕 New Pair: 4jSXgFBDVYwP7JyVz4yF... on solana",
+    "id": "dexscreener_solana_CMzis7E8c6Rk7WKnQrqQxSwNHPU518C3RmbzmJPSjUNr",
+    "title": "🆕 New Pair: CMzis7E8c6Rk7WKnQrqQ... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/4jSXgFBDVYwP7JyVz4yFjtQzAdNgP6kX2Hm6pVFUYsH4",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/solana/CMzis7E8c6Rk7WKnQrqQxSwNHPU518C3RmbzmJPSjUNr",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "AirCat",
+    "tags": [
+      "new_pair",
+      "solana",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0x582D1695bA3ABd8cea0c75427949eA73476e5863",
+    "title": "🆕 New Pair: 0x582D1695bA3ABd8cea... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x582D1695bA3ABd8cea0c75427949eA73476e5863",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "$PSYS is the token of PrysmSystem, a protocol of defined-risk, fully collateralised markets on BTC implied volatility (Deribit DVOL) and the funding-rate spread between the Lighter Robinhood Chain domain and Hyperliquid. Built on Robinhood Chain (4663) with USDG collateral. Capped payouts, not risk free",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_solana_Bjygd7p7aTRpTobQgdSK5eq7bahFxvtj86Si6diPNvZp",
+    "title": "🆕 New Pair: Bjygd7p7aTRpTobQgdSK... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/Bjygd7p7aTRpTobQgdSK5eq7bahFxvtj86Si6diPNvZp",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
     "summary": "New token pair discovered on solana via DexScreener.",
     "tags": [
@@ -269,214 +365,118 @@
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_arc_0x5849Fd68a097B3eE7d87ce88a0fcBb76857648FF",
-    "title": "🆕 New Pair: 0x5849Fd68a097B3eE7d... on arc",
+    "id": "dexscreener_bsc_0xBF7e47E05E24D2f66aDb219068ca3B6C75D27777",
+    "title": "🆕 New Pair: 0xBF7e47E05E24D2f66a... on bsc",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/arc/0x5849Fd68a097B3eE7d87ce88a0fcBb76857648FF",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/bsc/0xBF7e47E05E24D2f66aDb219068ca3B6C75D27777",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "Arc is in his mouth. A maze-chomping meme mascot for the Arc community, built for arcade energy and internet culture.",
-    "tags": [
-      "new_pair",
-      "arc",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_FZxpVsoZ9VKey66rwacoHxVjhRXSo2MwzidPXDxSjupx",
-    "title": "🆕 New Pair: FZxpVsoZ9VKey66rwaco... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/FZxpVsoZ9VKey66rwacoHxVjhRXSo2MwzidPXDxSjupx",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_BGcuCU1TW7zHTNc41dZF8u1hxXd65So2jY2v5ZxmCX76",
-    "title": "🆕 New Pair: BGcuCU1TW7zHTNc41dZF... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/BGcuCU1TW7zHTNc41dZF8u1hxXd65So2jY2v5ZxmCX76",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_DHicDQpMmW2VRSr16sLDjTYGvw7WK4eE3Vjd5hG32x7",
-    "title": "🆕 New Pair: DHicDQpMmW2VRSr16sLD... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/DHicDQpMmW2VRSr16sLDjTYGvw7WK4eE3Vjd5hG32x7",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "CPU CAT on X7",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_CBp3RaWRV7Yvubn9EiDSuxEnswM4B67mGMBj8eispump",
-    "title": "🆕 New Pair: CBp3RaWRV7Yvubn9EiDS... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/CBp3RaWRV7Yvubn9EiDSuxEnswM4B67mGMBj8eispump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_HDLQ1qmzcns4FrjrNdBTwntW399tZNZyrpmgQtjbpump",
-    "title": "🆕 New Pair: HDLQ1qmzcns4FrjrNdBT... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/HDLQ1qmzcns4FrjrNdBTwntW399tZNZyrpmgQtjbpump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "New token pair discovered on solana via DexScreener.",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_bsc_0x7C040fc190bDdba86D8b645c4BA30AB2Fbf6cEA7",
-    "title": "🆕 New Pair: 0x7C040fc190bDdba86D... on bsc",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/bsc/0x7C040fc190bDdba86D8b645c4BA30AB2Fbf6cEA7",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "Fees gets streamed back to your wallet\nVerify it on-chain 😼\n\nPaired with BNB\n\nI got money\n\nI’m Cat Tyson",
+    "summary": "美股人生",
     "tags": [
       "new_pair",
       "bsc",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_solana_8QkWgs2pQMgZe5uN3eCWU4cubGG9oUa8CGD7u9qapump",
-    "title": "🆕 New Pair: 8QkWgs2pQMgZe5uN3eCW... on solana",
+    "id": "dexscreener_robinhood_0x1EeDbA33935B185b7884a2dd87FE2D8c2106A5DF",
+    "title": "🆕 New Pair: 0x1EeDbA33935B185b78... on robinhood",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/8QkWgs2pQMgZe5uN3eCWU4cubGG9oUa8CGD7u9qapump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/robinhood/0x1EeDbA33935B185b7884a2dd87FE2D8c2106A5DF",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "Launchpad season? Make your own with $launchify launchify.store",
+    "summary": "Orchard lends you dollars against the tokenized stocks, ETFs and gold you already own. Your portfolio stays invested and keeps growing, and you get cash to use today.",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0xB925798a97490bd0B0253d198e4BBE0874C7009e",
+    "title": "🆕 New Pair: 0xB925798a97490bd0B0... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0xB925798a97490bd0B0253d198e4BBE0874C7009e",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "Mona - GitHub’s Octocat has left the repo and entered the trenches.\n\nShe spent years watching developers write code, push commits, merge pull requests, and fight bugs at 3AM. Now Mona has discovered the true final boss of the internet: crypto.\n\nFrom git commit to git moon, Mona is bringing the spirit of open-source culture straight onchain. Every dev knows her. Every degen can relate to her. She’s the little Octocat that went from watching people build the future to becoming the meme powering it.",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0xe1b2a218ac42bcc042e12362307a2e31e8ae3f6b",
+    "title": "🆕 New Pair: 0xe1b2a218ac42bcc042... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0xe1b2a218ac42bcc042e12362307a2e31e8ae3f6b",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "Launch any coin backed by a shared basket of the top 30 memecoins.\n\nOne index. One treasury. Real backing.",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_robinhood_0x95E7b9B1BDB96748CdfDC2Efe1234f849B6136Ed",
+    "title": "🆕 New Pair: 0x95E7b9B1BDB96748Cd... on robinhood",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/robinhood/0x95E7b9B1BDB96748CdfDC2Efe1234f849B6136Ed",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "A whole community, one message: BUY THIS COIN.",
+    "tags": [
+      "new_pair",
+      "robinhood",
+      "dexscreener"
+    ],
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
+  },
+  {
+    "id": "dexscreener_solana_9XeLTsQGL9ixYLMZUwkiGAR2oQwmCsDmv6HRvRQDXLPh",
+    "title": "🆕 New Pair: 9XeLTsQGL9ixYLMZUwki... on solana",
+    "platform": "dexscreener",
+    "content_type": "new_pair",
+    "url": "https://dexscreener.com/solana/9XeLTsQGL9ixYLMZUwkiGAR2oQwmCsDmv6HRvRQDXLPh",
+    "published_at": "2026-09-22T14:34:19.004006Z",
+    "engagement": 0,
+    "summary": "$BULLFART is inspired by a real piece of art. 🐂💨\n\nIn 2009, Chinese artist Chen Wenling created the famous sculpture widely known as the Bull Fart.\n\nThe piece depicts a massive bull blasting a man into a wall originally created as commentary on Wall Street, the financial crisis and Bernard Madoff.\n\nNow we’ve brought this iconic artwork onchain with one simple twist:\n\n💨 Hold $BULLFART\n💨 Earn $FART reflections\n\nA real world art narrative turned into a Fartcoin rewards machine.",
     "tags": [
       "new_pair",
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   },
   {
-    "id": "dexscreener_bsc_0x29CD2F2670780339DEEE8c8eD6949579475636FD",
-    "title": "🆕 New Pair: 0x29CD2F2670780339DE... on bsc",
+    "id": "dexscreener_solana_4iGCJy6gSU5zAe4gugSgrwrFx4bvUb3csdPmemTjUngj",
+    "title": "🆕 New Pair: 4iGCJy6gSU5zAe4gugSg... on solana",
     "platform": "dexscreener",
     "content_type": "new_pair",
-    "url": "https://dexscreener.com/bsc/0x29CD2F2670780339DEEE8c8eD6949579475636FD",
-    "published_at": "2026-09-22T09:46:02.910108Z",
+    "url": "https://dexscreener.com/solana/4iGCJy6gSU5zAe4gugSgrwrFx4bvUb3csdPmemTjUngj",
+    "published_at": "2026-09-22T14:34:19.004006Z",
     "engagement": 0,
-    "summary": "Meet Sparky 🔥 — the mascot of Firo.\n\n$FIRO has deep roots in the original Zerocoin research, which also helped create Zcash.\n\nZerocoin → ZEC\nZerocoin → FIRO",
-    "tags": [
-      "new_pair",
-      "bsc",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_J82c6FXjJ5hGminZRgW2AtqGPxYYFcwUkeuHrw3opump",
-    "title": "🆕 New Pair: J82c6FXjJ5hGminZRgW2... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/J82c6FXjJ5hGminZRgW2AtqGPxYYFcwUkeuHrw3opump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "Wepe - the greatest frog in crypto 🐸 💛",
+    "summary": "THE US GOVERMENT IS UP $44 BILLION DOLLARS ON INTEL\n\nThis is crazy, after the US purchased intel shars and trump announced it - The stock is almost up $100 in price and the govemenet is up over 44 BILLION dollars on it\n\nTrending: \n\nHow have we not ran any memes about this?\n\nI've found some crazy lore that is perfect for this narrative\n\nOver 2y ago, a Reddit post was made about a person purchasing $700,000 of Intel shares on Reddit\n\n'TLDR: Grandma died 2 months ago. Left me $800k inheritance. I'm only a junior in college as a math major and I don't really have any use for the money, nor do I have any debt (I'm very fortunate that my parents are paying for my education). I always heard about people losing their inheritance by spending it on garbage instead of investing.'\n\nHe is now deemed as 'The Intel Guy' and gets huge praises from the whole of Wallstreet - an absolute gem to run paired to Intel that has never ran\n\n$Intel - Intel Grandma Guy",
     "tags": [
       "new_pair",
       "solana",
       "dexscreener"
     ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_EV9qfjb2bGMXByQiS6vZ4n53HHCAcWdGzrbGXE8Wpump",
-    "title": "🆕 New Pair: EV9qfjb2bGMXByQiS6vZ... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/EV9qfjb2bGMXByQiS6vZ4n53HHCAcWdGzrbGXE8Wpump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "Jean Bean",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_6wUKSgRxmbFyPxXNq7o4DkH8XkxzLTCAG8eAvGx85sJ",
-    "title": "🆕 New Pair: 6wUKSgRxmbFyPxXNq7o4... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/6wUKSgRxmbFyPxXNq7o4DkH8XkxzLTCAG8eAvGx85sJ",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "X DOG on X7 example coin paired to X7",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
-  },
-  {
-    "id": "dexscreener_solana_CNjPArCY4CEtksYaEybHkNdC4YBthp6NZ4U8i5Dkpump",
-    "title": "🆕 New Pair: CNjPArCY4CEtksYaEybH... on solana",
-    "platform": "dexscreener",
-    "content_type": "new_pair",
-    "url": "https://dexscreener.com/solana/CNjPArCY4CEtksYaEybHkNdC4YBthp6NZ4U8i5Dkpump",
-    "published_at": "2026-09-22T09:46:02.910108Z",
-    "engagement": 0,
-    "summary": "人工智能",
-    "tags": [
-      "new_pair",
-      "solana",
-      "dexscreener"
-    ],
-    "fetched_at": "2026-09-22T09:46:02.910108Z"
+    "fetched_at": "2026-09-22T14:34:19.004006Z"
   }
 ]
