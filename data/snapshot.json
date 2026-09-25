@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0x25b4dd13e0119ed57a8b3cfc01df7df14e7ed9bd3437fd5375c3cfc46eb93671",
+    "title": "🏛️ [Stake DAO BAL] [BIP-928] Orderly Winddown of Balancer and Distribution of the Treasury",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdbal.eth/proposal/0x25b4dd13e0119ed57a8b3cfc01df7df14e7ed9bd3437fd5375c3cfc46eb93671",
+    "published_at": "2026-09-25T18:24:54Z",
+    "engagement": 4,
+    "summary": "> How this vote is counted. - The two Yes options are added together: the proposal passes if their sum is greater than No, with quorum counted over al...",
+    "tags": [
+      "governance",
+      "sdbal.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
+  },
+  {
+    "id": "snapshot_0x6e6b63be75862675fe00cbf14e1e34f8d9a99fec2ca3c2af7b87f568d9b1bee6",
+    "title": "🏛️ [Balancer] [BIP-928] Orderly Winddown of Balancer and Distribution of the Treasury",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/balancer.eth/proposal/0x6e6b63be75862675fe00cbf14e1e34f8d9a99fec2ca3c2af7b87f568d9b1bee6",
+    "published_at": "2026-09-25T18:24:54Z",
+    "engagement": 4,
+    "summary": "> How this vote is counted. - The two Yes options are added together: the proposal passes if their sum is greater than No, with quorum counted over al...",
+    "tags": [
+      "governance",
+      "balancer.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
+  },
+  {
     "id": "snapshot_0xd723818670afc1f09dac2c3ddd9ea3f0859e920c9f746c16eb524dee35bc2e26",
     "title": "🏛️ [Stake DAO BAL] [BIP-929] Fork and Reincarnate",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x190f01c399898464ad92aa9cb24277a7c3f642189820dbdb429f77f0a0c4566e",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0xf361938891d058aab895d5d93d25ac9eb11f45250d4042915edb450e0d23dfce",
@@ -48,24 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
-  },
-  {
-    "id": "snapshot_0x6b8f473efd470ddeecd1588fe5e8c40aa76e8c2bdc02a4a437e8ecd26696ea8a",
-    "title": "🏛️ [Balancer] [BIP-928] Orderly Winddown of Balancer and Distribution of the Treasury",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/balancer.eth/proposal/0x6b8f473efd470ddeecd1588fe5e8c40aa76e8c2bdc02a4a437e8ecd26696ea8a",
-    "published_at": "2026-09-25T18:00:00Z",
-    "engagement": 4,
-    "summary": "## TL;DR\n\n- I propose an orderly winddown of Balancer: no new business development, a phased sunset of the protocol with a defined exit window, and th...",
-    "tags": [
-      "governance",
-      "balancer.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x6d03faa3a93307948a39ab1b8665d106bd609b759523759a7e76256eebf95334",
@@ -82,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0xd68175bbdb1d39e542d60bcc175ae144269ded6ed97e66e49885f8143632e4b9",
@@ -99,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x392438d143ee5114724940cdc67a44ecf5098c066fc74d56ed860808512d9612",
@@ -116,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x7811579bb46edf6b3f3bca360cec031c2fc693ed44c9c47a5f6e4f32953352dc",
@@ -133,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x9f8644f8ab67825a1a9e86d05f916d5520d49f6a6ad71621ae8617d09f28b8a3",
@@ -150,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x583877551542cd8bc2ea9e23fc7d0a11f36fe6c44747bc29a613759f8a6449bd",
@@ -167,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0xad231055e87aaa134dd35d9936986acdac08883e3687bf9a32dc4a14e7123239",
@@ -184,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0xf0b2a758ec18edf9e27c5e779dd601140ae0766888de52a9fb2d749d3a87fdcb",
@@ -201,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x7c42ad67a8fbef96009d8f1b8fa9f1a41d23e97b84bd44e25b8db4045675f240",
@@ -218,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0xeefb47db8657fcc2ed3b80720f1de4d93b9f3b17f74c546efa4ba8fc6d966c05",
@@ -235,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x1ed8593c0e7e4d63c6f921bda01e30d217a9e65a385b82d0c6c89e3d6e336c79",
@@ -252,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0xc6a9b9fbc62572d1c70f7b7bf82dcd1dadbfdfc79eb1f0ddf83f73783ab3ff10",
@@ -269,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x9d226d025170ec4c56adc53dd77dda851da75c712757122c70dea965003278c4",
@@ -286,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0xbf6c1754b7958c64c72974db01b2fc04db53a4c2dbce8ea0ea69e3463f5b7bd9",
@@ -303,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   },
   {
     "id": "snapshot_0x0270d80558d2d5484ec889955c244b61a1ea4480dc07a91a0ecc19c82d72f1a1",
@@ -320,23 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
-  },
-  {
-    "id": "snapshot_0x248cec29e25c7a15a15793183d34cf185e35ba97cd67c15fc7feb2b75a2f0582",
-    "title": "🏛️ [Beets] Beets Budget 2026 Q4",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/beets.eth/proposal/0x248cec29e25c7a15a15793183d34cf185e35ba97cd67c15fc7feb2b75a2f0582",
-    "published_at": "2026-09-22T08:00:00Z",
-    "engagement": 3,
-    "summary": "## Beets Budget 2026 Q4\nBeets is operating based on a quarterly budget system designed to provide governance-controlled flexibility, allowing the prot...",
-    "tags": [
-      "governance",
-      "beets.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-09-25T18:24:30.671891Z"
+    "fetched_at": "2026-09-25T22:08:57.110397Z"
   }
 ]
