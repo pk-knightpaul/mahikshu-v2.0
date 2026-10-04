@@ -1,19 +1,19 @@
 [
   {
-    "id": "coingecko_trending_super-iguana",
-    "title": "🔥 Trending: Super Iguana (SI)",
+    "id": "coingecko_trending_fetch-ai",
+    "title": "🔥 Trending: Artificial Superintelligence Alliance (FET)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/super-iguana",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 980,
-    "summary": "Super Iguana is currently trending on CoinGecko. Market cap rank: #980",
+    "url": "https://www.coingecko.com/en/coins/fetch-ai",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 106,
+    "summary": "Artificial Superintelligence Alliance is currently trending on CoinGecko. Market cap rank: #106",
     "tags": [
       "trending",
-      "si",
+      "fet",
       "coingecko"
     ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
   },
   {
     "id": "coingecko_trending_grass",
@@ -21,7 +21,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/grass",
-    "published_at": "2026-10-04T17:23:53.494417Z",
+    "published_at": "2026-10-04T21:08:44.032919Z",
     "engagement": 120,
     "summary": "Grass is currently trending on CoinGecko. Market cap rank: #120",
     "tags": [
@@ -29,167 +29,7 @@
       "grass",
       "coingecko"
     ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_pons",
-    "title": "🔥 Trending: Pons (PONS)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pons",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 163,
-    "summary": "Pons is currently trending on CoinGecko. Market cap rank: #163",
-    "tags": [
-      "trending",
-      "pons",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_sui",
-    "title": "🔥 Trending: Sui (SUI)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/sui",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 25,
-    "summary": "Sui is currently trending on CoinGecko. Market cap rank: #25",
-    "tags": [
-      "trending",
-      "sui",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_pudgy-penguins",
-    "title": "🔥 Trending: Pudgy Penguins (PENGU)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 106,
-    "summary": "Pudgy Penguins is currently trending on CoinGecko. Market cap rank: #106",
-    "tags": [
-      "trending",
-      "pengu",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_fetch-ai",
-    "title": "🔥 Trending: Artificial Superintelligence Alliance (FET)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/fetch-ai",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 111,
-    "summary": "Artificial Superintelligence Alliance is currently trending on CoinGecko. Market cap rank: #111",
-    "tags": [
-      "trending",
-      "fet",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_pump-fun",
-    "title": "🔥 Trending: Pump.fun (PUMP)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/pump-fun",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 40,
-    "summary": "Pump.fun is currently trending on CoinGecko. Market cap rank: #40",
-    "tags": [
-      "trending",
-      "pump",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_starknet",
-    "title": "🔥 Trending: Starknet (STRK)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/starknet",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 127,
-    "summary": "Starknet is currently trending on CoinGecko. Market cap rank: #127",
-    "tags": [
-      "trending",
-      "strk",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_near",
-    "title": "🔥 Trending: NEAR Protocol (NEAR)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/near",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 21,
-    "summary": "NEAR Protocol is currently trending on CoinGecko. Market cap rank: #21",
-    "tags": [
-      "trending",
-      "near",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_virtual-protocol",
-    "title": "🔥 Trending: Virtuals Protocol (VIRTUAL)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/virtual-protocol",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 110,
-    "summary": "Virtuals Protocol is currently trending on CoinGecko. Market cap rank: #110",
-    "tags": [
-      "trending",
-      "virtual",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_the-sandbox",
-    "title": "🔥 Trending: The Sandbox (SAND)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/the-sandbox",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 183,
-    "summary": "The Sandbox is currently trending on CoinGecko. Market cap rank: #183",
-    "tags": [
-      "trending",
-      "sand",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
-  },
-  {
-    "id": "coingecko_trending_quant-network",
-    "title": "🔥 Trending: Quant (QNT)",
-    "platform": "coingecko",
-    "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/quant-network",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 33,
-    "summary": "Quant is currently trending on CoinGecko. Market cap rank: #33",
-    "tags": [
-      "trending",
-      "qnt",
-      "coingecko"
-    ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
   },
   {
     "id": "coingecko_trending_lighter",
@@ -197,7 +37,7 @@
     "platform": "coingecko",
     "content_type": "trending",
     "url": "https://www.coingecko.com/en/coins/lighter",
-    "published_at": "2026-10-04T17:23:53.494417Z",
+    "published_at": "2026-10-04T21:08:44.032919Z",
     "engagement": 83,
     "summary": "Lighter is currently trending on CoinGecko. Market cap rank: #83",
     "tags": [
@@ -205,38 +45,198 @@
       "lit",
       "coingecko"
     ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
   },
   {
-    "id": "coingecko_trending_solana",
-    "title": "🔥 Trending: Solana (SOL)",
+    "id": "coingecko_trending_pudgy-penguins",
+    "title": "🔥 Trending: Pudgy Penguins (PENGU)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 7,
-    "summary": "Solana is currently trending on CoinGecko. Market cap rank: #7",
+    "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 105,
+    "summary": "Pudgy Penguins is currently trending on CoinGecko. Market cap rank: #105",
     "tags": [
       "trending",
-      "sol",
+      "pengu",
       "coingecko"
     ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
   },
   {
-    "id": "coingecko_trending_ethena",
-    "title": "🔥 Trending: Ethena (ENA)",
+    "id": "coingecko_trending_near",
+    "title": "🔥 Trending: NEAR Protocol (NEAR)",
     "platform": "coingecko",
     "content_type": "trending",
-    "url": "https://www.coingecko.com/en/coins/ethena",
-    "published_at": "2026-10-04T17:23:53.494417Z",
-    "engagement": 45,
-    "summary": "Ethena is currently trending on CoinGecko. Market cap rank: #45",
+    "url": "https://www.coingecko.com/en/coins/near",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 21,
+    "summary": "NEAR Protocol is currently trending on CoinGecko. Market cap rank: #21",
     "tags": [
       "trending",
-      "ena",
+      "near",
       "coingecko"
     ],
-    "fetched_at": "2026-10-04T17:23:53.494417Z"
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_quant-network",
+    "title": "🔥 Trending: Quant (QNT)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/quant-network",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 33,
+    "summary": "Quant is currently trending on CoinGecko. Market cap rank: #33",
+    "tags": [
+      "trending",
+      "qnt",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_robo-token-2",
+    "title": "🔥 Trending: Fabric Protocol (ROBO)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/robo-token-2",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 913,
+    "summary": "Fabric Protocol is currently trending on CoinGecko. Market cap rank: #913",
+    "tags": [
+      "trending",
+      "robo",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_stonk-3",
+    "title": "🔥 Trending: STONK (STONK)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/stonk-3",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 207,
+    "summary": "STONK is currently trending on CoinGecko. Market cap rank: #207",
+    "tags": [
+      "trending",
+      "stonk",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_starknet",
+    "title": "🔥 Trending: Starknet (STRK)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/starknet",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 125,
+    "summary": "Starknet is currently trending on CoinGecko. Market cap rank: #125",
+    "tags": [
+      "trending",
+      "strk",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_peaq-2",
+    "title": "🔥 Trending: peaq (PEAQ)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/peaq-2",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 267,
+    "summary": "peaq is currently trending on CoinGecko. Market cap rank: #267",
+    "tags": [
+      "trending",
+      "peaq",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_helium",
+    "title": "🔥 Trending: Helium (HNT)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/helium",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 264,
+    "summary": "Helium is currently trending on CoinGecko. Market cap rank: #264",
+    "tags": [
+      "trending",
+      "hnt",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_pump-fun",
+    "title": "🔥 Trending: Pump.fun (PUMP)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/pump-fun",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 40,
+    "summary": "Pump.fun is currently trending on CoinGecko. Market cap rank: #40",
+    "tags": [
+      "trending",
+      "pump",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_zcash",
+    "title": "🔥 Trending: Zcash (ZEC)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/zcash",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 10,
+    "summary": "Zcash is currently trending on CoinGecko. Market cap rank: #10",
+    "tags": [
+      "trending",
+      "zec",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_aerodrome-finance",
+    "title": "🔥 Trending: Aerodrome Finance (AERO)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 85,
+    "summary": "Aerodrome Finance is currently trending on CoinGecko. Market cap rank: #85",
+    "tags": [
+      "trending",
+      "aero",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
+  },
+  {
+    "id": "coingecko_trending_venice-token",
+    "title": "🔥 Trending: Venice Token (VVV)",
+    "platform": "coingecko",
+    "content_type": "trending",
+    "url": "https://www.coingecko.com/en/coins/venice-token",
+    "published_at": "2026-10-04T21:08:44.032919Z",
+    "engagement": 66,
+    "summary": "Venice Token is currently trending on CoinGecko. Market cap rank: #66",
+    "tags": [
+      "trending",
+      "vvv",
+      "coingecko"
+    ],
+    "fetched_at": "2026-10-04T21:08:44.032919Z"
   }
 ]
