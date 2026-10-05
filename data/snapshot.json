@@ -1,5 +1,22 @@
 [
   {
+    "id": "snapshot_0x23456a161ec2b9597488525f6e665b1e0ebff4f41f4880bc4a9d452f34391581",
+    "title": "🏛️ [ValleyDAO] VP17: ValleyDAO 2.0 Evolution Proposal",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/valleybio.eth/proposal/0x23456a161ec2b9597488525f6e665b1e0ebff4f41f4880bc4a9d452f34391581",
+    "published_at": "2026-10-05T11:27:15Z",
+    "engagement": 3,
+    "summary": "**Snapshot's character limit is 10,000. To read the full proposal, please go to: https://docs.google.com/document/d/1ANuTuqTRv5vzMW-e5rLEevu-ZgBAJKvxY...",
+    "tags": [
+      "governance",
+      "valleybio.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
+  },
+  {
     "id": "snapshot_0x49116ecc2d71848772a29e0a8f9cbe5996d24eba934c3107438101711258672a",
     "title": "🏛️ [League of Lils] 1002: Migrate Remaining V1 Treasury to V2",
     "platform": "snapshot",
@@ -14,7 +31,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x913feff0abe5550bd1598fd84cf0d0d912e4fe19c26bae33ed3779e4ad77fd43",
@@ -31,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x3f53040924dd3a4db280045fe5e9fc8c7d8aa02c5c941ca76cbb2a8017924f60",
@@ -48,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x7ce0c77a1ff711d5eeffd70f8be06720bbf7d1ec07b89e111b72ad04f76c870b",
@@ -65,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x226fb6694d559008975f64474f34620ffa33173c8afb97d8a6985243bf474a9e",
@@ -82,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0xb743f9c54e78f811a05681157a14c2d5974ac4045ec7bbf509082d0ef16578b4",
@@ -99,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x62d9add4f2184153aba3d2d44c9e9d44d90db76676f8335eb7f8ffb7d52d98e5",
@@ -116,24 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
-  },
-  {
-    "id": "snapshot_0x62b103ca38ce307bc3ee40b666ac3dc81683c5ff4b7beede904fff47cdd1d4ac",
-    "title": "🏛️ [Derive] DIP: Increase $DRV Buyback Allocation from 35% to 50% of Protocol Fees",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/derivexyz.eth/proposal/0x62b103ca38ce307bc3ee40b666ac3dc81683c5ff4b7beede904fff47cdd1d4ac",
-    "published_at": "2026-10-02T10:25:17Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nThis DIP proposes increasing the share of applicable protocol fees allocated to weekly $DRV buybacks from **35% to 50%**.\n\nThe existing bu...",
-    "tags": [
-      "governance",
-      "derivexyz.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x3797121233ec74edc1aefc2aa77704ec280197454e40c046bee741135266d51c",
@@ -150,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x887f6b5d93200998f89cd5f71188f9ca540bd01974351d3c8559be1e4e2d0697",
@@ -167,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0xdb674b076d79a5d2f085cbb077e39ef207edb590beec35bfcbdcda8b27aadb29",
@@ -184,24 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
-  },
-  {
-    "id": "snapshot_0x682f73c809e03d25008b9c4898f4e25c047806683f4d1b0d7635ba8ed50276aa",
-    "title": "🏛️ [Aave DAO] [ARFC] Sentora Externally Curated Hub & Spoke Framework on Aave V4",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0x682f73c809e03d25008b9c4898f4e25c047806683f4d1b0d7635ba8ed50276aa",
-    "published_at": "2026-10-02T09:54:17Z",
-    "engagement": 3,
-    "summary": "**Title:** [ARFC] Sentora Externally Curated Hub & Spoke Framework on Aave V4\n**Author:** SentoraHQ\n**Date:** 2026-10-01\n\n***\n## **Summary**\n\nThis ARF...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0xebca53c4204528debb8f9d6bf2eaa8e7c38922c71df87a69a4c31ca1fdcdfc33",
@@ -218,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x7b3be6fe1572e37df4a457b0cd27f7280bef5acb4de5f24316a230efdecc7136",
@@ -235,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0xe40a5923b1f28bcbfe71e242b754112b116b62c53f1fc771010ce537bc1d7ee8",
@@ -252,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0xae1b90103b4749d347ce52b9a62e041e1bfed46138391aa7dffdfd441dafdc7d",
@@ -269,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x774315eb7f39467c523060f0cd1726cba36ddcdcf1866f9402c030e43092c5a1",
@@ -286,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x9d226d025170ec4c56adc53dd77dda851da75c712757122c70dea965003278c4",
@@ -303,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0xa6a05f3f6fdfde1944b22275ad5c4e89b016c20d01b063232f49530dae57e335",
@@ -320,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   },
   {
     "id": "snapshot_0x59e6629cdecba3d06e493cf38f1d5911371c3025aa416268b60da0ba0902194e",
@@ -337,6 +320,23 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T06:44:54.710841Z"
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
+  },
+  {
+    "id": "snapshot_0xf8c15d34133246e32ff64a33beb85a6da4f239d17e90005850062b82adb4ed76",
+    "title": "🏛️ [Global web3 academy] 100,000 NFT PROFILE:The WEB3Space Blockchain Milestone",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/students.web3academy.eth/proposal/0xf8c15d34133246e32ff64a33beb85a6da4f239d17e90005850062b82adb4ed76",
+    "published_at": "2026-08-08T18:53:06Z",
+    "engagement": 2,
+    "summary": "### **What Happens When We Reach 100,000 NFT Profiles?**\n![WhatsApp Image 2026-08-08 at 11.50.41.jpeg](ipfs://bafybeigtonzyvjgi6n5lezdv36ujhnbzs72gdd6...",
+    "tags": [
+      "governance",
+      "students.web3academy.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T15:46:42.626726Z"
   }
 ]
