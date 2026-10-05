@@ -1,5 +1,124 @@
 [
   {
+    "id": "snapshot_0x2fc593a7a23d6cac9dfc17ae0af34f325973299436c24bfd558be53fd8192537",
+    "title": "🏛️ [Telcoin Treasury Council] TELIP 17: Additional Allocation for TEL Upgrade Exchange Integration",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/telcointreasurycouncil.eth/proposal/0x2fc593a7a23d6cac9dfc17ae0af34f325973299436c24bfd558be53fd8192537",
+    "published_at": "2026-10-05T22:11:06Z",
+    "engagement": 3,
+    "summary": "**Author:** Parker Spann, Executive Director, TAO\n\n**Date:** September 2026\n\n### **Abstract**\n\nThis TELIP requests an additional allocation of **137,5...",
+    "tags": [
+      "governance",
+      "telcointreasurycouncil.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
+  },
+  {
+    "id": "snapshot_0xe6d2cb54712ddbb812ea991119691b271ae8d187d85c6e64db1f577378ce510e",
+    "title": "🏛️ [TempleDAO] TIP-011 Spice Bazaar Upgrade to Support Fixed Price Auctions",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/templedao.eth/proposal/0xe6d2cb54712ddbb812ea991119691b271ae8d187d85c6e64db1f577378ce510e",
+    "published_at": "2026-10-05T20:21:49Z",
+    "engagement": 2,
+    "summary": "# 1.1 Summary\n\nPrevious Spice Bazaar Auctions have been implemented in two ways: 1) Bidders bid USDS for TGLD; 2) Bidders bid TGLD for volatile holdin...",
+    "tags": [
+      "governance",
+      "templedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
+  },
+  {
+    "id": "snapshot_0x236f8b2d72190a8ed4b7d71545203ff456c56ca9ad02a7c4756b369ba41e80af",
+    "title": "🏛️ [TempleDAO] TIP-010 Transition Plan for Temple Gold",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/templedao.eth/proposal/0x236f8b2d72190a8ed4b7d71545203ff456c56ca9ad02a7c4756b369ba41e80af",
+    "published_at": "2026-10-05T20:12:12Z",
+    "engagement": 3,
+    "summary": "# 1.1    Summary\n\nHistorically, the Temple Treasury has engaged in on-chain stable farming with a focus on acquisition of volatile tokens from various...",
+    "tags": [
+      "governance",
+      "templedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
+  },
+  {
+    "id": "snapshot_0x6d28dcfb0d6366ad79ad6a899bae6f982d599baae192f19f091107d693873071",
+    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Reduce Sentora x Spark RLUSD WBTC Relative Supply Cap",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x6d28dcfb0d6366ad79ad6a899bae6f982d599baae192f19f091107d693873071",
+    "published_at": "2026-10-05T16:13:53Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Spark Liquidity Layer - Reduce Sentora x Spark RLUSD WBTC Relative Supply Cap - October 5, 2026\n\nSpark's Operational Facilitator has plac...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
+  },
+  {
+    "id": "snapshot_0xc6387cc502c0506f090008ea66c592af681cfd6c60a45996dc120c4ec42d31df",
+    "title": "🏛️ [Spark] [Ethereum, Base] Spark Governance - Rotate Guardian and Curator Multisig Signers",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xc6387cc502c0506f090008ea66c592af681cfd6c60a45996dc120c4ec42d31df",
+    "published_at": "2026-10-05T16:09:59Z",
+    "engagement": 3,
+    "summary": "# [Ethereum, Base] Spark Governance - Rotate Guardian and Curator Multisig Signers - October 5, 2026\n\nSpark's Operational Facilitator has placed a pro...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
+  },
+  {
+    "id": "snapshot_0x3f0f4e16b4d69ab180a2b13a4d2868a35c9a35fa5612c507b1e2a5c20835e6c9",
+    "title": "🏛️ [DCL DAO Council] Treasury Strategy Migration Proposal",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/daocouncil.dcl.eth/proposal/0x3f0f4e16b4d69ab180a2b13a4d2868a35c9a35fa5612c507b1e2a5c20835e6c9",
+    "published_at": "2026-10-05T16:04:37Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nThe Council previously approved and deployed a treasury strategy using a dedicated Safe and Avantgarde vaults.\n\nAvantgarde is now winding ...",
+    "tags": [
+      "governance",
+      "daocouncil.dcl.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
+  },
+  {
+    "id": "snapshot_0x08e95be101024ffaa5d62058c8904150d46b862f02d057e089b09c0a235bb087",
+    "title": "🏛️ [Grove] [Grove Artifact] Tokenized Treasury JTRSY Instance - Offchain Parameter Update",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0x08e95be101024ffaa5d62058c8904150d46b862f02d057e089b09c0a235bb087",
+    "published_at": "2026-10-05T15:56:06Z",
+    "engagement": 3,
+    "summary": "# [Grove Artifact] Tokenized Treasury JTRSY Instance - Offchain Parameter Update - October 5, 2026\n\nGrove's Operational Facilitator has placed a propo...",
+    "tags": [
+      "governance",
+      "grovefinance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
+  },
+  {
     "id": "snapshot_0x23456a161ec2b9597488525f6e665b1e0ebff4f41f4880bc4a9d452f34391581",
     "title": "🏛️ [ValleyDAO] VP17: ValleyDAO 2.0 Evolution Proposal",
     "platform": "snapshot",
@@ -14,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x49116ecc2d71848772a29e0a8f9cbe5996d24eba934c3107438101711258672a",
@@ -31,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x913feff0abe5550bd1598fd84cf0d0d912e4fe19c26bae33ed3779e4ad77fd43",
@@ -48,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x3f53040924dd3a4db280045fe5e9fc8c7d8aa02c5c941ca76cbb2a8017924f60",
@@ -65,24 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
-  },
-  {
-    "id": "snapshot_0x7ce0c77a1ff711d5eeffd70f8be06720bbf7d1ec07b89e111b72ad04f76c870b",
-    "title": "🏛️ [Stake DAO BAL] [BIP-931] Balancer x CoWSwap Tokenswap and token purchase",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdbal.eth/proposal/0x7ce0c77a1ff711d5eeffd70f8be06720bbf7d1ec07b89e111b72ad04f76c870b",
-    "published_at": "2026-10-02T18:00:00Z",
-    "engagement": 3,
-    "summary": "**Balancer x CoWSwap Tokenswap and token purchase**\n\n**Simple Summary**\n\nThis BIP proposes that Balancer DAO and CoW DAO revert the tokenswap performe...",
-    "tags": [
-      "governance",
-      "sdbal.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x226fb6694d559008975f64474f34620ffa33173c8afb97d8a6985243bf474a9e",
@@ -99,24 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
-  },
-  {
-    "id": "snapshot_0xb743f9c54e78f811a05681157a14c2d5974ac4045ec7bbf509082d0ef16578b4",
-    "title": "🏛️ [Stake DAO BAL] [BIP-930] Distribution of Recovered Funds from Balancer V1 August 31st 2026 Exploit",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdbal.eth/proposal/0xb743f9c54e78f811a05681157a14c2d5974ac4045ec7bbf509082d0ef16578b4",
-    "published_at": "2026-10-02T18:00:00Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nHere, the DAO proposes the distribution of funds recovered following the Balancer V1 exploit of August 31st, 2026.\n\nContext: a bug was fou...",
-    "tags": [
-      "governance",
-      "sdbal.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x62d9add4f2184153aba3d2d44c9e9d44d90db76676f8335eb7f8ffb7d52d98e5",
@@ -133,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x3797121233ec74edc1aefc2aa77704ec280197454e40c046bee741135266d51c",
@@ -150,41 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
-  },
-  {
-    "id": "snapshot_0x887f6b5d93200998f89cd5f71188f9ca540bd01974351d3c8559be1e4e2d0697",
-    "title": "🏛️ [AirSwap] AIP 102: Preference to Wait on Selling Tokens When Below Minimum Price",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vote.airswap.eth/proposal/0x887f6b5d93200998f89cd5f71188f9ca540bd01974351d3c8559be1e4e2d0697",
-    "published_at": "2026-10-01T16:00:00Z",
-    "engagement": 2,
-    "summary": "## Summary\n\nConsensys AG is selling AST to cover a variety of costs and payments. They have self-imposed constraints including a minimum price level a...",
-    "tags": [
-      "governance",
-      "vote.airswap.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
-  },
-  {
-    "id": "snapshot_0xdb674b076d79a5d2f085cbb077e39ef207edb590beec35bfcbdcda8b27aadb29",
-    "title": "🏛️ [AirSwap] Monthly Update: 1 Oct 2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vote.airswap.eth/proposal/0xdb674b076d79a5d2f085cbb077e39ef207edb590beec35bfcbdcda8b27aadb29",
-    "published_at": "2026-10-01T16:00:00Z",
-    "engagement": 2,
-    "summary": "Respond with “yes” or “no” to indicate whether you think AirSwap is heading in the right direction. If your answer is “no,” join our Discord community...",
-    "tags": [
-      "governance",
-      "vote.airswap.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0xebca53c4204528debb8f9d6bf2eaa8e7c38922c71df87a69a4c31ca1fdcdfc33",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x7b3be6fe1572e37df4a457b0cd27f7280bef5acb4de5f24316a230efdecc7136",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0xe40a5923b1f28bcbfe71e242b754112b116b62c53f1fc771010ce537bc1d7ee8",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0xae1b90103b4749d347ce52b9a62e041e1bfed46138391aa7dffdfd441dafdc7d",
@@ -252,24 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
-  },
-  {
-    "id": "snapshot_0x774315eb7f39467c523060f0cd1726cba36ddcdcf1866f9402c030e43092c5a1",
-    "title": "🏛️ [Telcoin Platform Council] TELIP 17: Additional Allocation for TEL Upgrade Exchange Integration",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/telcoinplatformcouncil.eth/proposal/0x774315eb7f39467c523060f0cd1726cba36ddcdcf1866f9402c030e43092c5a1",
-    "published_at": "2026-09-28T20:35:03Z",
-    "engagement": 3,
-    "summary": "**Author:** Parker Spann, Executive Director, TAO\n\n**Date:** September 2026\n\n### **Abstract**\n\nThis TELIP requests an additional allocation of **137,5...",
-    "tags": [
-      "governance",
-      "telcoinplatformcouncil.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x9d226d025170ec4c56adc53dd77dda851da75c712757122c70dea965003278c4",
@@ -286,24 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
-  },
-  {
-    "id": "snapshot_0xa6a05f3f6fdfde1944b22275ad5c4e89b016c20d01b063232f49530dae57e335",
-    "title": "🏛️ [Phala Network] Make PHA the Economic Heart of the Phala Ecosystem",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/phala-network.eth/proposal/0xa6a05f3f6fdfde1944b22275ad5c4e89b016c20d01b063232f49530dae57e335",
-    "published_at": "2026-09-28T22:24:55Z",
-    "engagement": 3,
-    "summary": "# Summary\n\nApprove PHA as the economic heart of the Phala ecosystem, directly linking it to commercial revenue, profit, Treasury, compute-provider col...",
-    "tags": [
-      "governance",
-      "phala-network.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   },
   {
     "id": "snapshot_0x59e6629cdecba3d06e493cf38f1d5911371c3025aa416268b60da0ba0902194e",
@@ -320,23 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
-  },
-  {
-    "id": "snapshot_0xf8c15d34133246e32ff64a33beb85a6da4f239d17e90005850062b82adb4ed76",
-    "title": "🏛️ [Global web3 academy] 100,000 NFT PROFILE:The WEB3Space Blockchain Milestone",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/students.web3academy.eth/proposal/0xf8c15d34133246e32ff64a33beb85a6da4f239d17e90005850062b82adb4ed76",
-    "published_at": "2026-08-08T18:53:06Z",
-    "engagement": 2,
-    "summary": "### **What Happens When We Reach 100,000 NFT Profiles?**\n![WhatsApp Image 2026-08-08 at 11.50.41.jpeg](ipfs://bafybeigtonzyvjgi6n5lezdv36ujhnbzs72gdd6...",
-    "tags": [
-      "governance",
-      "students.web3academy.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-05T15:46:42.626726Z"
+    "fetched_at": "2026-10-05T22:26:58.105988Z"
   }
 ]
