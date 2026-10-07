@@ -1,5 +1,56 @@
 [
   {
+    "id": "snapshot_0x1d10eec3b1e5b439a3bf4f06bce912658a2822e1f7d3cf9a428664b4323829f5",
+    "title": "🏛️ [Curaçao Citizens] Citizen: Add February 2nd to official holiday",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cwcitizen.eth/proposal/0x1d10eec3b1e5b439a3bf4f06bce912658a2822e1f7d3cf9a428664b4323829f5",
+    "published_at": "2026-10-07T14:25:24Z",
+    "engagement": 3,
+    "summary": "Add February 2nd to official holiday",
+    "tags": [
+      "governance",
+      "cwcitizen.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
+  },
+  {
+    "id": "snapshot_0xe6d15fbcbd5722595be22075263ec6ea608c86503ff28f7a36899a9032aedb24",
+    "title": "🏛️ [Curaçao Residents] Resident: Add February 2nd to official holiday",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/kadeglobal.eth/proposal/0xe6d15fbcbd5722595be22075263ec6ea608c86503ff28f7a36899a9032aedb24",
+    "published_at": "2026-10-07T14:07:14Z",
+    "engagement": 3,
+    "summary": "Add February 2nd to official holiday",
+    "tags": [
+      "governance",
+      "kadeglobal.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
+  },
+  {
+    "id": "snapshot_0x3dff7eb25b9288bde9258af7e7f937ac2e9f362093234cd64aa8c46b35eac0b8",
+    "title": "🏛️ [Nate DAO] Should Dune Give API access to neat realtime thing?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/nategeier.dcl.eth/proposal/0x3dff7eb25b9288bde9258af7e7f937ac2e9f362093234cd64aa8c46b35eac0b8",
+    "published_at": "2026-10-07T13:24:34Z",
+    "engagement": 3,
+    "summary": "Probably yes",
+    "tags": [
+      "governance",
+      "nategeier.dcl.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
+  },
+  {
     "id": "snapshot_0x2fa5bdc9786fe0c45893b961095cd52e597502d5e60009a29d989a5bbc6303ff",
     "title": "🏛️ [Grants] Bug Report Approval — ID #86294",
     "platform": "snapshot",
@@ -14,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0xedd2d0ec28eb62e40b3f1f3db41c1e24be3892d98322b38977274b09e2c44758",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x5854b2fb758bcf005138fe7e72feba6683da7db968e829582e6a0a895c4b8312",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x5868bcda8dcd95ad00f582109f1abbb15606ee0e6f5445bc7d3e36540343b89e",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0xd907d813a99dcb2dc7d48f9acfb1657e8ae88d62b2321e8614bb93e02c3ea314",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x27a6a802f428a98b94809d9adceda07464778a7971935261c2a0dcf89a3a7542",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x6d200069009908eb203db20c8d2eb31de028acad01e1727c49208f944ad596b2",
@@ -116,7 +167,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
+  },
+  {
+    "id": "snapshot_0x2d6af8b127e816dd15046979a27e5b5de2e9e0ecd2207c6425ff5db8270970ea",
+    "title": "🏛️ [Aave DAO] [ARFC] The Aave Foundation, Phase 1",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aavedao.eth/proposal/0x2d6af8b127e816dd15046979a27e5b5de2e9e0ecd2207c6425ff5db8270970ea",
+    "published_at": "2026-10-07T12:53:40Z",
+    "engagement": 3,
+    "summary": "**Title:** [ARFC] The Aave Foundation, Phase 1 \n**Author:** AaveLabs\n**Date:** 2026-10-06 \n\n***\n\n# Summary\n\nThis ARFC seeks to establish the Aave Foun...",
+    "tags": [
+      "governance",
+      "aavedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x2fc593a7a23d6cac9dfc17ae0af34f325973299436c24bfd558be53fd8192537",
@@ -133,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0xe6d2cb54712ddbb812ea991119691b271ae8d187d85c6e64db1f577378ce510e",
@@ -150,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x236f8b2d72190a8ed4b7d71545203ff456c56ca9ad02a7c4756b369ba41e80af",
@@ -167,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x6d28dcfb0d6366ad79ad6a899bae6f982d599baae192f19f091107d693873071",
@@ -184,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0xc6387cc502c0506f090008ea66c592af681cfd6c60a45996dc120c4ec42d31df",
@@ -201,24 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
-  },
-  {
-    "id": "snapshot_0x3f0f4e16b4d69ab180a2b13a4d2868a35c9a35fa5612c507b1e2a5c20835e6c9",
-    "title": "🏛️ [DCL DAO Council] Treasury Strategy Migration Proposal",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/daocouncil.dcl.eth/proposal/0x3f0f4e16b4d69ab180a2b13a4d2868a35c9a35fa5612c507b1e2a5c20835e6c9",
-    "published_at": "2026-10-05T16:04:37Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nThe Council previously approved and deployed a treasury strategy using a dedicated Safe and Avantgarde vaults.\n\nAvantgarde is now winding ...",
-    "tags": [
-      "governance",
-      "daocouncil.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x08e95be101024ffaa5d62058c8904150d46b862f02d057e089b09c0a235bb087",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x23456a161ec2b9597488525f6e665b1e0ebff4f41f4880bc4a9d452f34391581",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x49116ecc2d71848772a29e0a8f9cbe5996d24eba934c3107438101711258672a",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   },
   {
     "id": "snapshot_0x3f53040924dd3a4db280045fe5e9fc8c7d8aa02c5c941ca76cbb2a8017924f60",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
-  },
-  {
-    "id": "snapshot_0x3797121233ec74edc1aefc2aa77704ec280197454e40c046bee741135266d51c",
-    "title": "🏛️ [League of Lils] 1001: Nouns | Robinhood Chain Community Kickoff",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/leagueoflils.eth/proposal/0x3797121233ec74edc1aefc2aa77704ec280197454e40c046bee741135266d51c",
-    "published_at": "2026-10-01T14:02:00Z",
-    "engagement": 3,
-    "summary": "**View proposal:** https://lilnouns.wtf/vote/nouns/1001",
-    "tags": [
-      "governance",
-      "leagueoflils.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
-  },
-  {
-    "id": "snapshot_0xebca53c4204528debb8f9d6bf2eaa8e7c38922c71df87a69a4c31ca1fdcdfc33",
-    "title": "🏛️ [CoW DAO Grants] Grant Application: Signed-Order / EIP-712 / UID Conformance Corpus for cow-rs",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cowgrants.eth/proposal/0xebca53c4204528debb8f9d6bf2eaa8e7c38922c71df87a69a4c31ca1fdcdfc33",
-    "published_at": "2026-10-05T04:30:00Z",
-    "engagement": 3,
-    "summary": "## Author(s)\n\nSatyawan Singh (GitHub: ss1738)\n\n## Experiences and qualifications\n\nBackground in Rust distributed systems and protocol correctness, wit...",
-    "tags": [
-      "governance",
-      "cowgrants.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
-  },
-  {
-    "id": "snapshot_0x7b3be6fe1572e37df4a457b0cd27f7280bef5acb4de5f24316a230efdecc7136",
-    "title": "🏛️ [heyAura] Decide the Future Burn Rate for Non-Migrated $ADX-STAKING Tokens",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/adex.eth/proposal/0x7b3be6fe1572e37df4a457b0cd27f7280bef5acb4de5f24316a230efdecc7136",
-    "published_at": "2026-10-01T13:00:00Z",
-    "engagement": 3,
-    "summary": "![image](https://blog.heyaura.com/content/images/size/w2000/2026/09/Decide-the-Future-Burn-Rate-for-Non-Migrated--ADX-STAKING-Tokens.jpg)\n\n# Proposal ...",
-    "tags": [
-      "governance",
-      "adex.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T08:26:40.979820Z"
+    "fetched_at": "2026-10-07T16:16:04.711649Z"
   }
 ]
