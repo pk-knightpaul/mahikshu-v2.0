@@ -1,20 +1,105 @@
 [
   {
-    "id": "snapshot_0x7957c4462da0850c9edd072883ef9c8fd3c23394085bffa55fc8529ef6cca945",
-    "title": "🏛️ [Kade Global] Test",
+    "id": "snapshot_0x2fa5bdc9786fe0c45893b961095cd52e597502d5e60009a29d989a5bbc6303ff",
+    "title": "🏛️ [Grants] Bug Report Approval — ID #86294",
     "platform": "snapshot",
     "content_type": "governance",
-    "url": "https://snapshot.org/#/kadeglobal.eth/proposal/0x7957c4462da0850c9edd072883ef9c8fd3c23394085bffa55fc8529ef6cca945",
-    "published_at": "2026-10-07T01:20:33Z",
-    "engagement": 3,
-    "summary": "This is a test!",
+    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0x2fa5bdc9786fe0c45893b961095cd52e597502d5e60009a29d989a5bbc6303ff",
+    "published_at": "2026-10-07T06:30:00Z",
+    "engagement": 6,
+    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
     "tags": [
       "governance",
-      "kadeglobal.eth",
+      "grants.ssvnetwork.eth",
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
+  },
+  {
+    "id": "snapshot_0xedd2d0ec28eb62e40b3f1f3db41c1e24be3892d98322b38977274b09e2c44758",
+    "title": "🏛️ [Grants] Bug Report Approval — ID #86842",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0xedd2d0ec28eb62e40b3f1f3db41c1e24be3892d98322b38977274b09e2c44758",
+    "published_at": "2026-10-07T06:30:00Z",
+    "engagement": 6,
+    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
+    "tags": [
+      "governance",
+      "grants.ssvnetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
+  },
+  {
+    "id": "snapshot_0x5854b2fb758bcf005138fe7e72feba6683da7db968e829582e6a0a895c4b8312",
+    "title": "🏛️ [Grants] Bug Report Approval — ID #91419",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0x5854b2fb758bcf005138fe7e72feba6683da7db968e829582e6a0a895c4b8312",
+    "published_at": "2026-10-07T06:30:00Z",
+    "engagement": 6,
+    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
+    "tags": [
+      "governance",
+      "grants.ssvnetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
+  },
+  {
+    "id": "snapshot_0x5868bcda8dcd95ad00f582109f1abbb15606ee0e6f5445bc7d3e36540343b89e",
+    "title": "🏛️ [Grants] Bug Report Approval — ID #78689",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0x5868bcda8dcd95ad00f582109f1abbb15606ee0e6f5445bc7d3e36540343b89e",
+    "published_at": "2026-10-07T06:30:00Z",
+    "engagement": 6,
+    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
+    "tags": [
+      "governance",
+      "grants.ssvnetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
+  },
+  {
+    "id": "snapshot_0xd907d813a99dcb2dc7d48f9acfb1657e8ae88d62b2321e8614bb93e02c3ea314",
+    "title": "🏛️ [Grants] Bug Report Approval — ID #72603",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0xd907d813a99dcb2dc7d48f9acfb1657e8ae88d62b2321e8614bb93e02c3ea314",
+    "published_at": "2026-10-07T06:30:00Z",
+    "engagement": 6,
+    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
+    "tags": [
+      "governance",
+      "grants.ssvnetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
+  },
+  {
+    "id": "snapshot_0x27a6a802f428a98b94809d9adceda07464778a7971935261c2a0dcf89a3a7542",
+    "title": "🏛️ [Hummingbot] Agent Builders Cup Competition Voting",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/hbot.eth/proposal/0x27a6a802f428a98b94809d9adceda07464778a7971935261c2a0dcf89a3a7542",
+    "published_at": "2026-10-07T02:52:38Z",
+    "engagement": 7,
+    "summary": "# Agent Builders Cup: HBOT Team Vote\n\nThe **Agent Builders Cup** finals are live: 14 AI trading agents, $800 of real capital each, racing for 48 hours...",
+    "tags": [
+      "governance",
+      "hbot.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x6d200069009908eb203db20c8d2eb31de028acad01e1727c49208f944ad596b2",
@@ -31,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x2fc593a7a23d6cac9dfc17ae0af34f325973299436c24bfd558be53fd8192537",
@@ -48,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0xe6d2cb54712ddbb812ea991119691b271ae8d187d85c6e64db1f577378ce510e",
@@ -65,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x236f8b2d72190a8ed4b7d71545203ff456c56ca9ad02a7c4756b369ba41e80af",
@@ -82,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x6d28dcfb0d6366ad79ad6a899bae6f982d599baae192f19f091107d693873071",
@@ -99,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0xc6387cc502c0506f090008ea66c592af681cfd6c60a45996dc120c4ec42d31df",
@@ -116,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x3f0f4e16b4d69ab180a2b13a4d2868a35c9a35fa5612c507b1e2a5c20835e6c9",
@@ -133,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x08e95be101024ffaa5d62058c8904150d46b862f02d057e089b09c0a235bb087",
@@ -150,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x23456a161ec2b9597488525f6e665b1e0ebff4f41f4880bc4a9d452f34391581",
@@ -167,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x49116ecc2d71848772a29e0a8f9cbe5996d24eba934c3107438101711258672a",
@@ -184,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x3f53040924dd3a4db280045fe5e9fc8c7d8aa02c5c941ca76cbb2a8017924f60",
@@ -201,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x3797121233ec74edc1aefc2aa77704ec280197454e40c046bee741135266d51c",
@@ -218,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0xebca53c4204528debb8f9d6bf2eaa8e7c38922c71df87a69a4c31ca1fdcdfc33",
@@ -235,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   },
   {
     "id": "snapshot_0x7b3be6fe1572e37df4a457b0cd27f7280bef5acb4de5f24316a230efdecc7136",
@@ -252,91 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
-  },
-  {
-    "id": "snapshot_0xe40a5923b1f28bcbfe71e242b754112b116b62c53f1fc771010ce537bc1d7ee8",
-    "title": "🏛️ [CoW DAO] CIP-89: Unwind of the Balancer tokenswap and repurchase of COW held by Balancer DAO",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cow.eth/proposal/0xe40a5923b1f28bcbfe71e242b754112b116b62c53f1fc771010ce537bc1d7ee8",
-    "published_at": "2026-09-30T09:43:16Z",
-    "engagement": 3,
-    "summary": "```\nCIP-Number: 89\ntitle: Unwind of the Balancer tokenswap and repurchase of COW held by Balancer DAO\nauthor: Notsoformal\nstatus: Active\ncreated: 2026...",
-    "tags": [
-      "governance",
-      "cow.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
-  },
-  {
-    "id": "snapshot_0xae1b90103b4749d347ce52b9a62e041e1bfed46138391aa7dffdfd441dafdc7d",
-    "title": "🏛️ [Rocketstar Foundation] RFIP-19: Sale of ETH",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/rocketstarfoundation.eth/proposal/0xae1b90103b4749d347ce52b9a62e041e1bfed46138391aa7dffdfd441dafdc7d",
-    "published_at": "2026-09-30T06:33:21Z",
-    "engagement": 3,
-    "summary": "By supporting this proposal the board of directors is entitled to sell up to ETH equaling value of 15k EUR to cover expenses for ongoing operations (C...",
-    "tags": [
-      "governance",
-      "rocketstarfoundation.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
-  },
-  {
-    "id": "snapshot_0x59e6629cdecba3d06e493cf38f1d5911371c3025aa416268b60da0ba0902194e",
-    "title": "🏛️ [Bloxology DAO] Audit",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/magenta.base.eth/proposal/0x59e6629cdecba3d06e493cf38f1d5911371c3025aa416268b60da0ba0902194e",
-    "published_at": "2026-09-21T12:11:18Z",
-    "engagement": 3,
-    "summary": "Bloxology should pay for an audit and submit to base",
-    "tags": [
-      "governance",
-      "magenta.base.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
-  },
-  {
-    "id": "snapshot_0xf8c15d34133246e32ff64a33beb85a6da4f239d17e90005850062b82adb4ed76",
-    "title": "🏛️ [Global web3 academy] 100,000 NFT PROFILE:The WEB3Space Blockchain Milestone",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/students.web3academy.eth/proposal/0xf8c15d34133246e32ff64a33beb85a6da4f239d17e90005850062b82adb4ed76",
-    "published_at": "2026-08-08T18:53:06Z",
-    "engagement": 2,
-    "summary": "### **What Happens When We Reach 100,000 NFT Profiles?**\n![WhatsApp Image 2026-08-08 at 11.50.41.jpeg](ipfs://bafybeigtonzyvjgi6n5lezdv36ujhnbzs72gdd6...",
-    "tags": [
-      "governance",
-      "students.web3academy.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
-  },
-  {
-    "id": "snapshot_0xa2b1b3a7ce0122e1440488713b139cba5989a1e543b68b1d4037fd660bdcac2e",
-    "title": "🏛️ [Pieverse Governance] PIP-5: Establishing the Pieverse Staking Program and Reward Model",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/pieverse-snapshot.eth/proposal/0xa2b1b3a7ce0122e1440488713b139cba5989a1e543b68b1d4037fd660bdcac2e",
-    "published_at": "2026-08-08T00:00:00Z",
-    "engagement": 5,
-    "summary": "## Summary\n\nThis proposal formally establishes the Pieverse staking program as a mechanism for long-term participation and alignment across the ecosys...",
-    "tags": [
-      "governance",
-      "pieverse-snapshot.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T01:20:55.239215Z"
+    "fetched_at": "2026-10-07T08:26:40.979820Z"
   }
 ]
