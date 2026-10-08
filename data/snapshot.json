@@ -1,5 +1,124 @@
 [
   {
+    "id": "snapshot_0xda2962403ee2746eb0f01b985b8f0fc1ba0fd7a733f6cdddade20f55d8f8ef03",
+    "title": "🏛️ [Hummingbot] Agent Builders Cup Competition Voting (REDUX)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/hbot.eth/proposal/0xda2962403ee2746eb0f01b985b8f0fc1ba0fd7a733f6cdddade20f55d8f8ef03",
+    "published_at": "2026-10-08T08:09:17Z",
+    "engagement": 7,
+    "summary": "The Agent Builders Cup finals are live: 14 AI trading agents, each with $800 of real capital, racing for 48 hours (Oct 7, 05:15 UTC → Oct 9, 05:15 UTC...",
+    "tags": [
+      "governance",
+      "hbot.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
+    "id": "snapshot_0x97cc301757340e101aead7c6bf01728dd4247eed5ffc7bccce024759a743cfcb",
+    "title": "🏛️ [pNounsDAO] [Prop 1002] Migrate Remaining V1 Treasury to V2",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/pnounsdao.eth/proposal/0x97cc301757340e101aead7c6bf01728dd4247eed5ffc7bccce024759a743cfcb",
+    "published_at": "2026-10-08T06:12:22Z",
+    "engagement": 3,
+    "summary": "# Migrate Remaining V1 Treasury to V2\n\n![The Last Crate – 00](https://i.ibb.co/YBN4TRnb/last-crate-00.jpg)\n\n![The Last Crate – 01](https://i.ibb.co/bR...",
+    "tags": [
+      "governance",
+      "pnounsdao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
+    "id": "snapshot_0x31b809d689e9e1851cf43c57e411673d23bb40050c4ccc6e4d9a642dc85476c3",
+    "title": "🏛️ [Curaçao Residents] Test Demo",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/kadeglobal.eth/proposal/0x31b809d689e9e1851cf43c57e411673d23bb40050c4ccc6e4d9a642dc85476c3",
+    "published_at": "2026-10-08T05:22:24Z",
+    "engagement": 3,
+    "summary": "Hello Luuk!",
+    "tags": [
+      "governance",
+      "kadeglobal.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
+    "id": "snapshot_0x83e73ddf8aaa3ac7dfdc7cf939f152bac034d67e5564428536c15e852a7c4ae3",
+    "title": "🏛️ [sdFXN] Gauge vote FXN - 15/10/2026 - 28/10/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxn.eth/proposal/0x83e73ddf8aaa3ac7dfdc7cf939f152bac034d67e5564428536c15e852a7c4ae3",
+    "published_at": "2026-10-08T02:00:00Z",
+    "engagement": 36,
+    "summary": "Gauge vote for FXN inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxn.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
+    "id": "snapshot_0xa5f792fc0f0bb369057156613f8cb847a3847e0d6ff8381b09e51b68aa50fe18",
+    "title": "🏛️ [sdYB] Gauge vote YB - 15/10/2026 - 28/10/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0xa5f792fc0f0bb369057156613f8cb847a3847e0d6ff8381b09e51b68aa50fe18",
+    "published_at": "2026-10-08T02:00:00Z",
+    "engagement": 4,
+    "summary": "Gauge vote for YB inflation allocation.",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
+    "id": "snapshot_0xd64a088dfd610c03140a596979655222a62b6853a4ac781d12115f5af786e93c",
+    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 15/10/2026 - 28/10/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0xd64a088dfd610c03140a596979655222a62b6853a4ac781d12115f5af786e93c",
+    "published_at": "2026-10-08T02:00:00Z",
+    "engagement": 121,
+    "summary": "Gauge vote for FXS inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxs.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
+    "id": "snapshot_0xa73cdb5ffe68e785b6fa8d92aa0d921bfc51f0595573e8f211f55d990d0b9a58",
+    "title": "🏛️ [Stake DAO CRV] Gauge vote CRV - 15/10/2026 - 28/10/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv.eth/proposal/0xa73cdb5ffe68e785b6fa8d92aa0d921bfc51f0595573e8f211f55d990d0b9a58",
+    "published_at": "2026-10-08T02:00:00Z",
+    "engagement": 702,
+    "summary": "Gauge vote for CRV inflation allocation.",
+    "tags": [
+      "governance",
+      "sdcrv.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
     "id": "snapshot_0x9169189467d4150a3b1a40bbef462267854a01589a7dcb13930f777b196bcbf6",
     "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1500",
     "platform": "snapshot",
@@ -14,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0x223e9d4030d11c14d991ae1a1f629ea8cd418e8a3ed110bd5649fcf8158aff2f",
@@ -31,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0xb9abcc0428bcb19fa84ee30fb6e70a5aea7eafbf826943c6e540b0e009e07a69",
@@ -48,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0xbfafe7c4f04e1f1e88228dc76667d29c3d1b5450420e40314460c05c0d12fba6",
@@ -65,7 +184,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
+    "id": "snapshot_0xeb38adf1e98d183ffe266a5efd20d0cc8523287a28a7dd4f424ca32e466e9c29",
+    "title": "🏛️ [PotsMoneyDao] #19 Proposal to Enable Internal IBS Transfers Within the POTS MONEY Legion / 关于开启 POTS MONEY 战团旗下 IBS 互转功能的提案",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ibs.eth/proposal/0xeb38adf1e98d183ffe266a5efd20d0cc8523287a28a7dd4f424ca32e466e9c29",
+    "published_at": "2026-10-08T04:00:00Z",
+    "engagement": 2,
+    "summary": "![pots-proposal-19-mobile-01.png](ipfs://bafkreign4sf4rbfezu5qmncdkvcnk47nivgvks6orcxmwc5ntwaqpijopi)![pots-proposal-19-mobile-02.png](ipfs://bafkreie...",
+    "tags": [
+      "governance",
+      "ibs.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0x53db3f48c4719cbcda91e5da2e6082f722e4da73e63bd0da4cfe0df23dec81ed",
@@ -82,7 +218,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
+  },
+  {
+    "id": "snapshot_0xd314126f5948bcf13b76dccba55b8e2f44ed2a5605d06d0facf6d8dd7af8b43b",
+    "title": "🏛️ [Beets Gauge Votes] Beets Sonic gauge vote (Round 46)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/beets-gauges.eth/proposal/0xd314126f5948bcf13b76dccba55b8e2f44ed2a5605d06d0facf6d8dd7af8b43b",
+    "published_at": "2026-10-08T08:00:00Z",
+    "engagement": 5,
+    "summary": "This vote decides the distribution of 300000 BEETS to gauge emissions for the period of October 14th 2026 to October 27th 2026.\n\nTo vote, distribute y...",
+    "tags": [
+      "governance",
+      "beets-gauges.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0x1d10eec3b1e5b439a3bf4f06bce912658a2822e1f7d3cf9a428664b4323829f5",
@@ -99,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0xe6d15fbcbd5722595be22075263ec6ea608c86503ff28f7a36899a9032aedb24",
@@ -116,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0x3dff7eb25b9288bde9258af7e7f937ac2e9f362093234cd64aa8c46b35eac0b8",
@@ -133,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0x2fa5bdc9786fe0c45893b961095cd52e597502d5e60009a29d989a5bbc6303ff",
@@ -150,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0xedd2d0ec28eb62e40b3f1f3db41c1e24be3892d98322b38977274b09e2c44758",
@@ -167,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   },
   {
     "id": "snapshot_0x5854b2fb758bcf005138fe7e72feba6683da7db968e829582e6a0a895c4b8312",
@@ -184,159 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0x5868bcda8dcd95ad00f582109f1abbb15606ee0e6f5445bc7d3e36540343b89e",
-    "title": "🏛️ [Grants] Bug Report Approval — ID #78689",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0x5868bcda8dcd95ad00f582109f1abbb15606ee0e6f5445bc7d3e36540343b89e",
-    "published_at": "2026-10-07T06:30:00Z",
-    "engagement": 6,
-    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
-    "tags": [
-      "governance",
-      "grants.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0xd907d813a99dcb2dc7d48f9acfb1657e8ae88d62b2321e8614bb93e02c3ea314",
-    "title": "🏛️ [Grants] Bug Report Approval — ID #72603",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0xd907d813a99dcb2dc7d48f9acfb1657e8ae88d62b2321e8614bb93e02c3ea314",
-    "published_at": "2026-10-07T06:30:00Z",
-    "engagement": 6,
-    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
-    "tags": [
-      "governance",
-      "grants.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0x27a6a802f428a98b94809d9adceda07464778a7971935261c2a0dcf89a3a7542",
-    "title": "🏛️ [Hummingbot] Agent Builders Cup Competition Voting",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/hbot.eth/proposal/0x27a6a802f428a98b94809d9adceda07464778a7971935261c2a0dcf89a3a7542",
-    "published_at": "2026-10-07T02:52:38Z",
-    "engagement": 7,
-    "summary": "# Agent Builders Cup: HBOT Team Vote\n\nThe **Agent Builders Cup** finals are live: 14 AI trading agents, $800 of real capital each, racing for 48 hours...",
-    "tags": [
-      "governance",
-      "hbot.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0x6d200069009908eb203db20c8d2eb31de028acad01e1727c49208f944ad596b2",
-    "title": "🏛️ [CryoDAO] CRYO-27: Total Recall - Proving that memory can be cryopreserved",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vote.cryodao.eth/proposal/0x6d200069009908eb203db20c8d2eb31de028acad01e1727c49208f944ad596b2",
-    "published_at": "2026-10-06T23:24:56Z",
-    "engagement": 3,
-    "summary": "Submitted by: CryoCore\nTeam Members: CryoCore\n\n## Overview\n\nFunding request: $259,000 USD | Project duration: 12 months\nResearch leads: Regina R. Mona...",
-    "tags": [
-      "governance",
-      "vote.cryodao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0x2d6af8b127e816dd15046979a27e5b5de2e9e0ecd2207c6425ff5db8270970ea",
-    "title": "🏛️ [Aave DAO] [ARFC] The Aave Foundation, Phase 1",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0x2d6af8b127e816dd15046979a27e5b5de2e9e0ecd2207c6425ff5db8270970ea",
-    "published_at": "2026-10-07T12:53:40Z",
-    "engagement": 3,
-    "summary": "**Title:** [ARFC] The Aave Foundation, Phase 1 \n**Author:** AaveLabs\n**Date:** 2026-10-06 \n\n***\n\n# Summary\n\nThis ARFC seeks to establish the Aave Foun...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0x2fc593a7a23d6cac9dfc17ae0af34f325973299436c24bfd558be53fd8192537",
-    "title": "🏛️ [Telcoin Treasury Council] TELIP 17: Additional Allocation for TEL Upgrade Exchange Integration",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/telcointreasurycouncil.eth/proposal/0x2fc593a7a23d6cac9dfc17ae0af34f325973299436c24bfd558be53fd8192537",
-    "published_at": "2026-10-05T22:11:06Z",
-    "engagement": 3,
-    "summary": "**Author:** Parker Spann, Executive Director, TAO\n\n**Date:** September 2026\n\n### **Abstract**\n\nThis TELIP requests an additional allocation of **137,5...",
-    "tags": [
-      "governance",
-      "telcointreasurycouncil.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0xe6d2cb54712ddbb812ea991119691b271ae8d187d85c6e64db1f577378ce510e",
-    "title": "🏛️ [TempleDAO] TIP-011 Spice Bazaar Upgrade to Support Fixed Price Auctions",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/templedao.eth/proposal/0xe6d2cb54712ddbb812ea991119691b271ae8d187d85c6e64db1f577378ce510e",
-    "published_at": "2026-10-05T20:21:49Z",
-    "engagement": 2,
-    "summary": "# 1.1 Summary\n\nPrevious Spice Bazaar Auctions have been implemented in two ways: 1) Bidders bid USDS for TGLD; 2) Bidders bid TGLD for volatile holdin...",
-    "tags": [
-      "governance",
-      "templedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0x236f8b2d72190a8ed4b7d71545203ff456c56ca9ad02a7c4756b369ba41e80af",
-    "title": "🏛️ [TempleDAO] TIP-010 Transition Plan for Temple Gold",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/templedao.eth/proposal/0x236f8b2d72190a8ed4b7d71545203ff456c56ca9ad02a7c4756b369ba41e80af",
-    "published_at": "2026-10-05T20:12:12Z",
-    "engagement": 3,
-    "summary": "# 1.1    Summary\n\nHistorically, the Temple Treasury has engaged in on-chain stable farming with a focus on acquisition of volatile tokens from various...",
-    "tags": [
-      "governance",
-      "templedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
-  },
-  {
-    "id": "snapshot_0x6d28dcfb0d6366ad79ad6a899bae6f982d599baae192f19f091107d693873071",
-    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Reduce Sentora x Spark RLUSD WBTC Relative Supply Cap",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x6d28dcfb0d6366ad79ad6a899bae6f982d599baae192f19f091107d693873071",
-    "published_at": "2026-10-05T16:13:53Z",
-    "engagement": 3,
-    "summary": "# [Ethereum] Spark Liquidity Layer - Reduce Sentora x Spark RLUSD WBTC Relative Supply Cap - October 5, 2026\n\nSpark's Operational Facilitator has plac...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T01:41:28.868353Z"
+    "fetched_at": "2026-10-08T08:42:06.691694Z"
   }
 ]
