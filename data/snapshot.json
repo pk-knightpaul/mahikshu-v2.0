@@ -1,5 +1,73 @@
 [
   {
+    "id": "snapshot_0x9169189467d4150a3b1a40bbef462267854a01589a7dcb13930f777b196bcbf6",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1500",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x9169189467d4150a3b1a40bbef462267854a01589a7dcb13930f777b196bcbf6",
+    "published_at": "2026-10-08T00:16:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1500.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1500-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
+  },
+  {
+    "id": "snapshot_0x223e9d4030d11c14d991ae1a1f629ea8cd418e8a3ed110bd5649fcf8158aff2f",
+    "title": "🏛️ [Concentrator] [sdCRV] Add a gauge for the following stableswapNG pool: alUSD/avUSD on mainnet",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x223e9d4030d11c14d991ae1a1f629ea8cd418e8a3ed110bd5649fcf8158aff2f",
+    "published_at": "2026-10-08T00:16:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1500-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
+  },
+  {
+    "id": "snapshot_0xb9abcc0428bcb19fa84ee30fb6e70a5aea7eafbf826943c6e540b0e009e07a69",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following stableswapNG pool: alUSD/avUSD on mainnet",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xb9abcc0428bcb19fa84ee30fb6e70a5aea7eafbf826943c6e540b0e009e07a69",
+    "published_at": "2026-10-08T00:16:47Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1500-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
+  },
+  {
+    "id": "snapshot_0xbfafe7c4f04e1f1e88228dc76667d29c3d1b5450420e40314460c05c0d12fba6",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1500",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xbfafe7c4f04e1f1e88228dc76667d29c3d1b5450420e40314460c05c0d12fba6",
+    "published_at": "2026-10-08T00:16:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1500.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1500-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
+  },
+  {
     "id": "snapshot_0x53db3f48c4719cbcda91e5da2e6082f722e4da73e63bd0da4cfe0df23dec81ed",
     "title": "🏛️ [Curaçao Residents] Test 2",
     "platform": "snapshot",
@@ -14,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x1d10eec3b1e5b439a3bf4f06bce912658a2822e1f7d3cf9a428664b4323829f5",
@@ -31,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0xe6d15fbcbd5722595be22075263ec6ea608c86503ff28f7a36899a9032aedb24",
@@ -48,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x3dff7eb25b9288bde9258af7e7f937ac2e9f362093234cd64aa8c46b35eac0b8",
@@ -65,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x2fa5bdc9786fe0c45893b961095cd52e597502d5e60009a29d989a5bbc6303ff",
@@ -82,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0xedd2d0ec28eb62e40b3f1f3db41c1e24be3892d98322b38977274b09e2c44758",
@@ -99,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x5854b2fb758bcf005138fe7e72feba6683da7db968e829582e6a0a895c4b8312",
@@ -116,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x5868bcda8dcd95ad00f582109f1abbb15606ee0e6f5445bc7d3e36540343b89e",
@@ -133,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0xd907d813a99dcb2dc7d48f9acfb1657e8ae88d62b2321e8614bb93e02c3ea314",
@@ -150,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x27a6a802f428a98b94809d9adceda07464778a7971935261c2a0dcf89a3a7542",
@@ -167,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x6d200069009908eb203db20c8d2eb31de028acad01e1727c49208f944ad596b2",
@@ -184,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x2d6af8b127e816dd15046979a27e5b5de2e9e0ecd2207c6425ff5db8270970ea",
@@ -201,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x2fc593a7a23d6cac9dfc17ae0af34f325973299436c24bfd558be53fd8192537",
@@ -218,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0xe6d2cb54712ddbb812ea991119691b271ae8d187d85c6e64db1f577378ce510e",
@@ -235,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x236f8b2d72190a8ed4b7d71545203ff456c56ca9ad02a7c4756b369ba41e80af",
@@ -252,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   },
   {
     "id": "snapshot_0x6d28dcfb0d6366ad79ad6a899bae6f982d599baae192f19f091107d693873071",
@@ -269,74 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
-  },
-  {
-    "id": "snapshot_0xc6387cc502c0506f090008ea66c592af681cfd6c60a45996dc120c4ec42d31df",
-    "title": "🏛️ [Spark] [Ethereum, Base] Spark Governance - Rotate Guardian and Curator Multisig Signers",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xc6387cc502c0506f090008ea66c592af681cfd6c60a45996dc120c4ec42d31df",
-    "published_at": "2026-10-05T16:09:59Z",
-    "engagement": 3,
-    "summary": "# [Ethereum, Base] Spark Governance - Rotate Guardian and Curator Multisig Signers - October 5, 2026\n\nSpark's Operational Facilitator has placed a pro...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
-  },
-  {
-    "id": "snapshot_0x08e95be101024ffaa5d62058c8904150d46b862f02d057e089b09c0a235bb087",
-    "title": "🏛️ [Grove] [Grove Artifact] Tokenized Treasury JTRSY Instance - Offchain Parameter Update",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0x08e95be101024ffaa5d62058c8904150d46b862f02d057e089b09c0a235bb087",
-    "published_at": "2026-10-05T15:56:06Z",
-    "engagement": 3,
-    "summary": "# [Grove Artifact] Tokenized Treasury JTRSY Instance - Offchain Parameter Update - October 5, 2026\n\nGrove's Operational Facilitator has placed a propo...",
-    "tags": [
-      "governance",
-      "grovefinance.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
-  },
-  {
-    "id": "snapshot_0x23456a161ec2b9597488525f6e665b1e0ebff4f41f4880bc4a9d452f34391581",
-    "title": "🏛️ [ValleyDAO] VP17: ValleyDAO 2.0 Evolution Proposal",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/valleybio.eth/proposal/0x23456a161ec2b9597488525f6e665b1e0ebff4f41f4880bc4a9d452f34391581",
-    "published_at": "2026-10-05T11:27:15Z",
-    "engagement": 3,
-    "summary": "**Snapshot's character limit is 10,000. To read the full proposal, please go to: https://docs.google.com/document/d/1ANuTuqTRv5vzMW-e5rLEevu-ZgBAJKvxY...",
-    "tags": [
-      "governance",
-      "valleybio.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
-  },
-  {
-    "id": "snapshot_0x49116ecc2d71848772a29e0a8f9cbe5996d24eba934c3107438101711258672a",
-    "title": "🏛️ [League of Lils] 1002: Migrate Remaining V1 Treasury to V2",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/leagueoflils.eth/proposal/0x49116ecc2d71848772a29e0a8f9cbe5996d24eba934c3107438101711258672a",
-    "published_at": "2026-10-05T05:30:00Z",
-    "engagement": 3,
-    "summary": "**View proposal:** https://lilnouns.wtf/vote/nouns/1002",
-    "tags": [
-      "governance",
-      "leagueoflils.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-07T21:52:22.790582Z"
+    "fetched_at": "2026-10-08T01:41:28.868353Z"
   }
 ]
