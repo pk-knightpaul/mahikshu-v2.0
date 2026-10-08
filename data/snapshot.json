@@ -1,5 +1,124 @@
 [
   {
+    "id": "snapshot_0xc262213fd2f844b6b017e846aae0f62c7761e92642c40f2d99d4fcf22f8da242",
+    "title": "🏛️ [Futera United] Who plays attacking midfield?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/futera.eth/proposal/0xc262213fd2f844b6b017e846aae0f62c7761e92642c40f2d99d4fcf22f8da242",
+    "published_at": "2026-10-08T14:36:20Z",
+    "engagement": 2,
+    "summary": "See managers-office for details.",
+    "tags": [
+      "governance",
+      "futera.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
+  },
+  {
+    "id": "snapshot_0x4a672b8e8793d5dbc56aa07ac2da304350435dea24940a908a003a15730d29ca",
+    "title": "🏛️ [Futera United] Who plays left back?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/futera.eth/proposal/0x4a672b8e8793d5dbc56aa07ac2da304350435dea24940a908a003a15730d29ca",
+    "published_at": "2026-10-08T14:35:40Z",
+    "engagement": 2,
+    "summary": "See managers-office for details.",
+    "tags": [
+      "governance",
+      "futera.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
+  },
+  {
+    "id": "snapshot_0x4c4120542a724d9694b4da8bcf3d66843afabbfe5e99ca9edeae86a4490fee53",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1501",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x4c4120542a724d9694b4da8bcf3d66843afabbfe5e99ca9edeae86a4490fee53",
+    "published_at": "2026-10-08T12:36:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1501.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1501-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
+  },
+  {
+    "id": "snapshot_0xf4fb7268fa882e6949edb5c9966fadecb0e4b7972e05b79a6702423f3628dbc2",
+    "title": "🏛️ [Concentrator] [sdCRV] Activate reUSD/sfrxUSD LP/crvUSD LlamaLend V2 on Ethereum: set a 3,000,000 crvUSD borrow cap and 10% admin fee, attach the LM callback and register the vault and callback gauges with type 0 and zero initial weight.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xf4fb7268fa882e6949edb5c9966fadecb0e4b7972e05b79a6702423f3628dbc2",
+    "published_at": "2026-10-08T12:36:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1501-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
+  },
+  {
+    "id": "snapshot_0x553363b89d671dc6bbb660fb33f00985a227b2ece979ba685dd10d31a5bf2b1b",
+    "title": "🏛️ [sdCRV-Governance] Activate reUSD/sfrxUSD LP/crvUSD LlamaLend V2 on Ethereum: set a 3,000,000 crvUSD borrow cap and 10% admin fee, attach the LM callback and register the vault and callback gauges with type 0 and zero initial weight.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x553363b89d671dc6bbb660fb33f00985a227b2ece979ba685dd10d31a5bf2b1b",
+    "published_at": "2026-10-08T12:36:35Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1501-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
+  },
+  {
+    "id": "snapshot_0xfb91539cc2ad8adea0b7e65b02d87b3d12472ba6e3706c14f4278fb8d78b8ff8",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1501",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xfb91539cc2ad8adea0b7e65b02d87b3d12472ba6e3706c14f4278fb8d78b8ff8",
+    "published_at": "2026-10-08T12:36:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1501.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1501-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
+  },
+  {
+    "id": "snapshot_0x7acc82f3c4bd0da7a03b98f13e6dda7024202eaef87b7c1c36f0ba43e93661cf",
+    "title": "🏛️ [Squid DAO] October SQUID Drop (Covering September)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/leviathannews.eth/proposal/0x7acc82f3c4bd0da7a03b98f13e6dda7024202eaef87b7c1c36f0ba43e93661cf",
+    "published_at": "2026-10-08T10:39:54Z",
+    "engagement": 7,
+    "summary": "![october-squid-drop.jpg](ipfs://bafybeig2swsavyu3pubbwn26e4lwzil5t45xcrhz2re3ccpyxvndje3jzu)\nThe October SQUID Drop, covering September activity, is ...",
+    "tags": [
+      "governance",
+      "leviathannews.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
+  },
+  {
     "id": "snapshot_0xda2962403ee2746eb0f01b985b8f0fc1ba0fd7a733f6cdddade20f55d8f8ef03",
     "title": "🏛️ [Hummingbot] Agent Builders Cup Competition Voting (REDUX)",
     "platform": "snapshot",
@@ -14,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0x97cc301757340e101aead7c6bf01728dd4247eed5ffc7bccce024759a743cfcb",
@@ -31,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0x31b809d689e9e1851cf43c57e411673d23bb40050c4ccc6e4d9a642dc85476c3",
@@ -48,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0x83e73ddf8aaa3ac7dfdc7cf939f152bac034d67e5564428536c15e852a7c4ae3",
@@ -65,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0xa5f792fc0f0bb369057156613f8cb847a3847e0d6ff8381b09e51b68aa50fe18",
@@ -82,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0xd64a088dfd610c03140a596979655222a62b6853a4ac781d12115f5af786e93c",
@@ -99,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0xa73cdb5ffe68e785b6fa8d92aa0d921bfc51f0595573e8f211f55d990d0b9a58",
@@ -116,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0x9169189467d4150a3b1a40bbef462267854a01589a7dcb13930f777b196bcbf6",
@@ -133,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0x223e9d4030d11c14d991ae1a1f629ea8cd418e8a3ed110bd5649fcf8158aff2f",
@@ -150,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0xb9abcc0428bcb19fa84ee30fb6e70a5aea7eafbf826943c6e540b0e009e07a69",
@@ -167,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0xbfafe7c4f04e1f1e88228dc76667d29c3d1b5450420e40314460c05c0d12fba6",
@@ -184,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0xeb38adf1e98d183ffe266a5efd20d0cc8523287a28a7dd4f424ca32e466e9c29",
@@ -201,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   },
   {
     "id": "snapshot_0x53db3f48c4719cbcda91e5da2e6082f722e4da73e63bd0da4cfe0df23dec81ed",
@@ -218,125 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
-  },
-  {
-    "id": "snapshot_0xd314126f5948bcf13b76dccba55b8e2f44ed2a5605d06d0facf6d8dd7af8b43b",
-    "title": "🏛️ [Beets Gauge Votes] Beets Sonic gauge vote (Round 46)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/beets-gauges.eth/proposal/0xd314126f5948bcf13b76dccba55b8e2f44ed2a5605d06d0facf6d8dd7af8b43b",
-    "published_at": "2026-10-08T08:00:00Z",
-    "engagement": 5,
-    "summary": "This vote decides the distribution of 300000 BEETS to gauge emissions for the period of October 14th 2026 to October 27th 2026.\n\nTo vote, distribute y...",
-    "tags": [
-      "governance",
-      "beets-gauges.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
-  },
-  {
-    "id": "snapshot_0x1d10eec3b1e5b439a3bf4f06bce912658a2822e1f7d3cf9a428664b4323829f5",
-    "title": "🏛️ [Curaçao Citizens] Citizen: Add February 2nd to official holiday",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cwcitizen.eth/proposal/0x1d10eec3b1e5b439a3bf4f06bce912658a2822e1f7d3cf9a428664b4323829f5",
-    "published_at": "2026-10-07T14:25:24Z",
-    "engagement": 3,
-    "summary": "Add February 2nd to official holiday",
-    "tags": [
-      "governance",
-      "cwcitizen.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
-  },
-  {
-    "id": "snapshot_0xe6d15fbcbd5722595be22075263ec6ea608c86503ff28f7a36899a9032aedb24",
-    "title": "🏛️ [Curaçao Residents] Resident: Add February 2nd to official holiday",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/kadeglobal.eth/proposal/0xe6d15fbcbd5722595be22075263ec6ea608c86503ff28f7a36899a9032aedb24",
-    "published_at": "2026-10-07T14:07:14Z",
-    "engagement": 3,
-    "summary": "Add February 2nd to official holiday",
-    "tags": [
-      "governance",
-      "kadeglobal.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
-  },
-  {
-    "id": "snapshot_0x3dff7eb25b9288bde9258af7e7f937ac2e9f362093234cd64aa8c46b35eac0b8",
-    "title": "🏛️ [Nate DAO] Should Dune Give API access to neat realtime thing?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/nategeier.dcl.eth/proposal/0x3dff7eb25b9288bde9258af7e7f937ac2e9f362093234cd64aa8c46b35eac0b8",
-    "published_at": "2026-10-07T13:24:34Z",
-    "engagement": 3,
-    "summary": "Probably yes",
-    "tags": [
-      "governance",
-      "nategeier.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
-  },
-  {
-    "id": "snapshot_0x2fa5bdc9786fe0c45893b961095cd52e597502d5e60009a29d989a5bbc6303ff",
-    "title": "🏛️ [Grants] Bug Report Approval — ID #86294",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0x2fa5bdc9786fe0c45893b961095cd52e597502d5e60009a29d989a5bbc6303ff",
-    "published_at": "2026-10-07T06:30:00Z",
-    "engagement": 6,
-    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
-    "tags": [
-      "governance",
-      "grants.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
-  },
-  {
-    "id": "snapshot_0xedd2d0ec28eb62e40b3f1f3db41c1e24be3892d98322b38977274b09e2c44758",
-    "title": "🏛️ [Grants] Bug Report Approval — ID #86842",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0xedd2d0ec28eb62e40b3f1f3db41c1e24be3892d98322b38977274b09e2c44758",
-    "published_at": "2026-10-07T06:30:00Z",
-    "engagement": 6,
-    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
-    "tags": [
-      "governance",
-      "grants.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
-  },
-  {
-    "id": "snapshot_0x5854b2fb758bcf005138fe7e72feba6683da7db968e829582e6a0a895c4b8312",
-    "title": "🏛️ [Grants] Bug Report Approval — ID #91419",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/grants.ssvnetwork.eth/proposal/0x5854b2fb758bcf005138fe7e72feba6683da7db968e829582e6a0a895c4b8312",
-    "published_at": "2026-10-07T06:30:00Z",
-    "engagement": 6,
-    "summary": "This proposal seeks classification and approval of the specified Bug Report. If approved, the reporter will receive the corresponding bounty reward as...",
-    "tags": [
-      "governance",
-      "grants.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-08T08:42:06.691694Z"
+    "fetched_at": "2026-10-08T16:17:35.761622Z"
   }
 ]
