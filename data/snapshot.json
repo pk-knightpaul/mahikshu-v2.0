@@ -1,5 +1,22 @@
 [
   {
+    "id": "snapshot_0x8cc9d91c1ac903ab8a8676ca8b93f5623175ca6aa5297780073e09a270a66f70",
+    "title": "🏛️ [Gitcoin] [PROPOSAL] Update Snapshot Quorum from 2.5M to 1.5M GTC",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/gitcoindao.eth/proposal/0x8cc9d91c1ac903ab8a8676ca8b93f5623175ca6aa5297780073e09a270a66f70",
+    "published_at": "2026-10-09T03:40:48Z",
+    "engagement": 3,
+    "summary": "Update Snapshot Quorum from 2.5M to 1.5M GTC\nTL;DR\nThis proposal lowers the quorum for Gitcoin DAO Snapshot votes from 2.5M GTC to 1.5M GTC.\n\nBackgrou...",
+    "tags": [
+      "governance",
+      "gitcoindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
+  },
+  {
     "id": "snapshot_0x27743480d9a78ba8a868616e551d8d9ccf6b1998f8b2c3b7dcdcea7716e2b59f",
     "title": "🏛️ [Curaçao Citizens] Demo citizen",
     "platform": "snapshot",
@@ -14,7 +31,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x15b5092727494576902937ca77580751323dab6c20d549cbd87f7d7ad7cb3229",
@@ -31,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x8e89266cb2ea9e1a3899d5bf0ce28a578e97d50d5ef5bf9abb07fb3036b37a1b",
@@ -48,41 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
-  },
-  {
-    "id": "snapshot_0xc262213fd2f844b6b017e846aae0f62c7761e92642c40f2d99d4fcf22f8da242",
-    "title": "🏛️ [Futera United] Who plays attacking midfield?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/futera.eth/proposal/0xc262213fd2f844b6b017e846aae0f62c7761e92642c40f2d99d4fcf22f8da242",
-    "published_at": "2026-10-08T14:36:20Z",
-    "engagement": 2,
-    "summary": "See managers-office for details.",
-    "tags": [
-      "governance",
-      "futera.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
-  },
-  {
-    "id": "snapshot_0x4a672b8e8793d5dbc56aa07ac2da304350435dea24940a908a003a15730d29ca",
-    "title": "🏛️ [Futera United] Who plays left back?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/futera.eth/proposal/0x4a672b8e8793d5dbc56aa07ac2da304350435dea24940a908a003a15730d29ca",
-    "published_at": "2026-10-08T14:35:40Z",
-    "engagement": 2,
-    "summary": "See managers-office for details.",
-    "tags": [
-      "governance",
-      "futera.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x4c4120542a724d9694b4da8bcf3d66843afabbfe5e99ca9edeae86a4490fee53",
@@ -99,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0xf4fb7268fa882e6949edb5c9966fadecb0e4b7972e05b79a6702423f3628dbc2",
@@ -116,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x553363b89d671dc6bbb660fb33f00985a227b2ece979ba685dd10d31a5bf2b1b",
@@ -133,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0xfb91539cc2ad8adea0b7e65b02d87b3d12472ba6e3706c14f4278fb8d78b8ff8",
@@ -150,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x7acc82f3c4bd0da7a03b98f13e6dda7024202eaef87b7c1c36f0ba43e93661cf",
@@ -167,24 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
-  },
-  {
-    "id": "snapshot_0xda2962403ee2746eb0f01b985b8f0fc1ba0fd7a733f6cdddade20f55d8f8ef03",
-    "title": "🏛️ [Hummingbot] Agent Builders Cup Competition Voting (REDUX)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/hbot.eth/proposal/0xda2962403ee2746eb0f01b985b8f0fc1ba0fd7a733f6cdddade20f55d8f8ef03",
-    "published_at": "2026-10-08T08:09:17Z",
-    "engagement": 7,
-    "summary": "The Agent Builders Cup finals are live: 14 AI trading agents, each with $800 of real capital, racing for 48 hours (Oct 7, 05:15 UTC → Oct 9, 05:15 UTC...",
-    "tags": [
-      "governance",
-      "hbot.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x97cc301757340e101aead7c6bf01728dd4247eed5ffc7bccce024759a743cfcb",
@@ -201,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x31b809d689e9e1851cf43c57e411673d23bb40050c4ccc6e4d9a642dc85476c3",
@@ -218,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x83e73ddf8aaa3ac7dfdc7cf939f152bac034d67e5564428536c15e852a7c4ae3",
@@ -235,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0xa5f792fc0f0bb369057156613f8cb847a3847e0d6ff8381b09e51b68aa50fe18",
@@ -252,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0xd64a088dfd610c03140a596979655222a62b6853a4ac781d12115f5af786e93c",
@@ -269,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0xa73cdb5ffe68e785b6fa8d92aa0d921bfc51f0595573e8f211f55d990d0b9a58",
@@ -286,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x9169189467d4150a3b1a40bbef462267854a01589a7dcb13930f777b196bcbf6",
@@ -303,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0x223e9d4030d11c14d991ae1a1f629ea8cd418e8a3ed110bd5649fcf8158aff2f",
@@ -320,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   },
   {
     "id": "snapshot_0xb9abcc0428bcb19fa84ee30fb6e70a5aea7eafbf826943c6e540b0e009e07a69",
@@ -337,6 +303,40 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-09T01:55:52.320733Z"
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
+  },
+  {
+    "id": "snapshot_0xbfafe7c4f04e1f1e88228dc76667d29c3d1b5450420e40314460c05c0d12fba6",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1500",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xbfafe7c4f04e1f1e88228dc76667d29c3d1b5450420e40314460c05c0d12fba6",
+    "published_at": "2026-10-08T00:16:47Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1500.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1500-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
+  },
+  {
+    "id": "snapshot_0x54c1155826e0cfb337c3e1566d048274c9039aaafc3116c19334b5fe0a9c3dad",
+    "title": "🏛️ [AssangeDAO] AIP-20: Execute AIP-19 Staking and Liquidity Stage 1",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/assangedao.eth/proposal/0x54c1155826e0cfb337c3e1566d048274c9039aaafc3116c19334b5fe0a9c3dad",
+    "published_at": "2026-10-08T20:23:48Z",
+    "engagement": 3,
+    "summary": "# AIP-20: Execute AIP-19 Staking and Liquidity Stage 1\n1. Summary\n\nAIP-19 passed in November 2025. The staking slice was never executed. This proposal...",
+    "tags": [
+      "governance",
+      "assangedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-09T08:50:07.417796Z"
   }
 ]
