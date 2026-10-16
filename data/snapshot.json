@@ -1,5 +1,90 @@
 [
   {
+    "id": "snapshot_0x694aee2d5ddba1d79e26278dd811e704514987ae0e7bfc4f542dcca484c1c146",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1506",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x694aee2d5ddba1d79e26278dd811e704514987ae0e7bfc4f542dcca484c1c146",
+    "published_at": "2026-10-16T17:10:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1506.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1506-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
+  },
+  {
+    "id": "snapshot_0x6f9c06736d8f2a9a06fb1d95d00043f5ed730a69b83c45697b35ad41fb4fb1f4",
+    "title": "🏛️ [Concentrator] [sdCRV] Add a gauge for the following llamalend v2 market: reusdsfrx LP (supply side)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x6f9c06736d8f2a9a06fb1d95d00043f5ed730a69b83c45697b35ad41fb4fb1f4",
+    "published_at": "2026-10-16T17:10:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1506-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
+  },
+  {
+    "id": "snapshot_0x220d02758f58ae2b9daca13f14b7ba5a5c1496198c5b9d29702c2bb55784bf42",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following llamalend v2 market: reusdsfrx LP (supply side)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x220d02758f58ae2b9daca13f14b7ba5a5c1496198c5b9d29702c2bb55784bf42",
+    "published_at": "2026-10-16T17:10:35Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1506-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
+  },
+  {
+    "id": "snapshot_0x9e0722a5881da878c93c986ede03381dd93ead181f2d806b53ff66a132d88813",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1506",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x9e0722a5881da878c93c986ede03381dd93ead181f2d806b53ff66a132d88813",
+    "published_at": "2026-10-16T17:10:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1506.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1506-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
+  },
+  {
+    "id": "snapshot_0x67e3f55f13a38535c06d2c4199dbcf3f1c90339d3d3fe3c99c4d1751d420c10c",
+    "title": "🏛️ [Nexus Mutual DAO] NMPIP 266: Investment Cleanup and Simplification",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/community.nexusmutual.eth/proposal/0x67e3f55f13a38535c06d2c4199dbcf3f1c90339d3d3fe3c99c4d1751d420c10c",
+    "published_at": "2026-10-16T20:47:08Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nThis proposal by the Investment Committee aims to simplify Nexus Mutual’s Capital Pool investments and realign them with the Mutual’s expo...",
+    "tags": [
+      "governance",
+      "community.nexusmutual.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
+  },
+  {
     "id": "snapshot_0x235c51610ee65c03480a3a7cd1f33f81b64154863f734ff97941f28a92a3f34e",
     "title": "🏛️ [ARTX Governance] [TEST] ARTX Governance Voting Test",
     "platform": "snapshot",
@@ -14,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x9e8a8272e4bf3b35567d79866038f133a96508e7c9d321a60fddc3a71face26f",
@@ -31,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0xeab682f9597e84119e40e29255da900ad4bc4d8ba4d1a56f380b854efdbb75b4",
@@ -48,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x2281f0e25992b203f0318542f74cd4ebd4d61625383c09e11839807834857906",
@@ -65,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0xe4e1011484f2c499a39d0ebce83ae2d402e8e8d61a56c336e3ceb09ecc1e5776",
@@ -82,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x8b670b4e3d960905dcd91be58e9588c3aa2449822cc761e2324fe7a70e5a7fdc",
@@ -99,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x6bb55945d25b6a5ffe8469533b6c4953d27e0fd79e74ce1b5711eea9a3c47f4c",
@@ -116,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x31dffc8b6f24c580540cc967fdede3d8e9d513c105d3f699a14ae65bd0dc5d74",
@@ -133,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x0dc199ece4acddf440f3fad028adea459de73029e90ec9ec694472f6d2f1fa6b",
@@ -150,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0xd690f2e9ec8b2ec9003a32664ceed84d114de2bea7e0787c39872d9f333e5982",
@@ -167,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0xa8a6d37507ef415ec2dd404528e2dec46758284b85ee856ed516a0ce68ee445c",
@@ -184,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x6a10ac4591db0f88293514f140eafc496ca1938849319f2a190576cdfbc1a875",
@@ -201,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x62e15e1228fcecdfbb4ae7cd201bc4ba0a0f1f5db703354f295d9b10b03ae307",
@@ -218,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x05383d0a4fba65ea438d8957d02be57aa44672758b8a548aed88f29363622045",
@@ -235,24 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
-  },
-  {
-    "id": "snapshot_0x01d0acdba98d389c7f2d2e509d85da896bf78de95e21cf8bf471f68666c01f55",
-    "title": "🏛️ [Verified Operators] 2026 Oct 14 - Proposal to Remove VO Status from Underperforming Operators",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vo.ssvnetwork.eth/proposal/0x01d0acdba98d389c7f2d2e509d85da896bf78de95e21cf8bf471f68666c01f55",
-    "published_at": "2026-10-14T19:24:15Z",
-    "engagement": 3,
-    "summary": "The following Verified Operators have been removed and/or shut down by their owners. Their VO badge should be removed.\n\n-   Forbole 16 - Operator remo...",
-    "tags": [
-      "governance",
-      "vo.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   },
   {
     "id": "snapshot_0x612bc0e77c80cb43e0b2d2925ac94bef3c62403a5d9c453f155d0b0b6ed439b2",
@@ -269,74 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
-  },
-  {
-    "id": "snapshot_0xda2a89cdec9a1c65dfa1db4ec1111a40c57533e780849123650b08a3880c5cd7",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1504",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0xda2a89cdec9a1c65dfa1db4ec1111a40c57533e780849123650b08a3880c5cd7",
-    "published_at": "2026-10-14T19:07:47Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1504.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1504-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
-  },
-  {
-    "id": "snapshot_0x025fab1017e6da146fd56affe33737bd6b8476c9ace78466090156c8ea09f7ab",
-    "title": "🏛️ [Aave DAO] [ARFC] Onboard USAT to Aave V3 Core Instance and Aave V4 Core Hub on Ethereum",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0x025fab1017e6da146fd56affe33737bd6b8476c9ace78466090156c8ea09f7ab",
-    "published_at": "2026-10-15T17:52:44Z",
-    "engagement": 3,
-    "summary": "**Title:** [ARFC] Onboard USAT to Aave V3 Core Instance and Aave V4 Core Hub on Ethereum\n**Author:** AaveLabs\n**Date:** 2026-10-14\n\n***\n\n## Summary\n\nT...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
-  },
-  {
-    "id": "snapshot_0x30960d200ac8d6ac769961c68fdfe75926d0985e9916fe121bb08e874b3b508a",
-    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1503",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x30960d200ac8d6ac769961c68fdfe75926d0985e9916fe121bb08e874b3b508a",
-    "published_at": "2026-10-14T01:38:23Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1503.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1503-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "aladdindao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
-  },
-  {
-    "id": "snapshot_0xe7292deca1d094046d2409350cec2d99d3e3829f0f2ba94a4d8e294ba1d41f71",
-    "title": "🏛️ [Concentrator] [sdCRV] Add a gauge for the following stableswapNG pool: avUSD/savUSD on mainnet (Avant)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xe7292deca1d094046d2409350cec2d99d3e3829f0f2ba94a4d8e294ba1d41f71",
-    "published_at": "2026-10-14T01:38:23Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1503-OWNERSHIP",
-    "tags": [
-      "governance",
-      "concentratordao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-16T17:16:11.949249Z"
+    "fetched_at": "2026-10-16T20:48:55.479477Z"
   }
 ]
