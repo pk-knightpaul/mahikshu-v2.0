@@ -1,5 +1,158 @@
 [
   {
+    "id": "snapshot_0x15332de1a7672475ca79821f5757c31f801aba6b1eddd8829da04adbf4960fc9",
+    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0x15332de1a7672475ca79821f5757c31f801aba6b1eddd8829da04adbf4960fc9",
+    "published_at": "2026-10-19T20:40:54Z",
+    "engagement": 1,
+    "summary": "• NO:stake Proceed with WLFI",
+    "tags": [
+      "governance",
+      "ramo4586.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
+    "id": "snapshot_0x4762a078a6030ebc5c443b4c5ef10d1fbd850a6fbfbba64f297ffdabf3bc1dcc",
+    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0x4762a078a6030ebc5c443b4c5ef10d1fbd850a6fbfbba64f297ffdabf3bc1dcc",
+    "published_at": "2026-10-19T20:06:00Z",
+    "engagement": 1,
+    "summary": "• NO:stake Proceed with WLFI",
+    "tags": [
+      "governance",
+      "ramo4586.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
+    "id": "snapshot_0x57f7165c963b567041421053520a2d3cb9474873eebe3f51876d4027dda94674",
+    "title": "🏛️ [Yearn Builder Collective] Vyper Compiler Development and Verification",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ybc.styfi.eth/proposal/0x57f7165c963b567041421053520a2d3cb9474873eebe3f51876d4027dda94674",
+    "published_at": "2026-10-19T17:46:06Z",
+    "engagement": 3,
+    "summary": "Approve a one-time payment of $100.000 from the discretionary fund for Vyper compiler development and verification?",
+    "tags": [
+      "governance",
+      "ybc.styfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
+    "id": "snapshot_0x1e370169aa44ca8cddac591401f47b440e6aa71fc84386c6a1aff8e8424c1673",
+    "title": "🏛️ [Yearn Builder Collective] trace-interop: cross-client trace API standardization",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ybc.styfi.eth/proposal/0x1e370169aa44ca8cddac591401f47b440e6aa71fc84386c6a1aff8e8424c1673",
+    "published_at": "2026-10-19T17:38:23Z",
+    "engagement": 3,
+    "summary": "Approve a one-time payment of $10.000 from the discretionary fund to banteg for cross-client trace API standardization?",
+    "tags": [
+      "governance",
+      "ybc.styfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
+    "id": "snapshot_0x41bb0aa96e451bbe44ebbd3bb948540c911bbd39ce123e41c5901a532f94d9c7",
+    "title": "🏛️ [Spark] SAEP-24: Update Risk Curation Framework",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x41bb0aa96e451bbe44ebbd3bb948540c911bbd39ce123e41c5901a532f94d9c7",
+    "published_at": "2026-10-19T16:16:44Z",
+    "engagement": 3,
+    "summary": "# SAEP-24: Update Risk Curation Framework - October 19, 2026\n\nSpark's Operational Facilitator has placed a proposal into the voting system on behalf o...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
+    "id": "snapshot_0xb00107403f527c247f50d99ac8c0a78022c7e4c53c000a355154cc1bcee8d3e9",
+    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Morpho Vault Timelock Compliance",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xb00107403f527c247f50d99ac8c0a78022c7e4c53c000a355154cc1bcee8d3e9",
+    "published_at": "2026-10-19T16:13:52Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Spark Liquidity Layer - Morpho Vault Timelock Compliance - October 19, 2026\n\nSpark's Operational Facilitator has placed a proposal into t...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
+    "id": "snapshot_0x0c4bc6ae25008854f0b78e778f216eb847a5e0f12fcbdbbb5d4450d0f403a568",
+    "title": "🏛️ [Spark] [Ethereum, Base] Spark Guardian and Curator Multisig Configuration Ratification",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x0c4bc6ae25008854f0b78e778f216eb847a5e0f12fcbdbbb5d4450d0f403a568",
+    "published_at": "2026-10-19T16:10:44Z",
+    "engagement": 3,
+    "summary": "# [Ethereum, Base] Spark Governance - Ratify the Curator Multisig Configuration - October 19, 2026\n\nSpark's Operational Facilitator has placed a propo...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
+    "id": "snapshot_0xff65d7e6e3062d1cba4d008d1fbb4cd817c63656d37bf93e1cab12438db5a2d9",
+    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0xff65d7e6e3062d1cba4d008d1fbb4cd817c63656d37bf93e1cab12438db5a2d9",
+    "published_at": "2026-10-19T16:07:34Z",
+    "engagement": 1,
+    "summary": "• NO:stake Proceed with WLFI",
+    "tags": [
+      "governance",
+      "ramo4586.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
+    "id": "snapshot_0xf9d2c4bc13a663dedf342bff031b7810e86a05b10fcb6ec545cd5cb1e14941c4",
+    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0xf9d2c4bc13a663dedf342bff031b7810e86a05b10fcb6ec545cd5cb1e14941c4",
+    "published_at": "2026-10-19T16:00:54Z",
+    "engagement": 1,
+    "summary": "• NO:stake Proceed with WLFI",
+    "tags": [
+      "governance",
+      "ramo4586.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
+  },
+  {
     "id": "snapshot_0xc88a0ffbd4d1f7139d8f5f7735a7f3b2db34a62e5853615f79b0a29f928724e4",
     "title": "🏛️ [Stake DAO] SDGP-78: Add a 4% vlSDT Revenue Share to Liquid Lockers",
     "platform": "snapshot",
@@ -14,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0xf91e929bd8e88fbc007df08d43e8fe33924e82614e8db0a7c63657aa21ec5af8",
@@ -31,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0xcecdd04d4f95477617f614abe2837897086cb8196331c788cafdfc6441f8c09a",
@@ -48,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0x37acf08c3510efa0cbaeeef18d4611fd95141101b68710b00eec10ddee63b97e",
@@ -65,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0x7396557ab5253920a04f1abf264a002a81941ad3fa91114f599e90ac6721ee96",
@@ -82,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0x13b0158beed45badf7a6838dd7f4dbc75133ca4a9b1090b16c77f0b4c7b03909",
@@ -99,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0x1382197148095db0dea405f1f89bdec88d573c879daf0f8e30aee961aee51c16",
@@ -116,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0x49123a583700a6d5c0874a78d5fd1131dacefea6a5857315af0ea6f6f3803700",
@@ -133,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0x7f7201fe59b7cf0647e09fea38dd18996e9595d8bfda84f0ab31264f31b4ff9d",
@@ -150,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0xcec8f2f60f6fc68e264b1f5410e62c047b88486bf5ea71408e3ffb4d3a55cecc",
@@ -167,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   },
   {
     "id": "snapshot_0x2872510cb9f1310c1738f6db309230c9e8f972c0ffa242ccd879f9655e46ee15",
@@ -184,159 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0x6b2444592d674cf89a7332c4f6a400397bede91ac4933c223d9d21127d5558c2",
-    "title": "🏛️ [Forgotten Runes Wizard's Cult] CIP-42: Runes TCG Development Funding",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/forgottengov.eth/proposal/0x6b2444592d674cf89a7332c4f6a400397bede91ac4933c223d9d21127d5558c2",
-    "published_at": "2026-10-17T16:00:00Z",
-    "engagement": 3,
-    "summary": "# Runes TCG Development Funding\n\n## Project Lead and Team Information\n\n**Project Lead:** Giveahoot, Owner & Developer who's been working on Runes TCG ...",
-    "tags": [
-      "governance",
-      "forgottengov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0x98cc57c0cb987fa0980a89964799278938a10816efc450ea53f01a4df77bfb29",
-    "title": "🏛️ [Forgotten Runes Wizard's Cult] CIP-41: Ichor & Ashes - A Dark fantasy 2D roguelite based on Forgotten Runes IP",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/forgottengov.eth/proposal/0x98cc57c0cb987fa0980a89964799278938a10816efc450ea53f01a4df77bfb29",
-    "published_at": "2026-10-17T16:00:00Z",
-    "engagement": 3,
-    "summary": "# Ichor & Ashes - A Dark fantasy 2D roguelite based on Forgotten Runes IP\n\n## Project Lead and Team Information\n\n**Project Lead:** Aldus (0xAldus), so...",
-    "tags": [
-      "governance",
-      "forgottengov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0x4f7ab75a57acf662c469bdb8b1a1192f929dfe9cf1d05dbd778855ecebb87209",
-    "title": "🏛️ [ULTILAND] ARTX Supply Cap Increase: 280M to 950M for Long-Term Art Acquisitions",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ultiland.eth/proposal/0x4f7ab75a57acf662c469bdb8b1a1192f929dfe9cf1d05dbd778855ecebb87209",
-    "published_at": "2026-10-17T14:39:29Z",
-    "engagement": 2,
-    "summary": "## What are we voting on?\n\nShould ARTX's issuance cap be raised from **280 million to 950 million tokens after this vote passes**, with the additional...",
-    "tags": [
-      "governance",
-      "ultiland.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0xff267f1a96c77048381187a6ccf45ce1baff29a62231957760d3bd79014d1697",
-    "title": "🏛️ [Society Protocol] [September 2026] Official Badge Awards",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/societyprotocol.eth/proposal/0xff267f1a96c77048381187a6ccf45ce1baff29a62231957760d3bd79014d1697",
-    "published_at": "2026-10-17T20:59:49Z",
-    "engagement": 3,
-    "summary": "Should the Society Protocol DAO award these official badges for the month of September 2026?\n\n### Advisor Badges\n\n1.  (1x) Eric Dixon – 0xad50ad547f27...",
-    "tags": [
-      "governance",
-      "societyprotocol.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0x220d02758f58ae2b9daca13f14b7ba5a5c1496198c5b9d29702c2bb55784bf42",
-    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following llamalend v2 market: reusdsfrx LP (supply side)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x220d02758f58ae2b9daca13f14b7ba5a5c1496198c5b9d29702c2bb55784bf42",
-    "published_at": "2026-10-16T17:10:35Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1506-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0x7b55c97dda38c14534405e3afeb3bdfa16d77b1caed05db0189fad6ebed0eb57",
-    "title": "🏛️ [Puffer Gauge] Gauge Proposal [22 Gauges] 2026-10-17 02:00 GMT+2 to 2026-10-31 02:00 GMT+1",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/puffer-gauge.eth/proposal/0x7b55c97dda38c14534405e3afeb3bdfa16d77b1caed05db0189fad6ebed0eb57",
-    "published_at": "2026-10-17T00:00:00Z",
-    "engagement": 22,
-    "summary": "",
-    "tags": [
-      "governance",
-      "puffer-gauge.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0x67e3f55f13a38535c06d2c4199dbcf3f1c90339d3d3fe3c99c4d1751d420c10c",
-    "title": "🏛️ [Nexus Mutual DAO] NMPIP 266: Investment Cleanup and Simplification",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/community.nexusmutual.eth/proposal/0x67e3f55f13a38535c06d2c4199dbcf3f1c90339d3d3fe3c99c4d1751d420c10c",
-    "published_at": "2026-10-16T20:47:08Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nThis proposal by the Investment Committee aims to simplify Nexus Mutual’s Capital Pool investments and realign them with the Mutual’s expo...",
-    "tags": [
-      "governance",
-      "community.nexusmutual.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0x42e766a949de942b7b3eebde247bc295fb26816e68b3fc0eec716bffc35a6e4a",
-    "title": "🏛️ [QuickSwap] Deprecation of Soneium Deployment from the QuickSwap UI",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/quickvote.eth/proposal/0x42e766a949de942b7b3eebde247bc295fb26816e68b3fc0eec716bffc35a6e4a",
-    "published_at": "2026-10-17T12:00:00Z",
-    "engagement": 2,
-    "summary": "QuickSwap continues to strategically and actively monitor current chain deployments to determine which are most sustainable, in an effort to reduce op...",
-    "tags": [
-      "governance",
-      "quickvote.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
-  },
-  {
-    "id": "snapshot_0xc83f554d8b9ed472924b2f2ef5620aad797137872c11c09fa22061aeeae253ca",
-    "title": "🏛️ [ARTX Governance] [TEST] ARTX Governance Voting Test",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/imstark.eth/proposal/0xc83f554d8b9ed472924b2f2ef5620aad797137872c11c09fa22061aeeae253ca",
-    "published_at": "2026-10-17T13:31:48Z",
-    "engagement": 2,
-    "summary": "## Test only\nThis is a non-binding test of the ARTX Governance voting process. It does not approve any supply cap change, token issuance, asset transa...",
-    "tags": [
-      "governance",
-      "imstark.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-19T15:26:07.182246Z"
+    "fetched_at": "2026-10-19T20:56:45.826404Z"
   }
 ]
