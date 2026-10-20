@@ -1,37 +1,20 @@
 [
   {
-    "id": "snapshot_0x99bb8cf1557be239954a6b840f6d49682b231f7d43a998cfb19c7ca58e284458",
-    "title": "🏛️ [Settings rehearsal] Rehearsal: posted with delegated power",
+    "id": "snapshot_0xa5d7bfeedc491538cadbe6ed07ecb7acefc44487fa55d501a0504b6dd88f0efe",
+    "title": "🏛️ [NGP DAO] 📢 NGP Trading Migration Vote",
     "platform": "snapshot",
     "content_type": "governance",
-    "url": "https://snapshot.org/#/testing-new-d-ignore-xyz-a.eth/proposal/0x99bb8cf1557be239954a6b840f6d49682b231f7d43a998cfb19c7ca58e284458",
-    "published_at": "2026-10-20T11:06:01Z",
-    "engagement": 3,
-    "summary": "Rehearsal round on the sandbox, see api3-dao-migration/snapshot/README.md. Posted by staker.",
+    "url": "https://snapshot.org/#/newgoldprotocol.eth/proposal/0xa5d7bfeedc491538cadbe6ed07ecb7acefc44487fa55d501a0504b6dd88f0efe",
+    "published_at": "2026-10-20T11:43:41Z",
+    "engagement": 2,
+    "summary": "NGP trading is moving to the NGX Trading Pool!",
     "tags": [
       "governance",
-      "testing-new-d-ignore-xyz-a.eth",
+      "newgoldprotocol.eth",
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
-  },
-  {
-    "id": "snapshot_0xeb4bc9af28d4930ea43c52aba8538962dcbe51231a0a5854bf0aa106c5330f61",
-    "title": "🏛️ [Settings rehearsal] Rehearsal: routine proposal",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/testing-new-d-ignore-xyz-a.eth/proposal/0xeb4bc9af28d4930ea43c52aba8538962dcbe51231a0a5854bf0aa106c5330f61",
-    "published_at": "2026-10-20T11:05:03Z",
-    "engagement": 3,
-    "summary": "Rehearsal round on the sandbox, see api3-dao-migration/snapshot/README.md. Posted by agent.",
-    "tags": [
-      "governance",
-      "testing-new-d-ignore-xyz-a.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0xc5500cbf31bf601172a477fb04ff558069ed915af7aa63f491aa88a214e62099",
@@ -48,7 +31,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x16988c756b6cae1312ca25b1de886a47ea30effae814ff9af2fa4639326373f9",
@@ -65,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x15332de1a7672475ca79821f5757c31f801aba6b1eddd8829da04adbf4960fc9",
@@ -82,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x4762a078a6030ebc5c443b4c5ef10d1fbd850a6fbfbba64f297ffdabf3bc1dcc",
@@ -99,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x57f7165c963b567041421053520a2d3cb9474873eebe3f51876d4027dda94674",
@@ -116,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x1e370169aa44ca8cddac591401f47b440e6aa71fc84386c6a1aff8e8424c1673",
@@ -133,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x41bb0aa96e451bbe44ebbd3bb948540c911bbd39ce123e41c5901a532f94d9c7",
@@ -150,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0xb00107403f527c247f50d99ac8c0a78022c7e4c53c000a355154cc1bcee8d3e9",
@@ -167,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x0c4bc6ae25008854f0b78e778f216eb847a5e0f12fcbdbbb5d4450d0f403a568",
@@ -184,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0xff65d7e6e3062d1cba4d008d1fbb4cd817c63656d37bf93e1cab12438db5a2d9",
@@ -201,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0xf9d2c4bc13a663dedf342bff031b7810e86a05b10fcb6ec545cd5cb1e14941c4",
@@ -218,7 +201,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
+  },
+  {
+    "id": "snapshot_0xc68f4dd0b3661afe5f5345b15dab49899e85ac692afae45c73c7e1f9cb3c290a",
+    "title": "🏛️ [AssangeDAO] AIP-18: Update AssangeDAO Mission Statement",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/assangedao.eth/proposal/0xc68f4dd0b3661afe5f5345b15dab49899e85ac692afae45c73c7e1f9cb3c290a",
+    "published_at": "2026-10-20T15:50:35Z",
+    "engagement": 10,
+    "summary": "1.  Summary\n    \n\nAssangeDAO’s original mission is complete. This proposal asks $JUSTICE holders to adopt a new official mission. Nine options drawn f...",
+    "tags": [
+      "governance",
+      "assangedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x7856c614e688e2d94121d595ec24564ba9b9228a4a21cc7b493f1bfacd3b5c5c",
@@ -235,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0xc88a0ffbd4d1f7139d8f5f7735a7f3b2db34a62e5853615f79b0a29f928724e4",
@@ -252,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0xf91e929bd8e88fbc007df08d43e8fe33924e82614e8db0a7c63657aa21ec5af8",
@@ -269,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0xcecdd04d4f95477617f614abe2837897086cb8196331c788cafdfc6441f8c09a",
@@ -286,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x37acf08c3510efa0cbaeeef18d4611fd95141101b68710b00eec10ddee63b97e",
@@ -303,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x7396557ab5253920a04f1abf264a002a81941ad3fa91114f599e90ac6721ee96",
@@ -320,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   },
   {
     "id": "snapshot_0x13b0158beed45badf7a6838dd7f4dbc75133ca4a9b1090b16c77f0b4c7b03909",
@@ -337,6 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-20T11:16:14.114656Z"
+    "fetched_at": "2026-10-20T16:40:45.535335Z"
   }
 ]
