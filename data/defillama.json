@@ -5,7 +5,7 @@
     "platform": "defillama",
     "content_type": "high_yield",
     "url": "https://defillama.com/yields",
-    "published_at": "2026-10-21T20:00:01.965101Z",
+    "published_at": "2026-10-21T23:13:05.211960Z",
     "engagement": 50,
     "summary": "maple on Ethereum offers 5.1% APY for USDC.",
     "tags": [
@@ -14,6 +14,23 @@
       "maple",
       "defillama"
     ],
-    "fetched_at": "2026-10-21T20:00:01.965101Z"
+    "fetched_at": "2026-10-21T23:13:05.211960Z"
+  },
+  {
+    "id": "defillama_yield_66985a81-9c51-46ca-9977-42b4fe7bc6df",
+    "title": "🌾 High Yield: SUSDE — 5.6% APY",
+    "platform": "defillama",
+    "content_type": "high_yield",
+    "url": "https://defillama.com/yields",
+    "published_at": "2026-10-21T23:13:05.211960Z",
+    "engagement": 55,
+    "summary": "ethena-usde on Ethereum offers 5.6% APY for SUSDE.",
+    "tags": [
+      "yield",
+      "ethereum",
+      "ethena-usde",
+      "defillama"
+    ],
+    "fetched_at": "2026-10-21T23:13:05.211960Z"
   }
 ]
