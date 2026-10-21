@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0xcac2bd8a536757364128a02a5a0aedaa35ed12e6638da36a3b283ffb3421ed7b",
+    "title": "🏛️ [CoW DAO] CIP-90: Fee Policy Iteration",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cow.eth/proposal/0xcac2bd8a536757364128a02a5a0aedaa35ed12e6638da36a3b283ffb3421ed7b",
+    "published_at": "2026-10-21T18:55:04Z",
+    "engagement": 3,
+    "summary": "```\nCIP-Number: 90\ntitle: Fee Policy Iteration\nauthor: marshy\nstatus: active\ncreated: 2026-10-21\n```\n\n##   \nSummary\n\nThis CIP gives the core team a ma...",
+    "tags": [
+      "governance",
+      "cow.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
+  },
+  {
+    "id": "snapshot_0x5cf4b66bc3a0822485a502e2d2202d9323a6a6fc7a94e892678bdccb79b62574",
+    "title": "🏛️ [PotsMoneyDao] #20 Proposal on Utilizing PBM Reserve Assets to Support the Sustainable Development of the IBS and POTS Ecosystems / 关于使用 PBM 储备资产支持 IBS 及 POTS 生态持续发展的提案",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ibs.eth/proposal/0x5cf4b66bc3a0822485a502e2d2202d9323a6a6fc7a94e892678bdccb79b62574",
+    "published_at": "2026-10-21T17:00:00Z",
+    "engagement": 2,
+    "summary": "![pots-proposal-20-mobile-01.png](ipfs://bafkreifp2f4ljaowkplctzo6brsqdlu44ra4hgq2d7hpfswjxwq4n7bpcu)![pots-proposal-20-mobile-02.png](ipfs://bafkreig...",
+    "tags": [
+      "governance",
+      "ibs.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
+  },
+  {
     "id": "snapshot_0x21f4d8b7252b9735140217402198a9dd6e44f4f6a1a7ccb737385467903b25c8",
     "title": "🏛️ [XMAQUINA] BOT-15: Strategic Allocation in Skild AI",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0xafc27c422eb838e701ff175ff5eeb65bff770066eb42dfb6bd9efd18bfbcc49a",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x15a5a48ce5fb624455a7567e5774635057aa1aaeea8a8126edb36dc8cd4aa0c1",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x576549bc2d477d6c2c7fafbd66a2e8892e77a6db549e1cd9e14df3b37173014f",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x192b64f6a6f117029f8caa348579a8fab600ab8ff8ca1882f4c309ce17452c6e",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x4cd3fe3ef6fa673cea8e2a96255fdc4f7b437a29599003ffff3a92f5c7fbbfcf",
@@ -116,7 +150,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
+  },
+  {
+    "id": "snapshot_0x04846cc77f7aaa533ba01c62988a9f4114c297814c51dd1b5b0169d5587bf71e",
+    "title": "🏛️ [Exactly Protocol] [EXAIP-34] Enable Coinbase Tokenized Stocks as Collateral on Exactly Protocol (Base)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/gov.exa.eth/proposal/0x04846cc77f7aaa533ba01c62988a9f4114c297814c51dd1b5b0169d5587bf71e",
+    "published_at": "2026-10-21T16:09:52Z",
+    "engagement": 3,
+    "summary": "Proposal ID: EXAIP-34\nProposer: Exa Labs\nDate: October 20, 2026\n\n**Summary**\nThis proposal lists five Coinbase Tokenized Stocks as collateral on the K...",
+    "tags": [
+      "governance",
+      "gov.exa.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0xc5500cbf31bf601172a477fb04ff558069ed915af7aa63f491aa88a214e62099",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x16988c756b6cae1312ca25b1de886a47ea30effae814ff9af2fa4639326373f9",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x8d58b2adeea86e86b5d204f5d5c90534fc5a5e71bca9efdf7b5912ce0888630f",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x15332de1a7672475ca79821f5757c31f801aba6b1eddd8829da04adbf4960fc9",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x4762a078a6030ebc5c443b4c5ef10d1fbd850a6fbfbba64f297ffdabf3bc1dcc",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0xf987dd5aed6586169b232af7691e2cbb268cf61e2845bf6a04a83b60a5404bd8",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x57f7165c963b567041421053520a2d3cb9474873eebe3f51876d4027dda94674",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x1e370169aa44ca8cddac591401f47b440e6aa71fc84386c6a1aff8e8424c1673",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0x41bb0aa96e451bbe44ebbd3bb948540c911bbd39ce123e41c5901a532f94d9c7",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   },
   {
     "id": "snapshot_0xb00107403f527c247f50d99ac8c0a78022c7e4c53c000a355154cc1bcee8d3e9",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
-  },
-  {
-    "id": "snapshot_0x0c4bc6ae25008854f0b78e778f216eb847a5e0f12fcbdbbb5d4450d0f403a568",
-    "title": "🏛️ [Spark] [Ethereum, Base] Spark Guardian and Curator Multisig Configuration Ratification",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x0c4bc6ae25008854f0b78e778f216eb847a5e0f12fcbdbbb5d4450d0f403a568",
-    "published_at": "2026-10-19T16:10:44Z",
-    "engagement": 3,
-    "summary": "# [Ethereum, Base] Spark Governance - Ratify the Curator Multisig Configuration - October 19, 2026\n\nSpark's Operational Facilitator has placed a propo...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
-  },
-  {
-    "id": "snapshot_0xff65d7e6e3062d1cba4d008d1fbb4cd817c63656d37bf93e1cab12438db5a2d9",
-    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0xff65d7e6e3062d1cba4d008d1fbb4cd817c63656d37bf93e1cab12438db5a2d9",
-    "published_at": "2026-10-19T16:07:34Z",
-    "engagement": 1,
-    "summary": "• NO:stake Proceed with WLFI",
-    "tags": [
-      "governance",
-      "ramo4586.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
-  },
-  {
-    "id": "snapshot_0xf9d2c4bc13a663dedf342bff031b7810e86a05b10fcb6ec545cd5cb1e14941c4",
-    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0xf9d2c4bc13a663dedf342bff031b7810e86a05b10fcb6ec545cd5cb1e14941c4",
-    "published_at": "2026-10-19T16:00:54Z",
-    "engagement": 1,
-    "summary": "• NO:stake Proceed with WLFI",
-    "tags": [
-      "governance",
-      "ramo4586.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-21T15:02:20.132176Z"
+    "fetched_at": "2026-10-21T20:00:04.385768Z"
   }
 ]
