@@ -1,5 +1,56 @@
 [
   {
+    "id": "snapshot_0x2fec4391b2d5442e5a3f5999fbdecd162c000ae63d8b93a5b46c9e9bf876b444",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1509",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x2fec4391b2d5442e5a3f5999fbdecd162c000ae63d8b93a5b46c9e9bf876b444",
+    "published_at": "2026-10-22T21:17:39Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1509.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1509-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
+  },
+  {
+    "id": "snapshot_0x0b38a8fb1ecc5184631f8f2098d703b1bc8e912dd209ae06f987e6aa310922f2",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1510",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x0b38a8fb1ecc5184631f8f2098d703b1bc8e912dd209ae06f987e6aa310922f2",
+    "published_at": "2026-10-22T21:17:15Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1510.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1510-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
+  },
+  {
+    "id": "snapshot_0xdd442218ea6f9e824aaf8da16fef057163fa6c3d1139188ea9b40cd52978eca0",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1509",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xdd442218ea6f9e824aaf8da16fef057163fa6c3d1139188ea9b40cd52978eca0",
+    "published_at": "2026-10-22T21:17:14Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1509.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1509-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
+  },
+  {
     "id": "snapshot_0x9c71fe2878173e1549d7598633a5ebbda632730c9d76ff35c0dff79d23b4c30c",
     "title": "🏛️ [Verified Operators] Remove VO Status from Operators with No Validators and no History",
     "platform": "snapshot",
@@ -14,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0xb124c8e991df46fe4937975d7df9bed760bf1997c5175692891754a438dde970",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0xf020c87016ece01cb1a00ac077fa1e995487028ff86436c883ba8ca4d7bdc528",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0xf37ef5e7b05b3fc98dde25ccaae91af99a8f22518d41f54abcf8ef4f7a651aa1",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x5a9fdbff33b307508c14d0d0311d9772ed4ae9cc933933a2df45f71ccd888b46",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x8c597f7f83dc51a13f29f7fcd59b023d7b9a9b49bc2dafb0b1c09ed4ac731f70",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x7b4022df96a6f79e959dd1704c4db441ab467a0b8e2949c2cdbc61335a417eed",
@@ -116,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x4c6e7c430f65dba9828ba0511866f8913f75f1b77c297e901c8bf160bb2bcc4b",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x73b1b6450aefbcba0922ae39d1342ace9260a6a703f41723acd35fb6d1d6b3ca",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x8bc97325ffe0be3d580bb58fdce0a125f4bb5b04d90cf4dd72f288fce49ec0b4",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x597ad92deec54ca5a61f39aaa91bd7062d7ad5f9dc091d190569ea935d9e5f7e",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x5a13c5a348d1827a4952965061edeeb552062e6d5db8aea6755e1e36821ea52d",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x26980470ac5d75fe3bcadc383cfa48707dc6716c5d7ebe0f53d655fbade5f4f4",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x9c7e5b56c53343c19aef6ef8b3ad80d12e4a8b618c770de194d9da9d5840a7ab",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0xdcc7300ed228bb4f07e278fd530abe6bbc2011d69360d682660b0af571c1632b",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0xc6d51c886409c7dfd5c62efe09d17b317b296048c60525420edfe510adac9328",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   },
   {
     "id": "snapshot_0x6eaf47e9915bb74df494add1043379bfa12e22ba1cbd0c6443b67f2a7eeae8d1",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
-  },
-  {
-    "id": "snapshot_0x7de826d5c6e45cc24905968eebacabf3ed273611e9b7872d518a16faaf6a0834",
-    "title": "🏛️ [sdYB] Gauge vote YB - 29/10/2026 - 11/11/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x7de826d5c6e45cc24905968eebacabf3ed273611e9b7872d518a16faaf6a0834",
-    "published_at": "2026-10-22T02:00:00Z",
-    "engagement": 4,
-    "summary": "Gauge vote for YB inflation allocation.",
-    "tags": [
-      "governance",
-      "sd-yieldbasis.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
-  },
-  {
-    "id": "snapshot_0x85460b39557ea1931cebab701b1684a30007aea857ac6bf06a48a498f7a42ba8",
-    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 29/10/2026 - 11/11/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0x85460b39557ea1931cebab701b1684a30007aea857ac6bf06a48a498f7a42ba8",
-    "published_at": "2026-10-22T02:00:00Z",
-    "engagement": 121,
-    "summary": "Gauge vote for FXS inflation allocation.",
-    "tags": [
-      "governance",
-      "sdfxs.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
-  },
-  {
-    "id": "snapshot_0x9051b69e723ad7d585faa0bd05cb0647138fd6715ef27ea689d7fcda46fdfbc8",
-    "title": "🏛️ [Stake DAO CRV] Gauge vote CRV - 29/10/2026 - 11/11/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv.eth/proposal/0x9051b69e723ad7d585faa0bd05cb0647138fd6715ef27ea689d7fcda46fdfbc8",
-    "published_at": "2026-10-22T02:00:00Z",
-    "engagement": 707,
-    "summary": "Gauge vote for CRV inflation allocation.",
-    "tags": [
-      "governance",
-      "sdcrv.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T19:53:01.072569Z"
+    "fetched_at": "2026-10-22T23:08:27.284354Z"
   }
 ]
