@@ -1,5 +1,226 @@
 [
   {
+    "id": "snapshot_0xf37ef5e7b05b3fc98dde25ccaae91af99a8f22518d41f54abcf8ef4f7a651aa1",
+    "title": "🏛️ [Concentrator] [sdCRV] No title",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0xf37ef5e7b05b3fc98dde25ccaae91af99a8f22518d41f54abcf8ef4f7a651aa1",
+    "published_at": "2026-10-22T14:37:11Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1509-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x5a9fdbff33b307508c14d0d0311d9772ed4ae9cc933933a2df45f71ccd888b46",
+    "title": "🏛️ [sdCRV-Governance] No title",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x5a9fdbff33b307508c14d0d0311d9772ed4ae9cc933933a2df45f71ccd888b46",
+    "published_at": "2026-10-22T14:37:11Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1509-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x8c597f7f83dc51a13f29f7fcd59b023d7b9a9b49bc2dafb0b1c09ed4ac731f70",
+    "title": "🏛️ [sdYB] 60# Enable permissionless propAMM operation for yb-WETH market (10)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x8c597f7f83dc51a13f29f7fcd59b023d7b9a9b49bc2dafb0b1c09ed4ac731f70",
+    "published_at": "2026-10-22T12:13:23Z",
+    "engagement": 3,
+    "summary": "Research in [https://forum.yieldbasis.com/t/oracle-reports-for-yieldbasis-pools-a-new-price-scale-and-fee-policy-for-the-weth-market/40] describes the...",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x7b4022df96a6f79e959dd1704c4db441ab467a0b8e2949c2cdbc61335a417eed",
+    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1507",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x7b4022df96a6f79e959dd1704c4db441ab467a0b8e2949c2cdbc61335a417eed",
+    "published_at": "2026-10-22T11:25:59Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1507.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1507-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "aladdindao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x4c6e7c430f65dba9828ba0511866f8913f75f1b77c297e901c8bf160bb2bcc4b",
+    "title": "🏛️ [Concentrator] [sdCRV] Attach YBOraclizedPolicy (0xAEa95d551154443E73565bE724d59D63d72f8A7d)\nto the YieldBasis crvUSD/WETH pool. Set parameters according to [\nThe policy prices swaps off signed Pyth Pro ETH/USD reports. (fixed, replaces previous vot",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x4c6e7c430f65dba9828ba0511866f8913f75f1b77c297e901c8bf160bb2bcc4b",
+    "published_at": "2026-10-22T11:38:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1508-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x73b1b6450aefbcba0922ae39d1342ace9260a6a703f41723acd35fb6d1d6b3ca",
+    "title": "🏛️ [sdCRV-Governance] Attach YBOraclizedPolicy (0xAEa95d551154443E73565bE724d59D63d72f8A7d)\nto the YieldBasis crvUSD/WETH pool. Set parameters according to [\nThe policy prices swaps off signed Pyth Pro ETH/USD reports. (fixed, replaces previous vote)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x73b1b6450aefbcba0922ae39d1342ace9260a6a703f41723acd35fb6d1d6b3ca",
+    "published_at": "2026-10-22T11:38:35Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1508-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x8bc97325ffe0be3d580bb58fdce0a125f4bb5b04d90cf4dd72f288fce49ec0b4",
+    "title": "🏛️ [Concentrator] [sdCRV] Attach YBOraclizedPolicy (0xAEa95d551154443E73565bE724d59D63d72f8A7d)\nto the YieldBasis crvUSD/WETH pool. Set parameters according to [\nThe policy prices swaps off signed Pyth Pro ETH/USD reports.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x8bc97325ffe0be3d580bb58fdce0a125f4bb5b04d90cf4dd72f288fce49ec0b4",
+    "published_at": "2026-10-22T11:25:59Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1507-OWNERSHIP",
+    "tags": [
+      "governance",
+      "concentratordao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x597ad92deec54ca5a61f39aaa91bd7062d7ad5f9dc091d190569ea935d9e5f7e",
+    "title": "🏛️ [sdCRV-Governance] Attach YBOraclizedPolicy (0xAEa95d551154443E73565bE724d59D63d72f8A7d)\nto the YieldBasis crvUSD/WETH pool. Set parameters according to [\nThe policy prices swaps off signed Pyth Pro ETH/USD reports.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x597ad92deec54ca5a61f39aaa91bd7062d7ad5f9dc091d190569ea935d9e5f7e",
+    "published_at": "2026-10-22T11:25:59Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1507-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x5a13c5a348d1827a4952965061edeeb552062e6d5db8aea6755e1e36821ea52d",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1508",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x5a13c5a348d1827a4952965061edeeb552062e6d5db8aea6755e1e36821ea52d",
+    "published_at": "2026-10-22T11:38:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1508.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1508-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x26980470ac5d75fe3bcadc383cfa48707dc6716c5d7ebe0f53d655fbade5f4f4",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1507",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x26980470ac5d75fe3bcadc383cfa48707dc6716c5d7ebe0f53d655fbade5f4f4",
+    "published_at": "2026-10-22T11:25:59Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1507.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1507-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0x9c7e5b56c53343c19aef6ef8b3ad80d12e4a8b618c770de194d9da9d5840a7ab",
+    "title": "🏛️ [Settings rehearsal] Safe app dry run: vote from the test Safe through app.safe.global",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/testing-new-d-ignore-xyz-a.eth/proposal/0x9c7e5b56c53343c19aef6ef8b3ad80d12e4a8b618c770de194d9da9d5840a7ab",
+    "published_at": "2026-10-22T11:03:09Z",
+    "engagement": 3,
+    "summary": "Rehearsal round on the sandbox, see api3-dao-migration/snapshot/README.md. Posted by agent.",
+    "tags": [
+      "governance",
+      "testing-new-d-ignore-xyz-a.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0xdcc7300ed228bb4f07e278fd530abe6bbc2011d69360d682660b0af571c1632b",
+    "title": "🏛️ [Stake DAO] SDGP-80: Mandate to the Stake DAO Association to Engage a Curation Service Provider for the Curation Vertical",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/stakedao.eth/proposal/0xdcc7300ed228bb4f07e278fd530abe6bbc2011d69360d682660b0af571c1632b",
+    "published_at": "2026-10-22T11:00:00Z",
+    "engagement": 3,
+    "summary": "**Author:** Stake DAO Association \n**Category:** A — Stake DAO Governance Proposal (SDGP)\nPursuant to SDGP-66 Related proposals: SDGP-58 (Curation Ver...",
+    "tags": [
+      "governance",
+      "stakedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
+    "id": "snapshot_0xc6d51c886409c7dfd5c62efe09d17b317b296048c60525420edfe510adac9328",
+    "title": "🏛️ [ramo45.eth] ramo45.eth",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ramo45.eth/proposal/0xc6d51c886409c7dfd5c62efe09d17b317b296048c60525420edfe510adac9328",
+    "published_at": "2026-10-22T10:01:04Z",
+    "engagement": 1,
+    "summary": "",
+    "tags": [
+      "governance",
+      "ramo45.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
+  },
+  {
     "id": "snapshot_0x6eaf47e9915bb74df494add1043379bfa12e22ba1cbd0c6443b67f2a7eeae8d1",
     "title": "🏛️ [sdFXN] Gauge vote FXN - 29/10/2026 - 11/11/2026",
     "platform": "snapshot",
@@ -14,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
   },
   {
     "id": "snapshot_0x7de826d5c6e45cc24905968eebacabf3ed273611e9b7872d518a16faaf6a0834",
@@ -31,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
   },
   {
     "id": "snapshot_0x85460b39557ea1931cebab701b1684a30007aea857ac6bf06a48a498f7a42ba8",
@@ -48,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
   },
   {
     "id": "snapshot_0x9051b69e723ad7d585faa0bd05cb0647138fd6715ef27ea689d7fcda46fdfbc8",
@@ -65,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
   },
   {
     "id": "snapshot_0xbbadb404accf9dddd246f8942f51f7e3511b6145d57e62197f163380128b720b",
@@ -82,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
   },
   {
     "id": "snapshot_0xcac2bd8a536757364128a02a5a0aedaa35ed12e6638da36a3b283ffb3421ed7b",
@@ -99,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
   },
   {
     "id": "snapshot_0x5cf4b66bc3a0822485a502e2d2202d9323a6a6fc7a94e892678bdccb79b62574",
@@ -116,227 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x21f4d8b7252b9735140217402198a9dd6e44f4f6a1a7ccb737385467903b25c8",
-    "title": "🏛️ [XMAQUINA] BOT-15: Strategic Allocation in Skild AI",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/xmaquina.eth/proposal/0x21f4d8b7252b9735140217402198a9dd6e44f4f6a1a7ccb737385467903b25c8",
-    "published_at": "2026-10-21T14:14:57Z",
-    "engagement": 2,
-    "summary": "## **TLDR**\n\nA proposal to allocate up to 405,000 USDC from the DAO treasury to acquire equity exposure in Skild AI, one of the leading developers of ...",
-    "tags": [
-      "governance",
-      "xmaquina.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x473d0c7744575470b9ddeec08d9a57524fd55b8e5ba328c222b8afe567e815b1",
-    "title": "🏛️ [Beets Gauge Votes] Beets Sonic gauge vote (Round 47)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/beets-gauges.eth/proposal/0x473d0c7744575470b9ddeec08d9a57524fd55b8e5ba328c222b8afe567e815b1",
-    "published_at": "2026-10-22T08:00:00Z",
-    "engagement": 5,
-    "summary": "This vote decides the distribution of 300000 BEETS to gauge emissions for the period of October 28th 2026 to November 10th 2026.\n\nTo vote, distribute ...",
-    "tags": [
-      "governance",
-      "beets-gauges.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0xafc27c422eb838e701ff175ff5eeb65bff770066eb42dfb6bd9efd18bfbcc49a",
-    "title": "🏛️ [TCG-VAULT] Consultation indicative n° 1 : un Pikachu Van Gogh PSA 10 au Coffre Communautaire ?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/tcg-vault.eth/proposal/0xafc27c422eb838e701ff175ff5eeb65bff770066eb42dfb6bd9efd18bfbcc49a",
-    "published_at": "2026-10-21T10:13:34Z",
-    "engagement": 3,
-    "summary": "## La pièce\nPikachu Van Gogh, carte promotionnelle de la collaboration Pokémon × Van Gogh Museum (2023), gradée PSA 10. Une rencontre entre l'art et l...",
-    "tags": [
-      "governance",
-      "tcg-vault.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251",
-    "title": "🏛️ [PancakeSwap] The Flip: Liquidity Should Get Paid More, The Kitchen proposes raising the LP fee share to 88%",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cakevote.eth/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251",
-    "published_at": "2026-10-21T08:07:22Z",
-    "engagement": 2,
-    "summary": "![](https://i.imgur.com/oAri1Sw.png)\n## **TL;DR**\nThe Kitchen proposes raising the LP share of swap fees to 88% on PancakeSwap v3 and Infinity across ...",
-    "tags": [
-      "governance",
-      "cakevote.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x15a5a48ce5fb624455a7567e5774635057aa1aaeea8a8126edb36dc8cd4aa0c1",
-    "title": "🏛️ [Verified Operators] Test Voting Proposal",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vo.ssvnetwork.eth/proposal/0x15a5a48ce5fb624455a7567e5774635057aa1aaeea8a8126edb36dc8cd4aa0c1",
-    "published_at": "2026-10-21T06:48:34Z",
-    "engagement": 3,
-    "summary": "This is a test to see who can vote in this channel.\n\nIf you can vote here, vote Yes.\nIf not, try to vote No, and cope. Then message GBeast.",
-    "tags": [
-      "governance",
-      "vo.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x576549bc2d477d6c2c7fafbd66a2e8892e77a6db549e1cd9e14df3b37173014f",
-    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0x576549bc2d477d6c2c7fafbd66a2e8892e77a6db549e1cd9e14df3b37173014f",
-    "published_at": "2026-10-20T22:51:49Z",
-    "engagement": 1,
-    "summary": "• NO:stake Proceed with WLFI",
-    "tags": [
-      "governance",
-      "ramo4586.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x192b64f6a6f117029f8caa348579a8fab600ab8ff8ca1882f4c309ce17452c6e",
-    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0x192b64f6a6f117029f8caa348579a8fab600ab8ff8ca1882f4c309ce17452c6e",
-    "published_at": "2026-10-20T22:49:47Z",
-    "engagement": 1,
-    "summary": "• NO:stake Proceed with WLFI",
-    "tags": [
-      "governance",
-      "ramo4586.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x4cd3fe3ef6fa673cea8e2a96255fdc4f7b437a29599003ffff3a92f5c7fbbfcf",
-    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0x4cd3fe3ef6fa673cea8e2a96255fdc4f7b437a29599003ffff3a92f5c7fbbfcf",
-    "published_at": "2026-10-20T22:48:24Z",
-    "engagement": 1,
-    "summary": "• NO:stake Proceed with WLFI",
-    "tags": [
-      "governance",
-      "ramo4586.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x04846cc77f7aaa533ba01c62988a9f4114c297814c51dd1b5b0169d5587bf71e",
-    "title": "🏛️ [Exactly Protocol] [EXAIP-34] Enable Coinbase Tokenized Stocks as Collateral on Exactly Protocol (Base)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/gov.exa.eth/proposal/0x04846cc77f7aaa533ba01c62988a9f4114c297814c51dd1b5b0169d5587bf71e",
-    "published_at": "2026-10-21T16:09:52Z",
-    "engagement": 3,
-    "summary": "Proposal ID: EXAIP-34\nProposer: Exa Labs\nDate: October 20, 2026\n\n**Summary**\nThis proposal lists five Coinbase Tokenized Stocks as collateral on the K...",
-    "tags": [
-      "governance",
-      "gov.exa.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0xc5500cbf31bf601172a477fb04ff558069ed915af7aa63f491aa88a214e62099",
-    "title": "🏛️ [Beets] BIP-118: Treasury Funding for Beets DAO Contributors (October 2026 – March 2027)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/beets.eth/proposal/0xc5500cbf31bf601172a477fb04ff558069ed915af7aa63f491aa88a214e62099",
-    "published_at": "2026-10-20T10:31:00Z",
-    "engagement": 3,
-    "summary": "## Intro\n\nThis proposal requests six months of treasury funding for Beets DAO contributors, from October 2026 to March 2027.\n\nDue to continued uncerta...",
-    "tags": [
-      "governance",
-      "beets.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x16988c756b6cae1312ca25b1de886a47ea30effae814ff9af2fa4639326373f9",
-    "title": "🏛️ [Beets] BIP-117: Infrastructure Funding Extension and Cap Adjustment (October 2026 – March 2027)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/beets.eth/proposal/0x16988c756b6cae1312ca25b1de886a47ea30effae814ff9af2fa4639326373f9",
-    "published_at": "2026-10-20T10:30:00Z",
-    "engagement": 3,
-    "summary": "## Intro\n\nThis proposal seeks to extend the existing infrastructure funding model for the beets.fi platform for an additional six-month period, from O...",
-    "tags": [
-      "governance",
-      "beets.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x8d58b2adeea86e86b5d204f5d5c90534fc5a5e71bca9efdf7b5912ce0888630f",
-    "title": "🏛️ [Aave DAO] [ARFC] SVR Expansion: Next Phase of Multi-Network",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0x8d58b2adeea86e86b5d204f5d5c90534fc5a5e71bca9efdf7b5912ce0888630f",
-    "published_at": "2026-10-21T08:59:34Z",
-    "engagement": 3,
-    "summary": "---\n\ntitle: [ARFC] SVR Expansion: Next Phase of Multi-Network Expansion\nauthor: @TokenLogic\ncreated: 2026-07-16\n\n---\n# Summary\n\nThis analysis evaluate...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
-  },
-  {
-    "id": "snapshot_0x15332de1a7672475ca79821f5757c31f801aba6b1eddd8829da04adbf4960fc9",
-    "title": "🏛️ [ramo4586.eth] • NO:stake Proceed with WLFI",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ramo4586.eth/proposal/0x15332de1a7672475ca79821f5757c31f801aba6b1eddd8829da04adbf4960fc9",
-    "published_at": "2026-10-19T20:40:54Z",
-    "engagement": 1,
-    "summary": "• NO:stake Proceed with WLFI",
-    "tags": [
-      "governance",
-      "ramo4586.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-22T09:57:02.867927Z"
+    "fetched_at": "2026-10-22T15:02:47.906360Z"
   }
 ]
