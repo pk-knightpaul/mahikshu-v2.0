@@ -1,5 +1,73 @@
 [
   {
+    "id": "snapshot_0x6eaf47e9915bb74df494add1043379bfa12e22ba1cbd0c6443b67f2a7eeae8d1",
+    "title": "🏛️ [sdFXN] Gauge vote FXN - 29/10/2026 - 11/11/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxn.eth/proposal/0x6eaf47e9915bb74df494add1043379bfa12e22ba1cbd0c6443b67f2a7eeae8d1",
+    "published_at": "2026-10-22T02:00:00Z",
+    "engagement": 36,
+    "summary": "Gauge vote for FXN inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxn.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
+  },
+  {
+    "id": "snapshot_0x7de826d5c6e45cc24905968eebacabf3ed273611e9b7872d518a16faaf6a0834",
+    "title": "🏛️ [sdYB] Gauge vote YB - 29/10/2026 - 11/11/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x7de826d5c6e45cc24905968eebacabf3ed273611e9b7872d518a16faaf6a0834",
+    "published_at": "2026-10-22T02:00:00Z",
+    "engagement": 4,
+    "summary": "Gauge vote for YB inflation allocation.",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
+  },
+  {
+    "id": "snapshot_0x85460b39557ea1931cebab701b1684a30007aea857ac6bf06a48a498f7a42ba8",
+    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 29/10/2026 - 11/11/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0x85460b39557ea1931cebab701b1684a30007aea857ac6bf06a48a498f7a42ba8",
+    "published_at": "2026-10-22T02:00:00Z",
+    "engagement": 121,
+    "summary": "Gauge vote for FXS inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxs.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
+  },
+  {
+    "id": "snapshot_0x9051b69e723ad7d585faa0bd05cb0647138fd6715ef27ea689d7fcda46fdfbc8",
+    "title": "🏛️ [Stake DAO CRV] Gauge vote CRV - 29/10/2026 - 11/11/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv.eth/proposal/0x9051b69e723ad7d585faa0bd05cb0647138fd6715ef27ea689d7fcda46fdfbc8",
+    "published_at": "2026-10-22T02:00:00Z",
+    "engagement": 707,
+    "summary": "Gauge vote for CRV inflation allocation.",
+    "tags": [
+      "governance",
+      "sdcrv.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
+  },
+  {
     "id": "snapshot_0xbbadb404accf9dddd246f8942f51f7e3511b6145d57e62197f163380128b720b",
     "title": "🏛️ [ENS] [7.2] [Social] Funding Request: ENS Meta-Governance Working Group Term 7 (Oct. Window)",
     "platform": "snapshot",
@@ -14,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0xcac2bd8a536757364128a02a5a0aedaa35ed12e6638da36a3b283ffb3421ed7b",
@@ -31,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x5cf4b66bc3a0822485a502e2d2202d9323a6a6fc7a94e892678bdccb79b62574",
@@ -48,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x21f4d8b7252b9735140217402198a9dd6e44f4f6a1a7ccb737385467903b25c8",
@@ -65,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0xafc27c422eb838e701ff175ff5eeb65bff770066eb42dfb6bd9efd18bfbcc49a",
@@ -82,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251",
@@ -99,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x15a5a48ce5fb624455a7567e5774635057aa1aaeea8a8126edb36dc8cd4aa0c1",
@@ -116,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x576549bc2d477d6c2c7fafbd66a2e8892e77a6db549e1cd9e14df3b37173014f",
@@ -133,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x192b64f6a6f117029f8caa348579a8fab600ab8ff8ca1882f4c309ce17452c6e",
@@ -150,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x4cd3fe3ef6fa673cea8e2a96255fdc4f7b437a29599003ffff3a92f5c7fbbfcf",
@@ -167,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x04846cc77f7aaa533ba01c62988a9f4114c297814c51dd1b5b0169d5587bf71e",
@@ -184,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0xc5500cbf31bf601172a477fb04ff558069ed915af7aa63f491aa88a214e62099",
@@ -201,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x16988c756b6cae1312ca25b1de886a47ea30effae814ff9af2fa4639326373f9",
@@ -218,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x8d58b2adeea86e86b5d204f5d5c90534fc5a5e71bca9efdf7b5912ce0888630f",
@@ -235,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x15332de1a7672475ca79821f5757c31f801aba6b1eddd8829da04adbf4960fc9",
@@ -252,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   },
   {
     "id": "snapshot_0x4762a078a6030ebc5c443b4c5ef10d1fbd850a6fbfbba64f297ffdabf3bc1dcc",
@@ -269,74 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
-  },
-  {
-    "id": "snapshot_0xf987dd5aed6586169b232af7691e2cbb268cf61e2845bf6a04a83b60a5404bd8",
-    "title": "🏛️ [Aave DAO] [ARFC] Onboard PAXGy to Aave V4 Global Dollar Hub",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0xf987dd5aed6586169b232af7691e2cbb268cf61e2845bf6a04a83b60a5404bd8",
-    "published_at": "2026-10-20T18:24:58Z",
-    "engagement": 3,
-    "summary": "**Title:** [ARFC] Onboard PAXGy to Aave V4 Global Dollar Hub \n**Author:** AaveLabs \n**Date:** 2026-10-19\n\n***\n\n## Summary\n\nThis proposal seeks to onbo...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
-  },
-  {
-    "id": "snapshot_0x57f7165c963b567041421053520a2d3cb9474873eebe3f51876d4027dda94674",
-    "title": "🏛️ [Yearn Builder Collective] Vyper Compiler Development and Verification",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ybc.styfi.eth/proposal/0x57f7165c963b567041421053520a2d3cb9474873eebe3f51876d4027dda94674",
-    "published_at": "2026-10-19T17:46:06Z",
-    "engagement": 3,
-    "summary": "Approve a one-time payment of $100.000 from the discretionary fund for Vyper compiler development and verification?",
-    "tags": [
-      "governance",
-      "ybc.styfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
-  },
-  {
-    "id": "snapshot_0x1e370169aa44ca8cddac591401f47b440e6aa71fc84386c6a1aff8e8424c1673",
-    "title": "🏛️ [Yearn Builder Collective] trace-interop: cross-client trace API standardization",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ybc.styfi.eth/proposal/0x1e370169aa44ca8cddac591401f47b440e6aa71fc84386c6a1aff8e8424c1673",
-    "published_at": "2026-10-19T17:38:23Z",
-    "engagement": 3,
-    "summary": "Approve a one-time payment of $10.000 from the discretionary fund to banteg for cross-client trace API standardization?",
-    "tags": [
-      "governance",
-      "ybc.styfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
-  },
-  {
-    "id": "snapshot_0x41bb0aa96e451bbe44ebbd3bb948540c911bbd39ce123e41c5901a532f94d9c7",
-    "title": "🏛️ [Spark] SAEP-24: Update Risk Curation Framework",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x41bb0aa96e451bbe44ebbd3bb948540c911bbd39ce123e41c5901a532f94d9c7",
-    "published_at": "2026-10-19T16:16:44Z",
-    "engagement": 3,
-    "summary": "# SAEP-24: Update Risk Curation Framework - October 19, 2026\n\nSpark's Operational Facilitator has placed a proposal into the voting system on behalf o...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-21T23:13:07.364932Z"
+    "fetched_at": "2026-10-22T04:12:56.930827Z"
   }
 ]
