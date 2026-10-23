@@ -1,5 +1,107 @@
 [
   {
+    "id": "snapshot_0x000f815d5a8dcb2d0c566f2b07c71ad9dabf8438cbeb7a6781c320a4e2bd9766",
+    "title": "🏛️ [Stake DAO BAL] [BIP-935] Claim leftover AAVE rewards",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdbal.eth/proposal/0x000f815d5a8dcb2d0c566f2b07c71ad9dabf8438cbeb7a6781c320a4e2bd9766",
+    "published_at": "2026-10-23T18:00:00Z",
+    "engagement": 3,
+    "summary": "## TL;DR\n\nThe DAO multisig still has approximately 9.3061 AAVE available to claim from its former stkAAVE position. These rewards appear to have remai...",
+    "tags": [
+      "governance",
+      "sdbal.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
+  },
+  {
+    "id": "snapshot_0xea359a5e8780a46442f2f3dfd9fd39f96ff12ca05b6d426e6259f12ade48e5bf",
+    "title": "🏛️ [Stake DAO BAL] [BIP-934] Burn the 10M BEETS held by the Balancer DAO on Sonic",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdbal.eth/proposal/0xea359a5e8780a46442f2f3dfd9fd39f96ff12ca05b6d426e6259f12ade48e5bf",
+    "published_at": "2026-10-23T18:00:00Z",
+    "engagement": 3,
+    "summary": "## **TL;DR**\n\nThe Balancer DAO holds 10,000,000 BEETS on Sonic, worth roughly $39k, under half a percent of the treasury. BIP-928 consolidates smaller...",
+    "tags": [
+      "governance",
+      "sdbal.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
+  },
+  {
+    "id": "snapshot_0xb8f7b68e0eb483b760d8a566739ba535fc1e16313e954960a4e740092a729954",
+    "title": "🏛️ [Stake DAO BAL] [BIP-936] Onchain Wind-down of Protocol: Specs",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdbal.eth/proposal/0xb8f7b68e0eb483b760d8a566739ba535fc1e16313e954960a4e740092a729954",
+    "published_at": "2026-10-23T18:00:00Z",
+    "engagement": 3,
+    "summary": "The following specifications are for Ethereum, since that is the only chain that requires governance approval for these actions. On all other chains, ...",
+    "tags": [
+      "governance",
+      "sdbal.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
+  },
+  {
+    "id": "snapshot_0x47126e7bd8e02a63ee7022e32c01ec2884a4443c770b9533621391b001663563",
+    "title": "🏛️ [Balancer] [BIP-936] Onchain Wind-down of Protocol: Specs",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/balancer.eth/proposal/0x47126e7bd8e02a63ee7022e32c01ec2884a4443c770b9533621391b001663563",
+    "published_at": "2026-10-23T18:00:00Z",
+    "engagement": 3,
+    "summary": "The following specifications are for Ethereum, since that is the only chain that requires governance approval for these actions. On all other chains, ...",
+    "tags": [
+      "governance",
+      "balancer.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
+  },
+  {
+    "id": "snapshot_0xbf8b6055dcc089ff8a0ac5c1b48ef1e57be44169c503835c1f3d8e3805035d29",
+    "title": "🏛️ [Balancer] [BIP-935] Claim leftover AAVE rewards",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/balancer.eth/proposal/0xbf8b6055dcc089ff8a0ac5c1b48ef1e57be44169c503835c1f3d8e3805035d29",
+    "published_at": "2026-10-23T18:00:00Z",
+    "engagement": 3,
+    "summary": "## TL;DR\n\nThe DAO multisig still has approximately 9.3061 AAVE available to claim from its former stkAAVE position. These rewards appear to have remai...",
+    "tags": [
+      "governance",
+      "balancer.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
+  },
+  {
+    "id": "snapshot_0xa5d326424f026ada8b589e662898998fd14a83256ac679ef3dacac05e91384ee",
+    "title": "🏛️ [Balancer] [BIP-934] Burn the 10M BEETS held by the Balancer DAO on Sonic",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/balancer.eth/proposal/0xa5d326424f026ada8b589e662898998fd14a83256ac679ef3dacac05e91384ee",
+    "published_at": "2026-10-23T18:00:00Z",
+    "engagement": 3,
+    "summary": "## **TL;DR**\n\nThe Balancer DAO holds 10,000,000 BEETS on Sonic, worth roughly $39k, under half a percent of the treasury. BIP-928 consolidates smaller...",
+    "tags": [
+      "governance",
+      "balancer.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
+  },
+  {
     "id": "snapshot_0x35eb8ea766b0f6ecb629347ae0ccca4992abc743dfca8b6142456e95f1dba8f6",
     "title": "🏛️ [sdYB] 61# Add a migrator into markets with LT-gated pools",
     "platform": "snapshot",
@@ -14,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0xbb2e294c77be75dbd46138765dfb06d2d9ce5ab580c3e5b2d01937af4de0eabb",
@@ -31,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0x65691947fad034f160c9a5a9eb9fb8db8215fcf4d96d284f853ec6466dd1e50c",
@@ -48,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0x8d204f0c5ee64d3b48b08d31034c00bb6686ba3b66051e6d2eefb668ea891b9e",
@@ -65,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0xde930cf4d119d1c178f82d8b50c41bdcd720ac9c9342625c0fa09c4debc712aa",
@@ -82,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0x2fec4391b2d5442e5a3f5999fbdecd162c000ae63d8b93a5b46c9e9bf876b444",
@@ -99,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0x0b38a8fb1ecc5184631f8f2098d703b1bc8e912dd209ae06f987e6aa310922f2",
@@ -116,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0xdd442218ea6f9e824aaf8da16fef057163fa6c3d1139188ea9b40cd52978eca0",
@@ -133,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0x9c71fe2878173e1549d7598633a5ebbda632730c9d76ff35c0dff79d23b4c30c",
@@ -150,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0xb124c8e991df46fe4937975d7df9bed760bf1997c5175692891754a438dde970",
@@ -167,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0xf020c87016ece01cb1a00ac077fa1e995487028ff86436c883ba8ca4d7bdc528",
@@ -184,7 +286,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
+  },
+  {
+    "id": "snapshot_0xdbf52c6d05122bc161b68f1fbc067050753cbe17559fa8daead55cb6e91a4faf",
+    "title": "🏛️ [Aave DAO] [ARFC] Onboard mWIN (Midas / Wellington Management) to Aave Horizon",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aavedao.eth/proposal/0xdbf52c6d05122bc161b68f1fbc067050753cbe17559fa8daead55cb6e91a4faf",
+    "published_at": "2026-10-23T15:28:15Z",
+    "engagement": 3,
+    "summary": "**Title:** [ARFC] Onboard mWIN (Midas / Wellington Management) to Aave Horizon\n**Author:** AaveLabs\n**Date:** 2026-10-22\n\n***\n\n## Summary\n\nThis ARFC p...",
+    "tags": [
+      "governance",
+      "aavedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0xf37ef5e7b05b3fc98dde25ccaae91af99a8f22518d41f54abcf8ef4f7a651aa1",
@@ -201,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   },
   {
     "id": "snapshot_0x5a9fdbff33b307508c14d0d0311d9772ed4ae9cc933933a2df45f71ccd888b46",
@@ -218,125 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
-  },
-  {
-    "id": "snapshot_0x8c597f7f83dc51a13f29f7fcd59b023d7b9a9b49bc2dafb0b1c09ed4ac731f70",
-    "title": "🏛️ [sdYB] 60# Enable permissionless propAMM operation for yb-WETH market (10)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x8c597f7f83dc51a13f29f7fcd59b023d7b9a9b49bc2dafb0b1c09ed4ac731f70",
-    "published_at": "2026-10-22T12:13:23Z",
-    "engagement": 3,
-    "summary": "Research in [https://forum.yieldbasis.com/t/oracle-reports-for-yieldbasis-pools-a-new-price-scale-and-fee-policy-for-the-weth-market/40] describes the...",
-    "tags": [
-      "governance",
-      "sd-yieldbasis.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
-  },
-  {
-    "id": "snapshot_0x7b4022df96a6f79e959dd1704c4db441ab467a0b8e2949c2cdbc61335a417eed",
-    "title": "🏛️ [AladdinDAO] [Curve] Ownership DAO Vote ID: 1507",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aladdindao.eth/proposal/0x7b4022df96a6f79e959dd1704c4db441ab467a0b8e2949c2cdbc61335a417eed",
-    "published_at": "2026-10-22T11:25:59Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1507.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1507-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "aladdindao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
-  },
-  {
-    "id": "snapshot_0x4c6e7c430f65dba9828ba0511866f8913f75f1b77c297e901c8bf160bb2bcc4b",
-    "title": "🏛️ [Concentrator] [sdCRV] Attach YBOraclizedPolicy (0xAEa95d551154443E73565bE724d59D63d72f8A7d)\nto the YieldBasis crvUSD/WETH pool. Set parameters according to [\nThe policy prices swaps off signed Pyth Pro ETH/USD reports. (fixed, replaces previous vot",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x4c6e7c430f65dba9828ba0511866f8913f75f1b77c297e901c8bf160bb2bcc4b",
-    "published_at": "2026-10-22T11:38:35Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1508-OWNERSHIP",
-    "tags": [
-      "governance",
-      "concentratordao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
-  },
-  {
-    "id": "snapshot_0x73b1b6450aefbcba0922ae39d1342ace9260a6a703f41723acd35fb6d1d6b3ca",
-    "title": "🏛️ [sdCRV-Governance] Attach YBOraclizedPolicy (0xAEa95d551154443E73565bE724d59D63d72f8A7d)\nto the YieldBasis crvUSD/WETH pool. Set parameters according to [\nThe policy prices swaps off signed Pyth Pro ETH/USD reports. (fixed, replaces previous vote)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x73b1b6450aefbcba0922ae39d1342ace9260a6a703f41723acd35fb6d1d6b3ca",
-    "published_at": "2026-10-22T11:38:35Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1508-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
-  },
-  {
-    "id": "snapshot_0x8bc97325ffe0be3d580bb58fdce0a125f4bb5b04d90cf4dd72f288fce49ec0b4",
-    "title": "🏛️ [Concentrator] [sdCRV] Attach YBOraclizedPolicy (0xAEa95d551154443E73565bE724d59D63d72f8A7d)\nto the YieldBasis crvUSD/WETH pool. Set parameters according to [\nThe policy prices swaps off signed Pyth Pro ETH/USD reports.",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/concentratordao.eth/proposal/0x8bc97325ffe0be3d580bb58fdce0a125f4bb5b04d90cf4dd72f288fce49ec0b4",
-    "published_at": "2026-10-22T11:25:59Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% asdCRV \n\n View more on https://curve.finance/dao/#/ethereum/proposals/1507-OWNERSHIP",
-    "tags": [
-      "governance",
-      "concentratordao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
-  },
-  {
-    "id": "snapshot_0x597ad92deec54ca5a61f39aaa91bd7062d7ad5f9dc091d190569ea935d9e5f7e",
-    "title": "🏛️ [sdCRV-Governance] Attach YBOraclizedPolicy (0xAEa95d551154443E73565bE724d59D63d72f8A7d)\nto the YieldBasis crvUSD/WETH pool. Set parameters according to [\nThe policy prices swaps off signed Pyth Pro ETH/USD reports.",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x597ad92deec54ca5a61f39aaa91bd7062d7ad5f9dc091d190569ea935d9e5f7e",
-    "published_at": "2026-10-22T11:25:59Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1507-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
-  },
-  {
-    "id": "snapshot_0x5a13c5a348d1827a4952965061edeeb552062e6d5db8aea6755e1e36821ea52d",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1508",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0x5a13c5a348d1827a4952965061edeeb552062e6d5db8aea6755e1e36821ea52d",
-    "published_at": "2026-10-22T11:38:35Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1508.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1508-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-23T14:49:40.894711Z"
+    "fetched_at": "2026-10-23T19:00:06.827029Z"
   }
 ]
