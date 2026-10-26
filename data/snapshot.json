@@ -1,5 +1,243 @@
 [
   {
+    "id": "snapshot_0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0",
+    "title": "🏛️ [ENS] [Social] [7.3] Select OpenZeppelin to audit Governor Nexus",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/ens.eth/proposal/0x1d606135097ceeee752498b265486cd966a73a44ed4af13eaf48d6cb96a7a0e0",
+    "published_at": "2026-10-26T17:37:05Z",
+    "engagement": 3,
+    "summary": "*TL;DR:* Governor Nexus is implemented and needs an external audit before any deployment proposal. We propose OpenZeppelin as the auditor. If this vot...",
+    "tags": [
+      "governance",
+      "ens.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0x4b9bd55a022ad8b885b7179f6091a34adfd622355cb5b79551c40851683c247a",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following pool: USDte/USDT -",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x4b9bd55a022ad8b885b7179f6091a34adfd622355cb5b79551c40851683c247a",
+    "published_at": "2026-10-26T16:24:16Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1513-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0xb74887a3c9d89ce3d72b97b8e10f1e2ee4588115e65755e09b3117c9e31a6ce0",
+    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Onboard the Uniswap v4 OUSD/USDS pool",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xb74887a3c9d89ce3d72b97b8e10f1e2ee4588115e65755e09b3117c9e31a6ce0",
+    "published_at": "2026-10-26T16:17:40Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Spark Liquidity Layer - Onboard the Uniswap v4 OUSD/USDS pool - October 26, 2026\n\nSpark's Operational Facilitator has placed a proposal i...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0xc6a1c36f7eace938d1b2d8112e62a7e02a0357ad35ef1b7c1b4503f36a4349b1",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1513",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xc6a1c36f7eace938d1b2d8112e62a7e02a0357ad35ef1b7c1b4503f36a4349b1",
+    "published_at": "2026-10-26T16:17:27Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1513.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1513-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0x49ea98e37b49e441c62a5747225794d7351624af28e7ab3a52d18ededde95263",
+    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Onboard OUSD mint and redeem",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x49ea98e37b49e441c62a5747225794d7351624af28e7ab3a52d18ededde95263",
+    "published_at": "2026-10-26T16:15:34Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Spark Liquidity Layer - Onboard OUSD mint and redeem - October 26, 2026\n\nSpark's Operational Facilitator has placed a proposal into the v...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0xa813ec78cae204f323f891b6dccdba89a6a74fb76cb612a63cd96d5332efacdb",
+    "title": "🏛️ [Grove] [Ethereum] Grove x Steakhouse USDC Morpho Vault v2 - Raise the deposit rate limit",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0xa813ec78cae204f323f891b6dccdba89a6a74fb76cb612a63cd96d5332efacdb",
+    "published_at": "2026-10-26T16:14:49Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Grove x Steakhouse USDC Morpho Vault v2 - Raise the deposit rate limit - October 26, 2026\n\nGrove's Operational Facilitator has placed a p...",
+    "tags": [
+      "governance",
+      "grovefinance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0xa0cf2d0ad428858797853eb9b015bf921e2f53a07b96aaa4de4bf28e84653298",
+    "title": "🏛️ [Spark] [Base] Spark Liquidity Layer - Activate Diamond PAU with CCTP V2 Facet, Set PAS as Admin, and Transfer Beacon Admin to Sky",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xa0cf2d0ad428858797853eb9b015bf921e2f53a07b96aaa4de4bf28e84653298",
+    "published_at": "2026-10-26T16:12:41Z",
+    "engagement": 3,
+    "summary": "# [Base] Spark Liquidity Layer - Activate Diamond PAU with CCTP V2 Facet, Set PAS as Admin, and Transfer Beacon Admin to Sky - October 26, 2026\n\nSpark...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0x5da7eb8f4101223ff240384be3cbde658b385af1f097575c761ad5839ff8c1a0",
+    "title": "🏛️ [Grove] [Base] Grove x Steakhouse USDC Morpho Vault V2 - Raise the deposit rate limit",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0x5da7eb8f4101223ff240384be3cbde658b385af1f097575c761ad5839ff8c1a0",
+    "published_at": "2026-10-26T16:12:35Z",
+    "engagement": 3,
+    "summary": "# [Base] Grove x Steakhouse USDC Morpho Vault V2 - Raise the deposit rate limit - October 26, 2026\n\nGrove's Operational Facilitator has placed a propo...",
+    "tags": [
+      "governance",
+      "grovefinance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0x0e9751a170c803a76263b48bd61c70fa5b10096eb21b5e29a6dd37b3bfd38a8d",
+    "title": "🏛️ [sdCRV-Governance] Set callback 0x327A74BAF6cCB199d07642DCdfB4128f131c98ee on reusdsfrx/crvUSD LLV2 market controller 0x4922995d8CbF9e1f368B2EE521bD2fa2F49eADb1 via the Configurator (0x6065858d0eF0AA240DFdf6f1A0B2ae34B41f49bC), and add gauge 0x327A74BAF6cCB199d07642DCdfB4...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x0e9751a170c803a76263b48bd61c70fa5b10096eb21b5e29a6dd37b3bfd38a8d",
+    "published_at": "2026-10-26T15:23:36Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1512-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0x96949810baa87fa0d53f6dc7d5dbe271a70e00e727a0a65545222e5161006222",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1512",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x96949810baa87fa0d53f6dc7d5dbe271a70e00e727a0a65545222e5161006222",
+    "published_at": "2026-10-26T15:17:33Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1512.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1512-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0x8f4f3223518f62e320942d65cdbf0ad83ad195e9545da82d72aa4fdda977003c",
+    "title": "🏛️ [Stake DAO] SDGP-81: Retire legacy Stake DAO products",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/stakedao.eth/proposal/0x8f4f3223518f62e320942d65cdbf0ad83ad195e9545da82d72aa4fdda977003c",
+    "published_at": "2026-10-26T15:30:00Z",
+    "engagement": 3,
+    "summary": "**Date:** Oct 21, 2026  \n**Author:** Stake DAO Association\n\n## Summary\n\nStake DAO proposes to officially shut down 16 legacy products (187 contracts o...",
+    "tags": [
+      "governance",
+      "stakedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0x15f512b917806a9b1de50976f1c4303910138f9ea3e3c06ff9aa07d54daaf891",
+    "title": "🏛️ [Parallel] PIP-72 l DAO Multisig Election 9",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/parallel-protocol.eth/proposal/0x15f512b917806a9b1de50976f1c4303910138f9ea3e3c06ff9aa07d54daaf891",
+    "published_at": "2026-10-26T15:00:00Z",
+    "engagement": 9,
+    "summary": "**Summary:**\n\nThe proposal aims to elect 6 signers for a 12 months period that will manage the DAO multisigs, including proposals execution, treasury ...",
+    "tags": [
+      "governance",
+      "parallel-protocol.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0x44c5f4dbfef8c22d5bf3ead86d68f25909ad3626e024e3b980b3f63049b3b838",
+    "title": "🏛️ [Parallel] PGP-46 l Renew Octav for DAO Treasury Tracking",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/parallel-protocol.eth/proposal/0x44c5f4dbfef8c22d5bf3ead86d68f25909ad3626e024e3b980b3f63049b3b838",
+    "published_at": "2026-10-26T15:00:00Z",
+    "engagement": 3,
+    "summary": "Summary:\n\nThis proposal aims to renew Octav’s tooling for treasury management, accounting, and transparency reporting.\n\nRationale:\n\nTwo years ago we p...",
+    "tags": [
+      "governance",
+      "parallel-protocol.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
+    "id": "snapshot_0xe12f55712224ca66ce551dcd7a8493e176f1555a79b5b3a8c4217ab0d6956dd8",
+    "title": "🏛️ [Parallel] PIP-71 | Sunset USDp and the Bridging Module on 10 Chains",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/parallel-protocol.eth/proposal/0xe12f55712224ca66ce551dcd7a8493e176f1555a79b5b3a8c4217ab0d6956dd8",
+    "published_at": "2026-10-26T15:00:00Z",
+    "engagement": 3,
+    "summary": "Summary:\n\nThis proposal sunsets USDp and the USDp Bridging Module on 10 chains where the protocol has no meaningful usage: Scroll, Gnosis, Sei, Berach...",
+    "tags": [
+      "governance",
+      "parallel-protocol.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
+  },
+  {
     "id": "snapshot_0x407f36297a80604b27881ced7fd3cab77f7207129c044412141550d2b9e082cd",
     "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1511",
     "platform": "snapshot",
@@ -14,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
   },
   {
     "id": "snapshot_0xa47a839a21045fc49c8c16c91265075bfddc23be771391f2d621ce0102d8608f",
@@ -31,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
   },
   {
     "id": "snapshot_0xf6f748ff4b4489d202983d8cc4437208adb6064cc8a4131fbd447eb92e00c155",
@@ -48,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
   },
   {
     "id": "snapshot_0x74a70f0cf0e5ef17a65c9ee16ee52b51913b2a948be35b7950f07d6c18c531b1",
@@ -65,58 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0x000f815d5a8dcb2d0c566f2b07c71ad9dabf8438cbeb7a6781c320a4e2bd9766",
-    "title": "🏛️ [Stake DAO BAL] [BIP-935] Claim leftover AAVE rewards",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdbal.eth/proposal/0x000f815d5a8dcb2d0c566f2b07c71ad9dabf8438cbeb7a6781c320a4e2bd9766",
-    "published_at": "2026-10-23T18:00:00Z",
-    "engagement": 3,
-    "summary": "## TL;DR\n\nThe DAO multisig still has approximately 9.3061 AAVE available to claim from its former stkAAVE position. These rewards appear to have remai...",
-    "tags": [
-      "governance",
-      "sdbal.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0xea359a5e8780a46442f2f3dfd9fd39f96ff12ca05b6d426e6259f12ade48e5bf",
-    "title": "🏛️ [Stake DAO BAL] [BIP-934] Burn the 10M BEETS held by the Balancer DAO on Sonic",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdbal.eth/proposal/0xea359a5e8780a46442f2f3dfd9fd39f96ff12ca05b6d426e6259f12ade48e5bf",
-    "published_at": "2026-10-23T18:00:00Z",
-    "engagement": 3,
-    "summary": "## **TL;DR**\n\nThe Balancer DAO holds 10,000,000 BEETS on Sonic, worth roughly $39k, under half a percent of the treasury. BIP-928 consolidates smaller...",
-    "tags": [
-      "governance",
-      "sdbal.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0xb8f7b68e0eb483b760d8a566739ba535fc1e16313e954960a4e740092a729954",
-    "title": "🏛️ [Stake DAO BAL] [BIP-936] Onchain Wind-down of Protocol: Specs",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdbal.eth/proposal/0xb8f7b68e0eb483b760d8a566739ba535fc1e16313e954960a4e740092a729954",
-    "published_at": "2026-10-23T18:00:00Z",
-    "engagement": 3,
-    "summary": "The following specifications are for Ethereum, since that is the only chain that requires governance approval for these actions. On all other chains, ...",
-    "tags": [
-      "governance",
-      "sdbal.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
   },
   {
     "id": "snapshot_0x47126e7bd8e02a63ee7022e32c01ec2884a4443c770b9533621391b001663563",
@@ -133,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
   },
   {
     "id": "snapshot_0xbf8b6055dcc089ff8a0ac5c1b48ef1e57be44169c503835c1f3d8e3805035d29",
@@ -150,193 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0xa5d326424f026ada8b589e662898998fd14a83256ac679ef3dacac05e91384ee",
-    "title": "🏛️ [Balancer] [BIP-934] Burn the 10M BEETS held by the Balancer DAO on Sonic",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/balancer.eth/proposal/0xa5d326424f026ada8b589e662898998fd14a83256ac679ef3dacac05e91384ee",
-    "published_at": "2026-10-23T18:00:00Z",
-    "engagement": 3,
-    "summary": "## **TL;DR**\n\nThe Balancer DAO holds 10,000,000 BEETS on Sonic, worth roughly $39k, under half a percent of the treasury. BIP-928 consolidates smaller...",
-    "tags": [
-      "governance",
-      "balancer.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0x8d204f0c5ee64d3b48b08d31034c00bb6686ba3b66051e6d2eefb668ea891b9e",
-    "title": "🏛️ [BiohackerDAO] 2026 Q3 Update & Roadmap",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/biohackerdao.eth/proposal/0x8d204f0c5ee64d3b48b08d31034c00bb6686ba3b66051e6d2eefb668ea891b9e",
-    "published_at": "2026-10-23T07:19:26Z",
-    "engagement": 3,
-    "summary": "Attached is the quarterly milestones, P&L update, and roadmap, as per BIOHACK-7.\n\nYou can now vote to validate or oppose it.\n\nSee the full proposal he...",
-    "tags": [
-      "governance",
-      "biohackerdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0xedfb79702502fc3176cf936d6dce7f6e67d82b4860b74e3f946ae4f3663706a6",
-    "title": "🏛️ [Cratos] CIP-46 With respect to the current reward standard, should we consider extending the deadline to November 30th, 2026?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cratos.eth/proposal/0xedfb79702502fc3176cf936d6dce7f6e67d82b4860b74e3f946ae4f3663706a6",
-    "published_at": "2026-10-26T06:08:00Z",
-    "engagement": 3,
-    "summary": "I would like to express my gratitude for your support and involvement in the DAO.\n\nPreviously, proposal CIP-45 was approved, which extended the daily ...",
-    "tags": [
-      "governance",
-      "cratos.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0xde930cf4d119d1c178f82d8b50c41bdcd720ac9c9342625c0fa09c4debc712aa",
-    "title": "🏛️ [Settings rehearsal] Threshold 2 dry run: vote from the test Safe, the agent confirms through the transaction service",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/testing-new-d-ignore-xyz-a.eth/proposal/0xde930cf4d119d1c178f82d8b50c41bdcd720ac9c9342625c0fa09c4debc712aa",
-    "published_at": "2026-10-23T02:52:25Z",
-    "engagement": 3,
-    "summary": "Rehearsal round on the sandbox, see api3-dao-migration/snapshot/README.md. Posted by agent.",
-    "tags": [
-      "governance",
-      "testing-new-d-ignore-xyz-a.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0x9c71fe2878173e1549d7598633a5ebbda632730c9d76ff35c0dff79d23b4c30c",
-    "title": "🏛️ [Verified Operators] Remove VO Status from Operators with No Validators and no History",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vo.ssvnetwork.eth/proposal/0x9c71fe2878173e1549d7598633a5ebbda632730c9d76ff35c0dff79d23b4c30c",
-    "published_at": "2026-10-22T19:52:20Z",
-    "engagement": 3,
-    "summary": "The following Verified Operators have no validators assigned to them, and no apparent history of having any operators.\n\nThe Operator Committee has pro...",
-    "tags": [
-      "governance",
-      "vo.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0xdbf52c6d05122bc161b68f1fbc067050753cbe17559fa8daead55cb6e91a4faf",
-    "title": "🏛️ [Aave DAO] [ARFC] Onboard mWIN (Midas / Wellington Management) to Aave Horizon",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0xdbf52c6d05122bc161b68f1fbc067050753cbe17559fa8daead55cb6e91a4faf",
-    "published_at": "2026-10-23T15:28:15Z",
-    "engagement": 3,
-    "summary": "**Title:** [ARFC] Onboard mWIN (Midas / Wellington Management) to Aave Horizon\n**Author:** AaveLabs\n**Date:** 2026-10-22\n\n***\n\n## Summary\n\nThis ARFC p...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0x9c7e5b56c53343c19aef6ef8b3ad80d12e4a8b618c770de194d9da9d5840a7ab",
-    "title": "🏛️ [Settings rehearsal] Safe app dry run: vote from the test Safe through app.safe.global",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/testing-new-d-ignore-xyz-a.eth/proposal/0x9c7e5b56c53343c19aef6ef8b3ad80d12e4a8b618c770de194d9da9d5840a7ab",
-    "published_at": "2026-10-22T11:03:09Z",
-    "engagement": 3,
-    "summary": "Rehearsal round on the sandbox, see api3-dao-migration/snapshot/README.md. Posted by agent.",
-    "tags": [
-      "governance",
-      "testing-new-d-ignore-xyz-a.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0xdcc7300ed228bb4f07e278fd530abe6bbc2011d69360d682660b0af571c1632b",
-    "title": "🏛️ [Stake DAO] SDGP-80: Mandate to the Stake DAO Association to Engage a Curation Service Provider for the Curation Vertical",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/stakedao.eth/proposal/0xdcc7300ed228bb4f07e278fd530abe6bbc2011d69360d682660b0af571c1632b",
-    "published_at": "2026-10-22T11:00:00Z",
-    "engagement": 3,
-    "summary": "**Author:** Stake DAO Association \n**Category:** A — Stake DAO Governance Proposal (SDGP)\nPursuant to SDGP-66 Related proposals: SDGP-58 (Curation Ver...",
-    "tags": [
-      "governance",
-      "stakedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0x6eaf47e9915bb74df494add1043379bfa12e22ba1cbd0c6443b67f2a7eeae8d1",
-    "title": "🏛️ [sdFXN] Gauge vote FXN - 29/10/2026 - 11/11/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdfxn.eth/proposal/0x6eaf47e9915bb74df494add1043379bfa12e22ba1cbd0c6443b67f2a7eeae8d1",
-    "published_at": "2026-10-22T02:00:00Z",
-    "engagement": 36,
-    "summary": "Gauge vote for FXN inflation allocation.",
-    "tags": [
-      "governance",
-      "sdfxn.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0x7de826d5c6e45cc24905968eebacabf3ed273611e9b7872d518a16faaf6a0834",
-    "title": "🏛️ [sdYB] Gauge vote YB - 29/10/2026 - 11/11/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x7de826d5c6e45cc24905968eebacabf3ed273611e9b7872d518a16faaf6a0834",
-    "published_at": "2026-10-22T02:00:00Z",
-    "engagement": 4,
-    "summary": "Gauge vote for YB inflation allocation.",
-    "tags": [
-      "governance",
-      "sd-yieldbasis.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
-  },
-  {
-    "id": "snapshot_0x85460b39557ea1931cebab701b1684a30007aea857ac6bf06a48a498f7a42ba8",
-    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 29/10/2026 - 11/11/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0x85460b39557ea1931cebab701b1684a30007aea857ac6bf06a48a498f7a42ba8",
-    "published_at": "2026-10-22T02:00:00Z",
-    "engagement": 121,
-    "summary": "Gauge vote for FXS inflation allocation.",
-    "tags": [
-      "governance",
-      "sdfxs.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T12:38:28.178896Z"
+    "fetched_at": "2026-10-26T19:06:00.531745Z"
   }
 ]
