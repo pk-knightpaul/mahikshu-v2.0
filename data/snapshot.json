@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0x407f36297a80604b27881ced7fd3cab77f7207129c044412141550d2b9e082cd",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1511",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x407f36297a80604b27881ced7fd3cab77f7207129c044412141550d2b9e082cd",
+    "published_at": "2026-10-26T10:17:29Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1511.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1511-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
+  },
+  {
+    "id": "snapshot_0xa47a839a21045fc49c8c16c91265075bfddc23be771391f2d621ce0102d8608f",
+    "title": "🏛️ [sdCRV-Governance] [ethereum] tETH/wstETH pool (0xA10d15538E09479186b4D3278BA5c979110dDdB1): ramp A from 200 to 500 over 1 week, and lower the fee from 5 bps to 4 bps (offpeg fee multiplier unchanged).",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xa47a839a21045fc49c8c16c91265075bfddc23be771391f2d621ce0102d8608f",
+    "published_at": "2026-10-26T10:01:52Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1511-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
+  },
+  {
     "id": "snapshot_0xf6f748ff4b4489d202983d8cc4437208adb6064cc8a4131fbd447eb92e00c155",
     "title": "🏛️ [Raptor] [Event] - 2021 Rug Commemoration",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x74a70f0cf0e5ef17a65c9ee16ee52b51913b2a948be35b7950f07d6c18c531b1",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x000f815d5a8dcb2d0c566f2b07c71ad9dabf8438cbeb7a6781c320a4e2bd9766",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0xea359a5e8780a46442f2f3dfd9fd39f96ff12ca05b6d426e6259f12ade48e5bf",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0xb8f7b68e0eb483b760d8a566739ba535fc1e16313e954960a4e740092a729954",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x47126e7bd8e02a63ee7022e32c01ec2884a4443c770b9533621391b001663563",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0xbf8b6055dcc089ff8a0ac5c1b48ef1e57be44169c503835c1f3d8e3805035d29",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0xa5d326424f026ada8b589e662898998fd14a83256ac679ef3dacac05e91384ee",
@@ -133,58 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
-  },
-  {
-    "id": "snapshot_0x35eb8ea766b0f6ecb629347ae0ccca4992abc743dfca8b6142456e95f1dba8f6",
-    "title": "🏛️ [sdYB] 61# Add a migrator into markets with LT-gated pools",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x35eb8ea766b0f6ecb629347ae0ccca4992abc743dfca8b6142456e95f1dba8f6",
-    "published_at": "2026-10-23T11:16:20Z",
-    "engagement": 3,
-    "summary": "Allow LTMigratorGated 0x1C8ee3e6Ae8047796EDFFE96eE0ffaf5a4266075 to set stablecoin allocations, next to LTMigrator 0xEacb6032d9d76D87DbD95bF05E2210820...",
-    "tags": [
-      "governance",
-      "sd-yieldbasis.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
-  },
-  {
-    "id": "snapshot_0xbb2e294c77be75dbd46138765dfb06d2d9ce5ab580c3e5b2d01937af4de0eabb",
-    "title": "🏛️ [ramo45.eth] ramo45.eth",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ramo45.eth/proposal/0xbb2e294c77be75dbd46138765dfb06d2d9ce5ab580c3e5b2d01937af4de0eabb",
-    "published_at": "2026-10-23T10:00:05Z",
-    "engagement": 1,
-    "summary": "",
-    "tags": [
-      "governance",
-      "ramo45.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
-  },
-  {
-    "id": "snapshot_0x65691947fad034f160c9a5a9eb9fb8db8215fcf4d96d284f853ec6466dd1e50c",
-    "title": "🏛️ [ramo45.eth] ramo45.eth",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ramo45.eth/proposal/0x65691947fad034f160c9a5a9eb9fb8db8215fcf4d96d284f853ec6466dd1e50c",
-    "published_at": "2026-10-23T09:53:46Z",
-    "engagement": 1,
-    "summary": "",
-    "tags": [
-      "governance",
-      "ramo45.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x8d204f0c5ee64d3b48b08d31034c00bb6686ba3b66051e6d2eefb668ea891b9e",
@@ -201,7 +184,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
+  },
+  {
+    "id": "snapshot_0xedfb79702502fc3176cf936d6dce7f6e67d82b4860b74e3f946ae4f3663706a6",
+    "title": "🏛️ [Cratos] CIP-46 With respect to the current reward standard, should we consider extending the deadline to November 30th, 2026?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cratos.eth/proposal/0xedfb79702502fc3176cf936d6dce7f6e67d82b4860b74e3f946ae4f3663706a6",
+    "published_at": "2026-10-26T06:08:00Z",
+    "engagement": 3,
+    "summary": "I would like to express my gratitude for your support and involvement in the DAO.\n\nPreviously, proposal CIP-45 was approved, which extended the daily ...",
+    "tags": [
+      "governance",
+      "cratos.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0xde930cf4d119d1c178f82d8b50c41bdcd720ac9c9342625c0fa09c4debc712aa",
@@ -218,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x9c71fe2878173e1549d7598633a5ebbda632730c9d76ff35c0dff79d23b4c30c",
@@ -235,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0xdbf52c6d05122bc161b68f1fbc067050753cbe17559fa8daead55cb6e91a4faf",
@@ -252,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x9c7e5b56c53343c19aef6ef8b3ad80d12e4a8b618c770de194d9da9d5840a7ab",
@@ -269,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0xdcc7300ed228bb4f07e278fd530abe6bbc2011d69360d682660b0af571c1632b",
@@ -286,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x6eaf47e9915bb74df494add1043379bfa12e22ba1cbd0c6443b67f2a7eeae8d1",
@@ -303,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x7de826d5c6e45cc24905968eebacabf3ed273611e9b7872d518a16faaf6a0834",
@@ -320,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   },
   {
     "id": "snapshot_0x85460b39557ea1931cebab701b1684a30007aea857ac6bf06a48a498f7a42ba8",
@@ -337,6 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-26T05:54:00.366605Z"
+    "fetched_at": "2026-10-26T12:38:28.178896Z"
   }
 ]
