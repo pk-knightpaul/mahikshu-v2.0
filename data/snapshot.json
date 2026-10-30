@@ -1,5 +1,22 @@
 [
   {
+    "id": "snapshot_0xbb3a36f5149d731c9fd11c150634b9bf90f95e73b8ec85e88cd5541149c6a8b6",
+    "title": "🏛️ [Arbitrum DAO] [Constitutional] AIP: Stylus Activation Contract",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xbb3a36f5149d731c9fd11c150634b9bf90f95e73b8ec85e88cd5541149c6a8b6",
+    "published_at": "2026-10-29T20:45:00Z",
+    "engagement": 3,
+    "summary": "## Abstract\n\nThis Constitutional AIP proposes to resume Stylus contract activations on Arbitrum One following the Security Council’s pause of new acti...",
+    "tags": [
+      "governance",
+      "arbitrumfoundation.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
+  },
+  {
     "id": "snapshot_0x5bc7802637848e22f47e23615d3dcb2649e10b5feed5033a974eb556cdf3627a",
     "title": "🏛️ [ENS] [7.3] [Social] Governor Nexus Update",
     "platform": "snapshot",
@@ -14,7 +31,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x7e7f38ce87cd2d17be819f434d97f0c9af1b29c47c0aa654b9d5c756edeacd02",
@@ -31,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x46aa6283089ac82b22746658c50e7e8712caa188b6e661727c33e8a5d53e3136",
@@ -48,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x9ec3e93a23a62ccd1d3c36dbcd1c8d026765f8e7a79f2630b5d850fec6c8e785",
@@ -65,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0xd9e4a47d4efb86b91d26183bd3ded88017ccf5a376acb261fdea619ef15c945b",
@@ -82,7 +99,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
+  },
+  {
+    "id": "snapshot_0x58b543ec181ebd4be4ed1652e105f80e15df677a1821fe44091ea7ebdd73e4c9",
+    "title": "🏛️ [WPAY] WIP-02: Wind Down veWPAY Staking on Polygon - Remove the 30-Day Unstake Lock and Stop Reward Emission",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/wpay.eth/proposal/0x58b543ec181ebd4be4ed1652e105f80e15df677a1821fe44091ea7ebdd73e4c9",
+    "published_at": "2026-10-29T21:23:51Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nWIP-01 phases out WPAY on Polygon and consolidates the token on Circle Arc by the end of November 2026. Staking has to move with the token...",
+    "tags": [
+      "governance",
+      "wpay.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0xd5ee1eb0f148df8bdd9f51c7deb6d46b7e870e2084c203cbf05bfe0f65c75cd6",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x27a3d7548dc5b0ce054339c3ae03d575edefbdf02bafc5632ea668c73b29ca6b",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0xcd797b1b754d671c3a1e562521477c33e596104d06ba7f93f883d7c81ddf9529",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0xb05cd92d474fda8db6dba81d8fde99bfb50770ab3a58065b1fd592d7a3590264",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x0e54d74cef24570818879fa8a0318b027ff462cd97cbdedb8ad9a944c6fee665",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x70fc4e1d2a5e86ea846e6d067bd96731d25acf164029f46739817eaaf28c88bf",
@@ -184,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0xd3d8cf232ac3e7b52ee5d908d755090ec0a67a9450674b309b44f7d143d05da6",
@@ -201,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0xe425ad8fc8cf631c358427d1cd37beb0de963230b547c77ac02c754e63bbebae",
@@ -218,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x9510b6815b892919bfa6a838f5b1d49b05f77fb1ee53614256c8c90b656446bc",
@@ -235,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0xc142be98ac8f72727c2a383b73702903dc40e46e70aa7f6a71208250a895b1a7",
@@ -252,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x667315c6da69c9ae5d916d2cf05939b041061bae4b38823075ee359db2d2d465",
@@ -269,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x8f4f3223518f62e320942d65cdbf0ad83ad195e9545da82d72aa4fdda977003c",
@@ -286,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   },
   {
     "id": "snapshot_0x15f512b917806a9b1de50976f1c4303910138f9ea3e3c06ff9aa07d54daaf891",
@@ -303,40 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
-  },
-  {
-    "id": "snapshot_0x44c5f4dbfef8c22d5bf3ead86d68f25909ad3626e024e3b980b3f63049b3b838",
-    "title": "🏛️ [Parallel] PGP-46 l Renew Octav for DAO Treasury Tracking",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/parallel-protocol.eth/proposal/0x44c5f4dbfef8c22d5bf3ead86d68f25909ad3626e024e3b980b3f63049b3b838",
-    "published_at": "2026-10-26T15:00:00Z",
-    "engagement": 3,
-    "summary": "Summary:\n\nThis proposal aims to renew Octav’s tooling for treasury management, accounting, and transparency reporting.\n\nRationale:\n\nTwo years ago we p...",
-    "tags": [
-      "governance",
-      "parallel-protocol.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
-  },
-  {
-    "id": "snapshot_0xe12f55712224ca66ce551dcd7a8493e176f1555a79b5b3a8c4217ab0d6956dd8",
-    "title": "🏛️ [Parallel] PIP-71 | Sunset USDp and the Bridging Module on 10 Chains",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/parallel-protocol.eth/proposal/0xe12f55712224ca66ce551dcd7a8493e176f1555a79b5b3a8c4217ab0d6956dd8",
-    "published_at": "2026-10-26T15:00:00Z",
-    "engagement": 3,
-    "summary": "Summary:\n\nThis proposal sunsets USDp and the USDp Bridging Module on 10 chains where the protocol has no meaningful usage: Scroll, Gnosis, Sei, Berach...",
-    "tags": [
-      "governance",
-      "parallel-protocol.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-10-29T20:07:25.323209Z"
+    "fetched_at": "2026-10-30T00:42:43.641975Z"
   }
 ]
