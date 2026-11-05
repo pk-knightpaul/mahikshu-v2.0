@@ -1,5 +1,56 @@
 [
   {
+    "id": "snapshot_0x2cba3ecb0f952ebb2d82583bb9279cc836e36c18ce2ed540299ab254dcdc5e94",
+    "title": "🏛️ [Fuse Network] FIP14: Zero Inflation, 400M Cap Enforced On-Chain, 30M FUSE for Validator Rewards Through the Transition",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/fusedao.eth/proposal/0x2cba3ecb0f952ebb2d82583bb9279cc836e36c18ce2ed540299ab254dcdc5e94",
+    "published_at": "2026-11-05T10:05:31Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nThis proposal ends FUSE issuance at a defined activation date, enforces the 400M maximum supply in the contract, and funds validator rewar...",
+    "tags": [
+      "governance",
+      "fusedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
+  },
+  {
+    "id": "snapshot_0x6214cbfb2dd2fcd86ba05d14fd8a5297622c9ec18b1fc7447e7e3304743eb31a",
+    "title": "🏛️ [sdFXN] Gauge vote FXN - 12/11/2026 - 25/11/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxn.eth/proposal/0x6214cbfb2dd2fcd86ba05d14fd8a5297622c9ec18b1fc7447e7e3304743eb31a",
+    "published_at": "2026-11-05T02:16:21Z",
+    "engagement": 36,
+    "summary": "Gauge vote for FXN inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxn.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
+  },
+  {
+    "id": "snapshot_0xd9f0b13f9e10df98deb3878ed09c4b228e8a4cfc7a1fe49f553ebbcc31d038ba",
+    "title": "🏛️ [sdYB] Gauge vote YB - 12/11/2026 - 25/11/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0xd9f0b13f9e10df98deb3878ed09c4b228e8a4cfc7a1fe49f553ebbcc31d038ba",
+    "published_at": "2026-11-05T02:12:33Z",
+    "engagement": 4,
+    "summary": "Gauge vote for YB inflation allocation.",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
+  },
+  {
     "id": "snapshot_0xe4f714e7b751e01959aea8618a9921d31f239554eb8b120901186dc41d4da4e8",
     "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 12/11/2026 - 25/11/2026",
     "platform": "snapshot",
@@ -14,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0xa96718e3cb14ee37922523a4212e984b5b973629fbd148990984e67b63652221",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x40629de3f1aa80d3565e3cd6cd91ccbe419b3823a3d86d7bad31ec014175a820",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x115184e087cb3e3c4c3f199f15d4b62dd877ac6761f6f317457b39eb1bfdc9f2",
@@ -65,7 +116,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
+  },
+  {
+    "id": "snapshot_0x0b56f7264197d4b13e3d5872d39ea4f4122559b00cd6c81d4b914749cac777ee",
+    "title": "🏛️ [Beets Gauge Votes] Beets Sonic gauge vote (Round 48)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/beets-gauges.eth/proposal/0x0b56f7264197d4b13e3d5872d39ea4f4122559b00cd6c81d4b914749cac777ee",
+    "published_at": "2026-11-05T08:00:00Z",
+    "engagement": 5,
+    "summary": "This vote decides the distribution of 300000 BEETS to gauge emissions for the period of November 11th 2026 to November 24th 2026.\n\nTo vote, distribute...",
+    "tags": [
+      "governance",
+      "beets-gauges.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x95a525b3acf8dc8ca786204527a16df1bd13c6a1937719ebb57c6d320d6f9760",
@@ -82,41 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
-  },
-  {
-    "id": "snapshot_0x7287bb9c0ed94f80d7ecd2fe8d5ea51c09504cb2836915af11e9a6c658047962",
-    "title": "🏛️ [Futera United] Who plays left-back",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/futera.eth/proposal/0x7287bb9c0ed94f80d7ecd2fe8d5ea51c09504cb2836915af11e9a6c658047962",
-    "published_at": "2026-11-04T14:07:37Z",
-    "engagement": 2,
-    "summary": "See managers-office for details.",
-    "tags": [
-      "governance",
-      "futera.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
-  },
-  {
-    "id": "snapshot_0xb603ac88f2bfb8404004c96d4085a8a7a9503caa18a10ba43265ccf5b4d49099",
-    "title": "🏛️ [Futera United] Who plays right-back?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/futera.eth/proposal/0xb603ac88f2bfb8404004c96d4085a8a7a9503caa18a10ba43265ccf5b4d49099",
-    "published_at": "2026-11-04T14:07:02Z",
-    "engagement": 2,
-    "summary": "See managers-office for details.",
-    "tags": [
-      "governance",
-      "futera.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x0c082f3beadef6fe30f0571774f89652b8e5774e0f4496f455d9c30db763234d",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0xe3ff7a59d4c16ffac11bbe12eb88638c480f474b7aee7643e8b89a869b584289",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0xed53c0264b1ca4ec8dbd658b7aca8dcbe0193747313099b1a3c4549d866ba41d",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0xba7034d10ca2890bf7f2b436ee3a4422ca2b2dc6f8ea4d56a17362ac94e75637",
@@ -184,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x57d0f275bb62a2c368ef1bb76eb3154d1cdf5af10167f768c619432b00b1b4d8",
@@ -201,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0xf90067843a213aeb70eb30bf84b093e190ea90518731f8691b571f3fd458b2d0",
@@ -218,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0xb785737dca05d62735e36ca5d806d6d7f550dc0ce299d9b47c9aec55af9c8736",
@@ -235,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x1a5ad703625c4a3dfc13a2a668dd708306d0955f911e9a7685e00298df3904ce",
@@ -252,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x038ea366599180eee83edcdb77a1cb4710b2e3f13aa9a510fda9931d22a9213b",
@@ -269,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x7e4748a8bb55251bb238eddf7a94013e2404807d67c04e3674b93598ed6edfde",
@@ -286,24 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
-  },
-  {
-    "id": "snapshot_0x2cbfd862e21f2efe02f3593ff4409d3e40a5f4a61d3af6797d7a2c48d636cc7d",
-    "title": "🏛️ [Fuse Network] FIP14: Zero Inflation, 400M Cap Enforced On-Chain, 30M FUSE for Validator Rewards Through the Transition",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/fusedao.eth/proposal/0x2cbfd862e21f2efe02f3593ff4409d3e40a5f4a61d3af6797d7a2c48d636cc7d",
-    "published_at": "2026-11-04T15:24:09Z",
-    "engagement": 2,
-    "summary": "## Summary\n\nThis proposal ends FUSE issuance at a defined activation date, enforces the 400M maximum supply in the contract, and funds validator rewar...",
-    "tags": [
-      "governance",
-      "fusedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   },
   {
     "id": "snapshot_0x4f5990e3efdf199522534c13368245c6505fd9b6868cd60d8a2e3cf097cf9822",
@@ -320,23 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
-  },
-  {
-    "id": "snapshot_0x10883cab7f6d16d5ebee4e8fb1b03cd5ad1bcf794d1978d9e9615c3136910824",
-    "title": "🏛️ [Nate DAO] Should gravity exists?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/nategeier.dcl.eth/proposal/0x10883cab7f6d16d5ebee4e8fb1b03cd5ad1bcf794d1978d9e9615c3136910824",
-    "published_at": "2026-11-02T12:49:08Z",
-    "engagement": 3,
-    "summary": "Some want to fly to the moon, others say, they love touching grass",
-    "tags": [
-      "governance",
-      "nategeier.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-05T02:07:49.337540Z"
+    "fetched_at": "2026-11-05T10:38:26.398766Z"
   }
 ]
