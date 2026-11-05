@@ -1,5 +1,56 @@
 [
   {
+    "id": "snapshot_0x8323d99fafde69cd194befa059b5d05a1522284db2a08b1f3b9951f0266d4e56",
+    "title": "🏛️ [VitaRNA] VRNAP-6: Proceed with the ARTAN Rosa26 Codon Therapy aging mouse",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/vitarna.eth/proposal/0x8323d99fafde69cd194befa059b5d05a1522284db2a08b1f3b9951f0266d4e56",
+    "published_at": "2026-11-05T16:42:47Z",
+    "engagement": 3,
+    "summary": "## TL;DR\n\n| Item | Detail |\n| --- | --- |\n| **Ask** | Go / no-go on the next animal step |\n| **Funding** | Already funded — no new mint or raise |\n| *...",
+    "tags": [
+      "governance",
+      "vitarna.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
+  },
+  {
+    "id": "snapshot_0x5961fef3ddfd421436a7d671c630aa66ede9a1e455ffe62b853f3794c7464192",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1517",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x5961fef3ddfd421436a7d671c630aa66ede9a1e455ffe62b853f3794c7464192",
+    "published_at": "2026-11-05T13:17:22Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1517.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1517-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
+  },
+  {
+    "id": "snapshot_0x6b30171b52f8edb67730ee9d8d191cd77b8e3893bcb4113bdb14b72d64380fd5",
+    "title": "🏛️ [sdCRV-Governance] Pause two LMCallbackFactory contracts on Ethereum mainnet (0x323E4BA335F830B6bd3bDeD522368b2A8e3a880E and 0x2191718CD32d02B8E60BAdFFeA33E4B5DD9A0A0D), permanently retiring them from deploying new LM callbacks. A new LMCallbackFactory has been deployed a...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x6b30171b52f8edb67730ee9d8d191cd77b8e3893bcb4113bdb14b72d64380fd5",
+    "published_at": "2026-11-05T13:07:19Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1517-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
+  },
+  {
     "id": "snapshot_0x2cba3ecb0f952ebb2d82583bb9279cc836e36c18ce2ed540299ab254dcdc5e94",
     "title": "🏛️ [Fuse Network] FIP14: Zero Inflation, 400M Cap Enforced On-Chain, 30M FUSE for Validator Rewards Through the Transition",
     "platform": "snapshot",
@@ -14,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0x6214cbfb2dd2fcd86ba05d14fd8a5297622c9ec18b1fc7447e7e3304743eb31a",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0xd9f0b13f9e10df98deb3878ed09c4b228e8a4cfc7a1fe49f553ebbcc31d038ba",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0xe4f714e7b751e01959aea8618a9921d31f239554eb8b120901186dc41d4da4e8",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0xa96718e3cb14ee37922523a4212e984b5b973629fbd148990984e67b63652221",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0x40629de3f1aa80d3565e3cd6cd91ccbe419b3823a3d86d7bad31ec014175a820",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0x115184e087cb3e3c4c3f199f15d4b62dd877ac6761f6f317457b39eb1bfdc9f2",
@@ -116,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0x0b56f7264197d4b13e3d5872d39ea4f4122559b00cd6c81d4b914749cac777ee",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0x95a525b3acf8dc8ca786204527a16df1bd13c6a1937719ebb57c6d320d6f9760",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0x0c082f3beadef6fe30f0571774f89652b8e5774e0f4496f455d9c30db763234d",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0xe3ff7a59d4c16ffac11bbe12eb88638c480f474b7aee7643e8b89a869b584289",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0xed53c0264b1ca4ec8dbd658b7aca8dcbe0193747313099b1a3c4549d866ba41d",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0xba7034d10ca2890bf7f2b436ee3a4422ca2b2dc6f8ea4d56a17362ac94e75637",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0x57d0f275bb62a2c368ef1bb76eb3154d1cdf5af10167f768c619432b00b1b4d8",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0xf90067843a213aeb70eb30bf84b093e190ea90518731f8691b571f3fd458b2d0",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0xb785737dca05d62735e36ca5d806d6d7f550dc0ce299d9b47c9aec55af9c8736",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   },
   {
     "id": "snapshot_0x1a5ad703625c4a3dfc13a2a668dd708306d0955f911e9a7685e00298df3904ce",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
-  },
-  {
-    "id": "snapshot_0x038ea366599180eee83edcdb77a1cb4710b2e3f13aa9a510fda9931d22a9213b",
-    "title": "🏛️ [AssangeDAO] AIP-21: Supporting statements for the mission",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/assangedao.eth/proposal/0x038ea366599180eee83edcdb77a1cb4710b2e3f13aa9a510fda9931d22a9213b",
-    "published_at": "2026-11-04T04:08:15Z",
-    "engagement": 3,
-    "summary": "1.  Summary\n    \n\nAIP-18 made peace AssangeDAO’s mission. This proposal adds a vision, a set of values, and a short test for whether a piece of work f...",
-    "tags": [
-      "governance",
-      "assangedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
-  },
-  {
-    "id": "snapshot_0x7e4748a8bb55251bb238eddf7a94013e2404807d67c04e3674b93598ed6edfde",
-    "title": "🏛️ [Exactly Protocol] [EXAIP-35] Enable Five Additional Coinbase Tokenized Stocks as Collateral on Exactly Protocol (Base)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/gov.exa.eth/proposal/0x7e4748a8bb55251bb238eddf7a94013e2404807d67c04e3674b93598ed6edfde",
-    "published_at": "2026-11-03T17:39:36Z",
-    "engagement": 3,
-    "summary": "Proposal ID: EXAIP-35\nProposer: Exa Labs\nDate: November 2, 2026\n\n## Summary\n\nThis proposal lists five additional Coinbase Tokenized Stocks as collater...",
-    "tags": [
-      "governance",
-      "gov.exa.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
-  },
-  {
-    "id": "snapshot_0x4f5990e3efdf199522534c13368245c6505fd9b6868cd60d8a2e3cf097cf9822",
-    "title": "🏛️ [GhostsProject] GIP-38: Continued Fragment Expansion and DAO Operations",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ghoststreasury.eth/proposal/0x4f5990e3efdf199522534c13368245c6505fd9b6868cd60d8a2e3cf097cf9822",
-    "published_at": "2026-11-02T15:12:14Z",
-    "engagement": 2,
-    "summary": "Category: Community Support & Decision — Others\n\nKudos: Ghosts #5456, t0nyhan\n\nDiscourse : https://forum.ghostsproject.com/t/gip-38-continued-fragment...",
-    "tags": [
-      "governance",
-      "ghoststreasury.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-05T10:38:26.398766Z"
+    "fetched_at": "2026-11-05T18:37:54.297632Z"
   }
 ]
