@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0xe4f714e7b751e01959aea8618a9921d31f239554eb8b120901186dc41d4da4e8",
+    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 12/11/2026 - 25/11/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0xe4f714e7b751e01959aea8618a9921d31f239554eb8b120901186dc41d4da4e8",
+    "published_at": "2026-11-05T02:03:16Z",
+    "engagement": 121,
+    "summary": "Gauge vote for FXS inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxs.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
+  },
+  {
+    "id": "snapshot_0xa96718e3cb14ee37922523a4212e984b5b973629fbd148990984e67b63652221",
+    "title": "🏛️ [Stake DAO CRV] Gauge vote CRV - 12/11/2026 - 25/11/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv.eth/proposal/0xa96718e3cb14ee37922523a4212e984b5b973629fbd148990984e67b63652221",
+    "published_at": "2026-11-05T02:01:12Z",
+    "engagement": 710,
+    "summary": "Gauge vote for CRV inflation allocation.",
+    "tags": [
+      "governance",
+      "sdcrv.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
+  },
+  {
     "id": "snapshot_0x40629de3f1aa80d3565e3cd6cd91ccbe419b3823a3d86d7bad31ec014175a820",
     "title": "🏛️ [ssv.network] [DIP-59] — Amendment to and Extension of DIP-31: Network Stewardship Efforts & Budget by SSV Labs",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x115184e087cb3e3c4c3f199f15d4b62dd877ac6761f6f317457b39eb1bfdc9f2",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x95a525b3acf8dc8ca786204527a16df1bd13c6a1937719ebb57c6d320d6f9760",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x7287bb9c0ed94f80d7ecd2fe8d5ea51c09504cb2836915af11e9a6c658047962",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0xb603ac88f2bfb8404004c96d4085a8a7a9503caa18a10ba43265ccf5b4d49099",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x0c082f3beadef6fe30f0571774f89652b8e5774e0f4496f455d9c30db763234d",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0xe3ff7a59d4c16ffac11bbe12eb88638c480f474b7aee7643e8b89a869b584289",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0xed53c0264b1ca4ec8dbd658b7aca8dcbe0193747313099b1a3c4549d866ba41d",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0xba7034d10ca2890bf7f2b436ee3a4422ca2b2dc6f8ea4d56a17362ac94e75637",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x57d0f275bb62a2c368ef1bb76eb3154d1cdf5af10167f768c619432b00b1b4d8",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0xf90067843a213aeb70eb30bf84b093e190ea90518731f8691b571f3fd458b2d0",
@@ -184,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0xb785737dca05d62735e36ca5d806d6d7f550dc0ce299d9b47c9aec55af9c8736",
@@ -201,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x1a5ad703625c4a3dfc13a2a668dd708306d0955f911e9a7685e00298df3904ce",
@@ -218,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x038ea366599180eee83edcdb77a1cb4710b2e3f13aa9a510fda9931d22a9213b",
@@ -235,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x7e4748a8bb55251bb238eddf7a94013e2404807d67c04e3674b93598ed6edfde",
@@ -252,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x2cbfd862e21f2efe02f3593ff4409d3e40a5f4a61d3af6797d7a2c48d636cc7d",
@@ -269,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x4f5990e3efdf199522534c13368245c6505fd9b6868cd60d8a2e3cf097cf9822",
@@ -286,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   },
   {
     "id": "snapshot_0x10883cab7f6d16d5ebee4e8fb1b03cd5ad1bcf794d1978d9e9615c3136910824",
@@ -303,40 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
-  },
-  {
-    "id": "snapshot_0x6ae388028c09c6320069a9f1cf4be0292fde1962914e5e1ffbe0349e7beb9c8f",
-    "title": "🏛️ [Ambire Wallet] Move $WALLET Staking to a New $stkWALLET Contract",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ambire.eth/proposal/0x6ae388028c09c6320069a9f1cf4be0292fde1962914e5e1ffbe0349e7beb9c8f",
-    "published_at": "2026-11-02T15:00:00Z",
-    "engagement": 2,
-    "summary": "---\nAuthor: Ambire Wallet\nDate: November 02, 2026\n---\n\n![Move $WALLET Staking to a New $stkWALLET Contract](https://blog.ambire.com/content/images/siz...",
-    "tags": [
-      "governance",
-      "ambire.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
-  },
-  {
-    "id": "snapshot_0x26f2c4ef21a470fac6309f9eb9b6cda11a68d60b8e226b2400a80b7b5b005fe6",
-    "title": "🏛️ [elimu.ai] Deploy custom Aragon OSx permission smart contract",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/elimu.eth/proposal/0x26f2c4ef21a470fac6309f9eb9b6cda11a68d60b8e226b2400a80b7b5b005fe6",
-    "published_at": "2026-11-02T09:41:03Z",
-    "engagement": 3,
-    "summary": "Modify the `CREATE_PROPOSAL_PERMISSION` at https://app.aragon.org/dao/ethereum-mainnet/elimu.dao.eth/permissions by adding a condition that requires t...",
-    "tags": [
-      "governance",
-      "elimu.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-04T21:11:12.356432Z"
+    "fetched_at": "2026-11-05T02:07:49.337540Z"
   }
 ]
