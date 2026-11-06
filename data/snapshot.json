@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0x3534dc38c02c6d1d1c7e8e07942ed5b6515daace33c56980a85a68965d393ec8",
+    "title": "🏛️ [Index Coop] IIP-197: Modify Operations Pod Representatives",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/index-coop.eth/proposal/0x3534dc38c02c6d1d1c7e8e07942ed5b6515daace33c56980a85a68965d393ec8",
+    "published_at": "2026-11-06T13:45:44Z",
+    "engagement": 2,
+    "summary": "**Summary**\n\nThis proposal updates the Operations Pod by replacing Gaddon Leaze Ltd and Caravel Capital with theyoungcrews LLC ( @TheYoungCrews) and @...",
+    "tags": [
+      "governance",
+      "index-coop.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
+  },
+  {
+    "id": "snapshot_0x15a04c2d823620036d26389abf089d46ea229f896c3a1dc1b4a8b5fdae598ba1",
+    "title": "🏛️ [Orderly] [Proposal #17] Community Vote to Delist",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/orderlygov.eth/proposal/0x15a04c2d823620036d26389abf089d46ea229f896c3a1dc1b4a8b5fdae598ba1",
+    "published_at": "2026-11-06T12:10:17Z",
+    "engagement": 7,
+    "summary": "Introduction\n\nOrderly’s mission is to provide a high-quality trading environment with deep liquidity, sustainable trading activity, and transparent go...",
+    "tags": [
+      "governance",
+      "orderlygov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
+  },
+  {
     "id": "snapshot_0x42e5be5e8ecf47b197bc8419a7b5e58477bf8956543b68561d32528aafc2a9ac",
     "title": "🏛️ [CoW DAO] CIP-93: CoW Swap Affiliate Program Extension",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x9b0c560c318d9815b5bc0ac4204a647051e49b4712431d81d190ec1ef4cd14d2",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x8323d99fafde69cd194befa059b5d05a1522284db2a08b1f3b9951f0266d4e56",
@@ -48,7 +82,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
+  },
+  {
+    "id": "snapshot_0x83f578d707966014cd4ef7c7972f4af89c14964970f3f7088c688c07a6d915c0",
+    "title": "🏛️ [Aave DAO] [ARFC] Onboard Native BTC as Collateral to Aave V4 via Babylon Trustless Bitcoin Vaults",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aavedao.eth/proposal/0x83f578d707966014cd4ef7c7972f4af89c14964970f3f7088c688c07a6d915c0",
+    "published_at": "2026-11-06T14:03:21Z",
+    "engagement": 3,
+    "summary": "**Title:** [ARFC] Onboard Native BTC as Collateral to Aave V4 via Babylon Trustless Bitcoin Vaults  \n**Author:** Babylon Labs  \n**Date:** 2026-11-5\n\n-...",
+    "tags": [
+      "governance",
+      "aavedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x5961fef3ddfd421436a7d671c630aa66ede9a1e455ffe62b853f3794c7464192",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x6b30171b52f8edb67730ee9d8d191cd77b8e3893bcb4113bdb14b72d64380fd5",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x2cba3ecb0f952ebb2d82583bb9279cc836e36c18ce2ed540299ab254dcdc5e94",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x6214cbfb2dd2fcd86ba05d14fd8a5297622c9ec18b1fc7447e7e3304743eb31a",
@@ -116,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0xd9f0b13f9e10df98deb3878ed09c4b228e8a4cfc7a1fe49f553ebbcc31d038ba",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0xe4f714e7b751e01959aea8618a9921d31f239554eb8b120901186dc41d4da4e8",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0xa96718e3cb14ee37922523a4212e984b5b973629fbd148990984e67b63652221",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x40629de3f1aa80d3565e3cd6cd91ccbe419b3823a3d86d7bad31ec014175a820",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x115184e087cb3e3c4c3f199f15d4b62dd877ac6761f6f317457b39eb1bfdc9f2",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x0b56f7264197d4b13e3d5872d39ea4f4122559b00cd6c81d4b914749cac777ee",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x95a525b3acf8dc8ca786204527a16df1bd13c6a1937719ebb57c6d320d6f9760",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0x0c082f3beadef6fe30f0571774f89652b8e5774e0f4496f455d9c30db763234d",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0xe3ff7a59d4c16ffac11bbe12eb88638c480f474b7aee7643e8b89a869b584289",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   },
   {
     "id": "snapshot_0xed53c0264b1ca4ec8dbd658b7aca8dcbe0193747313099b1a3c4549d866ba41d",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
-  },
-  {
-    "id": "snapshot_0xba7034d10ca2890bf7f2b436ee3a4422ca2b2dc6f8ea4d56a17362ac94e75637",
-    "title": "🏛️ [XMAQUINA] BOT-16: Strategic Allocation in Sunday Robotics",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/xmaquina.eth/proposal/0xba7034d10ca2890bf7f2b436ee3a4422ca2b2dc6f8ea4d56a17362ac94e75637",
-    "published_at": "2026-11-04T09:30:23Z",
-    "engagement": 2,
-    "summary": "## TLDR\n\nA proposal to allocate a total of 1,077,000 USDC from the DAO treasury to acquire equity exposure in Sunday Robotics through a secondary tran...",
-    "tags": [
-      "governance",
-      "xmaquina.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
-  },
-  {
-    "id": "snapshot_0x57d0f275bb62a2c368ef1bb76eb3154d1cdf5af10167f768c619432b00b1b4d8",
-    "title": "🏛️ [Shutter DAO 0x36] Impact Pilot Program: Phase 1 (Approval Voting)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/shutterdao0x36.eth/proposal/0x57d0f275bb62a2c368ef1bb76eb3154d1cdf5af10167f768c619432b00b1b4d8",
-    "published_at": "2026-11-04T09:00:00Z",
-    "engagement": 16,
-    "summary": "In this Phase 1, we will use Approval Voting to evaluate each project independently:\n\n- Vote “YES” on EVERY project you think deserves to be funded, a...",
-    "tags": [
-      "governance",
-      "shutterdao0x36.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
-  },
-  {
-    "id": "snapshot_0xf90067843a213aeb70eb30bf84b093e190ea90518731f8691b571f3fd458b2d0",
-    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following pool: frxUSD/USDT",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xf90067843a213aeb70eb30bf84b093e190ea90518731f8691b571f3fd458b2d0",
-    "published_at": "2026-11-03T20:19:04Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1516-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-06T06:27:44.675805Z"
+    "fetched_at": "2026-11-06T14:54:32.533797Z"
   }
 ]
