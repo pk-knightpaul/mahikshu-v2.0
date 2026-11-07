@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0x028e0247ec4a524d873b733265800a798df480a6a1883cd28dae1da23bb97bf2",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1518",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x028e0247ec4a524d873b733265800a798df480a6a1883cd28dae1da23bb97bf2",
+    "published_at": "2026-11-07T18:17:35Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1518.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1518-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
+  },
+  {
+    "id": "snapshot_0xcda11c86f66746f1ce2445fbfbcdc6a7374c440b22f983af563d6f0146abef35",
+    "title": "🏛️ [sdCRV-Governance] Optimism LlamaLend V2: replace the ChainlinkEMA price oracles of the WBTC/USDC, wstETH/USDC and wstETH/WETH markets with the current version, which handles Chainlink aggregator upgrades, and move wstETH/WETH to HyperbolicDynamicMP with a new WstETHRateC...",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xcda11c86f66746f1ce2445fbfbcdc6a7374c440b22f983af563d6f0146abef35",
+    "published_at": "2026-11-07T18:13:00Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1518-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
+  },
+  {
     "id": "snapshot_0x3869847cc3b69d6a391415ca94fc46669df78281bca4474819aa15fa85f9b754",
     "title": "🏛️ [PotsMoneyDao] #𝟮𝟯 𝗣𝗿𝗼𝗽𝗼𝘀𝗮𝗹 𝘁𝗼 𝗔𝗱𝗷𝘂𝘀𝘁 𝘁𝗵𝗲 𝗣𝗢𝗧𝗦 𝗗𝗲𝗳𝗹𝗮𝘁𝗶𝗼𝗻𝗮𝗿𝘆 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗠𝗲𝗰𝗵𝗮𝗻𝗶𝘀𝗺 / 关于调整 POTS 通缩分配机制的提案",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x9e8dbe408a08debd37a4b8ab66f6b61382cc59e4dc7fd9db90e597dec6a8d2a5",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x0a6b00fbb8314b7629abb4e68d019e624670d4442e4840fd9843d87497f46579",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x6739a3957068b77d315a151ca44d2f4e1d53a0fe0d2bc910a7e1bcc8db340af2",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x5f63f0a2d3c12a0eae3ce70577a32c4001dd035464f03ce18c8656e40edc76d1",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x3534dc38c02c6d1d1c7e8e07942ed5b6515daace33c56980a85a68965d393ec8",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x15a04c2d823620036d26389abf089d46ea229f896c3a1dc1b4a8b5fdae598ba1",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x42e5be5e8ecf47b197bc8419a7b5e58477bf8956543b68561d32528aafc2a9ac",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x9b0c560c318d9815b5bc0ac4204a647051e49b4712431d81d190ec1ef4cd14d2",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x8323d99fafde69cd194befa059b5d05a1522284db2a08b1f3b9951f0266d4e56",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x83f578d707966014cd4ef7c7972f4af89c14964970f3f7088c688c07a6d915c0",
@@ -184,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x5961fef3ddfd421436a7d671c630aa66ede9a1e455ffe62b853f3794c7464192",
@@ -201,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x6b30171b52f8edb67730ee9d8d191cd77b8e3893bcb4113bdb14b72d64380fd5",
@@ -218,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x2cba3ecb0f952ebb2d82583bb9279cc836e36c18ce2ed540299ab254dcdc5e94",
@@ -235,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0x6214cbfb2dd2fcd86ba05d14fd8a5297622c9ec18b1fc7447e7e3304743eb31a",
@@ -252,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0xd9f0b13f9e10df98deb3878ed09c4b228e8a4cfc7a1fe49f553ebbcc31d038ba",
@@ -269,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0xe4f714e7b751e01959aea8618a9921d31f239554eb8b120901186dc41d4da4e8",
@@ -286,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   },
   {
     "id": "snapshot_0xa96718e3cb14ee37922523a4212e984b5b973629fbd148990984e67b63652221",
@@ -303,40 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
-  },
-  {
-    "id": "snapshot_0x40629de3f1aa80d3565e3cd6cd91ccbe419b3823a3d86d7bad31ec014175a820",
-    "title": "🏛️ [ssv.network] [DIP-59] — Amendment to and Extension of DIP-31: Network Stewardship Efforts & Budget by SSV Labs",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/mainnet.ssvnetwork.eth/proposal/0x40629de3f1aa80d3565e3cd6cd91ccbe419b3823a3d86d7bad31ec014175a820",
-    "published_at": "2026-11-04T19:10:00Z",
-    "engagement": 3,
-    "summary": "# Proposal Summary\n\nThis proposal amends and extends **[DIP-31] Development Roadmap for 2025-mid-2026 by SSV Labs** (hereinafter: **“DIP-31”**), as pr...",
-    "tags": [
-      "governance",
-      "mainnet.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
-  },
-  {
-    "id": "snapshot_0x115184e087cb3e3c4c3f199f15d4b62dd877ac6761f6f317457b39eb1bfdc9f2",
-    "title": "🏛️ [Maia DAO] [MIP-34] Maia wind-down",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/maiadao.eth/proposal/0x115184e087cb3e3c4c3f199f15d4b62dd877ac6761f6f317457b39eb1bfdc9f2",
-    "published_at": "2026-11-04T18:58:19Z",
-    "engagement": 2,
-    "summary": "## I. Introduction\n\nOver the past several months, we've been evaluating Maia DAO's financial position and exploring ways to continue operations.\n\nThe ...",
-    "tags": [
-      "governance",
-      "maiadao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-07T13:53:19.670530Z"
+    "fetched_at": "2026-11-07T18:35:53.099566Z"
   }
 ]
