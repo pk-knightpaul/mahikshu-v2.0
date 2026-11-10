@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0xe84f20a814602ed82a81a7d9365e4765930774595a69fc7d248f971f72b201a4",
+    "title": "🏛️ [Stake DAO] (REPUSH) SDGP-69: Claim Deadline for sdPENDLE and sdBAL Voting-Power Rewards",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/stakedao.eth/proposal/0xe84f20a814602ed82a81a7d9365e4765930774595a69fc7d248f971f72b201a4",
+    "published_at": "2026-11-10T18:51:58Z",
+    "engagement": 3,
+    "summary": "REPUSH: SDGP-69 missed quorum by 32,000 vlSDT\n\nQuorum: 6,084,000 vlSDT  \nAuthor: Stake DAO Association  \nCategory: A — Stake DAO Governance Proposal (...",
+    "tags": [
+      "governance",
+      "stakedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
+  },
+  {
+    "id": "snapshot_0xd42b7b5115152c3377b3a598d1fd12f8e29c617bcebdc15859d46ce9f3154a00",
+    "title": "🏛️ [Morpho] MIP 135 – Add new LLTVs on Morpho Midnight",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/morpho.eth/proposal/0xd42b7b5115152c3377b3a598d1fd12f8e29c617bcebdc15859d46ce9f3154a00",
+    "published_at": "2026-11-10T14:28:23Z",
+    "engagement": 3,
+    "summary": "Enable 11 new LLTVs on Morpho Midnight, which takes the set from 8 to 19 values. Morpho Blue is not affected.\n\nFull set and new values available in th...",
+    "tags": [
+      "governance",
+      "morpho.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
+  },
+  {
     "id": "snapshot_0xa21dbf988867b7e82530c5ebbc59326b4be82eaba4c30e931ea2fbabd89cc9d9",
     "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1522",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0xe047aae704fe64d20f617ffd656e8f6717834f0f8738071e6ada4b969521c1e5",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x6b605a315c8e86b79e3ea804d79a668a01e9bc5ca6f76f814a0ff38f2b1813c8",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0xba906522aa7cda0c0fd52fe236c8c781100ff4e17271223ca9efb9067f51bc2d",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x17a9dae5b9080eac4841ebc38e6155c30f56188cbae232d4c3af744b55f49955",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x24100d70b5b57ca622e53bbd8776c68f83888bf4c0a589dc51e831f5984543cf",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x2b60f32c68f7fa3379d83790f32cd5893940f98da1eb912134ce3726ac4c1a83",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x9fb14fe02ce6a570d17834091f9d9662ff1e727fcd3f86d0e1c5e01931379987",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x3b8de57e9d0bc9499f35213a739529acbc02b5581e9df9e98d2a66a1eb0dbd39",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x807d260ba5b828e4e886727c66b4bb5666a76a8dcf78cff89bb2584f7580ea17",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x4ca8fbf47c4679aa74d3cd6681c89ced9383e9f923b7dc6f33c94f7f8f0cee5b",
@@ -184,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x61efe7dcaadc2baf6b0dde519ceb3e360f7ac864c888004108d97012843246ed",
@@ -201,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x5547b7f06c852c98c517e53fb8f2516062d7d890c9abd1bd7b2c9a5db67f9289",
@@ -218,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x6b470d2a31a6e1723376a35691a551c521739d85f9f55672793857405cab88a5",
@@ -235,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x6a024ffdd779c80702e6c11dd8343a64627e7bfe5cfe4f33b1a4fa6cd3f3a5cf",
@@ -252,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0xf1426e0ea2fcab571a5d59e650b24a88f56c041efe8ddc31d22a9d354dd57f97",
@@ -269,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x319e9c02e0cbd1a4c9e1647fdb5b2c7ad99bc7076b3a7cd5f49c58d8a1d7cdef",
@@ -286,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   },
   {
     "id": "snapshot_0x4601539c0f243c6d193aedc837b0e8d763070358bc03b56b937f1e6c835cf8c3",
@@ -303,40 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
-  },
-  {
-    "id": "snapshot_0x3baa878c1450739af8428dacbd0e6e5ccfadaf385e41be51cb2861caf988fe53",
-    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following stableswap-NG pool: DOLA/SwanUSD",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x3baa878c1450739af8428dacbd0e6e5ccfadaf385e41be51cb2861caf988fe53",
-    "published_at": "2026-11-09T15:04:32Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1520-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
-  },
-  {
-    "id": "snapshot_0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17",
-    "title": "🏛️ [Arbitrum DAO] [Constitutional] AIP: Approve Release of Frozen ETH and ARB",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/arbitrumfoundation.eth/proposal/0x83774601c51c3d35a5247d19dcef0651cde49aafa72e5eaf6f3f263411441e17",
-    "published_at": "2026-11-09T14:30:00Z",
-    "engagement": 3,
-    "summary": "**Authors:** Binance  \n**Proposal Type:** Constitutional AIP\n\n# Abstract\n\nThis proposal asks the ArbitrumDAO to approve the release of the 8,425.997 E...",
-    "tags": [
-      "governance",
-      "arbitrumfoundation.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-10T12:23:11.864043Z"
+    "fetched_at": "2026-11-10T20:22:53.922580Z"
   }
 ]
