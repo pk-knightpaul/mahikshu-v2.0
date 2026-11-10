@@ -1,5 +1,60 @@
 [
   {
+    "id": "binance_f7e499194e0748f593f973f1d1959ea5",
+    "title": "Binance Futures Will End Last Price Protected Period on USDⓈ-Margined BULLAUSDT Perpetual Contract (2026-11-10)",
+    "platform": "binance",
+    "content_type": "futures",
+    "url": "https://www.binance.com/en/support/announcement/f7e499194e0748f593f973f1d1959ea5",
+    "published_at": "2026-11-10T10:31:19.510000Z",
+    "engagement": 0,
+    "summary": "Binance announcement: Binance Futures Will End Last Price Protected Period on USDⓈ-Margined BULLAUSDT Perpetual Contract (2026-11-10)",
+    "tags": [
+      "price",
+      "on",
+      "period",
+      "futures",
+      "binance",
+      "end",
+      "last"
+    ],
+    "fetched_at": "2026-11-10T12:23:07.857109Z"
+  },
+  {
+    "id": "binance_6f1577ea7d824586a93cb721344c98e2",
+    "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-11-13)",
+    "platform": "binance",
+    "content_type": "margin",
+    "url": "https://www.binance.com/en/support/announcement/6f1577ea7d824586a93cb721344c98e2",
+    "published_at": "2026-11-10T09:00:01.237000Z",
+    "engagement": 0,
+    "summary": "Binance announcement: Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-11-13)",
+    "tags": [
+      "on",
+      "cross",
+      "binance",
+      "update",
+      "margin",
+      "ratio",
+      "under"
+    ],
+    "fetched_at": "2026-11-10T12:23:07.857134Z"
+  },
+  {
+    "id": "binance_9ef6e347da924cdc90f53577ab483b1f",
+    "title": "Important: Transactions with Certain Crypto Platforms",
+    "platform": "binance",
+    "content_type": "announcement",
+    "url": "https://www.binance.com/en/support/announcement/9ef6e347da924cdc90f53577ab483b1f",
+    "published_at": "2026-11-10T08:30:07.492000Z",
+    "engagement": 0,
+    "summary": "Binance announcement: Important: Transactions with Certain Crypto Platforms",
+    "tags": [
+      "binance",
+      "crypto"
+    ],
+    "fetched_at": "2026-11-10T12:23:07.857146Z"
+  },
+  {
     "id": "binance_95224ce8010046e790f1558283a8a4cf",
     "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-11)",
     "platform": "binance",
@@ -10,12 +65,12 @@
     "summary": "Binance announcement: Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-11)",
     "tags": [
       "on",
-      "size",
-      "tick",
+      "futures",
       "binance",
-      "futures"
+      "size",
+      "tick"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998142Z"
+    "fetched_at": "2026-11-10T12:23:07.857161Z"
   },
   {
     "id": "binance_dfd8cf5e698146ce83b560026529a752",
@@ -28,12 +83,12 @@
     "summary": "Binance announcement: Binance Futures Will Adjust The Contract Size of USDⓈ-Margined BITOUSDT Perpetual Contract (2026-11-19)",
     "tags": [
       "adjust",
-      "size",
-      "of",
+      "futures",
       "binance",
-      "futures"
+      "size",
+      "of"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998158Z"
+    "fetched_at": "2026-11-10T12:23:07.857175Z"
   },
   {
     "id": "binance_9a4535f2f65149f1a09932fbefa11c7a",
@@ -48,7 +103,7 @@
       "binance",
       "on"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998169Z"
+    "fetched_at": "2026-11-10T12:23:07.857184Z"
   },
   {
     "id": "binance_a2dd10b860a14c35a856fe9d66d6032c",
@@ -60,14 +115,14 @@
     "engagement": 0,
     "summary": "Binance announcement: Recovery Update #9: Withdrawals for More Assets to Reopen (2026-11-06)",
     "tags": [
-      "more",
-      "to",
-      "assets",
       "reopen",
       "binance",
-      "update"
+      "update",
+      "to",
+      "assets",
+      "more"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998178Z"
+    "fetched_at": "2026-11-10T12:23:07.857198Z"
   },
   {
     "id": "binance_f3b32b406278474ab27c02685b33540c",
@@ -80,14 +135,14 @@
     "summary": "Binance announcement: Binance Will Support the International Business Machines Corporation (IBM), Apple Inc. (AAPL), Corning Incorporated (GLW), and Eli Lilly and Company (LLY) Cash Dividend Distribution via bStocks",
     "tags": [
       "apple",
-      "lilly",
-      "lly",
+      "binance",
       "eli",
       "cash",
-      "binance",
-      "via"
+      "via",
+      "lilly",
+      "lly"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998192Z"
+    "fetched_at": "2026-11-10T12:23:07.857214Z"
   },
   {
     "id": "binance_c88b113255244de1953dd416c4806bc3",
@@ -99,12 +154,12 @@
     "engagement": 0,
     "summary": "Binance announcement: Important Updates on Dividend Adjustment Process of SAMSUNGUSDT TradFi Perpetual Contract (2026-11-06)",
     "tags": [
-      "tradfi",
-      "of",
       "binance",
-      "on"
+      "on",
+      "tradfi",
+      "of"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998201Z"
+    "fetched_at": "2026-11-10T12:23:07.857225Z"
   },
   {
     "id": "binance_a225a3b6084c41dc8c8dfb33f4de5872",
@@ -116,14 +171,14 @@
     "engagement": 0,
     "summary": "Binance announcement: Security Incident | Recovery Update #8: Withdrawals for More Assets to Reopen (2026-11-05)",
     "tags": [
-      "more",
-      "to",
-      "assets",
       "reopen",
       "binance",
-      "update"
+      "update",
+      "to",
+      "assets",
+      "more"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998210Z"
+    "fetched_at": "2026-11-10T12:23:07.857236Z"
   },
   {
     "id": "binance_c6ba9aa726974fc6b9332a2c8f63b405",
@@ -135,15 +190,15 @@
     "engagement": 0,
     "summary": "Binance announcement: Security Incident | Recovery Update #7: 98% of Stolen Assets Replenished and New PoR Snapshot With Expanded Coverage (2026-11-04)",
     "tags": [
-      "stolen",
-      "new",
-      "of",
       "por",
-      "assets",
+      "stolen",
       "binance",
-      "update"
+      "update",
+      "of",
+      "new",
+      "assets"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998219Z"
+    "fetched_at": "2026-11-10T12:23:07.857250Z"
   },
   {
     "id": "binance_e3424d3a781841eb8b507bc694c0ca3a",
@@ -155,13 +210,13 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Futures Updates Trading Fee Discount for TradFi Perps (2026-11-04)",
     "tags": [
+      "futures",
       "binance",
-      "perps",
       "fee",
-      "tradfi",
-      "futures"
+      "perps",
+      "tradfi"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998227Z"
+    "fetched_at": "2026-11-10T12:23:07.857260Z"
   },
   {
     "id": "binance_2d83c325ab6e49c6bd6c5de8803b11a6",
@@ -173,13 +228,13 @@
     "engagement": 0,
     "summary": "Binance announcement: Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)",
     "tags": [
-      "more",
-      "assets",
       "reopen",
       "binance",
-      "update"
+      "update",
+      "assets",
+      "more"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998235Z"
+    "fetched_at": "2026-11-10T12:23:07.857270Z"
   },
   {
     "id": "binance_185bd9a4717f44088b3be70287b8237f",
@@ -191,18 +246,18 @@
     "engagement": 0,
     "summary": "Binance announcement: Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users as ZK Proof Generated (2026-11-02)",
     "tags": [
-      "fully",
-      "users",
+      "por",
+      "now",
       "proof",
       "as",
-      "zk",
-      "por",
-      "by",
-      "now",
       "binance",
-      "update"
+      "update",
+      "by",
+      "zk",
+      "fully",
+      "users"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998245Z"
+    "fetched_at": "2026-11-10T12:23:07.857284Z"
   },
   {
     "id": "binance_73911fb819b240f88b88256bdd318eda",
@@ -214,13 +269,13 @@
     "engagement": 0,
     "summary": "Binance announcement: Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)",
     "tags": [
-      "phases",
-      "resume",
-      "in",
       "binance",
-      "update"
+      "update",
+      "resume",
+      "phases",
+      "in"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998252Z"
+    "fetched_at": "2026-11-10T12:23:07.857294Z"
   },
   {
     "id": "binance_1fdf1f61559c401da0435895ffcccb62",
@@ -234,12 +289,12 @@
     "tags": [
       "stolen",
       "proof",
-      "of",
-      "assets",
       "binance",
-      "update"
+      "update",
+      "of",
+      "assets"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998260Z"
+    "fetched_at": "2026-11-10T12:23:07.857307Z"
   },
   {
     "id": "binance_d3306d9dca5243548c813b605e1d1751",
@@ -254,7 +309,7 @@
       "binance",
       "update"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998265Z"
+    "fetched_at": "2026-11-10T12:23:07.857318Z"
   },
   {
     "id": "binance_eb1fb9e5f41f43b682332aff0b7b89ce",
@@ -266,10 +321,10 @@
     "engagement": 0,
     "summary": "Binance announcement: Predict (PREDICT) Listing Will Be Postponed",
     "tags": [
-      "be",
-      "binance"
+      "binance",
+      "be"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998271Z"
+    "fetched_at": "2026-11-10T12:23:07.857325Z"
   },
   {
     "id": "binance_c5a8729a97ac486d963784d96c5642d7",
@@ -284,7 +339,7 @@
       "binance",
       "update"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998277Z"
+    "fetched_at": "2026-11-10T12:23:07.857332Z"
   },
   {
     "id": "binance_58d55610f5954d6c867bfa71658585dd",
@@ -298,11 +353,11 @@
     "tags": [
       "notice",
       "on",
-      "token",
+      "binance",
       "airdrop",
-      "binance"
+      "token"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998284Z"
+    "fetched_at": "2026-11-10T12:23:07.857343Z"
   },
   {
     "id": "binance_237608b847954d4f9e2c73d7c66b22ad",
@@ -314,15 +369,15 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Earn Yield Arena: Earn Up to 35% APR With This Week’s New Limited-Time Offers! (2026-10-28)",
     "tags": [
+      "up",
+      "earn",
+      "binance",
       "to",
       "this",
-      "earn",
-      "up",
       "new",
-      "yield",
-      "binance"
+      "yield"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998296Z"
+    "fetched_at": "2026-11-10T12:23:07.857358Z"
   },
   {
     "id": "binance_4f406308840549ffb8fdaac9873c25a8",
@@ -334,13 +389,13 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Futures Updates Trading Fee Discount for TradFi Perps (2026-11-05)",
     "tags": [
+      "futures",
       "binance",
-      "perps",
       "fee",
-      "tradfi",
-      "futures"
+      "perps",
+      "tradfi"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998302Z"
+    "fetched_at": "2026-11-10T12:23:07.857372Z"
   },
   {
     "id": "binance_8d59d768fac54356b6038b41b0d0145f",
@@ -352,14 +407,14 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Futures Will Apply Last Price Protected Mechanism on USDⓈ-Margined BULLAUSDT Perpetual Contract (2026-10-28)",
     "tags": [
-      "apply",
+      "price",
       "on",
-      "last",
-      "binance",
       "futures",
-      "price"
+      "binance",
+      "apply",
+      "last"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998312Z"
+    "fetched_at": "2026-11-10T12:23:07.857385Z"
   },
   {
     "id": "binance_5b6849270abd4e41a98d94abbf7b28f0",
@@ -373,13 +428,13 @@
     "tags": [
       "on",
       "cross",
-      "margin",
-      "ratio",
       "binance",
       "update",
+      "margin",
+      "ratio",
       "under"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998324Z"
+    "fetched_at": "2026-11-10T12:23:07.857396Z"
   },
   {
     "id": "binance_98f858ce2402474a88369532d54494ef",
@@ -391,15 +446,15 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance to Adjust Leverage on Select Isolated Margin Trading Pairs",
     "tags": [
-      "to",
-      "on",
       "adjust",
-      "margin",
+      "on",
       "pairs",
-      "select",
-      "binance"
+      "binance",
+      "margin",
+      "to",
+      "select"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998333Z"
+    "fetched_at": "2026-11-10T12:23:07.857407Z"
   },
   {
     "id": "binance_4688df6f250848478383acf772a7424c",
@@ -412,12 +467,12 @@
     "summary": "Binance announcement: Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-10-28)",
     "tags": [
       "on",
-      "size",
-      "tick",
+      "futures",
       "binance",
-      "futures"
+      "size",
+      "tick"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998341Z"
+    "fetched_at": "2026-11-10T12:23:07.857419Z"
   },
   {
     "id": "binance_b3609ecc681f4be1a56da77f5fd26c9f",
@@ -429,14 +484,14 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Will Support the ASML Holding N.V. (ASML) and Nokia Corporation (NOK) Cash Dividend Distribution via bStocks",
     "tags": [
-      "nokia",
-      "nok",
       "asml",
-      "cash",
+      "nok",
       "binance",
+      "cash",
+      "nokia",
       "via"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998350Z"
+    "fetched_at": "2026-11-10T12:23:07.857434Z"
   },
   {
     "id": "binance_929cf3d29e21443fad70c9eca98bed23",
@@ -448,14 +503,14 @@
     "engagement": 0,
     "summary": "Binance announcement: Updates on Tick Size for Spot Trading Pairs (2026-10-29)",
     "tags": [
-      "spot",
       "on",
-      "size",
-      "tick",
       "pairs",
-      "binance"
+      "binance",
+      "size",
+      "spot",
+      "tick"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998357Z"
+    "fetched_at": "2026-11-10T12:23:07.857444Z"
   },
   {
     "id": "binance_0308cba2eb53446e8207e7b227106fc5",
@@ -467,11 +522,11 @@
     "engagement": 0,
     "summary": "Binance announcement: Important Updates on TradFi Perpetual Contracts (2026-10-21)",
     "tags": [
-      "tradfi",
       "binance",
-      "on"
+      "on",
+      "tradfi"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998364Z"
+    "fetched_at": "2026-11-10T12:23:07.857452Z"
   },
   {
     "id": "binance_665c0fe4e9d24b8f8e26f2190d125b57",
@@ -483,16 +538,16 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Earn Yield Arena: Earn Up to 5,888 USDC With This Week’s New Limited-Time Offers! (2026-10-21)",
     "tags": [
+      "up",
+      "earn",
+      "usdc",
+      "binance",
       "to",
       "this",
-      "earn",
-      "up",
       "new",
-      "usdc",
-      "yield",
-      "binance"
+      "yield"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998379Z"
+    "fetched_at": "2026-11-10T12:23:07.857469Z"
   },
   {
     "id": "binance_84b9812b7a88404baedec318c5d60b37",
@@ -505,12 +560,12 @@
     "summary": "Binance announcement: Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-10-22)",
     "tags": [
       "on",
-      "size",
-      "tick",
+      "futures",
       "binance",
-      "futures"
+      "size",
+      "tick"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998386Z"
+    "fetched_at": "2026-11-10T12:23:07.857479Z"
   },
   {
     "id": "binance_4de277a9d372407f85c05ae3e7e54e03",
@@ -522,12 +577,12 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Margin Will Initiate Routine Cleanup of Small-Balance Debt Accounts (2026-10-27)",
     "tags": [
-      "of",
+      "binance",
       "margin",
-      "debt",
-      "binance"
+      "of",
+      "debt"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998393Z"
+    "fetched_at": "2026-11-10T12:23:07.857489Z"
   },
   {
     "id": "binance_7d76e6a921024e09a91523f983503014",
@@ -541,13 +596,13 @@
     "tags": [
       "on",
       "cross",
-      "margin",
-      "ratio",
       "binance",
       "update",
+      "margin",
+      "ratio",
       "under"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998401Z"
+    "fetched_at": "2026-11-10T12:23:07.857500Z"
   },
   {
     "id": "binance_dfdb6d70a9c24ba19b814fbd92b516d4",
@@ -561,12 +616,12 @@
     "tags": [
       "on",
       "tiers",
-      "margin",
-      "of",
       "binance",
-      "update"
+      "update",
+      "margin",
+      "of"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998409Z"
+    "fetched_at": "2026-11-10T12:23:07.857514Z"
   },
   {
     "id": "binance_1a5f87ab3b77476b9ad0177b560e3054",
@@ -578,13 +633,13 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance to Support 24/7 Dynamic Updates of the bStocks Collateral Index Price",
     "tags": [
+      "price",
+      "binance",
       "to",
       "of",
-      "index",
-      "binance",
-      "price"
+      "index"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998417Z"
+    "fetched_at": "2026-11-10T12:23:07.857524Z"
   },
   {
     "id": "binance_c50ffc85804f45f08d0d7727ea508157",
@@ -596,11 +651,11 @@
     "engagement": 0,
     "summary": "Binance announcement: Introducing Binance AI Pro",
     "tags": [
-      "pro",
       "binance",
-      "ai"
+      "ai",
+      "pro"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998423Z"
+    "fetched_at": "2026-11-10T12:23:07.857531Z"
   },
   {
     "id": "binance_2a76c51632a14a3ebfb1910e3fc3ae4d",
@@ -613,11 +668,11 @@
     "summary": "Binance announcement: Binance Will Support Dell Technologies (DELL) Cash Dividend Distribution via bStocks",
     "tags": [
       "cash",
-      "dell",
       "binance",
-      "via"
+      "via",
+      "dell"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998430Z"
+    "fetched_at": "2026-11-10T12:23:07.857544Z"
   },
   {
     "id": "binance_d9c84b68e9ab4ef29bee0cc53dfdabd2",
@@ -629,18 +684,18 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Square is Upgrading Write to Earn – Create Engaging Content, Grow Your Community, and Earn More",
     "tags": [
-      "more",
-      "to",
+      "earn",
       "your",
       "binance",
-      "create",
-      "earn",
-      "grow",
       "write",
+      "create",
+      "grow",
+      "to",
+      "square",
       "is",
-      "square"
+      "more"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998443Z"
+    "fetched_at": "2026-11-10T12:23:07.857563Z"
   },
   {
     "id": "binance_9fe16193d2ca442ca4d0fca0d608c910",
@@ -652,13 +707,13 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Launches Covered Call & Cash-Secured Put — Short Options Strategies Now Available",
     "tags": [
-      "put",
       "now",
+      "binance",
+      "put",
       "call",
-      "short",
-      "binance"
+      "short"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998452Z"
+    "fetched_at": "2026-11-10T12:23:07.857575Z"
   },
   {
     "id": "binance_74f92a17a4c84cf09c692a6010362c27",
@@ -670,11 +725,11 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Updates Limited-Time Promotion for bStocks in Spot Liquidity Provider Program (2026-10-19)",
     "tags": [
+      "binance",
       "spot",
-      "in",
-      "binance"
+      "in"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998458Z"
+    "fetched_at": "2026-11-10T12:23:07.857585Z"
   },
   {
     "id": "binance_a9475eff52e14f478602c311cc617bd1",
@@ -688,14 +743,14 @@
     "tags": [
       "notice",
       "on",
+      "binance",
+      "stock",
+      "stocks",
       "adr",
       "fees",
-      "stocks",
-      "us",
-      "stock",
-      "binance"
+      "us"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998467Z"
+    "fetched_at": "2026-11-10T12:23:07.857599Z"
   },
   {
     "id": "binance_fb7e0a5a94f64ce59a07bdc9fb58ddb7",
@@ -707,16 +762,16 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Earn Yield Arena: Earn Up to 5,888 USDC With This Week’s New Limited-Time Offers! (2026-10-14)",
     "tags": [
+      "up",
+      "earn",
+      "usdc",
+      "binance",
       "to",
       "this",
-      "earn",
-      "up",
       "new",
-      "usdc",
-      "yield",
-      "binance"
+      "yield"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998479Z"
+    "fetched_at": "2026-11-10T12:23:07.857613Z"
   },
   {
     "id": "binance_7157d432816e455dbf9fe7f3e452b0cf",
@@ -729,12 +784,12 @@
     "summary": "Binance announcement: Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-10-15)",
     "tags": [
       "on",
-      "size",
-      "tick",
+      "futures",
       "binance",
-      "futures"
+      "size",
+      "tick"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998487Z"
+    "fetched_at": "2026-11-10T12:23:07.857623Z"
   },
   {
     "id": "binance_79f36518401b4187b46d52e87bb2c286",
@@ -748,13 +803,13 @@
     "tags": [
       "on",
       "cross",
-      "margin",
-      "ratio",
       "binance",
       "update",
+      "margin",
+      "ratio",
       "under"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998497Z"
+    "fetched_at": "2026-11-10T12:23:07.857633Z"
   },
   {
     "id": "binance_05022e46363c4b17bbe81c5600f13526",
@@ -768,12 +823,12 @@
     "tags": [
       "on",
       "tiers",
-      "margin",
-      "of",
       "binance",
-      "update"
+      "update",
+      "margin",
+      "of"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998505Z"
+    "fetched_at": "2026-11-10T12:23:07.857643Z"
   },
   {
     "id": "binance_2b45800173fd44f48b4517f25f941434",
@@ -787,11 +842,11 @@
     "tags": [
       "notice",
       "on",
-      "of",
       "pool",
-      "binance"
+      "binance",
+      "of"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998511Z"
+    "fetched_at": "2026-11-10T12:23:07.857653Z"
   },
   {
     "id": "binance_7219bc2f011b43fbab5f68a93398196d",
@@ -803,12 +858,12 @@
     "engagement": 0,
     "summary": "Binance announcement: Meet Binance AI: A Personalized Trading Experience for Every User",
     "tags": [
+      "binance",
       "user",
       "meet",
-      "binance",
       "every"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998518Z"
+    "fetched_at": "2026-11-10T12:23:07.857662Z"
   },
   {
     "id": "binance_2f6fa2926253415a81def145af35014e",
@@ -820,12 +875,12 @@
     "engagement": 0,
     "summary": "Binance announcement: Introducing Auto Order Routing for Spot Trading",
     "tags": [
-      "order",
-      "spot",
       "binance",
-      "auto"
+      "auto",
+      "order",
+      "spot"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998524Z"
+    "fetched_at": "2026-11-10T12:23:07.857672Z"
   },
   {
     "id": "binance_0dfee98051814fccb9f18ce49b8425bb",
@@ -837,16 +892,16 @@
     "engagement": 0,
     "summary": "Binance announcement: Binance Will Extend the Monitoring Tag to Include BICO & CVC on 2026-10-09",
     "tags": [
-      "bico",
-      "to",
       "on",
-      "monitoring",
-      "extend",
+      "binance",
       "tag",
+      "bico",
+      "monitoring",
+      "to",
       "cvc",
-      "binance"
+      "extend"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998532Z"
+    "fetched_at": "2026-11-10T12:23:07.857697Z"
   },
   {
     "id": "binance_74c7657a53f141e8b2d584bf44e6dd87",
@@ -860,70 +915,12 @@
     "tags": [
       "on",
       "cross",
-      "margin",
-      "ratio",
       "binance",
       "update",
+      "margin",
+      "ratio",
       "under"
     ],
-    "fetched_at": "2026-11-10T03:20:51.998539Z"
-  },
-  {
-    "id": "binance_857a0d3d304045c4bf633885d4ec4707",
-    "title": "Binance Will Support Marvell Technology (MRVL) and Oracle Corporation (ORCL) Cash Dividend Distribution via bStocks",
-    "platform": "binance",
-    "content_type": "announcement",
-    "url": "https://www.binance.com/en/support/announcement/857a0d3d304045c4bf633885d4ec4707",
-    "published_at": "2026-10-06T05:00:01.912000Z",
-    "engagement": 0,
-    "summary": "Binance announcement: Binance Will Support Marvell Technology (MRVL) and Oracle Corporation (ORCL) Cash Dividend Distribution via bStocks",
-    "tags": [
-      "orcl",
-      "mrvl",
-      "oracle",
-      "cash",
-      "binance",
-      "via"
-    ],
-    "fetched_at": "2026-11-10T03:20:51.998553Z"
-  },
-  {
-    "id": "binance_21b54c9e5d1d44268cd2607aba8cd3a6",
-    "title": "Updates on International Virtual Asset Transfer Procedures in Brazil",
-    "platform": "binance",
-    "content_type": "announcement",
-    "url": "https://www.binance.com/en/support/announcement/21b54c9e5d1d44268cd2607aba8cd3a6",
-    "published_at": "2026-10-02T13:00:20.325000Z",
-    "engagement": 0,
-    "summary": "Binance announcement: Updates on International Virtual Asset Transfer Procedures in Brazil",
-    "tags": [
-      "brazil",
-      "on",
-      "in",
-      "asset",
-      "binance"
-    ],
-    "fetched_at": "2026-11-10T03:20:51.998560Z"
-  },
-  {
-    "id": "binance_00c1d7068e6a473684e5ea9596fafc8e",
-    "title": "Binance Earn Yield Arena: Earn Up to 5,888 USDC With This Week's New Limited-Time Offers! (2026-09-30)",
-    "platform": "binance",
-    "content_type": "announcement",
-    "url": "https://www.binance.com/en/support/announcement/00c1d7068e6a473684e5ea9596fafc8e",
-    "published_at": "2026-09-30T07:00:01.479000Z",
-    "engagement": 0,
-    "summary": "Binance announcement: Binance Earn Yield Arena: Earn Up to 5,888 USDC With This Week's New Limited-Time Offers! (2026-09-30)",
-    "tags": [
-      "to",
-      "this",
-      "earn",
-      "up",
-      "new",
-      "usdc",
-      "yield",
-      "binance"
-    ],
-    "fetched_at": "2026-11-10T03:20:51.998588Z"
+    "fetched_at": "2026-11-10T12:23:07.857708Z"
   }
 ]
