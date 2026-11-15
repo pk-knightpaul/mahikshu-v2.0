@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df",
+    "title": "🏛️ [Uniswap] Upgrade VolatilePair hook and update X Layer Releaser",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/uniswapgovernance.eth/proposal/0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df",
+    "published_at": "2026-11-15T20:34:33Z",
+    "engagement": 3,
+    "summary": "### Summary\n\nAs part of regular governance upkeep, Uniswap Labs reviews the protocol infrastructure that governance owns and brings forward improvemen...",
+    "tags": [
+      "governance",
+      "uniswapgovernance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
+  },
+  {
+    "id": "snapshot_0xec9a4b6fe5c652edf34f7f63047180473e7d51247d7ecc68deeeb2d3e5a65f85",
+    "title": "🏛️ [Threshold Network] TIP-111: Replace RebateStaking with a Peg-Keeper Allowlist",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/threshold.eth/proposal/0xec9a4b6fe5c652edf34f7f63047180473e7d51247d7ecc68deeeb2d3e5a65f85",
+    "published_at": "2026-11-15T20:22:51Z",
+    "engagement": 3,
+    "summary": "**Vote Type:** Snapshot\n\n**Original Discussion:** https://forum.threshold.network/t/replace-rebatestaking-contract-with-peg-keeper-allowlist/1190\n\n## ...",
+    "tags": [
+      "governance",
+      "threshold.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
+  },
+  {
     "id": "snapshot_0x2b48cbd82ecd049701e7d2f1477f5dfcbe812006ef4c6b332d52a402d073ba04",
     "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1525",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x9dafa2fb3c7e90f4a89a7e25a4ae41f1c6614650d96ccd001d3e823dd990a9c8",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0xfbdb711bdacb24671f58b3b1449d35c24b598741a64ff27244b69c9632bb85af",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0xcbff9234ecc197229b3fefad95ecaf61c230928cfebd8d03bdb989480bd9456e",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x3a61c64d6f7d0546d76c8b7d93d29becf262a30240109c4ea9fa8d067ad6c2e2",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x9f85f771d850343669aff948ae9e7c5777d4dab883489346641ddd98354a60f4",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x3dcfb75378e32c0353ba64e94ed89d8ababe9be1f4acf0fd7597c1e9134a1aaa",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0xa94bf720f8f2bdd5a0af868bef615e5e910ff47ce6c7bdf29bfb4e70dcce6b00",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0xf2c95bb4273eb66ccf7fb5a57beaac3608e4624d7659869c660adfdd00a51104",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0xf26908a633c7cd8866b50c1b3d66466e62eb0fbde9900ac52e0ce9484758a7a2",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x2887e0c342a8984e6648af42ec2737ceca725f7fddc9c47842c35bb7f9cdbe49",
@@ -184,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x6910f1e7fafaa4f1dd003503fd025752d0de4fbcc9a46c69cad59941bfd35b4d",
@@ -201,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x397bc57c2ba18801e1e58da23e047cd037bb15bae4db224b9d1f941be5ec8fe0",
@@ -218,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x975d269abc414b866b9935eb2de2651b8dee7fa9c2f54d8a6019b499ac907912",
@@ -235,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0xe76789c0ed88b4a0bc04c9796c17b90e50eda177350c632c83404fb941767b7b",
@@ -252,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x4c9fa37f8d6fd5b7a51cf4f5557cab82aa33414c41e03693e7367d952bbde633",
@@ -269,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x8b769671c82bdea196d93e5f83d5000f94be2994c9efcb72b380002cb2dd05fe",
@@ -286,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   },
   {
     "id": "snapshot_0x3205424f70b7171824e92a6d02fd8f810e3c85d7bdc0b7d0c622f662c06d5409",
@@ -303,40 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
-  },
-  {
-    "id": "snapshot_0x778b62490594333768b3ac2340c05dad36cf53c436fbb43b63ca30e6f9f27c0c",
-    "title": "🏛️ [Safe Vote Test] Safe vote test 1",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/safevotetest4abd.eth/proposal/0x778b62490594333768b3ac2340c05dad36cf53c436fbb43b63ca30e6f9f27c0c",
-    "published_at": "2026-11-12T12:44:43Z",
-    "engagement": 2,
-    "summary": "Test proposal. A Safe whose owner can only send transactions votes here with an on-chain signature.",
-    "tags": [
-      "governance",
-      "safevotetest4abd.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
-  },
-  {
-    "id": "snapshot_0xefca6aa727e1bef4183c0427510a8091c522aec1eaf4b98d911aed577d9595ef",
-    "title": "🏛️ [Aave DAO] [ARFC] Extend HyperLend's Friendly Fork Recognition to Elysium (Aave v3.7)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0xefca6aa727e1bef4183c0427510a8091c522aec1eaf4b98d911aed577d9595ef",
-    "published_at": "2026-11-12T18:20:54Z",
-    "engagement": 3,
-    "summary": "**Title:** [ARFC] Extend HyperLend's Friendly Fork Recognition to Elysium (Aave v3.7)\n**Author:** HyperLend Team\n**Date:** 2026-11-11\n\n***\n\n## **Summa...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-15T16:53:41.995393Z"
+    "fetched_at": "2026-11-15T21:35:40.316922Z"
   }
 ]
