@@ -1,5 +1,107 @@
 [
   {
+    "id": "snapshot_0x1b3082119847664352062bfaeb6b42b2859815324e139b65115f325d9e95f51b",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1527",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x1b3082119847664352062bfaeb6b42b2859815324e139b65115f325d9e95f51b",
+    "published_at": "2026-11-17T18:17:10Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1527.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1527-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
+  },
+  {
+    "id": "snapshot_0x778b833a3ff714352912879d80f4b31fc23dcb97bf60aee042621bbdede1b36a",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following stableswapNG pool: bdUSD/MUSD on Mainnet (Bitcoin Dollar",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x778b833a3ff714352912879d80f4b31fc23dcb97bf60aee042621bbdede1b36a",
+    "published_at": "2026-11-17T17:33:26Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1527-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
+  },
+  {
+    "id": "snapshot_0xbc872577f2216710016d993da6a4d08f3a750045541b3a2fe9af25b22c0874cc",
+    "title": "🏛️ [K.I.N.G. DAO] Kong Kristmas",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/kongsdao.eth/proposal/0xbc872577f2216710016d993da6a4d08f3a750045541b3a2fe9af25b22c0874cc",
+    "published_at": "2026-11-17T16:28:19Z",
+    "engagement": 3,
+    "summary": "Vote to approve our 4th annual Kong Kristmas\n\nhttps://discord.com/channels/906638337387950171/906703408499662868/1572286256480522312",
+    "tags": [
+      "governance",
+      "kongsdao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
+  },
+  {
+    "id": "snapshot_0x605afa47aecb562f3139738e674f4017ed1ab795c5eac4cadd5ac3376a2dd507",
+    "title": "🏛️ [1inch Network] 1INCH Governance Proposal: Restore Staking Rewards or Eliminate Early Withdrawal Penalties",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/1inch.eth/proposal/0x605afa47aecb562f3139738e674f4017ed1ab795c5eac4cadd5ac3376a2dd507",
+    "published_at": "2026-11-17T17:27:22Z",
+    "engagement": 2,
+    "summary": "On November 11, 2026, resolver delegation farms were deprecated, effectively ending an important reward mechanism for holders who staked and locked th...",
+    "tags": [
+      "governance",
+      "1inch.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
+  },
+  {
+    "id": "snapshot_0x88f3325d7aa723ec9de63813a1a425daf01f07657ba154c74da331c60d9ec309",
+    "title": "🏛️ [Telcoin Platform Council] TELIP: Funding Request for TELx Merkl Integration on Telcoin Network",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/telcoinplatformcouncil.eth/proposal/0x88f3325d7aa723ec9de63813a1a425daf01f07657ba154c74da331c60d9ec309",
+    "published_at": "2026-11-17T13:59:53Z",
+    "engagement": 3,
+    "summary": "**Summary**\n\nThis proposal requests approval from the Platform Council and subsequent authorization from the Treasury Council to allocate funds from t...",
+    "tags": [
+      "governance",
+      "telcoinplatformcouncil.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
+  },
+  {
+    "id": "snapshot_0x72b6dffd9ac6b3fbe6b3cff180e3f372d05ccfcdf1714c63fed311e000697aaf",
+    "title": "🏛️ [GnosisDAO] GIP-157: Should GnosisDAO withdraw assets from the legacy DAO Safe to the treasury Safe?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/gnosis.eth/proposal/0x72b6dffd9ac6b3fbe6b3cff180e3f372d05ccfcdf1714c63fed311e000697aaf",
+    "published_at": "2026-11-17T13:17:44Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nThis proposal requests approval to transfer the assets listed below from GnosisDAO’s legacy Ethereum governance Safe to its treasury Safe....",
+    "tags": [
+      "governance",
+      "gnosis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
+  },
+  {
     "id": "snapshot_0xb887edf113468268bde2bdbab836b3b72975d23f91df0cbc97adc174fde45331",
     "title": "🏛️ [TELx Council] TELxIP: Deployment of TEL/WETH and TEL/eUSD Liquidity Pools on Telcoin Network & Incentive Rebalancing",
     "platform": "snapshot",
@@ -14,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x770167ab14b034e33e6215757b2a349cd9368927322dacc72161c55087b1ab7e",
@@ -31,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x5d714dd4d718bcffb760225d2edbe9b891ae72ac3b4f24abc28014f346ea4648",
@@ -48,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x1b95af6bbe37e3efddf5bad22ab62ee2e3ee436c1e62329092b9796e5075d322",
@@ -65,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0xf4b5267569df45f46d2155cea7809cfc27da508d44081fd327cca91c3d01a756",
@@ -82,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x215c22a53852685a173df65680e25be61187486bd920c10515e6f25a1c91ec4f",
@@ -99,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0xd8dc19ad1a81ef2e845106dfa54e45e8c9fec558dc3f79af8b373923fb05678e",
@@ -116,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x28780882407a7a45326f0d72a036c02cb4a48591813d7847afd87e30e8e17f8c",
@@ -133,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x65503933c85b5c813a350603a6f4be143e911f073ae17ff109aa978f494ae4bc",
@@ -150,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x8862cc2d5574b17aaa97108635ee39a260d7e8a710acb8928538361bbd22e2f4",
@@ -167,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x90961e226c594e9619089c549355502ead999955d2d24c27cd92d96408e5bec9",
@@ -184,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818",
@@ -201,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0x38093a3ead044a60511d1451ae04d0768e65b4ac32e19069c4d78335b64df61d",
@@ -218,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   },
   {
     "id": "snapshot_0xd408cac97373c636ce9ef5f0176eccf2a3dfdac3f2e5eddd8e589c58f2b193ff",
@@ -235,108 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
-  },
-  {
-    "id": "snapshot_0xd80bf15385e4f525108133bee1460b1907aabd1013b67821936fd52f3140793d",
-    "title": "🏛️ [Aave DAO] [ARFC] Dynamic Caps Oracle: Rate Limiter",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0xd80bf15385e4f525108133bee1460b1907aabd1013b67821936fd52f3140793d",
-    "published_at": "2026-11-17T09:28:37Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nLlamaRisk is building Aave's Risk Layer: automated risk solutions that make expert risk judgment verifiable, with every parameter, bound a...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
-  },
-  {
-    "id": "snapshot_0xa74e198ffb31add99a1319a4df99bc4306b1e2835f7b5679d7cb74fd959bf393",
-    "title": "🏛️ [PsyDAO] PDP-31: [For Profit Funding] Nectara — Mental Health Psychedelic Support Program",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/psydao.eth/proposal/0xa74e198ffb31add99a1319a4df99bc4306b1e2835f7b5679d7cb74fd959bf393",
-    "published_at": "2026-11-16T08:17:41Z",
-    "engagement": 3,
-    "summary": "**Requested Funding: $17,500**\n\n**Project Owner:** Pascal Tremblay, co-founder of Nectara (@pascaltremblay_57575)\n\n## Summary:\nA clinical-grade one-on...",
-    "tags": [
-      "governance",
-      "psydao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
-  },
-  {
-    "id": "snapshot_0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df",
-    "title": "🏛️ [Uniswap] Upgrade VolatilePair hook and update X Layer Releaser",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/uniswapgovernance.eth/proposal/0xd010fad9c1abd897c165f2ff93cee3d321251330c977cb354bb59ddf3ae713df",
-    "published_at": "2026-11-15T20:34:33Z",
-    "engagement": 3,
-    "summary": "### Summary\n\nAs part of regular governance upkeep, Uniswap Labs reviews the protocol infrastructure that governance owns and brings forward improvemen...",
-    "tags": [
-      "governance",
-      "uniswapgovernance.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
-  },
-  {
-    "id": "snapshot_0x7ed3e17373060128618599b425fd0b4312bea86fcd903a1aa99c2622403f7f98",
-    "title": "🏛️ [Aave DAO] Repositioning Aave V3 Core Around Established & Liquid Collateral",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/aavedao.eth/proposal/0x7ed3e17373060128618599b425fd0b4312bea86fcd903a1aa99c2622403f7f98",
-    "published_at": "2026-11-16T13:53:56Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nLlamaRisk proposes to reposition Aave V3 Core as an instance for liquid, bluechip collateral, while the broader range of asset classes is ...",
-    "tags": [
-      "governance",
-      "aavedao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
-  },
-  {
-    "id": "snapshot_0x9dafa2fb3c7e90f4a89a7e25a4ae41f1c6614650d96ccd001d3e823dd990a9c8",
-    "title": "🏛️ [sdYB] 62# Donation APY and releverage fees for the WETH and BTC markets under the new pool policies",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x9dafa2fb3c7e90f4a89a7e25a4ae41f1c6614650d96ccd001d3e823dd990a9c8",
-    "published_at": "2026-11-14T18:57:52Z",
-    "engagement": 3,
-    "summary": "Curve vote 1525 [https://www.curve.finance/dao/ethereum/proposals/1525-ownership] attaches new YBOraclizedPolicy contracts, driven by Pyth Pro reports...",
-    "tags": [
-      "governance",
-      "sd-yieldbasis.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
-  },
-  {
-    "id": "snapshot_0xfbdb711bdacb24671f58b3b1449d35c24b598741a64ff27244b69c9632bb85af",
-    "title": "🏛️ [sdCRV-Governance] Attach YBOraclizedPolicy to the YieldBasis crvUSD/WETH, WBTC, cbBTC and\ntBTC pools (WETH 0xC4561F25034Bc70CED5f034E863dD150f2bA763a, WBTC\n0x8c8CD70277b02E24aa9afE3dbAD1Ee10443eff2D, cbBTC\n0xe28A23C5BfD057dd0Ed398Fa6bb9d33ABb41c044, tBTC\n0x4EacfB0B18302D...",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xfbdb711bdacb24671f58b3b1449d35c24b598741a64ff27244b69c9632bb85af",
-    "published_at": "2026-11-14T18:33:08Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1525-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-17T12:58:34.002782Z"
+    "fetched_at": "2026-11-17T21:41:00.325625Z"
   }
 ]
