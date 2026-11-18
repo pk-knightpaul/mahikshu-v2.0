@@ -1,5 +1,124 @@
 [
   {
+    "id": "snapshot_0xae83dfb1acf44ef54f65453aded016903166c91f2ab730c5705b6df1b0cb59d9",
+    "title": "🏛️ [Compound] Snapshot Governance: Updated Voting Framework",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/comp-vote.eth/proposal/0xae83dfb1acf44ef54f65453aded016903166c91f2ab730c5705b6df1b0cb59d9",
+    "published_at": "2026-11-18T19:32:47Z",
+    "engagement": 3,
+    "summary": "### Summary\n\nThis sentiment proposal introduces an updated voting framework for the comp-vote.eth Snapshot space. The framework sets eligibility crite...",
+    "tags": [
+      "governance",
+      "comp-vote.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
+  },
+  {
+    "id": "snapshot_0xa214c660a4ca6b3d682ee12529e529d41480192f242f5e686c1129613359d985",
+    "title": "🏛️ [Penpie] PIP #28 – Make the 0.75 PENDLE per mPENDLE Decommissioning Permanent and Claimable in sPENDLE, Buy Out and Burn 1,000,000 of Pendle’s PNP, and Remove Pendle from the Penpie Multisig",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/penpiexyz.eth/proposal/0xa214c660a4ca6b3d682ee12529e529d41480192f242f5e686c1129613359d985",
+    "published_at": "2026-11-18T19:30:00Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nThis proposal authorizes the Penpie contributors, acting through the treasury multisig, to implement the four arrangements below with Pend...",
+    "tags": [
+      "governance",
+      "penpiexyz.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
+  },
+  {
+    "id": "snapshot_0x55d7ddd44b6655e3957caa7ce4579cbc27096118b64eca81ecc2b1373bbf4345",
+    "title": "🏛️ [Cybro DAO] DAO Proposal: The Future of CYBRO",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cybroio.eth/proposal/0x55d7ddd44b6655e3957caa7ce4579cbc27096118b64eca81ecc2b1373bbf4345",
+    "published_at": "2026-11-18T17:21:03Z",
+    "engagement": 2,
+    "summary": "## Why Are We Voting?\n\nCYBRO is now approximately 2.5 years old. More than two years have passed since the first version of the product launched in Ju...",
+    "tags": [
+      "governance",
+      "cybroio.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
+  },
+  {
+    "id": "snapshot_0x3cf8780a5ae0e4a02c08649802001ccf891bc6b100f3cfe7885297744339e7e6",
+    "title": "🏛️ [Cybro DAO] DAO Proposal: Compensation for CYBRO Holders Affected by the Blast Shutdown",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cybroio.eth/proposal/0x3cf8780a5ae0e4a02c08649802001ccf891bc6b100f3cfe7885297744339e7e6",
+    "published_at": "2026-11-18T15:58:37Z",
+    "engagement": 4,
+    "summary": "## Background\n\nBlast announced its shutdown in early October 2026. Not all CYBRO holders managed to bridge their tokens to another chain before the sh...",
+    "tags": [
+      "governance",
+      "cybroio.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
+  },
+  {
+    "id": "snapshot_0xaedbb3d3969db093271bc74b85b764c015fb1d2ab7caf4469da852718c161ff7",
+    "title": "🏛️ [Gearbox] [GIP-294] Treasury Consolidation and Conversion to stablecoins",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/gearbox.eth/proposal/0xaedbb3d3969db093271bc74b85b764c015fb1d2ab7caf4469da852718c161ff7",
+    "published_at": "2026-11-18T14:29:36Z",
+    "engagement": 3,
+    "summary": "# Summary\n\nAuthorize the financial guard to consolidate the listed holdings on the [Ethereum fee-receiver multisig](https://etherscan.io/address/0x3E9...",
+    "tags": [
+      "governance",
+      "gearbox.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
+  },
+  {
+    "id": "snapshot_0xc81ea84dae0778f7f9109d11d00681150fe938426762d0499ad34c13dcaf544f",
+    "title": "🏛️ [Cartesi] Proposal: Permanently Renounce the CTSI MinterRole",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cartesi.eth/proposal/0xc81ea84dae0778f7f9109d11d00681150fe938426762d0499ad34c13dcaf544f",
+    "published_at": "2026-11-18T13:30:00Z",
+    "engagement": 2,
+    "summary": "The Cartesi Foundation proposes permanently renouncing the remaining MinterRole permissions on the existing CTSI token contract.\n\n**Summary:** Renounc...",
+    "tags": [
+      "governance",
+      "cartesi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
+  },
+  {
+    "id": "snapshot_0x95f0da73bd15022329008d70a96ee953613b4d1c9fcfe80f8fa13fd9c2cf8506",
+    "title": "🏛️ [WLTH] Proposal: Sell Anthropic private shares before listing at a fixed price of $75 per share",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/common-wealth.eth/proposal/0x95f0da73bd15022329008d70a96ee953613b4d1c9fcfe80f8fa13fd9c2cf8506",
+    "published_at": "2026-11-18T13:10:00Z",
+    "engagement": 2,
+    "summary": "This is a time sensitive vote to decide whether to sell the Anthropic private shares before the Nasdaq listing tomorrow at a fixed price of $75 per sh...",
+    "tags": [
+      "governance",
+      "common-wealth.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
+  },
+  {
     "id": "snapshot_0xeeb7c38f12e75238430133022f32b7399c76dfeea61739856aa1823422d6c6a7",
     "title": "🏛️ [Proof Of Humanity] [Consensus Check] Micro-Loans and Administration for Kleros Cooperative Registration",
     "platform": "snapshot",
@@ -14,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x38b9331ec9e1680ce0bd58cd68981c070d630c346b3edd438f8f818db7407a2a",
@@ -31,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x1b3082119847664352062bfaeb6b42b2859815324e139b65115f325d9e95f51b",
@@ -48,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x778b833a3ff714352912879d80f4b31fc23dcb97bf60aee042621bbdede1b36a",
@@ -65,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0xbc872577f2216710016d993da6a4d08f3a750045541b3a2fe9af25b22c0874cc",
@@ -82,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x605afa47aecb562f3139738e674f4017ed1ab795c5eac4cadd5ac3376a2dd507",
@@ -99,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x88f3325d7aa723ec9de63813a1a425daf01f07657ba154c74da331c60d9ec309",
@@ -116,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x72b6dffd9ac6b3fbe6b3cff180e3f372d05ccfcdf1714c63fed311e000697aaf",
@@ -133,24 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
-  },
-  {
-    "id": "snapshot_0xb887edf113468268bde2bdbab836b3b72975d23f91df0cbc97adc174fde45331",
-    "title": "🏛️ [TELx Council] TELxIP: Deployment of TEL/WETH and TEL/eUSD Liquidity Pools on Telcoin Network & Incentive Rebalancing",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/telxcouncil.eth/proposal/0xb887edf113468268bde2bdbab836b3b72975d23f91df0cbc97adc174fde45331",
-    "published_at": "2026-11-17T12:24:57Z",
-    "engagement": 3,
-    "summary": "TELxIP: Deployment of TEL/WETH and TEL/eUSD Liquidity Pools on Telcoin Network & Incentive Rebalancing\n\nSummary\n\nThis TELxIP proposes the deployment o...",
-    "tags": [
-      "governance",
-      "telxcouncil.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x770167ab14b034e33e6215757b2a349cd9368927322dacc72161c55087b1ab7e",
@@ -167,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x5d714dd4d718bcffb760225d2edbe9b891ae72ac3b4f24abc28014f346ea4648",
@@ -184,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x1b95af6bbe37e3efddf5bad22ab62ee2e3ee436c1e62329092b9796e5075d322",
@@ -201,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0xf4b5267569df45f46d2155cea7809cfc27da508d44081fd327cca91c3d01a756",
@@ -218,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   },
   {
     "id": "snapshot_0x215c22a53852685a173df65680e25be61187486bd920c10515e6f25a1c91ec4f",
@@ -235,108 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
-  },
-  {
-    "id": "snapshot_0xd8dc19ad1a81ef2e845106dfa54e45e8c9fec558dc3f79af8b373923fb05678e",
-    "title": "🏛️ [UMA Protocol] UMA Upgrade: Implementing the Dispute Router",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/uma.eth/proposal/0xd8dc19ad1a81ef2e845106dfa54e45e8c9fec558dc3f79af8b373923fb05678e",
-    "published_at": "2026-11-16T19:21:55Z",
-    "engagement": 2,
-    "summary": "# Summary\n\nThis proposal installs the Dispute Router, a contract that sits between the Optimistic Oracles on Polygon and the DVM. When a proposal is d...",
-    "tags": [
-      "governance",
-      "uma.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
-  },
-  {
-    "id": "snapshot_0x28780882407a7a45326f0d72a036c02cb4a48591813d7847afd87e30e8e17f8c",
-    "title": "🏛️ [Uniswap] Protocol Fee Expansion: v4 on Five More Chains",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/uniswapgovernance.eth/proposal/0x28780882407a7a45326f0d72a036c02cb4a48591813d7847afd87e30e8e17f8c",
-    "published_at": "2026-11-16T18:30:00Z",
-    "engagement": 3,
-    "summary": "_This proposal is part of the protocol fee rollout, following proposals #93, #94, #95, #96, #99, #100, and #102. It uses the expedited governance proc...",
-    "tags": [
-      "governance",
-      "uniswapgovernance.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
-  },
-  {
-    "id": "snapshot_0x65503933c85b5c813a350603a6f4be143e911f073ae17ff109aa978f494ae4bc",
-    "title": "🏛️ [Uniswap] Upgrade the v4 Protocol Fee Adapter",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/uniswapgovernance.eth/proposal/0x65503933c85b5c813a350603a6f4be143e911f073ae17ff109aa978f494ae4bc",
-    "published_at": "2026-11-16T18:30:00Z",
-    "engagement": 3,
-    "summary": "_This proposal is part of the protocol fee rollout, following proposals #93, #94, #95, #96, #99, #100, and #102. It uses the expedited governance proc...",
-    "tags": [
-      "governance",
-      "uniswapgovernance.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
-  },
-  {
-    "id": "snapshot_0x8862cc2d5574b17aaa97108635ee39a260d7e8a710acb8928538361bbd22e2f4",
-    "title": "🏛️ [ENS] [7.5] [Social] IPS Amendment No. 2: IPS Amendment Authority",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ens.eth/proposal/0x8862cc2d5574b17aaa97108635ee39a260d7e8a710acb8928538361bbd22e2f4",
-    "published_at": "2026-11-16T18:30:00Z",
-    "engagement": 3,
-    "summary": "## Summary\n\n[Next Era of ENS DAO: Empowering the ENS Foundation](https://discuss.ens.domains/t/next-era-of-ens-dao-empowering-the-ens-foundation/22329...",
-    "tags": [
-      "governance",
-      "ens.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
-  },
-  {
-    "id": "snapshot_0x90961e226c594e9619089c549355502ead999955d2d24c27cd92d96408e5bec9",
-    "title": "🏛️ [ENS] [7.4] [Social] IPS Amendment No. 1: Endowment Options Overlay",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/ens.eth/proposal/0x90961e226c594e9619089c549355502ead999955d2d24c27cd92d96408e5bec9",
-    "published_at": "2026-11-16T16:32:33Z",
-    "engagement": 3,
-    "summary": "About this Proposal\nThis proposal amends the ENS Endowment Investment Policy Statement (IPS v2.0, EP 6.46) to permit covered options writing as part o...",
-    "tags": [
-      "governance",
-      "ens.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
-  },
-  {
-    "id": "snapshot_0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818",
-    "title": "🏛️ [Lido] Final Proposal (Version 2): Comprehensive Reporting & Audit Standards, Strategic Communications, and Budget Optimization for EGG 2027",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/lido-snapshot.eth/proposal/0x3aabbd8287d143d0a6f695de0c209be7de59bb72faf5b9d2ed86078d0166b818",
-    "published_at": "2026-11-16T16:11:52Z",
-    "engagement": 2,
-    "summary": "1. Executive Summary\nFollowing up on the Governance Forum discussion Funding and Mandating an Independent Web3 Financial Audit & R&D Expenditures this...",
-    "tags": [
-      "governance",
-      "lido-snapshot.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T12:51:59.832700Z"
+    "fetched_at": "2026-11-18T21:15:18.260623Z"
   }
 ]
