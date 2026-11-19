@@ -1,5 +1,73 @@
 [
   {
+    "id": "snapshot_0xe7837bf1209b388558d4e2beed0160f73cde4fad79a7fe4012849c93195614b3",
+    "title": "🏛️ [sdFXN] Gauge vote FXN - 26/11/2026 - 9/12/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxn.eth/proposal/0xe7837bf1209b388558d4e2beed0160f73cde4fad79a7fe4012849c93195614b3",
+    "published_at": "2026-11-19T02:15:23Z",
+    "engagement": 36,
+    "summary": "Gauge vote for FXN inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxn.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
+  },
+  {
+    "id": "snapshot_0x679ea0bfa594140cce624fc024d59bee527a490cc127fbb5f4f7716c8f69079d",
+    "title": "🏛️ [sdYB] Gauge vote YB - 26/11/2026 - 9/12/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x679ea0bfa594140cce624fc024d59bee527a490cc127fbb5f4f7716c8f69079d",
+    "published_at": "2026-11-19T02:13:12Z",
+    "engagement": 4,
+    "summary": "Gauge vote for YB inflation allocation.",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
+  },
+  {
+    "id": "snapshot_0x0d32c129ceea51c12bacf857463bffd1156e01b90d5a42e1e6348c98744ee92c",
+    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 26/11/2026 - 9/12/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0x0d32c129ceea51c12bacf857463bffd1156e01b90d5a42e1e6348c98744ee92c",
+    "published_at": "2026-11-19T02:03:06Z",
+    "engagement": 121,
+    "summary": "Gauge vote for FXS inflation allocation.",
+    "tags": [
+      "governance",
+      "sdfxs.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
+  },
+  {
+    "id": "snapshot_0x7e22fd01421f9e4f05cb7ba6242486c1cb236aafa613fddf1cce3c3b7e4e3212",
+    "title": "🏛️ [Stake DAO CRV] Gauge vote CRV - 26/11/2026 - 9/12/2026",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv.eth/proposal/0x7e22fd01421f9e4f05cb7ba6242486c1cb236aafa613fddf1cce3c3b7e4e3212",
+    "published_at": "2026-11-19T02:00:54Z",
+    "engagement": 714,
+    "summary": "Gauge vote for CRV inflation allocation.",
+    "tags": [
+      "governance",
+      "sdcrv.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
+  },
+  {
     "id": "snapshot_0xae83dfb1acf44ef54f65453aded016903166c91f2ab730c5705b6df1b0cb59d9",
     "title": "🏛️ [Compound] Snapshot Governance: Updated Voting Framework",
     "platform": "snapshot",
@@ -14,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0xa214c660a4ca6b3d682ee12529e529d41480192f242f5e686c1129613359d985",
@@ -31,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x55d7ddd44b6655e3957caa7ce4579cbc27096118b64eca81ecc2b1373bbf4345",
@@ -48,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x3cf8780a5ae0e4a02c08649802001ccf891bc6b100f3cfe7885297744339e7e6",
@@ -65,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0xaedbb3d3969db093271bc74b85b764c015fb1d2ab7caf4469da852718c161ff7",
@@ -82,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0xc81ea84dae0778f7f9109d11d00681150fe938426762d0499ad34c13dcaf544f",
@@ -99,24 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
-  },
-  {
-    "id": "snapshot_0x95f0da73bd15022329008d70a96ee953613b4d1c9fcfe80f8fa13fd9c2cf8506",
-    "title": "🏛️ [WLTH] Proposal: Sell Anthropic private shares before listing at a fixed price of $75 per share",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/common-wealth.eth/proposal/0x95f0da73bd15022329008d70a96ee953613b4d1c9fcfe80f8fa13fd9c2cf8506",
-    "published_at": "2026-11-18T13:10:00Z",
-    "engagement": 2,
-    "summary": "This is a time sensitive vote to decide whether to sell the Anthropic private shares before the Nasdaq listing tomorrow at a fixed price of $75 per sh...",
-    "tags": [
-      "governance",
-      "common-wealth.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0xeeb7c38f12e75238430133022f32b7399c76dfeea61739856aa1823422d6c6a7",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x38b9331ec9e1680ce0bd58cd68981c070d630c346b3edd438f8f818db7407a2a",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x1b3082119847664352062bfaeb6b42b2859815324e139b65115f325d9e95f51b",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x778b833a3ff714352912879d80f4b31fc23dcb97bf60aee042621bbdede1b36a",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0xbc872577f2216710016d993da6a4d08f3a750045541b3a2fe9af25b22c0874cc",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x605afa47aecb562f3139738e674f4017ed1ab795c5eac4cadd5ac3376a2dd507",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x88f3325d7aa723ec9de63813a1a425daf01f07657ba154c74da331c60d9ec309",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x72b6dffd9ac6b3fbe6b3cff180e3f372d05ccfcdf1714c63fed311e000697aaf",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x770167ab14b034e33e6215757b2a349cd9368927322dacc72161c55087b1ab7e",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   },
   {
     "id": "snapshot_0x5d714dd4d718bcffb760225d2edbe9b891ae72ac3b4f24abc28014f346ea4648",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
-  },
-  {
-    "id": "snapshot_0x1b95af6bbe37e3efddf5bad22ab62ee2e3ee436c1e62329092b9796e5075d322",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1526",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0x1b95af6bbe37e3efddf5bad22ab62ee2e3ee436c1e62329092b9796e5075d322",
-    "published_at": "2026-11-17T00:17:37Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1526.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1526-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
-  },
-  {
-    "id": "snapshot_0xf4b5267569df45f46d2155cea7809cfc27da508d44081fd327cca91c3d01a756",
-    "title": "🏛️ [sdCRV-Governance] Add the MET/WETH pool on Ethereum to the Curve Gauge Controller",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xf4b5267569df45f46d2155cea7809cfc27da508d44081fd327cca91c3d01a756",
-    "published_at": "2026-11-17T00:04:12Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1526-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
-  },
-  {
-    "id": "snapshot_0x215c22a53852685a173df65680e25be61187486bd920c10515e6f25a1c91ec4f",
-    "title": "🏛️ [Threshold Network] TIP-111: Replace RebateStaking with a Peg-Keeper Allowlist",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/threshold.eth/proposal/0x215c22a53852685a173df65680e25be61187486bd920c10515e6f25a1c91ec4f",
-    "published_at": "2026-11-16T21:44:53Z",
-    "engagement": 3,
-    "summary": "**Vote Type:** Snapshot\n\n**Original Discussion:** https://forum.threshold.network/t/replace-rebatestaking-contract-with-peg-keeper-allowlist/1190\n\n## ...",
-    "tags": [
-      "governance",
-      "threshold.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-18T21:15:18.260623Z"
+    "fetched_at": "2026-11-19T03:03:16.116074Z"
   }
 ]
