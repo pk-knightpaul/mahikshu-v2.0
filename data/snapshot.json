@@ -1,5 +1,90 @@
 [
   {
+    "id": "snapshot_0x618e1dbb2d35008fa6ed626d4e6af416b7dadacfea8e949d743ee7d618665227",
+    "title": "🏛️ [Magpie] MIP #103 – Determine Magpie’s Stance on Penpie’s PIP #28",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/magpiexyz.eth/proposal/0x618e1dbb2d35008fa6ed626d4e6af416b7dadacfea8e949d743ee7d618665227",
+    "published_at": "2026-11-19T12:30:00Z",
+    "engagement": 3,
+    "summary": "## Abstract\n\nThis proposal seeks to determine Magpie’s stance on Penpie’s PIP #28, which proposes making the 0.75 PENDLE per mPENDLE decommissioning p...",
+    "tags": [
+      "governance",
+      "magpiexyz.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
+  },
+  {
+    "id": "snapshot_0x4f5aa0175dba1cb242e8b40437cfea572ce39c3ff8ee7c80202a123bcdcb4d61",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1528",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x4f5aa0175dba1cb242e8b40437cfea572ce39c3ff8ee7c80202a123bcdcb4d61",
+    "published_at": "2026-11-19T10:17:17Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1528.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1528-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
+  },
+  {
+    "id": "snapshot_0xdea98c1bf505cf7964776b65d10637e03e7213928b82a36ed3b1229831df109a",
+    "title": "🏛️ [sdCRV-Governance] Ramp A from 325 to 500 over ~1 week on the USG/USDC (0x97BA10115da528c113462EDE9C20D7adc806D93f) and USG/frxUSD (0xEfc056790bb19702b2164ec6Ea6bA3AE01d81195) Stableswap-NG pools on Ethereum.",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xdea98c1bf505cf7964776b65d10637e03e7213928b82a36ed3b1229831df109a",
+    "published_at": "2026-11-19T09:36:13Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1528-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
+  },
+  {
+    "id": "snapshot_0x0b0a0df683f7a167c67f13d5f4d908471cab33a245b046037b77634057f52e74",
+    "title": "🏛️ [Mantle (prev. BitDAO)] MIP-36: Recognition of Halo Prime as a Strategic Partner of Mantle",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/bitdao.eth/proposal/0x0b0a0df683f7a167c67f13d5f4d908471cab33a245b046037b77634057f52e74",
+    "published_at": "2026-11-19T08:35:33Z",
+    "engagement": 2,
+    "summary": "# [REVISED] MIP-36: Recognition of Halo Prime as a Strategic Partner of Mantle\n\n_Note: MIP-36 is resubmitted and revised based on community and delega...",
+    "tags": [
+      "governance",
+      "bitdao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
+  },
+  {
+    "id": "snapshot_0x61def13acf0b950de21c6efaf8a80b0718cc81b8204cbf88566f834117929b37",
+    "title": "🏛️ [Morpho] MIP 136 – List MidnightAdapter in Morpho Registry",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/morpho.eth/proposal/0x61def13acf0b950de21c6efaf8a80b0718cc81b8204cbf88566f834117929b37",
+    "published_at": "2026-11-19T07:09:56Z",
+    "engagement": 3,
+    "summary": "List the MidnightAdapter in the Morpho Registry, conditional on the completion of its security reviews and the integration of all resulting fixes.",
+    "tags": [
+      "governance",
+      "morpho.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
+  },
+  {
     "id": "snapshot_0xe7837bf1209b388558d4e2beed0160f73cde4fad79a7fe4012849c93195614b3",
     "title": "🏛️ [sdFXN] Gauge vote FXN - 26/11/2026 - 9/12/2026",
     "platform": "snapshot",
@@ -14,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0x679ea0bfa594140cce624fc024d59bee527a490cc127fbb5f4f7716c8f69079d",
@@ -31,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0x0d32c129ceea51c12bacf857463bffd1156e01b90d5a42e1e6348c98744ee92c",
@@ -48,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0x7e22fd01421f9e4f05cb7ba6242486c1cb236aafa613fddf1cce3c3b7e4e3212",
@@ -65,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0xae83dfb1acf44ef54f65453aded016903166c91f2ab730c5705b6df1b0cb59d9",
@@ -82,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0xa214c660a4ca6b3d682ee12529e529d41480192f242f5e686c1129613359d985",
@@ -99,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0x55d7ddd44b6655e3957caa7ce4579cbc27096118b64eca81ecc2b1373bbf4345",
@@ -116,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0x3cf8780a5ae0e4a02c08649802001ccf891bc6b100f3cfe7885297744339e7e6",
@@ -133,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0xaedbb3d3969db093271bc74b85b764c015fb1d2ab7caf4469da852718c161ff7",
@@ -150,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0xc81ea84dae0778f7f9109d11d00681150fe938426762d0499ad34c13dcaf544f",
@@ -167,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0xeeb7c38f12e75238430133022f32b7399c76dfeea61739856aa1823422d6c6a7",
@@ -184,7 +269,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
+  },
+  {
+    "id": "snapshot_0xced87b2fc253636be39f3e2fc71e1324fd9b78ee4cb69f833cbc1cc6cd53342f",
+    "title": "🏛️ [Beets Gauge Votes] Beets Sonic gauge vote (Round 49)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/beets-gauges.eth/proposal/0xced87b2fc253636be39f3e2fc71e1324fd9b78ee4cb69f833cbc1cc6cd53342f",
+    "published_at": "2026-11-19T08:00:00Z",
+    "engagement": 5,
+    "summary": "This vote decides the distribution of 300000 BEETS to gauge emissions for the period of November 25th 2026 to December 8th 2026.\n\nTo vote, distribute ...",
+    "tags": [
+      "governance",
+      "beets-gauges.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0x38b9331ec9e1680ce0bd58cd68981c070d630c346b3edd438f8f818db7407a2a",
@@ -201,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0x1b3082119847664352062bfaeb6b42b2859815324e139b65115f325d9e95f51b",
@@ -218,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   },
   {
     "id": "snapshot_0x778b833a3ff714352912879d80f4b31fc23dcb97bf60aee042621bbdede1b36a",
@@ -235,108 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
-  },
-  {
-    "id": "snapshot_0xbc872577f2216710016d993da6a4d08f3a750045541b3a2fe9af25b22c0874cc",
-    "title": "🏛️ [K.I.N.G. DAO] Kong Kristmas",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/kongsdao.eth/proposal/0xbc872577f2216710016d993da6a4d08f3a750045541b3a2fe9af25b22c0874cc",
-    "published_at": "2026-11-17T16:28:19Z",
-    "engagement": 3,
-    "summary": "Vote to approve our 4th annual Kong Kristmas\n\nhttps://discord.com/channels/906638337387950171/906703408499662868/1572286256480522312",
-    "tags": [
-      "governance",
-      "kongsdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
-  },
-  {
-    "id": "snapshot_0x605afa47aecb562f3139738e674f4017ed1ab795c5eac4cadd5ac3376a2dd507",
-    "title": "🏛️ [1inch Network] 1INCH Governance Proposal: Restore Staking Rewards or Eliminate Early Withdrawal Penalties",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/1inch.eth/proposal/0x605afa47aecb562f3139738e674f4017ed1ab795c5eac4cadd5ac3376a2dd507",
-    "published_at": "2026-11-17T17:27:22Z",
-    "engagement": 2,
-    "summary": "On November 11, 2026, resolver delegation farms were deprecated, effectively ending an important reward mechanism for holders who staked and locked th...",
-    "tags": [
-      "governance",
-      "1inch.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
-  },
-  {
-    "id": "snapshot_0x88f3325d7aa723ec9de63813a1a425daf01f07657ba154c74da331c60d9ec309",
-    "title": "🏛️ [Telcoin Platform Council] TELIP: Funding Request for TELx Merkl Integration on Telcoin Network",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/telcoinplatformcouncil.eth/proposal/0x88f3325d7aa723ec9de63813a1a425daf01f07657ba154c74da331c60d9ec309",
-    "published_at": "2026-11-17T13:59:53Z",
-    "engagement": 3,
-    "summary": "**Summary**\n\nThis proposal requests approval from the Platform Council and subsequent authorization from the Treasury Council to allocate funds from t...",
-    "tags": [
-      "governance",
-      "telcoinplatformcouncil.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
-  },
-  {
-    "id": "snapshot_0x72b6dffd9ac6b3fbe6b3cff180e3f372d05ccfcdf1714c63fed311e000697aaf",
-    "title": "🏛️ [GnosisDAO] GIP-157: Should GnosisDAO withdraw assets from the legacy DAO Safe to the treasury Safe?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/gnosis.eth/proposal/0x72b6dffd9ac6b3fbe6b3cff180e3f372d05ccfcdf1714c63fed311e000697aaf",
-    "published_at": "2026-11-17T13:17:44Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nThis proposal requests approval to transfer the assets listed below from GnosisDAO’s legacy Ethereum governance Safe to its treasury Safe....",
-    "tags": [
-      "governance",
-      "gnosis.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
-  },
-  {
-    "id": "snapshot_0x770167ab14b034e33e6215757b2a349cd9368927322dacc72161c55087b1ab7e",
-    "title": "🏛️ [Developer DAO] Developer DAO Foundation Closure",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/devdao.eth/proposal/0x770167ab14b034e33e6215757b2a349cd9368927322dacc72161c55087b1ab7e",
-    "published_at": "2026-11-17T10:15:52Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nThis proposal recommends the close of the Developer DAO Foundation.\n\nAs part of this process, all of the Foundation’s liabilities must be ...",
-    "tags": [
-      "governance",
-      "devdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
-  },
-  {
-    "id": "snapshot_0x5d714dd4d718bcffb760225d2edbe9b891ae72ac3b4f24abc28014f346ea4648",
-    "title": "🏛️ [BGLE voting for class] Pick your favorite Eagle",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/dunkcitydao.eth/proposal/0x5d714dd4d718bcffb760225d2edbe9b891ae72ac3b4f24abc28014f346ea4648",
-    "published_at": "2026-11-17T03:40:26Z",
-    "engagement": 5,
-    "summary": "Go to the Final Eagles folder below and pick your fave. Then put the five eagles in order from your favorite to least favorite.\nhttps://drive.google.c...",
-    "tags": [
-      "governance",
-      "dunkcitydao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T03:03:16.116074Z"
+    "fetched_at": "2026-11-19T12:42:36.664477Z"
   }
 ]
