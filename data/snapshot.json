@@ -1,5 +1,90 @@
 [
   {
+    "id": "snapshot_0xefe4c53029244c091751001b65b884cefc6199cb0ec6a7a2dddb64c5a9f0f97f",
+    "title": "🏛️ [sdYB] 63# Move 2.5M YB to a multisig managing incentives for the YB/crvUSD pair",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0xefe4c53029244c091751001b65b884cefc6199cb0ec6a7a2dddb64c5a9f0f97f",
+    "published_at": "2026-11-19T20:35:07Z",
+    "engagement": 3,
+    "summary": "Transfer 2,500,000 YB from the DAO to the multisig 0xdB1335Afe040ef079246baDB34Dc97E6e3b0e11b, which will manage incentives for the YB/crvUSD pool on ...",
+    "tags": [
+      "governance",
+      "sd-yieldbasis.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
+  },
+  {
+    "id": "snapshot_0xd617a0e87535234b88ccbd98a1fdb19fc57ef95c0508362c7f5f344a76fdad10",
+    "title": "🏛️ [Test space] Test proposal",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/fabien.eth/proposal/0xd617a0e87535234b88ccbd98a1fdb19fc57ef95c0508362c7f5f344a76fdad10",
+    "published_at": "2026-11-19T20:23:54Z",
+    "engagement": 3,
+    "summary": "",
+    "tags": [
+      "governance",
+      "fabien.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
+  },
+  {
+    "id": "snapshot_0xcc9808b38a61bea3339eb7349cacf13c4eae591f815f07a2044f7414718cf4e6",
+    "title": "🏛️ [Treasure] TIP-63: Treasure Network",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/treasuregaming.eth/proposal/0xcc9808b38a61bea3339eb7349cacf13c4eae591f815f07a2044f7414718cf4e6",
+    "published_at": "2026-11-19T19:11:58Z",
+    "engagement": 3,
+    "summary": "## Proposal\n\nThis proposal authorizes the launch of the Treasure DePIN Network and establishes a milestone-based Strategic Growth Fund of new 173 mill...",
+    "tags": [
+      "governance",
+      "treasuregaming.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
+  },
+  {
+    "id": "snapshot_0x1d19dccb245d20f59068399bd7ad899f9d1713cd1cc4fa7903738c6619396af3",
+    "title": "🏛️ [Treasure] TIP-64: Reducing DAO Role",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/treasuregaming.eth/proposal/0x1d19dccb245d20f59068399bd7ad899f9d1713cd1cc4fa7903738c6619396af3",
+    "published_at": "2026-11-19T19:11:36Z",
+    "engagement": 3,
+    "summary": "## Proposal\n\nThis proposal reduces the role of the DAO to the question of new token mints and network parameterization. The final list of governance c...",
+    "tags": [
+      "governance",
+      "treasuregaming.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
+  },
+  {
+    "id": "snapshot_0x290a8256f9468c1107c1900f0b2de475021245d550726aca96be165d853dfe38",
+    "title": "🏛️ [VitaRNA] VRNAP-7 — Transfer of the 2024 CRA rights to VitaRNA LLC (Snapshot)",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/vitarna.eth/proposal/0x290a8256f9468c1107c1900f0b2de475021245d550726aca96be165d853dfe38",
+    "published_at": "2026-11-19T16:15:46Z",
+    "engagement": 2,
+    "summary": "This proposal asks holders to approve the transfer of the rights under the project's 2024 research agreement to VitaRNA LLC, a new Delaware limited li...",
+    "tags": [
+      "governance",
+      "vitarna.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
+  },
+  {
     "id": "snapshot_0x618e1dbb2d35008fa6ed626d4e6af416b7dadacfea8e949d743ee7d618665227",
     "title": "🏛️ [Magpie] MIP #103 – Determine Magpie’s Stance on Penpie’s PIP #28",
     "platform": "snapshot",
@@ -14,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0x4f5aa0175dba1cb242e8b40437cfea572ce39c3ff8ee7c80202a123bcdcb4d61",
@@ -31,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0xdea98c1bf505cf7964776b65d10637e03e7213928b82a36ed3b1229831df109a",
@@ -48,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0x0b0a0df683f7a167c67f13d5f4d908471cab33a245b046037b77634057f52e74",
@@ -65,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0x61def13acf0b950de21c6efaf8a80b0718cc81b8204cbf88566f834117929b37",
@@ -82,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0xe7837bf1209b388558d4e2beed0160f73cde4fad79a7fe4012849c93195614b3",
@@ -99,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0x679ea0bfa594140cce624fc024d59bee527a490cc127fbb5f4f7716c8f69079d",
@@ -116,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0x0d32c129ceea51c12bacf857463bffd1156e01b90d5a42e1e6348c98744ee92c",
@@ -133,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0x7e22fd01421f9e4f05cb7ba6242486c1cb236aafa613fddf1cce3c3b7e4e3212",
@@ -150,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0xae83dfb1acf44ef54f65453aded016903166c91f2ab730c5705b6df1b0cb59d9",
@@ -167,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0xa214c660a4ca6b3d682ee12529e529d41480192f242f5e686c1129613359d985",
@@ -184,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0x55d7ddd44b6655e3957caa7ce4579cbc27096118b64eca81ecc2b1373bbf4345",
@@ -201,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0x3cf8780a5ae0e4a02c08649802001ccf891bc6b100f3cfe7885297744339e7e6",
@@ -218,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0xaedbb3d3969db093271bc74b85b764c015fb1d2ab7caf4469da852718c161ff7",
@@ -235,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   },
   {
     "id": "snapshot_0xc81ea84dae0778f7f9109d11d00681150fe938426762d0499ad34c13dcaf544f",
@@ -252,91 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
-  },
-  {
-    "id": "snapshot_0xeeb7c38f12e75238430133022f32b7399c76dfeea61739856aa1823422d6c6a7",
-    "title": "🏛️ [Proof Of Humanity] [Consensus Check] Micro-Loans and Administration for Kleros Cooperative Registration",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/poh.eth/proposal/0xeeb7c38f12e75238430133022f32b7399c76dfeea61739856aa1823422d6c6a7",
-    "published_at": "2026-11-18T10:20:00Z",
-    "engagement": 2,
-    "summary": "# Micro-Loans and Administration for Kleros Cooperative Registration\n\n## Loan Terms\n\n- **Amount:** The DAO lends each user €50 for the capital share, ...",
-    "tags": [
-      "governance",
-      "poh.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
-  },
-  {
-    "id": "snapshot_0xced87b2fc253636be39f3e2fc71e1324fd9b78ee4cb69f833cbc1cc6cd53342f",
-    "title": "🏛️ [Beets Gauge Votes] Beets Sonic gauge vote (Round 49)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/beets-gauges.eth/proposal/0xced87b2fc253636be39f3e2fc71e1324fd9b78ee4cb69f833cbc1cc6cd53342f",
-    "published_at": "2026-11-19T08:00:00Z",
-    "engagement": 5,
-    "summary": "This vote decides the distribution of 300000 BEETS to gauge emissions for the period of November 25th 2026 to December 8th 2026.\n\nTo vote, distribute ...",
-    "tags": [
-      "governance",
-      "beets-gauges.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
-  },
-  {
-    "id": "snapshot_0x38b9331ec9e1680ce0bd58cd68981c070d630c346b3edd438f8f818db7407a2a",
-    "title": "🏛️ [Decentraland] Add a dedicated Backpack Wearable Category to Decentraland Avatars",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0x38b9331ec9e1680ce0bd58cd68981c070d630c346b3edd438f8f818db7407a2a",
-    "published_at": "2026-11-17T23:59:25Z",
-    "engagement": 3,
-    "summary": "> by 0xd6eff8f07caf3443a1178407d3de4129149d6ef6 (Canessa)\n\n## Linked Pre-Proposal\n[Add a Dedicated Backpack Wearable Category to Decentraland Avatars]...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
-  },
-  {
-    "id": "snapshot_0x1b3082119847664352062bfaeb6b42b2859815324e139b65115f325d9e95f51b",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1527",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0x1b3082119847664352062bfaeb6b42b2859815324e139b65115f325d9e95f51b",
-    "published_at": "2026-11-17T18:17:10Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1527.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1527-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
-  },
-  {
-    "id": "snapshot_0x778b833a3ff714352912879d80f4b31fc23dcb97bf60aee042621bbdede1b36a",
-    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following stableswapNG pool: bdUSD/MUSD on Mainnet (Bitcoin Dollar",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x778b833a3ff714352912879d80f4b31fc23dcb97bf60aee042621bbdede1b36a",
-    "published_at": "2026-11-17T17:33:26Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1527-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-19T12:42:36.664477Z"
+    "fetched_at": "2026-11-19T21:16:45.010756Z"
   }
 ]
