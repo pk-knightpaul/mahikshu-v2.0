@@ -1,20 +1,173 @@
 [
   {
-    "id": "snapshot_0x5531dc647310d389209844558e734bab6a2bae9ed0c33cdebe18ea4caa1215d3",
-    "title": "🏛️ [max7test] Rule-change validation",
+    "id": "snapshot_0x13e02e567bf2f8b60bfe868f6a4683219b9e5820b5a9129646935a50e413717a",
+    "title": "🏛️ [Compound] Compound × Gauntlet Year 6 Renewal",
     "platform": "snapshot",
     "content_type": "governance",
-    "url": "https://snapshot.org/#/maxtest.eth/proposal/0x5531dc647310d389209844558e734bab6a2bae9ed0c33cdebe18ea4caa1215d3",
-    "published_at": "2026-11-23T08:36:43Z",
-    "engagement": 2,
-    "summary": "Space rules maintenance proposal for max7test.",
+    "url": "https://snapshot.org/#/comp-vote.eth/proposal/0x13e02e567bf2f8b60bfe868f6a4683219b9e5820b5a9129646935a50e413717a",
+    "published_at": "2026-11-23T19:01:51Z",
+    "engagement": 3,
+    "summary": "## Purpose\n\nGauntlet proposes a one‑year renewal to continue safeguarding Compound's markets and maximizing capital efficiency. We have aligned with C...",
     "tags": [
       "governance",
-      "maxtest.eth",
+      "comp-vote.eth",
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0x097831cb52e6a9287a0d9f47b21de99b194d0846320585f7f29d4a35a2dd29a1",
+    "title": "🏛️ [Spark] [X Layer] Spark Savings - Point spUSDT's LayerZero Route to Ethereum at the Ethereum spUSDT DPAU",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x097831cb52e6a9287a0d9f47b21de99b194d0846320585f7f29d4a35a2dd29a1",
+    "published_at": "2026-11-23T18:39:37Z",
+    "engagement": 3,
+    "summary": "# [X Layer] Spark Savings - Point spUSDT's LayerZero Route to Ethereum at the Ethereum spUSDT DPAU - November 23, 2026\n\nSpark's Operational Facilitato...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0x3cbcaa49797502d27203d7c9c07091a20949a50ec98413440cd40a2de9e8eaf2",
+    "title": "🏛️ [Spark] [Ethereum] Spark Savings - Segregate Spark Savings USDT (spUSDT) from the Spark Liquidity Layer to Its Own Diamond PAU",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x3cbcaa49797502d27203d7c9c07091a20949a50ec98413440cd40a2de9e8eaf2",
+    "published_at": "2026-11-23T18:38:24Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Spark Savings - Segregate Spark Savings USDT (spUSDT) from the Spark Liquidity Layer to Its Own Diamond PAU - November 23, 2026\n\nSpark's ...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0xe06fa91d24ed8062f5295073697c01613020b4d4eeb36c0f6c995530a94c5206",
+    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Add a Diamond PAU Controller with Swap Asset Facet to the Spark Liquidity Layer ALM Proxy",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xe06fa91d24ed8062f5295073697c01613020b4d4eeb36c0f6c995530a94c5206",
+    "published_at": "2026-11-23T18:36:51Z",
+    "engagement": 3,
+    "summary": "# [Ethereum] Spark Liquidity Layer - Add a Diamond PAU Controller with Swap Asset Facet to the Spark Liquidity Layer ALM Proxy - November 23, 2026\n\nSp...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0xabde0f78f58d6c910c0160507680abf9ced827e5f6dea9bc6a227b1d677c9a1f",
+    "title": "🏛️ [Spark] [Base] Spark Liquidity Layer - Raise the CCTP V2 Rate Limit for USDC Sent from Base to Ethereum",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xabde0f78f58d6c910c0160507680abf9ced827e5f6dea9bc6a227b1d677c9a1f",
+    "published_at": "2026-11-23T18:34:41Z",
+    "engagement": 3,
+    "summary": "# [Base] Spark Liquidity Layer - Raise the CCTP V2 Rate Limit for USDC Sent from Base to Ethereum - November 23, 2026\n\nSpark's Operational Facilitator...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0x288d28415e2528df44c1fe7fecc4df6a44c839b0f62045a62aaee35281495f20",
+    "title": "🏛️ [Spark] [Arbitrum] Spark Savings - Segregate Spark Savings USDT (spUSDT) from the Spark Liquidity Layer to Its Own Diamond PAU",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x288d28415e2528df44c1fe7fecc4df6a44c839b0f62045a62aaee35281495f20",
+    "published_at": "2026-11-23T18:32:40Z",
+    "engagement": 3,
+    "summary": "# [Arbitrum] Spark Savings - Segregate Spark Savings USDT (spUSDT) from the Spark Liquidity Layer to Its Own Diamond PAU - November 23, 2026\n\nSpark's ...",
+    "tags": [
+      "governance",
+      "sparkfi.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0x2d9fefc8886ef89157a607fd77781ff2ea45ef746ec8391ed557d062a82d5959",
+    "title": "🏛️ [Async Swap] test",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/asyncswap.eth/proposal/0x2d9fefc8886ef89157a607fd77781ff2ea45ef746ec8391ed557d062a82d5959",
+    "published_at": "2026-11-23T17:42:42Z",
+    "engagement": 3,
+    "summary": "new",
+    "tags": [
+      "governance",
+      "asyncswap.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0xf3024e04b62db070f60b188f75066c67ebc9abf896998e1cc501612bd63480f3",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1530",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0xf3024e04b62db070f60b188f75066c67ebc9abf896998e1cc501612bd63480f3",
+    "published_at": "2026-11-23T16:17:25Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1530.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1530-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0xfc6b72f6cb706ecbd905eb68f98812ab6796bb523c7e193f65f22269abd3cc3d",
+    "title": "🏛️ [Grove] [Grove Artifact] Grove x Steakhouse Morpho Vaults V2 - Add SteakhouseOperator as an Allocator",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/grovefinance.eth/proposal/0xfc6b72f6cb706ecbd905eb68f98812ab6796bb523c7e193f65f22269abd3cc3d",
+    "published_at": "2026-11-23T16:02:47Z",
+    "engagement": 3,
+    "summary": "# [Grove Artifact] Grove x Steakhouse Morpho Vaults V2 - Add SteakhouseOperator as an Allocator - November 23, 2026\n\nGrove's Operational Facilitator h...",
+    "tags": [
+      "governance",
+      "grovefinance.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
+  },
+  {
+    "id": "snapshot_0xb6192d05068cf9ebecb2c52057c267e3f3817a1dda8f89e2db623122c68de76e",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following stableswap-NG pool: DOLA/sinvUSD [",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xb6192d05068cf9ebecb2c52057c267e3f3817a1dda8f89e2db623122c68de76e",
+    "published_at": "2026-11-23T15:43:29Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1530-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0x8bf0548c26cca99d8c2df2a939f6c4b87c75c3ea115a3d6badfbec757bc65d3d",
@@ -31,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0x9d69205ce9f28966f4cfd238f1a9cbbebb31d6c7c26ea701cfac4ca6b5aec1fa",
@@ -48,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0x2af5414cc50196fb2531dcce4fbc7a0abf3e1ca5b08cb8a0f234b81dfcf84deb",
@@ -65,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0x90e4a1e493f2548bf1ba27a63cd45e0d1c8f36bb1693afc2a72b12574309b59d",
@@ -82,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0xfdc0b651a6dd1e67fbd9998505899fccb921d03e9fd84139b505cf6b8fa11f5b",
@@ -99,58 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0x4097277775ff127901065765342d6ef1431e8637780bed6ce47077814e7f5372",
-    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1529",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/veclev.eth/proposal/0x4097277775ff127901065765342d6ef1431e8637780bed6ce47077814e7f5372",
-    "published_at": "2026-11-20T17:17:13Z",
-    "engagement": 2,
-    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1529.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1529-ownership\nConvex vote: ...",
-    "tags": [
-      "governance",
-      "veclev.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0x3c0e84ef6ae492abe2b54aede41e4555ca7907f364aad46f0f613540ecfe7410",
-    "title": "🏛️ [sdCRV-Governance] Update gauge implementations on the stableswap-ng, twocrypto-ng and tricrypto-ng factories and on the generic GaugeFactory; ChildGauge 1.2.0 on the child gauge factories of Arbitrum, Optimism, Base, Fraxtal, Mantle, X Layer, Sonic, Taiko and Ink. Existi...",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x3c0e84ef6ae492abe2b54aede41e4555ca7907f364aad46f0f613540ecfe7410",
-    "published_at": "2026-11-20T17:04:46Z",
-    "engagement": 2,
-    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1529-OWNERSHIP",
-    "tags": [
-      "governance",
-      "sdcrv-gov.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0x66766f584a79fa5ce64cfb215032152f1e3576c10466c75b5620e054159657fc",
-    "title": "🏛️ [Gearbox] [GIP-295] Allow Credit Facade v3.1.1 in the Bytecode Repository",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/gearbox.eth/proposal/0x66766f584a79fa5ce64cfb215032152f1e3576c10466c75b5620e054159657fc",
-    "published_at": "2026-11-20T13:39:46Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nAuthorize the Technical Multisig to submit the cross-chain governance batch **“Allow Credit Facade v3.1.1”**. Once approved and executed, ...",
-    "tags": [
-      "governance",
-      "gearbox.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0x10619e9622e21229b84ce437f3378b963c83aa4c68876ad294189d4e1359838d",
@@ -167,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0xcc9808b38a61bea3339eb7349cacf13c4eae591f815f07a2044f7414718cf4e6",
@@ -184,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0x1d19dccb245d20f59068399bd7ad899f9d1713cd1cc4fa7903738c6619396af3",
@@ -201,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0x0b0a0df683f7a167c67f13d5f4d908471cab33a245b046037b77634057f52e74",
@@ -218,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   },
   {
     "id": "snapshot_0xe7837bf1209b388558d4e2beed0160f73cde4fad79a7fe4012849c93195614b3",
@@ -235,108 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0x679ea0bfa594140cce624fc024d59bee527a490cc127fbb5f4f7716c8f69079d",
-    "title": "🏛️ [sdYB] Gauge vote YB - 26/11/2026 - 9/12/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sd-yieldbasis.eth/proposal/0x679ea0bfa594140cce624fc024d59bee527a490cc127fbb5f4f7716c8f69079d",
-    "published_at": "2026-11-19T02:13:12Z",
-    "engagement": 4,
-    "summary": "Gauge vote for YB inflation allocation.",
-    "tags": [
-      "governance",
-      "sd-yieldbasis.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0x0d32c129ceea51c12bacf857463bffd1156e01b90d5a42e1e6348c98744ee92c",
-    "title": "🏛️ [Stake DAO FXS] Gauge vote FXS - 26/11/2026 - 9/12/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdfxs.eth/proposal/0x0d32c129ceea51c12bacf857463bffd1156e01b90d5a42e1e6348c98744ee92c",
-    "published_at": "2026-11-19T02:03:06Z",
-    "engagement": 121,
-    "summary": "Gauge vote for FXS inflation allocation.",
-    "tags": [
-      "governance",
-      "sdfxs.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0x7e22fd01421f9e4f05cb7ba6242486c1cb236aafa613fddf1cce3c3b7e4e3212",
-    "title": "🏛️ [Stake DAO CRV] Gauge vote CRV - 26/11/2026 - 9/12/2026",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sdcrv.eth/proposal/0x7e22fd01421f9e4f05cb7ba6242486c1cb236aafa613fddf1cce3c3b7e4e3212",
-    "published_at": "2026-11-19T02:00:54Z",
-    "engagement": 714,
-    "summary": "Gauge vote for CRV inflation allocation.",
-    "tags": [
-      "governance",
-      "sdcrv.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0xa214c660a4ca6b3d682ee12529e529d41480192f242f5e686c1129613359d985",
-    "title": "🏛️ [Penpie] PIP #28 – Make the 0.75 PENDLE per mPENDLE Decommissioning Permanent and Claimable in sPENDLE, Buy Out and Burn 1,000,000 of Pendle’s PNP, and Remove Pendle from the Penpie Multisig",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/penpiexyz.eth/proposal/0xa214c660a4ca6b3d682ee12529e529d41480192f242f5e686c1129613359d985",
-    "published_at": "2026-11-18T19:30:00Z",
-    "engagement": 3,
-    "summary": "## Summary\n\nThis proposal authorizes the Penpie contributors, acting through the treasury multisig, to implement the four arrangements below with Pend...",
-    "tags": [
-      "governance",
-      "penpiexyz.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0x55d7ddd44b6655e3957caa7ce4579cbc27096118b64eca81ecc2b1373bbf4345",
-    "title": "🏛️ [Cybro DAO] DAO Proposal: The Future of CYBRO",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cybroio.eth/proposal/0x55d7ddd44b6655e3957caa7ce4579cbc27096118b64eca81ecc2b1373bbf4345",
-    "published_at": "2026-11-18T17:21:03Z",
-    "engagement": 2,
-    "summary": "## Why Are We Voting?\n\nCYBRO is now approximately 2.5 years old. More than two years have passed since the first version of the product launched in Ju...",
-    "tags": [
-      "governance",
-      "cybroio.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
-  },
-  {
-    "id": "snapshot_0x3cf8780a5ae0e4a02c08649802001ccf891bc6b100f3cfe7885297744339e7e6",
-    "title": "🏛️ [Cybro DAO] DAO Proposal: Compensation for CYBRO Holders Affected by the Blast Shutdown",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cybroio.eth/proposal/0x3cf8780a5ae0e4a02c08649802001ccf891bc6b100f3cfe7885297744339e7e6",
-    "published_at": "2026-11-18T15:58:37Z",
-    "engagement": 4,
-    "summary": "## Background\n\nBlast announced its shutdown in early October 2026. Not all CYBRO holders managed to bridge their tokens to another chain before the sh...",
-    "tags": [
-      "governance",
-      "cybroio.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T08:47:40.791166Z"
+    "fetched_at": "2026-11-23T21:04:16.385231Z"
   }
 ]
