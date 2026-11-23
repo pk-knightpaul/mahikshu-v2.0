@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0x5531dc647310d389209844558e734bab6a2bae9ed0c33cdebe18ea4caa1215d3",
+    "title": "🏛️ [max7test] Rule-change validation",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/maxtest.eth/proposal/0x5531dc647310d389209844558e734bab6a2bae9ed0c33cdebe18ea4caa1215d3",
+    "published_at": "2026-11-23T08:36:43Z",
+    "engagement": 2,
+    "summary": "Space rules maintenance proposal for max7test.",
+    "tags": [
+      "governance",
+      "maxtest.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
+  },
+  {
+    "id": "snapshot_0x8bf0548c26cca99d8c2df2a939f6c4b87c75c3ea115a3d6badfbec757bc65d3d",
+    "title": "🏛️ [Trueo] Curve November revenue exceeds $2M?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/truemarkets.eth/proposal/0x8bf0548c26cca99d8c2df2a939f6c4b87c75c3ea115a3d6badfbec757bc65d3d",
+    "published_at": "2026-11-23T06:14:30Z",
+    "engagement": 4,
+    "summary": "### **Voting Title**\n\nCurve November revenue exceeds $2M?\n\n---\n\n### **Market Description**\n\nThis market will resolve to “Yes” if the total revenue of ...",
+    "tags": [
+      "governance",
+      "truemarkets.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
+  },
+  {
     "id": "snapshot_0x9d69205ce9f28966f4cfd238f1a9cbbebb31d6c7c26ea701cfac4ca6b5aec1fa",
     "title": "🏛️ [VitaRNA] VRNAP-7 — Transfer of the 2024 CRA rights to VitaRNA LLC (Snapshot)",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x2af5414cc50196fb2531dcce4fbc7a0abf3e1ca5b08cb8a0f234b81dfcf84deb",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x90e4a1e493f2548bf1ba27a63cd45e0d1c8f36bb1693afc2a72b12574309b59d",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0xfdc0b651a6dd1e67fbd9998505899fccb921d03e9fd84139b505cf6b8fa11f5b",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x4097277775ff127901065765342d6ef1431e8637780bed6ce47077814e7f5372",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x3c0e84ef6ae492abe2b54aede41e4555ca7907f364aad46f0f613540ecfe7410",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x66766f584a79fa5ce64cfb215032152f1e3576c10466c75b5620e054159657fc",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x10619e9622e21229b84ce437f3378b963c83aa4c68876ad294189d4e1359838d",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0xcc9808b38a61bea3339eb7349cacf13c4eae591f815f07a2044f7414718cf4e6",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x1d19dccb245d20f59068399bd7ad899f9d1713cd1cc4fa7903738c6619396af3",
@@ -167,24 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
-  },
-  {
-    "id": "snapshot_0x618e1dbb2d35008fa6ed626d4e6af416b7dadacfea8e949d743ee7d618665227",
-    "title": "🏛️ [Magpie] MIP #103 – Determine Magpie’s Stance on Penpie’s PIP #28",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/magpiexyz.eth/proposal/0x618e1dbb2d35008fa6ed626d4e6af416b7dadacfea8e949d743ee7d618665227",
-    "published_at": "2026-11-19T12:30:00Z",
-    "engagement": 3,
-    "summary": "## Abstract\n\nThis proposal seeks to determine Magpie’s stance on Penpie’s PIP #28, which proposes making the 0.75 PENDLE per mPENDLE decommissioning p...",
-    "tags": [
-      "governance",
-      "magpiexyz.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x0b0a0df683f7a167c67f13d5f4d908471cab33a245b046037b77634057f52e74",
@@ -201,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0xe7837bf1209b388558d4e2beed0160f73cde4fad79a7fe4012849c93195614b3",
@@ -218,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x679ea0bfa594140cce624fc024d59bee527a490cc127fbb5f4f7716c8f69079d",
@@ -235,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x0d32c129ceea51c12bacf857463bffd1156e01b90d5a42e1e6348c98744ee92c",
@@ -252,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x7e22fd01421f9e4f05cb7ba6242486c1cb236aafa613fddf1cce3c3b7e4e3212",
@@ -269,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0xa214c660a4ca6b3d682ee12529e529d41480192f242f5e686c1129613359d985",
@@ -286,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x55d7ddd44b6655e3957caa7ce4579cbc27096118b64eca81ecc2b1373bbf4345",
@@ -303,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   },
   {
     "id": "snapshot_0x3cf8780a5ae0e4a02c08649802001ccf891bc6b100f3cfe7885297744339e7e6",
@@ -320,23 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
-  },
-  {
-    "id": "snapshot_0xc81ea84dae0778f7f9109d11d00681150fe938426762d0499ad34c13dcaf544f",
-    "title": "🏛️ [Cartesi] Proposal: Permanently Renounce the CTSI MinterRole",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/cartesi.eth/proposal/0xc81ea84dae0778f7f9109d11d00681150fe938426762d0499ad34c13dcaf544f",
-    "published_at": "2026-11-18T13:30:00Z",
-    "engagement": 2,
-    "summary": "The Cartesi Foundation proposes permanently renouncing the remaining MinterRole permissions on the existing CTSI token contract.\n\n**Summary:** Renounc...",
-    "tags": [
-      "governance",
-      "cartesi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-23T00:41:18.196294Z"
+    "fetched_at": "2026-11-23T08:47:40.791166Z"
   }
 ]
