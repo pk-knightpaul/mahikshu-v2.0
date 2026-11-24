@@ -1,5 +1,39 @@
 [
   {
+    "id": "snapshot_0x4fe01186f69599f031c3bfb33837f2717960fc9be113ae05c041d7291b9ee957",
+    "title": "🏛️ [CoW DAO] CIP-94: Simplifying the operations of the CoW DAO bonding pool",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cow.eth/proposal/0x4fe01186f69599f031c3bfb33837f2717960fc9be113ae05c041d7291b9ee957",
+    "published_at": "2026-11-24T16:51:45Z",
+    "engagement": 3,
+    "summary": "```\nCIP: 94\ntitle: Simplifying the operations of the CoW DAO bonding pool\nauthor: @harisang, @notsoformal\nstatus: active\ncreated:  2026-05-16\n```\n\n**S...",
+    "tags": [
+      "governance",
+      "cow.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
+  },
+  {
+    "id": "snapshot_0x3c5f50c6a9f392979f5ceab894710df6360fca79ab24bf6cdc4a2741b65424ee",
+    "title": "🏛️ [Morpho] MIP 137 – List MidnightAdapter in Morpho Registry",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/morpho.eth/proposal/0x3c5f50c6a9f392979f5ceab894710df6360fca79ab24bf6cdc4a2741b65424ee",
+    "published_at": "2026-11-24T15:12:51Z",
+    "engagement": 3,
+    "summary": "List the MidnightAdapter in the Morpho Registry, conditional on the completion of its security reviews and the integration of all resulting fixes.",
+    "tags": [
+      "governance",
+      "morpho.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
+  },
+  {
     "id": "snapshot_0x3357a1a4f928a337883e7fbbe01d2235067c3e7a2a2e4a2696bb9aaebfce9038",
     "title": "🏛️ [CoW DAO Grants] Grant Application: CoW BYOS Security Audit",
     "platform": "snapshot",
@@ -14,7 +48,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x13e02e567bf2f8b60bfe868f6a4683219b9e5820b5a9129646935a50e413717a",
@@ -31,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x097831cb52e6a9287a0d9f47b21de99b194d0846320585f7f29d4a35a2dd29a1",
@@ -48,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x3cbcaa49797502d27203d7c9c07091a20949a50ec98413440cd40a2de9e8eaf2",
@@ -65,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0xe06fa91d24ed8062f5295073697c01613020b4d4eeb36c0f6c995530a94c5206",
@@ -82,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0xabde0f78f58d6c910c0160507680abf9ced827e5f6dea9bc6a227b1d677c9a1f",
@@ -99,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x288d28415e2528df44c1fe7fecc4df6a44c839b0f62045a62aaee35281495f20",
@@ -116,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x2d9fefc8886ef89157a607fd77781ff2ea45ef746ec8391ed557d062a82d5959",
@@ -133,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0xf3024e04b62db070f60b188f75066c67ebc9abf896998e1cc501612bd63480f3",
@@ -150,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0xfc6b72f6cb706ecbd905eb68f98812ab6796bb523c7e193f65f22269abd3cc3d",
@@ -167,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0xb6192d05068cf9ebecb2c52057c267e3f3817a1dda8f89e2db623122c68de76e",
@@ -184,7 +218,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
+  },
+  {
+    "id": "snapshot_0x4b4f73eb49c62c3686f3239219f1b58541ba1de0f3a29ff7dcd7301c22549b4a",
+    "title": "🏛️ [CHIP Foundation] [CRFC Snapshot] Route sUSDai Net Interest Margin to CHIP Purchases",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/usdai.eth/proposal/0x4b4f73eb49c62c3686f3239219f1b58541ba1de0f3a29ff7dcd7301c22549b4a",
+    "published_at": "2026-11-24T15:27:11Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nThis proposal would route 100% of sUSDai net interest margin (NIM), net of Foundation operating expenses, to CHIP purchases starting **Jan...",
+    "tags": [
+      "governance",
+      "usdai.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x8bf0548c26cca99d8c2df2a939f6c4b87c75c3ea115a3d6badfbec757bc65d3d",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x9d69205ce9f28966f4cfd238f1a9cbbebb31d6c7c26ea701cfac4ca6b5aec1fa",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x2af5414cc50196fb2531dcce4fbc7a0abf3e1ca5b08cb8a0f234b81dfcf84deb",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x90e4a1e493f2548bf1ba27a63cd45e0d1c8f36bb1693afc2a72b12574309b59d",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0xfdc0b651a6dd1e67fbd9998505899fccb921d03e9fd84139b505cf6b8fa11f5b",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   },
   {
     "id": "snapshot_0x10619e9622e21229b84ce437f3378b963c83aa4c68876ad294189d4e1359838d",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
-  },
-  {
-    "id": "snapshot_0xcc9808b38a61bea3339eb7349cacf13c4eae591f815f07a2044f7414718cf4e6",
-    "title": "🏛️ [Treasure] TIP-63: Treasure Network",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/treasuregaming.eth/proposal/0xcc9808b38a61bea3339eb7349cacf13c4eae591f815f07a2044f7414718cf4e6",
-    "published_at": "2026-11-19T19:11:58Z",
-    "engagement": 3,
-    "summary": "## Proposal\n\nThis proposal authorizes the launch of the Treasure DePIN Network and establishes a milestone-based Strategic Growth Fund of new 173 mill...",
-    "tags": [
-      "governance",
-      "treasuregaming.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
-  },
-  {
-    "id": "snapshot_0x1d19dccb245d20f59068399bd7ad899f9d1713cd1cc4fa7903738c6619396af3",
-    "title": "🏛️ [Treasure] TIP-64: Reducing DAO Role",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/treasuregaming.eth/proposal/0x1d19dccb245d20f59068399bd7ad899f9d1713cd1cc4fa7903738c6619396af3",
-    "published_at": "2026-11-19T19:11:36Z",
-    "engagement": 3,
-    "summary": "## Proposal\n\nThis proposal reduces the role of the DAO to the question of new token mints and network parameterization. The final list of governance c...",
-    "tags": [
-      "governance",
-      "treasuregaming.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
-  },
-  {
-    "id": "snapshot_0x0b0a0df683f7a167c67f13d5f4d908471cab33a245b046037b77634057f52e74",
-    "title": "🏛️ [Mantle (prev. BitDAO)] MIP-36: Recognition of Halo Prime as a Strategic Partner of Mantle",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/bitdao.eth/proposal/0x0b0a0df683f7a167c67f13d5f4d908471cab33a245b046037b77634057f52e74",
-    "published_at": "2026-11-19T08:35:33Z",
-    "engagement": 2,
-    "summary": "# [REVISED] MIP-36: Recognition of Halo Prime as a Strategic Partner of Mantle\n\n_Note: MIP-36 is resubmitted and revised based on community and delega...",
-    "tags": [
-      "governance",
-      "bitdao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T05:49:31.380569Z"
+    "fetched_at": "2026-11-24T17:21:34.448683Z"
   }
 ]
