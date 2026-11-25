@@ -1,5 +1,90 @@
 [
   {
+    "id": "snapshot_0x99adbc7fb97eea0dbacc9cc65a0983626820db0a342c333a9a8c7356b56c2ac0",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1532",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x99adbc7fb97eea0dbacc9cc65a0983626820db0a342c333a9a8c7356b56c2ac0",
+    "published_at": "2026-11-24T23:17:06Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1532.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1532-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
+  },
+  {
+    "id": "snapshot_0x0f1eee995e908d2989941424d50812c9fda133bdf9d33d55c214659d87f7cd82",
+    "title": "🏛️ [CLever] [Curve] Ownership DAO Vote ID: 1531",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/veclev.eth/proposal/0x0f1eee995e908d2989941424d50812c9fda133bdf9d33d55c214659d87f7cd82",
+    "published_at": "2026-11-24T23:17:04Z",
+    "engagement": 2,
+    "summary": "Quorum: 10% veCLEV\n\nMirror of Curve ownership DAO vote 1531.\nCurve vote: https://www.curve.finance/dao/ethereum/proposals/1531-ownership\nConvex vote: ...",
+    "tags": [
+      "governance",
+      "veclev.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
+  },
+  {
+    "id": "snapshot_0xc96d84e7a7a9c2ea4ea8659b4ce7b509d3b271577734665dbd6f8aa2fca1e2fd",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following pool: MET/WETH on Mainnet (Metronome DAO) REPUSH",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xc96d84e7a7a9c2ea4ea8659b4ce7b509d3b271577734665dbd6f8aa2fca1e2fd",
+    "published_at": "2026-11-24T22:31:02Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1532-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
+  },
+  {
+    "id": "snapshot_0x531139312e5b87db43061bbcea2b66cb060b7dcae076a35289d26a475373725c",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following stableswapNG pool: bdUSD/MUSD on Mainnet (Bitcoin Dollar  REPUSH",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0x531139312e5b87db43061bbcea2b66cb060b7dcae076a35289d26a475373725c",
+    "published_at": "2026-11-24T22:24:55Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1531-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
+  },
+  {
+    "id": "snapshot_0x8edd4766ab6cb83e0bcaa6a265ec74463ebd35f6b2f6dc53200da24a82c28a9a",
+    "title": "🏛️ [CoW DAO] CIP-95: Update social consensus rules",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/cow.eth/proposal/0x8edd4766ab6cb83e0bcaa6a265ec74463ebd35f6b2f6dc53200da24a82c28a9a",
+    "published_at": "2026-11-24T20:14:53Z",
+    "engagement": 3,
+    "summary": "```\nCIP: 95\ntitle: Update social consensus rules\nauthor: @felixhenneke\nstatus: active\ncreated:  2026-10-30\n```\n\n# Simple Summary\nThis CIP removes thre...",
+    "tags": [
+      "governance",
+      "cow.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
+  },
+  {
     "id": "snapshot_0x4fe01186f69599f031c3bfb33837f2717960fc9be113ae05c041d7291b9ee957",
     "title": "🏛️ [CoW DAO] CIP-94: Simplifying the operations of the CoW DAO bonding pool",
     "platform": "snapshot",
@@ -14,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0x3c5f50c6a9f392979f5ceab894710df6360fca79ab24bf6cdc4a2741b65424ee",
@@ -31,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0x3357a1a4f928a337883e7fbbe01d2235067c3e7a2a2e4a2696bb9aaebfce9038",
@@ -48,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0x13e02e567bf2f8b60bfe868f6a4683219b9e5820b5a9129646935a50e413717a",
@@ -65,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0x097831cb52e6a9287a0d9f47b21de99b194d0846320585f7f29d4a35a2dd29a1",
@@ -82,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0x3cbcaa49797502d27203d7c9c07091a20949a50ec98413440cd40a2de9e8eaf2",
@@ -99,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0xe06fa91d24ed8062f5295073697c01613020b4d4eeb36c0f6c995530a94c5206",
@@ -116,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0xabde0f78f58d6c910c0160507680abf9ced827e5f6dea9bc6a227b1d677c9a1f",
@@ -133,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0x288d28415e2528df44c1fe7fecc4df6a44c839b0f62045a62aaee35281495f20",
@@ -150,7 +235,24 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
+  },
+  {
+    "id": "snapshot_0xf17a31524dcdba99714f7e7283f2c05c22050257168f5f18f2fb4eb09e4fe8fd",
+    "title": "🏛️ [Aave DAO] [ARFC] Expand Coinbase Tokenized Equities on Base",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/aavedao.eth/proposal/0xf17a31524dcdba99714f7e7283f2c05c22050257168f5f18f2fb4eb09e4fe8fd",
+    "published_at": "2026-11-24T17:56:59Z",
+    "engagement": 3,
+    "summary": "## Summary\n\nThis ARFC proposes to expand the Aave V4 Equities Hub on Base with seven Coinbase tokenized equities as collateral: Netflix (NFLXc), Oracl...",
+    "tags": [
+      "governance",
+      "aavedao.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0x2d9fefc8886ef89157a607fd77781ff2ea45ef746ec8391ed557d062a82d5959",
@@ -167,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0xf3024e04b62db070f60b188f75066c67ebc9abf896998e1cc501612bd63480f3",
@@ -184,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0xfc6b72f6cb706ecbd905eb68f98812ab6796bb523c7e193f65f22269abd3cc3d",
@@ -201,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0xb6192d05068cf9ebecb2c52057c267e3f3817a1dda8f89e2db623122c68de76e",
@@ -218,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   },
   {
     "id": "snapshot_0x4b4f73eb49c62c3686f3239219f1b58541ba1de0f3a29ff7dcd7301c22549b4a",
@@ -235,108 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
-  },
-  {
-    "id": "snapshot_0x8bf0548c26cca99d8c2df2a939f6c4b87c75c3ea115a3d6badfbec757bc65d3d",
-    "title": "🏛️ [Trueo] Curve November revenue exceeds $2M?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/truemarkets.eth/proposal/0x8bf0548c26cca99d8c2df2a939f6c4b87c75c3ea115a3d6badfbec757bc65d3d",
-    "published_at": "2026-11-23T06:14:30Z",
-    "engagement": 4,
-    "summary": "### **Voting Title**\n\nCurve November revenue exceeds $2M?\n\n---\n\n### **Market Description**\n\nThis market will resolve to “Yes” if the total revenue of ...",
-    "tags": [
-      "governance",
-      "truemarkets.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
-  },
-  {
-    "id": "snapshot_0x9d69205ce9f28966f4cfd238f1a9cbbebb31d6c7c26ea701cfac4ca6b5aec1fa",
-    "title": "🏛️ [VitaRNA] VRNAP-7 — Transfer of the 2024 CRA rights to VitaRNA LLC (Snapshot)",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/vitarna.eth/proposal/0x9d69205ce9f28966f4cfd238f1a9cbbebb31d6c7c26ea701cfac4ca6b5aec1fa",
-    "published_at": "2026-11-22T12:51:55Z",
-    "engagement": 2,
-    "summary": "This proposal asks holders to approve the transfer of the rights under the project's 2024 research agreement to VitaRNA LLC, a new Delaware limited li...",
-    "tags": [
-      "governance",
-      "vitarna.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
-  },
-  {
-    "id": "snapshot_0x2af5414cc50196fb2531dcce4fbc7a0abf3e1ca5b08cb8a0f234b81dfcf84deb",
-    "title": "🏛️ [Trueo] Will Ledger publicly confirm tampered devices from a reseller or sales channel other than CryptoBilis by Nov 30, 2026?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/truemarkets.eth/proposal/0x2af5414cc50196fb2531dcce4fbc7a0abf3e1ca5b08cb8a0f234b81dfcf84deb",
-    "published_at": "2026-11-21T17:47:45Z",
-    "engagement": 4,
-    "summary": "### **Voting Title**\n\nWill Ledger publicly confirm tampered devices from a reseller or sales channel other than CryptoBilis by Nov 30, 2026?\n\n---\n\n###...",
-    "tags": [
-      "governance",
-      "truemarkets.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
-  },
-  {
-    "id": "snapshot_0x90e4a1e493f2548bf1ba27a63cd45e0d1c8f36bb1693afc2a72b12574309b59d",
-    "title": "🏛️ [Decentraland] What should we do with the Decentraland DAO Discord server?",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0x90e4a1e493f2548bf1ba27a63cd45e0d1c8f36bb1693afc2a72b12574309b59d",
-    "published_at": "2026-11-21T13:22:41Z",
-    "engagement": 4,
-    "summary": "> by 0x3f6b1d01b6823ab235fc343069b62b6472774cd1 (MetaRyuk)\n\n**Summary**\nThe DAO Council asks the community to decide the future of the DAO Discord ser...",
-    "tags": [
-      "governance",
-      "snapshot.dcl.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
-  },
-  {
-    "id": "snapshot_0xfdc0b651a6dd1e67fbd9998505899fccb921d03e9fd84139b505cf6b8fa11f5b",
-    "title": "🏛️ [WHALE DAO] WAVE-O 10: Designated Asset Sale",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/whaledao.eth/proposal/0xfdc0b651a6dd1e67fbd9998505899fccb921d03e9fd84139b505cf6b8fa11f5b",
-    "published_at": "2026-11-21T11:00:00Z",
-    "engagement": 2,
-    "summary": "**Full Council-approved proposal** [Read the complete text](https://whale.me/en/articles/whale-opens-vote-limited-vault-sale-mandate). The linked full...",
-    "tags": [
-      "governance",
-      "whaledao.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
-  },
-  {
-    "id": "snapshot_0x10619e9622e21229b84ce437f3378b963c83aa4c68876ad294189d4e1359838d",
-    "title": "🏛️ [ssv.network] [DIP-60] Foundation Market-Making Service Agreements Revision #2 | Onboarding a Second Market Maker Addition",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/mainnet.ssvnetwork.eth/proposal/0x10619e9622e21229b84ce437f3378b963c83aa4c68876ad294189d4e1359838d",
-    "published_at": "2026-11-20T08:00:00Z",
-    "engagement": 3,
-    "summary": "## Proposal Summary\n\nIf this proposal were to pass, the ssv.network DAO Multi-Sig Committee (“**MC**”) will make available to the SSV Foundation (“**F...",
-    "tags": [
-      "governance",
-      "mainnet.ssvnetwork.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-24T17:21:34.448683Z"
+    "fetched_at": "2026-11-25T02:07:42.864460Z"
   }
 ]
