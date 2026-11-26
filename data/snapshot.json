@@ -1,5 +1,56 @@
 [
   {
+    "id": "snapshot_0xbb27d57f03759035c305a479580c30500d4d3a1c983d675044ce600a1081b28f",
+    "title": "🏛️ [sdCRV-Governance] Add a gauge for the following FXSwap pool on Ethereum mainnet: fynd-pilot wethusdc",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/sdcrv-gov.eth/proposal/0xbb27d57f03759035c305a479580c30500d4d3a1c983d675044ce600a1081b28f",
+    "published_at": "2026-11-26T14:42:50Z",
+    "engagement": 2,
+    "summary": "View more on https://curve.finance/dao/#/ethereum/proposals/1534-OWNERSHIP",
+    "tags": [
+      "governance",
+      "sdcrv-gov.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
+  },
+  {
+    "id": "snapshot_0xabcc04d620a21e763d4d2a77681aeaf3d16ebfe71cbde875e713c919e447854f",
+    "title": "🏛️ [Decentraland] Add the location 97,56 to the Points of Interest",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/snapshot.dcl.eth/proposal/0xabcc04d620a21e763d4d2a77681aeaf3d16ebfe71cbde875e713c919e447854f",
+    "published_at": "2026-11-26T10:35:57Z",
+    "engagement": 3,
+    "summary": "> by 0xbe8d65a05da6983a9eef9d0e1a6560d8a4f9dfb6 (BudFox)\n\n## Bull&Bear\n\n![Bull&Bear](https://api.decentraland.org/v1/parcels/97/56/map.png)\n\nShould th...",
+    "tags": [
+      "governance",
+      "snapshot.dcl.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
+  },
+  {
+    "id": "snapshot_0x22ff6d3fd419c71b4c7cb56b8c9d45a935ed903f07b9e7f6e748797560c396e8",
+    "title": "🏛️ [Mira Network] Which model should Mira verify next?",
+    "platform": "snapshot",
+    "content_type": "governance",
+    "url": "https://snapshot.org/#/miranetwork.eth/proposal/0x22ff6d3fd419c71b4c7cb56b8c9d45a935ed903f07b9e7f6e748797560c396e8",
+    "published_at": "2026-11-26T12:50:52Z",
+    "engagement": 5,
+    "summary": "Mira tests the providers behind AI models and publishes the results on the Sterling verification dashboard. This vote decides which model gets added n...",
+    "tags": [
+      "governance",
+      "miranetwork.eth",
+      "snapshot",
+      "active"
+    ],
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
+  },
+  {
     "id": "snapshot_0x8c5cc561d880b798dc82ebd451690237c671d64252f91b0ca2506c393577bec9",
     "title": "🏛️ [ShapeShift] SCP-228: Accept and distribute the Zcash retroactive grant for ShapeShift's Zcash work",
     "platform": "snapshot",
@@ -14,7 +65,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x5dd8fe1b21f67947863740bd95d07c8089a0844c01927753c0c78d61601ad972",
@@ -31,7 +82,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x3c22f4785904332155d3ee661490f8d058d42d57db422a296df4ffd34743d094",
@@ -48,7 +99,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0xedd0e0c943bf4628aa54937f77586f51e0bb27d9bc484e4795b194d42068d192",
@@ -65,7 +116,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x1ae5d1c0505dba1915628eff72032f39b6d8a14e92c76e65aa6d10c1e7ce9687",
@@ -82,7 +133,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x6f429476abe8eb8b50b082cf22505e3f6be34b917b52d81d53f5d6b363e5be15",
@@ -99,7 +150,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0xe03e02f5a9042fa768010c403cbf1cb2a68878723fc4b77770c46aafaf0d6810",
@@ -116,7 +167,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0xa867108698eb601662b4a882a986b38e0d409bb66e73be8b2241c89c34f98d55",
@@ -133,7 +184,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x99adbc7fb97eea0dbacc9cc65a0983626820db0a342c333a9a8c7356b56c2ac0",
@@ -150,7 +201,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x0f1eee995e908d2989941424d50812c9fda133bdf9d33d55c214659d87f7cd82",
@@ -167,7 +218,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0xc96d84e7a7a9c2ea4ea8659b4ce7b509d3b271577734665dbd6f8aa2fca1e2fd",
@@ -184,7 +235,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x531139312e5b87db43061bbcea2b66cb060b7dcae076a35289d26a475373725c",
@@ -201,7 +252,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x8edd4766ab6cb83e0bcaa6a265ec74463ebd35f6b2f6dc53200da24a82c28a9a",
@@ -218,7 +269,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x4fe01186f69599f031c3bfb33837f2717960fc9be113ae05c041d7291b9ee957",
@@ -235,7 +286,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x3c5f50c6a9f392979f5ceab894710df6360fca79ab24bf6cdc4a2741b65424ee",
@@ -252,7 +303,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x3357a1a4f928a337883e7fbbe01d2235067c3e7a2a2e4a2696bb9aaebfce9038",
@@ -269,7 +320,7 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   },
   {
     "id": "snapshot_0x13e02e567bf2f8b60bfe868f6a4683219b9e5820b5a9129646935a50e413717a",
@@ -286,57 +337,6 @@
       "snapshot",
       "active"
     ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
-  },
-  {
-    "id": "snapshot_0x097831cb52e6a9287a0d9f47b21de99b194d0846320585f7f29d4a35a2dd29a1",
-    "title": "🏛️ [Spark] [X Layer] Spark Savings - Point spUSDT's LayerZero Route to Ethereum at the Ethereum spUSDT DPAU",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x097831cb52e6a9287a0d9f47b21de99b194d0846320585f7f29d4a35a2dd29a1",
-    "published_at": "2026-11-23T18:39:37Z",
-    "engagement": 3,
-    "summary": "# [X Layer] Spark Savings - Point spUSDT's LayerZero Route to Ethereum at the Ethereum spUSDT DPAU - November 23, 2026\n\nSpark's Operational Facilitato...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
-  },
-  {
-    "id": "snapshot_0x3cbcaa49797502d27203d7c9c07091a20949a50ec98413440cd40a2de9e8eaf2",
-    "title": "🏛️ [Spark] [Ethereum] Spark Savings - Segregate Spark Savings USDT (spUSDT) from the Spark Liquidity Layer to Its Own Diamond PAU",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0x3cbcaa49797502d27203d7c9c07091a20949a50ec98413440cd40a2de9e8eaf2",
-    "published_at": "2026-11-23T18:38:24Z",
-    "engagement": 3,
-    "summary": "# [Ethereum] Spark Savings - Segregate Spark Savings USDT (spUSDT) from the Spark Liquidity Layer to Its Own Diamond PAU - November 23, 2026\n\nSpark's ...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
-  },
-  {
-    "id": "snapshot_0xe06fa91d24ed8062f5295073697c01613020b4d4eeb36c0f6c995530a94c5206",
-    "title": "🏛️ [Spark] [Ethereum] Spark Liquidity Layer - Add a Diamond PAU Controller with Swap Asset Facet to the Spark Liquidity Layer ALM Proxy",
-    "platform": "snapshot",
-    "content_type": "governance",
-    "url": "https://snapshot.org/#/sparkfi.eth/proposal/0xe06fa91d24ed8062f5295073697c01613020b4d4eeb36c0f6c995530a94c5206",
-    "published_at": "2026-11-23T18:36:51Z",
-    "engagement": 3,
-    "summary": "# [Ethereum] Spark Liquidity Layer - Add a Diamond PAU Controller with Swap Asset Facet to the Spark Liquidity Layer ALM Proxy - November 23, 2026\n\nSp...",
-    "tags": [
-      "governance",
-      "sparkfi.eth",
-      "snapshot",
-      "active"
-    ],
-    "fetched_at": "2026-11-26T04:49:46.235022Z"
+    "fetched_at": "2026-11-26T14:53:27.022761Z"
   }
 ]
